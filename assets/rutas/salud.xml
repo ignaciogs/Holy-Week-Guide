@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Jerez Santo Crucifijo</name>
+  <description><![CDATA[]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>Parroquia de San Miguel</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-6.137420,36.679726,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palquillo</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-6.136422,36.685112,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza del Arenal</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-6.137720,36.681454,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Catedral</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-6.140510,36.682117,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Línea 2</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -6.137461,36.679680,0.000000
+        -6.137533,36.679741,0.000000
+        -6.137538,36.679905,0.000000
+        -6.137442,36.680080,0.000000
+        -6.137469,36.680576,0.000000
+        -6.137482,36.680676,0.000000
+        -6.137490,36.680820,0.000000
+        -6.137045,36.680950,0.000000
+        -6.137044,36.680958,0.000000
+        -6.137375,36.681351,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Línea 3</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -6.137044,36.680923,0.000000
+        -6.137602,36.681515,0.000000
+        -6.136980,36.680912,0.000000
+        -6.137044,36.680912,0.000000
+        -6.137463,36.681454,0.000000
+        -6.137554,36.681465,0.000000
+        -6.137348,36.681671,0.000000
+        -6.136828,36.681423,0.000000
+        -6.136653,36.682030,0.000000
+        -6.135744,36.683632,0.000000
+        -6.136152,36.684761,0.000000
+        -6.136575,36.685417,0.000000
+        -6.135559,36.685158,0.000000
+        -6.134972,36.686886,0.000000
+        -6.136519,36.686882,0.000000
+        -6.135859,36.687588,0.000000
+        -6.136578,36.687988,0.000000
+        -6.136543,36.687988,0.000000
+        -6.137133,36.688244,0.000000
+        -6.137235,36.685982,0.000000
+        -6.136680,36.685562,0.000000
+        -6.136584,36.685440,0.000000
+        -6.136527,36.684811,0.000000
+        -6.136836,36.682449,0.000000
+        -6.137458,36.681820,0.000000
+        -6.137764,36.682022,0.000000
+        -6.138220,36.683002,0.000000
+        -6.138488,36.683151,0.000000
+        -6.138671,36.683548,0.000000
+        -6.139803,36.682934,0.000000
+        -6.139658,36.682571,0.000000
+        -6.140720,36.682148,0.000000
+        -6.141012,36.682442,0.000000
+        -6.140744,36.682583,0.000000
+        -6.140915,36.682865,0.000000
+        -6.140572,36.682983,0.000000
+        -6.140720,36.683327,0.000000
+        -6.140950,36.683514,0.000000
+        -6.141194,36.683620,0.000000
+        -6.140923,36.683838,0.000000
+        -6.140964,36.684055,0.000000
+        -6.140867,36.684139,0.000000
+        -6.141015,36.684422,0.000000
+        -6.140784,36.684586,0.000000
+        -6.139773,36.684429,0.000000
+        -6.138977,36.684021,0.000000
+        -6.138892,36.683430,0.000000
+        -6.138671,36.683548,0.000000
+        -6.138462,36.683083,0.000000
+        -6.138220,36.683002,0.000000
+        -6.137764,36.682022,0.000000
+        -6.137348,36.681671,0.000000
+        -6.137559,36.681431,0.000000
+        -6.137516,36.681412,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>

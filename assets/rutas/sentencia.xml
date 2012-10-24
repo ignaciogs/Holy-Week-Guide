@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+<Document>
+<name>Paths</name>
+<description>Examples of paths. Note that the tessellate tag is by default
+  set to 0. If you want to create tessellated lines, they must be authored
+  (or edited) directly in KML.</description>
+<Style id="yellowLineGreenPoly">
+  <LineStyle>
+    <color>7f00ffff</color>
+    <width>4</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7f00ff00</color>
+  </PolyStyle>
+</Style>
+<Placemark>
+  <name>Route</name>
+  <description>Transparent green wall with yellow outlines</description>
+  <styleUrl>#yellowLineGreenPoly</styleUrl>
+  <LineString>
+    <extrude>1</extrude>
+    <tessellate>1</tessellate>
+    <altitudeMode>absolute</altitudeMode>
+    <coordinates>36.528469,-6.290722
+     36.528652,-6.291339
+     36.528782,-6.291443
+     36.528885,-6.291781
+     36.529007,-6.292076
+     36.529087,-6.292049
+     36.529369,-6.292556
+     36.529545,-6.292500
+     36.529694,-6.292682
+     36.529797,-6.292827
+     36.529720,-6.293195
+     36.529671,-6.293570
+     36.529552,-6.294479
+     36.529640,-6.294973
+     36.529446,-6.295035
+     36.529606,-6.295563
+     36.529720,-6.295470
+     36.529900,-6.295638
+     36.530315,-6.295222
+     36.530540,-6.295094
+     36.530766,-6.294997
+     36.530781,-6.294930
+     36.531387,-6.294930
+     36.531673,-6.296413
+     36.531754,-6.296381
+     36.532150,-6.296649
+     36.532864,-6.296971
+     36.534286,-6.298430
+     36.534645,-6.298068
+     36.535000,-6.297690
+     36.534641,-6.296695
+     36.534225,-6.296306
+     36.534428,-6.296000
+     36.534290,-6.295708
+     36.534229,-6.295665
+     36.530396,-6.292360
+     36.530052,-6.292967
+     36.529881,-6.292870
+     36.529747,-6.292712
+     36.529549,-6.292468
+     36.529385,-6.292527
+     36.529095,-6.292020
+     36.529018,-6.292036
+     36.528900,-6.291733
+     36.528797,-6.291435
+     36.528671,-6.291320
+     36.528492,-6.290697
+    </coordinates>
+  </LineString>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Jerez La Viga</name>
+  <description><![CDATA[]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Catedral</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-6.140539,36.682163,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Itinerario</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -6.140710,36.682171,0.000000
+        -6.141220,36.682739,0.000000
+        -6.141049,36.682858,0.000000
+        -6.140931,36.682999,0.000000
+        -6.140719,36.683300,0.000000
+        -6.140944,36.683514,0.000000
+        -6.141156,36.683605,0.000000
+        -6.140923,36.683823,0.000000
+        -6.140955,36.684017,0.000000
+        -6.140869,36.684135,0.000000
+        -6.141009,36.684425,0.000000
+        -6.140757,36.684544,0.000000
+        -6.140767,36.684544,0.000000
+        -6.140751,36.684544,0.000000
+        -6.140762,36.684532,0.000000
+        -6.140750,36.684551,0.000000
+        -6.139740,36.684410,0.000000
+        -6.139120,36.684132,0.000000
+        -6.138700,36.684071,0.000000
+        -6.138640,36.684380,0.000000
+        -6.138310,36.684811,0.000000
+        -6.137820,36.685211,0.000000
+        -6.137450,36.686100,0.000000
+        -6.138310,36.686642,0.000000
+        -6.137770,36.687649,0.000000
+        -6.137520,36.687820,0.000000
+        -6.137350,36.687351,0.000000
+        -6.137150,36.687351,0.000000
+        -6.137190,36.687241,0.000000
+        -6.137160,36.686520,0.000000
+        -6.137240,36.686039,0.000000
+        -6.136830,36.685699,0.000000
+        -6.136520,36.685371,0.000000
+        -6.136610,36.683929,0.000000
+        -6.136830,36.682499,0.000000
+        -6.137150,36.682110,0.000000
+        -6.137490,36.681808,0.000000
+        -6.137760,36.682041,0.000000
+        -6.138230,36.682949,0.000000
+        -6.138510,36.683201,0.000000
+        -6.138710,36.683498,0.000000
+        -6.139550,36.683102,0.000000
+        -6.139800,36.682919,0.000000
+        -6.139670,36.682529,0.000000
+        -6.140698,36.682163,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Palquillo</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-6.136336,36.684681,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza del Arenal</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-6.137559,36.681973,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+<Document>
+<name>Paths</name>
+<description>Examples of paths. Note that the tessellate tag is by default
+  set to 0. If you want to create tessellated lines, they must be authored
+  (or edited) directly in KML.</description>
+<Style id="yellowLineGreenPoly">
+  <LineStyle>
+    <color>7f00ffff</color>
+    <width>4</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7f00ff00</color>
+  </PolyStyle>
+</Style>
+<Placemark>
+  <name>Route</name>
+  <description>Transparent green wall with yellow outlines</description>
+  <styleUrl>#yellowLineGreenPoly</styleUrl>
+  <LineString>
+    <extrude>1</extrude>
+    <tessellate>1</tessellate>
+    <altitudeMode>absolute</altitudeMode>
+    <coordinates>36.528717,-6.294367
+    36.528767,-6.294359
+    36.528736,-6.294214
+    36.528938,-6.294136
+    36.529129,-6.294072
+    36.529137,-6.293707
+    36.529106,-6.293468
+    36.529087,-6.293240
+    36.529358,-6.293178
+    36.529388,-6.293345
+    36.529537,-6.293318
+    36.529720,-6.293288
+    36.529648,-6.293881
+    36.529606,-6.294190
+    36.529583,-6.294367
+    36.529579,-6.294528
+    36.530041,-6.294436
+    36.530499,-6.294310
+    36.530590,-6.293710
+    36.530762,-6.293213
+    36.530975,-6.292851
+    36.532650,-6.294310
+    36.532452,-6.294734
+    36.533905,-6.296027
+    36.533920,-6.296250
+    36.534718,-6.297980
+    36.534283,-6.298433
+    36.532867,-6.296982
+    36.532303,-6.296716
+    36.531757,-6.296394
+    36.531681,-6.296411
+    36.531395,-6.294933
+    36.530762,-6.294950
+    36.530777,-6.295010
+    36.530678,-6.295021
+    36.530323,-6.295222
+    36.529915,-6.295633
+    36.529728,-6.295472
+    36.529606,-6.295566
+    36.529552,-6.295448
+    36.529449,-6.295021
+    36.529636,-6.294951
+    36.529552,-6.294474
+    36.529602,-6.294072
+    36.529686,-6.293326
+    36.529373,-6.293385
+    36.529346,-6.293224
+    36.529118,-6.293278
+    36.529137,-6.293533
+    36.529163,-6.293766
+    36.529156,-6.294090
+    36.528763,-6.294238
+    36.528786,-6.294391
+    36.528721,-6.294396
+    </coordinates>
+  </LineString>
+</Placemark>
+</Document>
+</kml>

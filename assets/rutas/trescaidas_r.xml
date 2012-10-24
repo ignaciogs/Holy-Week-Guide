@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Jerez Las Tres Caídas</name>
+  <description><![CDATA[]]></description>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Iglesia de San Lucas</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-6.142666,36.684517,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Itinerario</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -6.142720,36.684410,0.000000
+        -6.141420,36.683571,0.000000
+        -6.141100,36.683681,0.000000
+        -6.140890,36.683842,0.000000
+        -6.140840,36.684139,0.000000
+        -6.140530,36.684341,0.000000
+        -6.139710,36.684151,0.000000
+        -6.139570,36.684330,0.000000
+        -6.138990,36.684040,0.000000
+        -6.138620,36.684029,0.000000
+        -6.138530,36.684238,0.000000
+        -6.138570,36.684448,0.000000
+        -6.138270,36.684818,0.000000
+        -6.137880,36.685162,0.000000
+        -6.137620,36.685619,0.000000
+        -6.137440,36.686131,0.000000
+        -6.138300,36.686649,0.000000
+        -6.137960,36.687321,0.000000
+        -6.137550,36.687801,0.000000
+        -6.137330,36.687328,0.000000
+        -6.137130,36.687359,0.000000
+        -6.137173,36.687141,0.000000
+        -6.137216,36.686558,0.000000
+        -6.137240,36.686039,0.000000
+        -6.136510,36.685360,0.000000
+        -6.136540,36.684650,0.000000
+        -6.136800,36.682491,0.000000
+        -6.137440,36.681789,0.000000
+        -6.137740,36.682018,0.000000
+        -6.138220,36.682949,0.000000
+        -6.138490,36.683208,0.000000
+        -6.138710,36.683552,0.000000
+        -6.139810,36.682941,0.000000
+        -6.139640,36.682541,0.000000
+        -6.140750,36.682140,0.000000
+        -6.141250,36.682732,0.000000
+        -6.140950,36.683022,0.000000
+        -6.140730,36.683350,0.000000
+        -6.141110,36.683571,0.000000
+        -6.141420,36.683571,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Palquillo</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-6.136465,36.685146,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza del Arenal</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-6.137699,36.681816,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Catedral</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-6.140445,36.682091,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Cadiz Columnas rev</name>
+  <description><![CDATA[]]></description>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/red-blank_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Iglesia de San Antonio</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-6.299264,36.534466,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Itinerario</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -6.299160,36.534538,0.000000
+        -6.298913,36.534374,0.000000
+        -6.298715,36.534576,0.000000
+        -6.298430,36.534309,0.000000
+        -6.297680,36.535000,0.000000
+        -6.296670,36.534618,0.000000
+        -6.296050,36.533909,0.000000
+        -6.295440,36.533981,0.000000
+        -6.292850,36.530960,0.000000
+        -6.293210,36.530762,0.000000
+        -6.293570,36.530640,0.000000
+        -6.294290,36.530510,0.000000
+        -6.294510,36.529549,0.000000
+        -6.295020,36.529652,0.000000
+        -6.295080,36.529480,0.000000
+        -6.295560,36.529610,0.000000
+        -6.295450,36.529720,0.000000
+        -6.295650,36.529900,0.000000
+        -6.295230,36.530312,0.000000
+        -6.295000,36.530762,0.000000
+        -6.294930,36.530788,0.000000
+        -6.294910,36.531380,0.000000
+        -6.296410,36.531670,0.000000
+        -6.296380,36.531731,0.000000
+        -6.296970,36.532848,0.000000
+        -6.298436,36.534279,0.000000
+        -6.299433,36.533352,0.000000
+        -6.299938,36.533546,0.000000
+        -6.299318,36.534161,0.000000
+        -6.299074,36.534401,0.000000
+        -6.299095,36.534466,0.000000
+        -6.299170,36.534512,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Palillero</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-6.296346,36.531734,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Candelaria</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-6.294898,36.531372,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Catedral</name>
+    <Snippet></Snippet>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-6.295134,36.529320,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

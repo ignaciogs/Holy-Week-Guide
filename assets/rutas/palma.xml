@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+<Document>
+<name>Paths</name>
+<description>Examples of paths. Note that the tessellate tag is by default
+  set to 0. If you want to create tessellated lines, they must be authored
+  (or edited) directly in KML.</description>
+<Style id="yellowLineGreenPoly">
+  <LineStyle>
+    <color>7f00ffff</color>
+    <width>4</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7f00ff00</color>
+  </PolyStyle>
+</Style>
+<Placemark>
+  <name>Route</name>
+  <description>Transparent green wall with yellow outlines</description>
+  <styleUrl>#yellowLineGreenPoly</styleUrl>
+  <LineString>
+    <extrude>1</extrude>
+    <tessellate>1</tessellate>
+    <altitudeMode>absolute</altitudeMode>
+    <coordinates>36.529579,-6.301830
+     36.529598,-6.302130
+     36.530338,-6.302051
+     36.531071,-6.302030
+     36.530491,-6.300750
+     36.531155,-6.300506
+     36.531399,-6.300380
+     36.531742,-6.300093
+     36.531033,-6.298218
+     36.531685,-6.297937
+     36.531475,-6.297306
+     36.531113,-6.297435
+     36.530777,-6.296706
+     36.530544,-6.296276
+     36.530281,-6.296014
+     36.529732,-6.295493
+     36.529652,-6.295008
+     36.529442,-6.295070
+     36.529610,-6.295640
+     36.529781,-6.295501
+     36.529919,-6.295627
+     36.530350,-6.295190
+     36.530579,-6.295075
+     36.530766,-6.295002
+     36.530766,-6.294938
+     36.531387,-6.294927
+     36.531673,-6.296397
+     36.531727,-6.296373
+     36.532303,-6.296711
+     36.532806,-6.296942
+     36.532856,-6.296971
+     36.532967,-6.297078
+     36.533733,-6.297864
+     36.534168,-6.298318
+     36.534447,-6.298610
+     36.534534,-6.298685
+     36.534294,-6.298940
+     36.534405,-6.299071
+     36.533794,-6.299691
+     36.532906,-6.300608
+     36.531162,-6.302223
+     36.531277,-6.302596
+     36.531372,-6.303103
+     36.531380,-6.303575
+     36.530514,-6.303585
+     36.529640,-6.303620
+     36.529602,-6.302464
+     36.529545,-6.301813
+    </coordinates>
+  </LineString>
+</Placemark>
+</Document>
+</kml>

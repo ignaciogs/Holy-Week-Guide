@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+<LinearLayout
+
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical">
+  
+  <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textStyle="bold"
+  android:text="@string/acercade_desarollada"
+  android:padding="10dp"
+  />
+
+  <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textStyle="bold"
+  android:text="Ignacio González Sainz"
+  android:paddingLeft="40dp"
+  />
+  <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textStyle="bold"
+  android:text="http://www.ignaciogs.es"
+  android:paddingLeft="40dp"
+  />
+  <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textStyle="bold"
+  android:text="\@ignacio_gs en twitter"
+  android:paddingLeft="40dp"
+  />
+  
+  <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+  android:text="@string/datos_cordoba"
+  android:padding="10dp"
+  />
+
+   <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+   android:text="@string/datos_jerez"
+   android:padding="10dp"
+   />
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:text="@string/datos_sanfernando"
+    android:padding="10dp"
+    />
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:text="@string/datos_granada"
+    android:padding="10dp"
+    />
+  
+  <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+  android:text="@string/acercade_contacto"
+  android:padding="10dp"
+  />
+  
+  <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+  android:text="@string/acercade_agradecimientos"
+  android:padding="10dp"
+  />
+  
+</LinearLayout>
+
+</ScrollView>

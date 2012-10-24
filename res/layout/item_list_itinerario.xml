@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  >
+  
+  <TextView android:id="@+id/item_list_itinerario_nombreDiaSemana"
+	  android:layout_width="fill_parent"
+	  android:layout_height="wrap_content"
+	  android:text="Dia de la semana"
+	  android:textColor="#FFFFFFFF"
+	  android:textSize="16sp"
+	  android:background="#FF524E4E"
+	  android:padding="5dp"
+	  />
+  
+  <ImageView android:id="@+id/item_list_itinerario_escudo"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:src="@drawable/escudo_despojado"
+  android:padding="5dp"
+  android:layout_centerVertical="true"
+  android:layout_below="@+id/item_list_itinerario_nombreDiaSemana"
+  />
+  
+  <TextView android:id="@+id/item_list_itinerario_nombreCofradia"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:text="Nombre cofradia"
+  android:layout_toRightOf="@+id/item_list_itinerario_escudo"
+  android:layout_below="@+id/item_list_itinerario_nombreDiaSemana"
+  android:layout_marginTop="10dp"
+  android:textColor="#FFFFFFFF"
+  />
+  
+  <TextView android:id="@+id/item_list_itinerario_nombreIglesia"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:text="Nombre Iglesia"
+  android:layout_toRightOf="@+id/item_list_itinerario_escudo"
+  android:layout_below="@+id/item_list_itinerario_nombreCofradia"
+  android:layout_marginTop="3dp"
+  android:textColor="#FFFFFFFF"
+  />
+  
+  <TextView android:id="@+id/item_list_itinerario_nombreHorario"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:text="Salida: 00:00 -- Recogida: 00:00"
+  android:layout_toRightOf="@+id/item_list_itinerario_escudo"
+  android:layout_below="@+id/item_list_itinerario_nombreIglesia"
+  android:layout_marginTop="3dp"
+  android:textColor="#FFFFFFFF"
+  />
+  
+</RelativeLayout>

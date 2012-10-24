@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="#ff000000"
+  android:id="@+id/llGeneralDos"
+  >
+
+	<com.ignaciogs.semanasanta.imagegallery.customGallery android:id="@+id/cgImageViewGallery" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:spacing="0dp"
+	android:fadingEdge="none"/>
+	
+	<RelativeLayout android:id="@+id/rlgallery_gridview_allImages"
+	android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+	>
+	
+		<TextView android:id="@+id/gallery_gridview_txtCaption"
+		android:layout_width="fill_parent" 
+   		android:layout_height="wrap_content"
+   		android:text="Caption"
+   		android:textColor="#FFFFFFFF"
+   		android:background="@drawable/gradient_back"
+   		android:textSize="18sp"
+   		android:gravity="center"
+   		android:padding="8dp"
+		/>
+		
+		<GridView android:id="@+id/gallery_gridview_allImages"
+   		android:layout_width="fill_parent" 
+   		android:layout_height="fill_parent"
+   		android:numColumns="4"
+   		android:stretchMode="columnWidth"
+   		android:verticalSpacing="5dp"
+   		android:columnWidth="75dp"
+   		android:gravity="center"
+   		android:cacheColorHint="#FF000000"
+   		android:background="#FF000000"
+   		android:layout_below="@id/gallery_gridview_txtCaption"   		
+		/>
+	
+	</RelativeLayout>
+	
+</RelativeLayout>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Jerez Cinco Llagas</name>
+  <description><![CDATA[]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Iglesia de San Francisco</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-6.136626,36.681595,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Itinerario</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -6.136650,36.681919,0.000000
+        -6.136640,36.682449,0.000000
+        -6.136220,36.682892,0.000000
+        -6.135870,36.683399,0.000000
+        -6.135750,36.683670,0.000000
+        -6.136330,36.685139,0.000000
+        -6.136480,36.685379,0.000000
+        -6.136060,36.685242,0.000000
+        -6.135560,36.685169,0.000000
+        -6.135220,36.686020,0.000000
+        -6.135000,36.686878,0.000000
+        -6.135580,36.687389,0.000000
+        -6.136270,36.687851,0.000000
+        -6.137120,36.688229,0.000000
+        -6.137130,36.686981,0.000000
+        -6.137250,36.686081,0.000000
+        -6.136990,36.685768,0.000000
+        -6.136640,36.685509,0.000000
+        -6.136540,36.685108,0.000000
+        -6.136540,36.684711,0.000000
+        -6.136690,36.683319,0.000000
+        -6.136850,36.682419,0.000000
+        -6.137460,36.681801,0.000000
+        -6.137760,36.681999,0.000000
+        -6.138220,36.682980,0.000000
+        -6.138680,36.683491,0.000000
+        -6.139820,36.682980,0.000000
+        -6.139650,36.682590,0.000000
+        -6.140720,36.682159,0.000000
+        -6.141200,36.682720,0.000000
+        -6.140720,36.683311,0.000000
+        -6.141200,36.683632,0.000000
+        -6.140928,36.683865,0.000000
+        -6.140918,36.684235,0.000000
+        -6.141014,36.684410,0.000000
+        -6.140762,36.684582,0.000000
+        -6.140778,36.684570,0.000000
+        -6.140719,36.684582,0.000000
+        -6.140767,36.684559,0.000000
+        -6.140741,36.684597,0.000000
+        -6.140720,36.684570,0.000000
+        -6.139600,36.684341,0.000000
+        -6.139000,36.684052,0.000000
+        -6.138650,36.684052,0.000000
+        -6.138350,36.683640,0.000000
+        -6.138130,36.683681,0.000000
+        -6.138120,36.683048,0.000000
+        -6.137640,36.682041,0.000000
+        -6.137470,36.681911,0.000000
+        -6.137290,36.681629,0.000000
+        -6.136960,36.681492,0.000000
+        -6.136650,36.681919,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Palquillo</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-6.136465,36.685043,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza del Arenal</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-6.137645,36.681740,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Catedral</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-6.140445,36.682110,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

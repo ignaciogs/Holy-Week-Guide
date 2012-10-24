@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Jerez Buena Muerte</name>
+  <description><![CDATA[]]></description>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Casa de Hermandad de la Buena Muerte</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-6.145692,36.687675,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Itinerario</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -6.145280,36.687809,0.000000
+        -6.144580,36.687950,0.000000
+        -6.144060,36.687939,0.000000
+        -6.143780,36.688141,0.000000
+        -6.143360,36.687870,0.000000
+        -6.142220,36.688122,0.000000
+        -6.141020,36.688511,0.000000
+        -6.139400,36.689388,0.000000
+        -6.138620,36.689030,0.000000
+        -6.137930,36.688511,0.000000
+        -6.137310,36.687351,0.000000
+        -6.137150,36.687340,0.000000
+        -6.137140,36.686569,0.000000
+        -6.137290,36.686050,0.000000
+        -6.136770,36.685661,0.000000
+        -6.136540,36.685280,0.000000
+        -6.136510,36.684921,0.000000
+        -6.136810,36.682499,0.000000
+        -6.137100,36.682140,0.000000
+        -6.137470,36.681820,0.000000
+        -6.137710,36.681969,0.000000
+        -6.138230,36.682930,0.000000
+        -6.138490,36.683159,0.000000
+        -6.138760,36.683521,0.000000
+        -6.139810,36.682961,0.000000
+        -6.139640,36.682549,0.000000
+        -6.140740,36.682171,0.000000
+        -6.141160,36.682781,0.000000
+        -6.140710,36.683262,0.000000
+        -6.140920,36.683498,0.000000
+        -6.141230,36.683601,0.000000
+        -6.140960,36.683804,0.000000
+        -6.140896,36.684124,0.000000
+        -6.140982,36.684483,0.000000
+        -6.140703,36.684544,0.000000
+        -6.140271,36.684498,0.000000
+        -6.140700,36.684547,0.000000
+        -6.140979,36.684479,0.000000
+        -6.140700,36.684551,0.000000
+        -6.139850,36.684441,0.000000
+        -6.139400,36.684269,0.000000
+        -6.139020,36.684029,0.000000
+        -6.138660,36.684029,0.000000
+        -6.138520,36.684261,0.000000
+        -6.138530,36.684559,0.000000
+        -6.137840,36.685219,0.000000
+        -6.137430,36.686081,0.000000
+        -6.139340,36.687222,0.000000
+        -6.141040,36.688511,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Palquillo</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-6.136422,36.685139,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza del Arenal</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-6.137624,36.681732,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Catedral</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-6.140349,36.682117,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

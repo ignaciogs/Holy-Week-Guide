@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Jerez La Borriquita</name>
+  <description><![CDATA[]]></description>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Colegio San José</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-6.139137,36.685623,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Itineraio</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -6.139100,36.685589,0.000000
+        -6.138906,36.685589,0.000000
+        -6.138480,36.685841,0.000000
+        -6.138100,36.685822,0.000000
+        -6.137624,36.685612,0.000000
+        -6.137450,36.686119,0.000000
+        -6.138330,36.686661,0.000000
+        -6.137660,36.687729,0.000000
+        -6.137510,36.687778,0.000000
+        -6.137320,36.687302,0.000000
+        -6.137150,36.687408,0.000000
+        -6.137160,36.686600,0.000000
+        -6.137240,36.685989,0.000000
+        -6.136900,36.685760,0.000000
+        -6.136590,36.685421,0.000000
+        -6.136520,36.685059,0.000000
+        -6.136610,36.683922,0.000000
+        -6.136870,36.682381,0.000000
+        -6.137480,36.681820,0.000000
+        -6.137720,36.682018,0.000000
+        -6.138230,36.682968,0.000000
+        -6.138580,36.683270,0.000000
+        -6.138680,36.683529,0.000000
+        -6.139890,36.682961,0.000000
+        -6.139590,36.682541,0.000000
+        -6.140743,36.682137,0.000000
+        -6.140300,36.681469,0.000000
+        -6.140840,36.681301,0.000000
+        -6.141360,36.681889,0.000000
+        -6.141310,36.682049,0.000000
+        -6.141420,36.682159,0.000000
+        -6.140980,36.682430,0.000000
+        -6.141270,36.682732,0.000000
+        -6.140480,36.682980,0.000000
+        -6.139990,36.683010,0.000000
+        -6.139770,36.683208,0.000000
+        -6.139520,36.683128,0.000000
+        -6.138430,36.683659,0.000000
+        -6.138390,36.683632,0.000000
+        -6.138740,36.684200,0.000000
+        -6.138570,36.684570,0.000000
+        -6.137618,36.685616,0.000000
+        -6.138101,36.685825,0.000000
+        -6.138482,36.685841,0.000000
+        -6.138697,36.685719,0.000000
+        -6.138901,36.685577,0.000000
+        -6.139130,36.685581,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Palquillo</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-6.136465,36.685051,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza del Arenal</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-6.137635,36.681919,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Catedral</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-6.140563,36.682178,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

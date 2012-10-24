@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guía S.S.</string>
+    
+    <!-- Pantalla Principal Main -->
+    <string name="main_itinerario">Itinerarios</string>
+    <string name="main_mapa">Sobre el mapa</string>
+    <string name="main_buscar">A donde ir</string>
+    <string name="main_acercade">Acerca de</string>
+    <string name="msgSelectCity">Puede cambiar de ciudad pulsando en el icono del mapa en la parte superior</string>
+    
+    <!-- Pantalla de lista de cofradias -->
+    <string name="lista_cofradias_salida">Salida:</string>
+    <string name="lista_cofradias_recogida">Recogida:</string>
+    <string name="lista_cofradias_todas">Todas</string>
+    <string name="lista_cofradias_title">Lista de Cofradias</string>
+    
+    <!-- Pantalla ficha de la cofradia -->
+    <string name="ficha_cofradia_imagenes">Imágenes</string>
+    <string name="ficha_cofradia_lugares_detacados">Lugares destacados</string>
+    <string name="ficha_cofradia_sobre_mapa">Mapa</string>
+    <string name="ficha_cofradia_numeroPasos">Número de pasos:</string>
+    <string name="ficha_cofradia_desItinerario">Itinerario</string>
+    <string name="msgNoFoto">Esta cofradía no tiene imágenes</string>
+    
+    <!-- General -->
+    <string name="text_madruga">Madrugada</string>
+    <string name="text_santo">Santo</string>
+    
+    <!-- Acerca de -->
+    <string name="acercade_desarollada">Esta aplicación ha sido diseñada y desarrollada por:</string>
+    <string name="acercade_contacto">Si tienes algo que aportar ya sean errores o comentarios para mejoras, por favor ponte en contacto conmigo enviandome un mail a ignacio.glez.s@gmail.com</string>
+    <string name="acercade_agradecimientos">Las imágenes de la galería han sido cogidas de los usuarios Juanjo Sanchez y de The Fly2009 con su permiso de sus páginas de flickr.</string>
+    <string name="acercade_acercade">Acerca de</string>
+    <string name="datos_cordoba">Todos los datos pertenecientes a la ciudad de Córdoba (itinerarios, imágenes, rutas) han sido introducidos por Jose David Expósito Cañete</string>
+    <string name="datos_jerez">Todos los datos pertenecientes a la ciudad de Jerez de la Frontera (itinerarios, imágenes, rutas) han sido introducidos por Alejandro Castellano Delgado (Hermandad de la Yedra)</string>
+    <string name="datos_sanfernando">Todos los datos pertenecientes a la ciudad de San Fernando han sido introducidos por Ivan Toledo Fuentes y las imágenes de esta ciudad han sido cedidas por www.islapasion.net </string>
+    <string name="datos_granada">Todos los datos pertenecientes a la ciudad de Granada (itinerarios, imágenes, rutas) han sido introducidos por Álvaro Díaz</string>
+
+
+    <string name="dondeir_desarrollo">Estará disponible mediante actualización en breve</string>
+   
+   
+    <string name="imageGallery_all_images">Ver todas las imágenes</string>
+
+    <string name="select_city">Seleccionar Ciudad</string>
+
+    <string name="resureccion">de Resurrección</string>
+    <string name="ramos">de Ramos</string>
+    
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+<Document>
+<name>Paths</name>
+<description>Examples of paths. Note that the tessellate tag is by default
+  set to 0. If you want to create tessellated lines, they must be authored
+  (or edited) directly in KML.</description>
+<Style id="yellowLineGreenPoly">
+  <LineStyle>
+    <color>7f00ffff</color>
+    <width>4</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7f00ff00</color>
+  </PolyStyle>
+</Style>
+<Placemark>
+  <name>Route</name>
+  <description>Transparent green wall with yellow outlines</description>
+  <styleUrl>#yellowLineGreenPoly</styleUrl>
+  <LineString>
+    <extrude>1</extrude>
+    <tessellate>1</tessellate>
+    <altitudeMode>absolute</altitudeMode>
+    <coordinates>36.534473,-6.295971
+     36.534336,-6.296169
+     36.534248,-6.296322
+     36.534641,-6.296690
+     36.534752,-6.296944
+     36.535324,-6.296317
+     36.535267,-6.296148
+     36.536343,-6.295635
+     36.535992,-6.294770
+     36.534283,-6.295700
+     36.532928,-6.294540
+     36.530380,-6.292347
+     36.529877,-6.293584
+     36.529671,-6.293560
+     36.529560,-6.294470
+     36.529636,-6.294968
+     36.529419,-6.295030
+     36.529560,-6.295590
+     36.529732,-6.295470
+     36.529900,-6.295640
+     36.530331,-6.295210
+     36.530762,-6.294990
+     36.530769,-6.294930
+     36.531391,-6.294930
+     36.531670,-6.296390
+     36.531750,-6.296380
+     36.532021,-6.296555
+     36.532310,-6.296719
+     36.532871,-6.296970
+     36.534279,-6.298438
+     36.534988,-6.297690
+     36.534740,-6.296970
+     36.534660,-6.296767
+     36.534607,-6.296690
+     36.534534,-6.296612
+     36.534367,-6.296464
+     36.534279,-6.296378
+     36.534214,-6.296317
+     36.534344,-6.296126
+     36.534458,-6.295936
+    </coordinates>
+  </LineString>
+</Placemark>
+</Document>
+</kml>

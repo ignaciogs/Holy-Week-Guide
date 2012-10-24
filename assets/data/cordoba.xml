@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cofradias>
+
+    <!-- Jueves de Pasión -->
+
+	<cofradia>
+		<nombre_corto>Universitaria</nombre_corto>
+		<nombre_largo>HERMANDAD DEL SANTO CRISTO DE LA UNIVERSIDAD, NUESTRA SEÑORA DE LA PRESENTACION Y SANTO TOMAS DE AQUINO</nombre_largo>
+		<fecha_salida>20120329</fecha_salida>
+		<nombre_iglesia>Iglesia del Juramento de San Rafael</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza del Cardenal Salazar, Romero, Judería, Cardenal Herrero, Puerta del Perdón, Patio de los Naranjos, Santa Iglesia Catedral, Patio de los Naranjos, Puerta de Santa Catalina, Magistral González Francés, Cardenal González, Lucano, Lineros, Carlos Rubio, Gutiérrez de los Ríos, Fernan Pérez de Oliva, Plaza de San Andrés, Realejo, Santa María de Gracia, Virgen de Villaviciosa, Plaza de San Rafael.</itinerario>
+		<imagenEscudo>escudo_universitaria</imagenEscudo>
+		<horaSalida>22:00</horaSalida>
+		<horaRecogida>02:10</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>universitaria</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="22:00"></punto>
+				<punto descripcion="Cardenal Herrero" hora="22:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="23:00"></punto>
+				<punto descripcion="Magistral González Francés" hora="23:30"></punto>
+				<punto descripcion="Lucano" hora="00:00"></punto>
+				<punto descripcion="Lineros" hora="00:30"></punto>
+				<punto descripcion="Gutiérrez de los Ríos" hora="01:00"></punto>
+				<punto descripcion="Plaza de San Andrés" hora="01:30"></punto>
+				<punto descripcion="Entrada" hora="02:10"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_universitaria_1</image>
+			<image>imagen_universitaria_2</image>
+			<image>imagen_universitaria_3</image>
+			<image>imagen_universitaria_4</image>
+		</images>
+
+	</cofradia>
+
+    <!-- Domingo de Ramos -->
+
+	<cofradia>
+		<nombre_corto>Entrada Triunfal</nombre_corto>
+		<nombre_largo>HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS DE LOS REYES EN SU ENTRADA TRIUNFAL EN JERUSALEN, MARIA SANTISIMA DE LA VICTORIA Y NUESTRA SEÑORA DE LA PALMA</nombre_largo>
+		<fecha_salida>20120401</fecha_salida>
+		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Victoriano Rivera, Plaza Mármol de Bañuelos, Alfonso XIII, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo.</itinerario>
+		<imagenEscudo>escudo_entrada_triunfal</imagenEscudo>
+		<horaSalida>10:30</horaSalida>
+		<horaRecogida>14:20</horaRecogida>
+		<latitudRegreso>37.88437854875415</latitudRegreso>
+		<longitudRegreso>-4.779943981583045</longitudRegreso>
+		<ficheroRecorrido>entrada_triunfal</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="10:30"></punto>
+				<punto descripcion="Santa María de Gracia" hora="11:00"></punto>
+				<punto descripcion="San Pablo" hora="11:30"></punto>
+				<punto descripcion="Entrada C.O." hora="12:00"></punto>
+				<punto descripcion="Salida C.O." hora="12:35"></punto>
+				<punto descripcion="Alfonso XIII" hora="13:00"></punto>
+				<punto descripcion="San Andrés" hora="13:30"></punto>
+				<punto descripcion="Santa María de Gracia" hora="14:00"></punto>
+				<punto descripcion="Entrada" hora="14:20"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_entrada_triunfal_1</image>
+			<image>imagen_entrada_triunfal_2</image>
+			<image>imagen_entrada_triunfal_3</image>
+		</images>
+
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Penas de Santiago</nombre_corto>
+		<nombre_largo>HERMANDAD Y COFRADIA DEL SANTISIMO CRISTO DE LAS PENAS, NUESTRA SEÑORA Y MADRE DE LOS DESAMPARADOS, SAN JUAN EVANGELISTA, MARIA SANTISIMA DE LA CONCEPCION Y SANTIAGO APOSTOL</nombre_largo>
+		<fecha_salida>20120401</fecha_salida>
+		<nombre_iglesia>Parroquia de Santiago Apóstol</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Agustín Moreno, Plaza de San Pedro, Juan de Mesa, Plaza de la Almagra, Plaza del Socorro, Plaza de la Corredera, Rodríguez Marín, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, Lucano, Plaza del Potro, Lineros, Don Rodrigo, Agustín Moreno.</itinerario>
+		<imagenEscudo>escudo_penas_de_santiago</imagenEscudo>
+		<horaSalida>16:45</horaSalida>
+		<horaRecogida>22:45</horaRecogida>
+		<latitudRegreso>37.88440111934623</latitudRegreso>
+		<longitudRegreso>-4.779943340000098</longitudRegreso>
+		<ficheroRecorrido>penas_de_santiago</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="16:45"></punto>
+				<punto descripcion="Agustín Moreno" hora="17:00"></punto>
+				<punto descripcion="Plaza de la Almagra" hora="17:30"></punto>
+				<punto descripcion="Entrada C.O." hora="18:15"></punto>
+				<punto descripcion="Salida C.O." hora="18:50"></punto>
+				<punto descripcion="Plaza Agrupación de Cofradías" hora="19:30"></punto>
+				<punto descripcion="Cardenal Herrero" hora="20:00"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="20:30"></punto>
+				<punto descripcion="Magistral González Francés" hora="21:00"></punto>
+				<punto descripcion="Lucano" hora="21:30"></punto>
+				<punto descripcion="Don Rodrigo" hora="22:00"></punto>
+				<punto descripcion="Agustín Moreno" hora="22:30"></punto>
+				<punto descripcion="Entrada" hora="22:45"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_penas_de_santiago_1</image>
+			<image>imagen_penas_de_santiago_2</image>
+			<image>imagen_penas_de_santiago_3</image>
+		</images>
+
+	</cofradia>
+
+    <cofradia>
+		<nombre_corto>Huerto</nombre_corto>
+		<nombre_largo>HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS DE LA ORACION EN EL HUERTO, SEÑOR AMARRADO A LA COLUMNA, MARIA SANTISIMA DE LA CANDELARIA, NUESTRA SEÑORA DEL AMPARO Y SAN ELOY OBISPO</nombre_largo>
+		<fecha_salida>20120401</fecha_salida>
+		<nombre_iglesia>Parroquia de San Francisco y San Eulogio</nombre_iglesia>
+		<numero_pasos>3</numero_pasos>
+		<itinerario>Compás de San Francisco, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Magistral González Francés, Cardenal González, San Fernando, Compás de San Francisco.</itinerario>
+		<imagenEscudo>escudo_huerto</imagenEscudo>
+		<horaSalida>18:00</horaSalida>
+		<horaRecogida>23:40</horaRecogida>
+		<latitudRegreso>37.8843591</latitudRegreso>
+		<longitudRegreso>-4.7799432</longitudRegreso>
+		<ficheroRecorrido>huerto</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:00"></punto>
+				<punto descripcion="San Fernando" hora="18:30"></punto>
+				<punto descripcion="Entrada C.O." hora="18:57"></punto>
+				<punto descripcion="Salida C.O." hora="19:32"></punto>
+				<punto descripcion="Ángel de Saavedra" hora="20:00"></punto>
+				<punto descripcion="Conde y Luque" hora="20:30"></punto>
+				<punto descripcion="Judería" hora="21:00"></punto>
+				<punto descripcion="Magistral González Francés" hora="21:30"></punto>
+				<punto descripcion="Magistral González Francés" hora="22:00"></punto>
+				<punto descripcion="Cardenal González" hora="22:30"></punto>
+				<punto descripcion="San Fernando" hora="23:00"></punto>
+				<punto descripcion="Entrada" hora="23:40"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_huerto_1</image>
+			<image>imagen_huerto_2</image>
+			<image>imagen_huerto_3</image>
+		</images>
+
+	</cofradia>
+		
+	<cofradia>
+		<nombre_corto>Esperanza</nombre_corto>
+		<nombre_largo>ILUSTRE Y VENERABLE HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS DE LAS PENAS Y MARIA SANTISIMA DE LA ESPERANZA</nombre_largo>
+		<fecha_salida>20120401</fecha_salida>
+		<nombre_iglesia>Parroquia de San Andrés</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Plaza de las Doblas, Plaza de Capuchinos, Paz y Esperanza, Cuesta del Bailío, Alfaros, Puerta del Rincón, Plaza Ruiz de Alda, Callejón Conde de Priego, Plaza Conde de Priego, Plaza de Santa Marina, Santa Isabel, Enrique Redel, Hermanos López Diéguez, Plaza de San Andrés.</itinerario>
+		<imagenEscudo>escudo_esperanza</imagenEscudo>
+		<horaSalida>18:40</horaSalida>
+		<horaRecogida>00:30</horaRecogida>
+		<latitudRegreso>37.8843887</latitudRegreso>
+		<longitudRegreso>-4.7799540</longitudRegreso>
+		<ficheroRecorrido>esperanza</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:40"></punto>
+				<punto descripcion="San Pablo" hora="19:00"></punto>
+				<punto descripcion="Entrada C.O." hora="19:44"></punto>
+				<punto descripcion="Salida C.O." hora="20:19"></punto>
+				<punto descripcion="San Álvaro" hora="20:30"></punto>
+				<punto descripcion="Torres Cabrera" hora="21:00"></punto>
+				<punto descripcion="Plaza de las Doblas" hora="21:30"></punto>
+				<punto descripcion="Cuesta del Bailío" hora="22:00"></punto>
+				<punto descripcion="Alfaros" hora="22:30"></punto>
+				<punto descripcion="Calleja Ruíz de Alba" hora="23:00"></punto>
+				<punto descripcion="Plaza de Santa Marina" hora="23:30"></punto>
+				<punto descripcion="Enrique Redel" hora="00:00"></punto>
+				<punto descripcion="Entrada" hora="00:30"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_esperanza_1</image>
+			<image>imagen_esperanza_2</image>
+			<image>imagen_esperanza_3</image>
+		</images>
+
+	</cofradia>
+
+	<cofradia>
+		<nombre_corto>Amor</nombre_corto>
+		<nombre_largo>REAL HERMANDAD Y COFRADIA DEL SANTISIMO CRISTO DEL AMOR, NUESTRO PADRE JESUS DEL SILENCIO EN EL DESPRECIO DE HERODES Y MARIA SANTISIMA DE LA ENCARNACION</nombre_largo>
+		<fecha_salida>20120401</fecha_salida>
+		<nombre_iglesia>Parroquia de Jesús Divino Obrero</nombre_iglesia>
+		<numero_pasos>3</numero_pasos>
+		<itinerario>Plaza del Cristo del Amor, Beato Henares, Rosario, Plaza de Santa Teresa, Acera del Arrecife, Puente Romano, Triunfo, Torrijos, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Torrijos, Triunfo, Puente Romano, Acera del Arrecife, Plaza de Santa Teresa, Rosario, Beato Henares, Plaza del Cristo del Amor.</itinerario>
+		<imagenEscudo>escudo_amor</imagenEscudo>
+		<horaSalida>15:00</horaSalida>
+		<horaRecogida>01:15</horaRecogida>
+		<latitudRegreso>37.8843887</latitudRegreso>
+		<longitudRegreso>-4.7799540</longitudRegreso>
+		<ficheroRecorrido>amor</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="15:00"></punto>
+				<punto descripcion="Beato Henares" hora="15:30"></punto>
+				<punto descripcion="Beato Henares" hora="16:00"></punto>
+				<punto descripcion="Plaza de Santa Teresa" hora="16:30"></punto>
+				<punto descripcion="Puente Romano" hora="17:00"></punto>
+				<punto descripcion="Torrijos" hora="17:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="18:00"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="18:30"></punto>
+				<punto descripcion="Magistral González Francés" hora="19:00"></punto>
+				<punto descripcion="Cardenal González" hora="19:30"></punto>
+				<punto descripcion="San Fernando" hora="20:00"></punto>
+				<punto descripcion="Entrada C.O." hora="20:36"></punto>
+				<punto descripcion="Salida C.O." hora="21:11"></punto>
+				<punto descripcion="Ángel de Saavedra" hora="21:30"></punto>
+				<punto descripcion="Conde y Luque" hora="22:00"></punto>
+				<punto descripcion="Judería" hora="22:30"></punto>
+				<punto descripcion="Triunfo" hora="23:00"></punto>
+				<punto descripcion="Puente Romano" hora="23:30"></punto>
+				<punto descripcion="Plaza de Santa Teresa" hora="00:00"></punto>
+				<punto descripcion="Beato Henares" hora="00:30"></punto>
+				<punto descripcion="Entrada" hora="01:15"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>cordoba_imagen_amor_1</image>
+			<image>cordoba_imagen_amor_2</image>
+			<image>cordoba_imagen_amor_3</image>
+		</images>
+
+	</cofradia>
+
+    <cofradia>
+		<nombre_corto>Rescatado</nombre_corto>
+		<nombre_largo>ILUSTRE Y PIADOSA HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS NAZARENO RESCATADO Y MARIA SANTISIMA DE LA AMARGURA</nombre_largo>
+		<fecha_salida>20120401</fecha_salida>
+		<nombre_iglesia>Parroquia de Ntra. Sra. de Gracia (PP. Trinitarios)</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza del Santísimo Cristo de Gracia, Frailes, Plaza de San Juan de Letrán, Montero, Compás de San Agustín, Plaza de San Agustín, Plaza Beatillas, Reja de Don Gome, Juan Rufo, Alfaros, Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Diego de León, Alfonso XIII, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo, María Auxiliadora, Plaza del Santísimo Cristo de Gracia.</itinerario>
+		<imagenEscudo>escudo_rescatado</imagenEscudo>
+		<horaSalida>17:30</horaSalida>
+		<horaRecogida>00:30</horaRecogida>
+		<latitudRegreso>37.8843718</latitudRegreso>
+		<longitudRegreso>-4.7799057</longitudRegreso>
+		<ficheroRecorrido>rescatado</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:30"></punto>
+				<punto descripcion="Plaza de San Juan de Letrán" hora="18:00"></punto>
+				<punto descripcion="Montero" hora="18:30"></punto>
+				<punto descripcion="Compás de San Agustín" hora="19:00"></punto>
+				<punto descripcion="Plaza de las Beatillas" hora="19:30"></punto>
+				<punto descripcion="Juan Rufo" hora="20:00"></punto>
+				<punto descripcion="Juan Rufo" hora="20:30"></punto>
+				<punto descripcion="Alfaros" hora="21:00"></punto>
+				<punto descripcion="Entrada C.O." hora="21:29"></punto>
+				<punto descripcion="Salida C.O." hora="22:04"></punto>
+				<punto descripcion="San Pablo" hora="22:30"></punto>
+				<punto descripcion="Plaza de San Andrés" hora="23:00"></punto>
+				<punto descripcion="Santa Maria de Gracia" hora="23:30"></punto>
+				<punto descripcion="María Auxiliadora" hora="00:00"></punto>
+				<punto descripcion="Entrada" hora="00:30"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_rescatado_1</image>
+			<image>imagen_rescatado_2</image>
+		</images>
+
+	</cofradia>
+
+    <!-- Lunes Santo -->
+
+    <cofradia>
+		<nombre_corto>Merced</nombre_corto>
+		<nombre_largo>VENERABLE E ILUSTRE HERMANDAD DEL SANTISIMO SACRAMENTO Y COFRADIA DE PENITENTES DE NUESTRO PADRE JESUS HUMILDE EN LA CORONACION DE ESPINAS Y NUESTRA MADRE Y SEÑORA SANTA MARIA DE LA MERCED</nombre_largo>
+		<fecha_salida>20120402</fecha_salida>
+		<nombre_iglesia>Parroquia de San Antonio de Padua</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Agrupación Córdoba, Doctor Manuel Villegas, Escritor Cristóbal Mesa, Vázquez Venegas, San Acisclo, Sagunto, Ronda del Marrubial, Plaza del Santísimo Cristo de Gracia, María Auxiliadora, Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Torres Cabrera, Plaza de las Doblas, Plaza de Colón, Puerta del Rincón, Conde de Priego, Plaza de Santa Marina, Mayor de Santa Marina, Avenidas de las Ollerías, Héroes de Chernobil, San Juan de la Cruz, Virgen de Linares, Agrupación Córdoba.</itinerario>
+		<imagenEscudo>escudo_merced</imagenEscudo>
+		<horaSalida>16:30</horaSalida>
+		<horaRecogida>00:45</horaRecogida>
+		<latitudRegreso>37.88437603049466</latitudRegreso>
+		<longitudRegreso>-4.77999689296638</longitudRegreso>
+		<ficheroRecorrido>merced</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="16:30"></punto>
+				<punto descripcion="Escritor Cristóbal Mesa" hora="17:00"></punto>
+				<punto descripcion="San Acisclo" hora="17:30"></punto>
+				<punto descripcion="María Auxiliadora" hora="18:00"></punto>
+				<punto descripcion="Santa María de Gracia" hora="18:30"></punto>
+				<punto descripcion="San Pablo" hora="19:00"></punto>
+				<punto descripcion="Entrada C.O." hora="19:30"></punto>
+				<punto descripcion="Salida C.O." hora="20:05"></punto>
+				<punto descripcion="San Zoilo" hora="20:30"></punto>
+				<punto descripcion="Conde de Torres Cabrera" hora="21:00"></punto>
+				<punto descripcion="Plaza de las Doblas" hora="21:30"></punto>
+				<punto descripcion="Conde de Priego" hora="22:00"></punto>
+				<punto descripcion="Puerta del Colodro" hora="22:30"></punto>
+				<punto descripcion="Avenida de Ollerías" hora="23:00"></punto>
+				<punto descripcion="San Juan de la Cruz" hora="23:30"></punto>
+				<punto descripcion="Virgen de Linares" hora="00:00"></punto>
+				<punto descripcion="Entrada" hora="00:45"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_merced_1</image>
+			<image>imagen_merced_2</image>
+		</images>
+		
+	</cofradia>
+
+    <cofradia>
+		<nombre_corto>Estrella</nombre_corto>
+		<nombre_largo>HERMANDAD SACRAMENTAL DEL DULCE NOMBRE DE JESUS Y COFRADIA DE NAZARENOS DEL SANTISIMO ECCE HOMO, NUESTRO PADRE JESUS DE LA REDENCION ANTE CAIFAS, NEGACIONES Y LAGRIMAS DE SAN PEDRO Y NUESTRA SEÑORA DE LA ESTRELLA</nombre_largo>
+		<fecha_salida>20120402</fecha_salida>
+		<nombre_iglesia>Parroquia de San Fernando</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Joaquín Sama Naharro, Goya, Avenida del Brillante, Llanos del Pretorio, Acera de Guerrita, Plaza de Colón, Jardines de Colón, Conde de Torres Cabrera, Plaza de las Doblas, Ramírez de las Casas Deza, Cardenal Toledo, Plaza del Cardenal Toledo, Carbonell y Morand, Alfonso XIII, Capitulares, CARRERA OFICIAL, José Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Plaza de las Doblas, Burell, Puerta de Osario, Plaza de Colón, Acera de Guerrita, Llanos del Pretorio, De la Radio, Avenida Gran Capitán, Doña Berenguela, Pintor Mariano Belmonte, Jardines de la Estrella, Goya, Joaquín Sama Naharro.</itinerario>
+		<imagenEscudo>escudo_estrella</imagenEscudo>
+		<horaSalida>17:10</horaSalida>
+		<horaRecogida>00:40</horaRecogida>
+		<latitudRegreso>37.88439010891624</latitudRegreso>
+		<longitudRegreso>-4.779958913197549</longitudRegreso>
+		<ficheroRecorrido>estrella</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:10"></punto>
+				<punto descripcion="Goya" hora="17:30"></punto>
+				<punto descripcion="Llanos del Pretorio" hora="18:00"></punto>
+				<punto descripcion="Plaza de Colón" hora="18:30"></punto>
+				<punto descripcion="Jardines de Colón" hora="19:00"></punto>
+				<punto descripcion="Cardenal Toledo" hora="19:30"></punto>
+				<punto descripcion="Entrada C.O." hora="20:12"></punto>
+				<punto descripcion="Salida C.O." hora="20:47"></punto>
+				<punto descripcion="Cruz Conde" hora="21:00"></punto>
+				<punto descripcion="San Zoilo" hora="21:30"></punto>
+				<punto descripcion="Conde de Torres Cabrera" hora="22:00"></punto>
+				<punto descripcion="Acera de Guerrita" hora="22:30"></punto>
+				<punto descripcion="Llanos del Pretorio" hora="23:00"></punto>
+				<punto descripcion="Gran Capitán" hora="23:30"></punto>
+				<punto descripcion="Pintor Mariano Belmonte" hora="00:00"></punto>
+				<punto descripcion="Entrada" hora="00:40"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_estrella_1</image>
+			<image>imagen_estrella_2</image>
+		</images>
+
+	</cofradia>
+
+    <cofradia>
+		<nombre_corto>Vera-Cruz</nombre_corto>
+		<nombre_largo>PIADOSA HERMANDAD SACRAMENTAL DEL BUEN PASTOR Y DE LA INMACULADA CONCEPCION Y MUY ANTIGUA, SIEMPRE ILUSTRE Y VENERABLE, PONTIFICIA, REAL, FERVOROSA, HUMILDE Y SERAFICA ARCHICOFRADIA DE LA SANTA VERA CRUZ, NUESTRO SEÑOR DE LOS REYES Y MARIA SANTISIMA DEL DULCE NOMBRE EN SUS DOLORES GLORIOSOS</nombre_largo>
+		<fecha_salida>20120402</fecha_salida>
+		<nombre_iglesia>Parroquia de San José y Espíriyu Santo</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Paseo Cristo del Descendimiento, Avenida de la Diputación, Plaza de Santa Teresa, Subida del Puente, Puente Romano, Triunfo, Torrijos, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Torrijos, Triunfo, Puente Romano, Bajada del Puente, Plaza de Santa Teresa, Avenida de la Diputación, Paseo Cristo del Descendimiento.</itinerario>
+		<imagenEscudo>escudo_vera_cruz</imagenEscudo>
+		<horaSalida>17:00</horaSalida>
+		<horaRecogida>00:20</horaRecogida>
+		<latitudRegreso>37.8843929</latitudRegreso>
+		<longitudRegreso>-4.7799540</longitudRegreso>
+		<ficheroRecorrido>cordoba_vera_cruz</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:00"></punto>
+				<punto descripcion="Subida del Puente" hora="17:30"></punto>
+				<punto descripcion="Puente Romano" hora="18:00"></punto>
+				<punto descripcion="Cardenal Herrero" hora="18:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="19:00"></punto>
+				<punto descripcion="Magistral González Francés" hora="19:30"></punto>
+				<punto descripcion="Cardenal González" hora="20:00"></punto>
+				<punto descripcion="San Fernando" hora="20:30"></punto>
+				<punto descripcion="Entrada C.O." hora="20:56"></punto>
+				<punto descripcion="Salida C.O." hora="21:31"></punto>
+				<punto descripcion="Ángel de Saavedra" hora="22:00"></punto>
+				<punto descripcion="Deanes" hora="22:30"></punto>
+				<punto descripcion="Torrijos" hora="23:00"></punto>
+				<punto descripcion="Puente Romano" hora="23:30"></punto>
+				<punto descripcion="Entrada" hora="00:20"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_vera_cruz_1</image>
+			<image>imagen_vera_cruz_2</image>
+		</images>
+
+	</cofradia>
+
+    <cofradia>
+		<nombre_corto>Sentencia</nombre_corto>
+		<nombre_largo>ILUSTRE HERMANDAD DEL SANTISIMO SACRAMENTO, NUESTRA SEÑORA DE LA ALEGRIA Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA SENTENCIA, MARIA SANTISIMA DE GRACIA Y AMPARO Y SAN NICOLAS DE BARI</nombre_largo>
+		<fecha_salida>20120402</fecha_salida>
+		<nombre_iglesia>Parroquia de San Nicolás de la Villa</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Nicolás, San Felipe, Avenida Gran Capitán, Gondomar, Plaza de las Tendillas, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Puerta del Perdón, Patio de los Naranjos, Santa Iglesia Catedral, Patio de los Naranjos, Puerta de Santa Catalina, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Gondomar, Avenida Gran Capitán, San Felipe, Plaza de San Nicolás.</itinerario>
+		<imagenEscudo>cordoba_escudo_sentencia</imagenEscudo>
+		<horaSalida>17:00</horaSalida>
+		<horaRecogida>22:50</horaRecogida>
+		<latitudRegreso>37.8843760</latitudRegreso>
+		<longitudRegreso>-4.7799861</longitudRegreso>
+		<ficheroRecorrido>cordoba_sentencia</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:00"></punto>
+				<punto descripcion="Gondomar" hora="17:30"></punto>
+				<punto descripcion="Jesús María" hora="18:00"></punto>
+				<punto descripcion="Deanes" hora="18:30"></punto>
+				<punto descripcion="Cardenal Herrero" hora="19:00"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="19:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="20:00"></punto>
+				<punto descripcion="Cardenal González" hora="20:30"></punto>
+				<punto descripcion="San Fernando" hora="21:00"></punto>
+				<punto descripcion="Entrada C.O." hora="21:28"></punto>
+				<punto descripcion="Salida C.O." hora="22:03"></punto>
+				<punto descripcion="Plaza de San Felipe" hora="22:30"></punto>
+				<punto descripcion="Entrada" hora="22:50"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_cordoba_sentencia_1</image>
+			<image>imagen_cordoba_sentencia_2</image>
+		</images>
+
+	</cofradia>
+
+    <cofradia>
+		<nombre_corto>Via Crucis</nombre_corto>
+		<nombre_largo>HERMANDAD Y COFRADIA DE PENITENCIA DEL VIA CRUCIS DEL SANTO CRISTO DE LA SALUD</nombre_largo>
+		<fecha_salida>20120402</fecha_salida>
+		<nombre_iglesia>Parroquia de San Juan y Todos los Santos (Trinidad)</nombre_iglesia>
+		<numero_pasos>0</numero_pasos>
+		<itinerario>Plaza de la Trinidad (Altar 1ª Estación), Plaza d Pinerda, Plaza de San Juan (Altar 2ª Estación), Blanco Belmonte (Altar 3ª Estación), Plaza Agrupación de Cofradías, Céspedes, Cardenal Herrero (Altar 4ª Estación), Encarnación (Altar 5ª Estación), Rey Heredia (Altar 6ª Estación), Cabezas, Arco del Portillo (Altar 7ª Estación), San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Rodríguez Sánchez, Sevilla, Plaza de San Juan, General Argote, Plaza de Ramón y Cajal, Pérez de Castro (Altar 8ª Estación), González López, Tejón y Marín (Altar 9ª Estación), Puerta de Almodóvar (Altar 10ª Estación), Judíos, Plaza de Maimónides (Altar 11ª Estación - Coro Ziryab), Albucasis, Plaza de Juda Leví (Altar 12ª Estación), Los Manríquez, Buen Pastor (Altar 13ª Estación), Ángel Torres, Sánchez de Feria, Plaza de la Trinidad (Altar 14ª Estación).</itinerario>
+		<imagenEscudo>escudo_via_crucis</imagenEscudo>
+		<horaSalida>20:00</horaSalida>
+		<horaRecogida>01:00</horaRecogida>
+		<latitudRegreso>37.88438945157346</latitudRegreso>
+		<longitudRegreso>-4.779973708984775</longitudRegreso>
+		<ficheroRecorrido>via_crucis</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="20:00"></punto>
+				<punto descripcion="Cardenal Herrero" hora="20:30"></punto>
+				<punto descripcion="Cabezas" hora="21:00"></punto>
+				<punto descripcion="San Fernando" hora="21:30"></punto>
+				<punto descripcion="Entrada C.O." hora="22:15"></punto>
+				<punto descripcion="Salida C.O." hora="22:50"></punto>
+				<punto descripcion="Rodríguez Sánchez" hora="23:00"></punto>
+				<punto descripcion="González López" hora="23:30"></punto>
+				<punto descripcion="Judíos" hora="00:00"></punto>
+				<punto descripcion="Manriquez" hora="00:30"></punto>
+				<punto descripcion="Entrada" hora="01:00"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_via_crucis_1</image>
+		</images>
+
+	</cofradia>
+
+    <cofradia>
+		<nombre_corto>Ánimas</nombre_corto>
+		<nombre_largo>MUY HUMILDE Y ANTIGUA HERMANDAD SACRAMENTAL DEL SANTISIMO CRISTO DEL REMEDIO DE ANIMAS Y NUESTRA SEÑORA MADRE DE DIOS EN SUS TRISTEZAS</nombre_largo>
+		<fecha_salida>20120402</fecha_salida>
+		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Jesus María, Juan Varela, Santa Victoria, Plaza de la Compañía, Conde de Cárdenas, María Cristina, Alfonso XIII, Capitulares, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo.</itinerario>
+		<imagenEscudo>escudo_animas</imagenEscudo>
+		<horaSalida>21:00</horaSalida>
+		<horaRecogida>01:30</horaRecogida>
+		<latitudRegreso>37.8843845</latitudRegreso>
+		<longitudRegreso>-4.7799486</longitudRegreso>
+		<ficheroRecorrido>animas</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="21:00"></punto>
+				<punto descripcion="Santa María de Gracia" hora="21:30"></punto>
+				<punto descripcion="San Pablo" hora="22:00"></punto>
+				<punto descripcion="Entrada C.O." hora="22:37"></punto>
+				<punto descripcion="Salida C.O." hora="23:12"></punto>
+				<punto descripcion="Juan Varela" hora="23:30"></punto>
+				<punto descripcion="Plaza de la Compañia" hora="00:00"></punto>
+				<punto descripcion="María Cristina" hora="00:30"></punto>
+				<punto descripcion="San Ándres" hora="01:00"></punto>
+				<punto descripcion="Entrada" hora="01:30"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_animas_1</image>
+			<image>imagen_animas_2</image>
+		</images>
+	</cofradia>
+	
+	<!-- Martes Santo -->
+	
+	<cofradia>
+		<nombre_corto>Agonía</nombre_corto>
+		<nombre_largo>HERMANDAD SACRAMENTAL DE SANTA VICTORIA Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA AGONIA Y LA SANTISIMA VIRGEN MADRE DEL REDENTOR NUESTRA SEÑORA DE LA SALUD</nombre_largo>
+		<fecha_salida>20120403</fecha_salida>
+		<nombre_iglesia>Parroquia de Santa Victoria</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Santa Iglesia Catedral, Patio de los Naranjos, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Plaza de las Tendillas, Victoriano Rivera, Alfonso XIII, Alfaros, Puerta del Rincón, Callejón de Conde de Priego, Plaza Conde de Priego, Plaza de Santa Marina, Mayor de Santa Marina, Puerta del Colodro, Avenida de Ollerías, Alonso el Sabio, Glorieta de Almogávares, Fuente de la Salud, Madres Escolapias, Téllez de Meneses, Plaza Bellavista, Juan Latino, Plaza Palomera, Santas Flora y María, Párroco Agustín Molina.</itinerario>
+		<imagenEscudo>escudo_agonia</imagenEscudo>
+		<horaSalida>17:00</horaSalida>
+		<horaRecogida>01:30</horaRecogida>
+		<latitudRegreso>37.88438563313932</latitudRegreso>
+		<longitudRegreso>-4.779949795193947</longitudRegreso>
+		<ficheroRecorrido>agonia</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:15"></punto>
+				<punto descripcion="Patio de los Naranjos" hora="17:30"></punto>
+				<punto descripcion="Magistral González Francés" hora="18:00"></punto>
+				<punto descripcion="Cardenal González" hora="18:30"></punto>
+				<punto descripcion="San Fernando" hora="19:00"></punto>
+				<punto descripcion="Entrada C.O." hora="19:30"></punto>
+				<punto descripcion="Salida C.O." hora="20:05"></punto>
+				<punto descripcion="Alfonso XIII" hora="20:30"></punto>
+				<punto descripcion="Alfaros" hora="21:00"></punto>
+				<punto descripcion="Plaza de Santa Marina" hora="21:30"></punto>
+				<punto descripcion="Alonso el Sabio" hora="22:00"></punto>
+				<punto descripcion="Fuente de la Salud" hora="22:30"></punto>
+				<punto descripcion="Madres Escolapias" hora="23:00"></punto>
+				<punto descripcion="Téllez de Meneses" hora="23:30"></punto>
+				<punto descripcion="Juan Latino" hora="00:00"></punto>
+				<punto descripcion="Santas Flora y María" hora="00:30"></punto>
+				<punto descripcion="Párroco Agustín Molina" hora="01:00"></punto>
+				<punto descripcion="Entrada" hora="01:30"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_agonia_1</image>
+            <image>cordoba_imagen_agonia_2</image>
+		</images>
+
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Sangre</nombre_corto>
+		<nombre_largo>HERMANDAD SACRAMENTAL, SERAFICA Y CISTERCIENSE DE CAPATACES Y COSTALEROS DE LA SANTA CRUZ Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA CONVERSION, NUESTRO PADRE JESUS DE LA SANGRE EN EL DESPRECIO DEL PUEBLO, NUESTRA SEÑORA REINA DE LOS ANGELES EN SUS MISTERIOS GOZOSOS Y DOLOROSOS Y SAN JUAN EVANGELISTA</nombre_largo>
+		<fecha_salida>20120403</fecha_salida>
+		<nombre_iglesia>Iglesia Conventual del Santo Ángel (Capuchinos)</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de Capuchinos, Nuestra Señorade la Paz y Esperanza, Carbonell y Morand, Alfonso XII, Capitulares, CARRERA OFICIAL, Jesús y María, Ángel de Saavedra, Blanco Belmonte, Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, Capitulares, Alfonso XIII, Carbonell y Morand, Nuestra Señora de la Paz y Esperanza, Plaza de Capuchinos.</itinerario>
+		<imagenEscudo>escudo_sangre</imagenEscudo>
+		<horaSalida>19:00</horaSalida>
+		<horaRecogida>00:30</horaRecogida>
+		<latitudRegreso>37.88438023930492</latitudRegreso>
+		<longitudRegreso>-4.779944356914401</longitudRegreso>
+		<ficheroRecorrido>sangre</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="19:00"></punto>
+				<punto descripcion="Carbonell y Morand" hora="19:30"></punto>
+				<punto descripcion="Entrada C.O." hora="19:52"></punto>
+				<punto descripcion="Salida C.O." hora="20:27"></punto>
+				<punto descripcion="Plaza Agrupación de Cofradías" hora="21:00"></punto>
+				<punto descripcion="Cardenal Herrero" hora="21:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="22:00"></punto>
+				<punto descripcion="Magistral González Francés" hora="22:30"></punto>
+				<punto descripcion="Cardenal González" hora="23:00"></punto>
+				<punto descripcion="San Fernando" hora="23:30"></punto>
+				<punto descripcion="Carbonell y Morand" hora="00:00"></punto>
+				<punto descripcion="Entrada" hora="00:30"></punto>				
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_sangre_1</image>
+			<image>imagen_sangre_2</image>
+		</images>
+
+	</cofradia>	
+	
+	<cofradia>
+		<nombre_corto>Buen Suceso</nombre_corto>
+		<nombre_largo>HERMANDAD DE PENITENCIA Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DEL BUEN SUCESO EN SU ENCUENTRO CON SU SANTISIMA MADRE LA VIRGEN DE LOS DOLORES EN LA CALLE DE LA AMARGURA, MARIA SANTISIMA DE LA CARIDAD Y SAN ANDRES APOSTOL</nombre_largo>
+		<fecha_salida>20120403</fecha_salida>
+		<nombre_iglesia>Parroquia de Andrés</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, Capitulares, San Pablo, Plaza de San Andrés.</itinerario>
+		<imagenEscudo>escudo_buen_suceso</imagenEscudo>
+		<horaSalida>19:40</horaSalida>
+		<horaRecogida>01:00</horaRecogida>
+		<latitudRegreso>37.88439135516509</latitudRegreso>
+		<longitudRegreso>-4.779956231609478</longitudRegreso>
+		<ficheroRecorrido>buen_suceso</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="19:40"></punto>
+				<punto descripcion="San Pablo" hora="20:00"></punto>
+				<punto descripcion="Entrada C.O." hora="200:26"></punto>
+				<punto descripcion="Salida C.O." hora="21:01"></punto>
+				<punto descripcion="Plaza Agrupación de Cofradías" hora="21:30"></punto>
+				<punto descripcion="Deanes" hora="22:00"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="22:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="23:00"></punto>
+				<punto descripcion="Magistral González Francés" hora="23:30"></punto>
+				<punto descripcion="San Fernando" hora="00:00"></punto>
+				<punto descripcion="Capitulares" hora="00:30"></punto>
+				<punto descripcion="Entrada" hora="01:00"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_buen_suceso_1</image>
+			<image>imagen_buen_suceso_2</image>
+		</images>
+
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Santa Faz</nombre_corto>
+		<nombre_largo>HERMANDAD PENITENCIAL Y COFRADIA DE NAZARENOS DE LA SANTA FAZ DE NUESTRO SEÑOR JESUCRISTO, NUESTRO PADRE JESUS NAZARENO EN SU ENCUENTRO CON LA SANTA MUJER VERONICA, NUESTRA MADRE Y SEÑORA SANTISIMA DE LA TRINIDAD Y SANTA MARTA</nombre_largo>
+		<fecha_salida>20120403</fecha_salida>
+		<nombre_iglesia>Parroquia de San Juan y Todos los Santos (Trinidad)</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Lope de Hoces, Tesoro, Valladares, Leopoldo de Austria, Plaza de San Juan, Barroso, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Conde de Gondomar, San Felipe, Tesoro, Plaza de la Trinidad, Lope de Hoces.</itinerario>
+		<imagenEscudo>escudo_santa_faz</imagenEscudo>
+		<horaSalida>16:15</horaSalida>
+		<horaRecogida>23:00</horaRecogida>
+		<latitudRegreso>37.88438198149468</latitudRegreso>
+		<longitudRegreso>-4.779945478316892</longitudRegreso>
+		<ficheroRecorrido>santa_faz</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="16:15"></punto>
+				<punto descripcion="Tesoro" hora="16:30"></punto>
+				<punto descripcion="Plaza de San Juan" hora="17:00"></punto>
+				<punto descripcion="Blanco Belmonte" hora="17:30"></punto>
+				<punto descripcion="Deanes" hora="18:00"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="18:00"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="19:00"></punto>				
+				<punto descripcion="Magistral González Francés" hora="19:30"></punto>
+				<punto descripcion="Cardenal González" hora="20:00"></punto>
+				<punto descripcion="San Fernando" hora="20:30"></punto>				
+				<punto descripcion="Entrada C.O." hora="20:55"></punto>
+				<punto descripcion="Salida C.O." hora="21:30"></punto>
+				<punto descripcion="San Felipe" hora="22:00"></punto>	
+				<punto descripcion="Tesoro" hora="22:30"></punto>
+				<punto descripcion="Entrada" hora="23:00"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_santa_faz_1</image>
+			<image>imagen_santa_faz_2</image>
+		</images>
+
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Prendimiento</nombre_corto>
+		<nombre_largo>HERMANDAD SALESIANA Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS, DIVINO SALVADOR, EN SU PRENDIMIENTO, NUESTRA SEÑORA DE LA PIEDAD Y SAN JUAN BOSCO</nombre_largo>
+		<fecha_salida>20120403</fecha_salida>
+		<nombre_iglesia>Iglesia de María Auxiliadora</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>María Auxiliadora, Plaza de San Lorenzo, Arroyo de San Lorenzo, Ronda de Andújar, Alfonso XII, Plaza de San Pedro, Don Rodrigo, Lineros, Lucano, Ronda de Isasa, Triunfo, Torrijos, Cardenal Herrero, Puerta del Perdón, Patio de los Naranjos, Santa Iglesia Catedral, Patio de los Naranjos, Puerta de Santa Catalina, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Plaza de las Tendillas, Cruz Conde, Victoriano Rivera, Plaza Mármol de Bañuelos, Alfonso XIII, Plaza del Salvador, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo, María Auxiliadora.</itinerario>
+		<imagenEscudo>cordoba_escudo_prendimiento</imagenEscudo>
+		<horaSalida>16:30</horaSalida>
+		<horaRecogida>00:55</horaRecogida>
+		<latitudRegreso>37.88439848988426</latitudRegreso>
+		<longitudRegreso>-4.77996798599821</longitudRegreso>
+		<ficheroRecorrido>cordoba_prendimiento</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="16:30"></punto>
+				<punto descripcion="Ronda de Andújar" hora="17:00"></punto>
+				<punto descripcion="Alfonso XII" hora="17:30"></punto>
+				<punto descripcion="Lineros" hora="18:00"></punto>
+				<punto descripcion="Ronsa de Isasa" hora="18:30"></punto>
+				<punto descripcion="Cardenal Herrero" hora="19:00"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="19:30"></punto>
+				<punto descripcion="Puerta de Santa Catalina" hora="20:00"></punto>
+				<punto descripcion="Cardenal González" hora="20:30"></punto>
+				<punto descripcion="San Fernando" hora="21:00"></punto>
+				<punto descripcion="Diario de Córdoba" hora="21:30"></punto>
+				<punto descripcion="Entrada C.O." hora="21:42"></punto>
+				<punto descripcion="Salida C.O." hora="22:17"></punto>
+				<punto descripcion="Alfonso XIII" hora="23:00"></punto>	
+				<punto descripcion="San Pablo" hora="23:30"></punto>
+				<punto descripcion="Santa María de Gracia" hora="00:00"></punto>	
+				<punto descripcion="María Auxiliadora" hora="00:30"></punto>
+				<punto descripcion="Entrada" hora="00:55"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>cordoba_imagen_prendimiento_1</image>
+			<image>cordoba_imagen_prendimiento_2</image>
+			<image>cordoba_imagen_prendimiento_3</image>
+			<image>cordoba_imagen_prendimiento_4</image>
+		</images>
+
+	</cofradia>
+	
+	<!-- Miércoles Santo -->
+	
+	<cofradia>
+		<nombre_corto>Piedad</nombre_corto>
+		<nombre_largo>CLARETIANA HERMANDAD Y COFRADIA DEL SANTISIMO CRISTO DE LA PIEDAD Y MARIA SANTISIMA DE  VIDA , DULZURA Y ESPERANZA NUESTRA</nombre_largo>
+		<fecha_salida>20120404</fecha_salida>
+		<nombre_iglesia>Parroquia de San Antonio María Claret</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Patio Pico Aneto, Sierra de Guadarrama, Sierra de Cazorla, Barítono José Mª Aguilar Blanco, María La Talegona, Avd. de Miralbaida, Avd. Ntra. Sra. de Begoña, Mercadillo, Ctra. de Palma del Río, Periodista Quesada Chacón, Camino Viejo de Almodovar, Gran Vía Parque, Antonio Maura, Plaza de Costa Sol, Antonio Maura, Jardines de la Victoria, Lope de Hoces, Plaza de la Trinidad, Tesoro, Plaza Ramón y Cajal, San Felipe, Gondomar, Plaza de las Tendillas, Diego León, Alfonso XIII, Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Gondomar, Boulevard Gran Capitán, Concepción, Jardines de la Victoria, Avd. Medina Azahara, Plaza Ibn Zaydun, Periodista Quesada Chacón, Ctra. de Palma del Río, Ingeniero Benito de Aranda, Sierra de Cazaorla, Sierra de Guadarrama, Patio Pico Aneto.</itinerario>
+		<imagenEscudo>cordoba_escudo_piedad</imagenEscudo>
+		<horaSalida>14:00</horaSalida>
+		<horaRecogida>01:30</horaRecogida>
+		<latitudRegreso>37.8843802</latitudRegreso>
+		<longitudRegreso>-4.7799861</longitudRegreso>
+		<ficheroRecorrido>cordoba_piedad</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="14:00"></punto>
+				<punto descripcion="Sierra de Guadarrama" hora="14:30"></punto>
+				<punto descripcion="José Mª Aguilar Blanco" hora="15:00"></punto>
+				<punto descripcion="María La Talegona" hora="15:30"></punto>
+				<punto descripcion="Avd. Ntra. Sra. de Begoña" hora="16:00"></punto>
+				<punto descripcion="Mercadillo" hora="16:30"></punto>
+				<punto descripcion="Periodista Quesada Chacón" hora="17:00"></punto>
+				<punto descripcion="Plaza Costal Sol" hora="17:30"></punto>
+				<punto descripcion="Lope de Hoces" hora="18:00"></punto>
+				<punto descripcion="Tesoro" hora="18:30"></punto>
+				<punto descripcion="Plaza de las Tendillas" hora="19:00"></punto>
+				<punto descripcion="Entrada C.O." hora="19:30"></punto>
+				<punto descripcion="Salida C.O." hora="20:05"></punto>
+				<punto descripcion="Concepción" hora="20:30"></punto>	
+				<punto descripcion="Paseo de la Victoria" hora="21:00"></punto>
+				<punto descripcion="Avd. Medina Azahara" hora="21:30"></punto>	
+				<punto descripcion="Plaza Ibn Zaydun" hora="22:00"></punto>
+				<punto descripcion="Periodista Quesada Chacón" hora="22:30"></punto>
+				<punto descripcion="Periodista Quesada Chacón" hora="23:00"></punto>
+				<punto descripcion="Ctra. de Palma del Río" hora="23:30"></punto>
+				<punto descripcion="Ingeniero Benito de Aranda" hora="00:00"></punto>
+				<punto descripcion="Ingeniero Benito de Aranda" hora="00:30"></punto>
+				<punto descripcion="Sierra de Guadarrama" hora="01:00"></punto>
+				<punto descripcion="Entrada" hora="01:30"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>cordoba_imagen_piedad_1</image>
+			<image>cordoba_imagen_piedad_2</image>
+		</images>
+
+	</cofradia>
+
+	<cofradia>
+		<nombre_corto>Pasión</nombre_corto>
+		<nombre_largo>MUY ILUSTRE Y FERVOROSA HERMANDAD Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA PASION, MARIA SANTISIMA DEL AMOR Y SAN JUAN EVANGELISTA</nombre_largo>
+		<fecha_salida>20120404</fecha_salida>
+		<nombre_iglesia>Parroquia de Nuestra Señora de la Paz (San Basilio)</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>San Basilio, Arco de Caballerizas, Caballerizas Reales, Amador de los Ríos, Triunfo, Corregidor Luis de la Cerda, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús y María, Ángel de Saavedra, Blanco Belmonte, Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Cardenal Herrero, Judería, Los Manríquez, Plaza de los Santos Mártires, Caballerizas Reales, Arco de Caballerizas, Enmedio, Plaza de San Basilio.</itinerario>
+		<imagenEscudo>escudo_pasion</imagenEscudo>
+		<horaSalida>17:15</horaSalida>
+		<horaRecogida>23:45</horaRecogida>
+		<latitudRegreso>37.8843781</latitudRegreso>
+		<longitudRegreso>-4.7799781</longitudRegreso>
+		<ficheroRecorrido>pasion</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:15"></punto>
+				<punto descripcion="Amador de los Ríos" hora="18:00"></punto>
+				<punto descripcion="Corregidor Luis de la Cerda" hora="18:30"></punto>
+				<punto descripcion="San Fernando" hora="19:00"></punto>
+				<punto descripcion="Diario de Córdoba" hora="19:30"></punto>
+				<punto descripcion="Entrada C.O." hora="19:52"></punto>
+				<punto descripcion="Salida C.O." hora="20:27"></punto>
+				<punto descripcion="Blanco Belmonte" hora="21:00"></punto>	
+				<punto descripcion="Cardenal Herrero" hora="21:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="22:00"></punto>
+				<punto descripcion="Los Manríquez" hora="22:30"></punto>
+				<punto descripcion="Campo de los Santos Mártires" hora="23:00"></punto>	
+				<punto descripcion="Enmedio" hora="23:30"></punto>
+				<punto descripcion="Entrada" hora="23:45"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_pasion_1</image>
+			<image>imagen_pasion_2</image>
+			<image>imagen_pasion_3</image>
+			<image>imagen_pasion_4</image>
+		</images>
+		
+	</cofradia>
+		
+	<cofradia>
+		<nombre_corto>Perdón</nombre_corto>
+		<nombre_largo>HERMANDAD DE PENITENCIA Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DEL PERDON ANTE ANAS, MARIA SANTISIMA DEL ROCIO Y LAGRIMAS Y SAN MIGUEL ARCANGEL</nombre_largo>
+		<fecha_salida>20120404</fecha_salida>
+		<nombre_iglesia>Iglesia de San Roque</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Buen Pastor, Valladares, Plaza Pineda, Leopoldo de Austria, Plaza de San Juan, Barroso, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cerdenal Herrero, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Gondomar, Sevilla, Plaza Doctor Emilio Luque, Plaza de San Juan, Leopoldo de Austria, Plaza Pineda, Valladares, Buen Pastor.</itinerario>
+		<imagenEscudo>cordoba_escudo_perdon</imagenEscudo>
+		<horaSalida>16:30</horaSalida>
+		<horaRecogida>22:25</horaRecogida>
+		<latitudRegreso>37.8843866</latitudRegreso>
+		<longitudRegreso>-4.7799888</longitudRegreso>
+		<ficheroRecorrido>cordoba_perdon</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="16:30"></punto>
+				<punto descripcion="Valladares" hora="17:00"></punto>
+				<punto descripcion="Barroso" hora="17:30"></punto>
+				<punto descripcion="Conde y Luque" hora="18:00"></punto>
+				<punto descripcion="Cardenal Herrero" hora="18:30"></punto>
+				<punto descripcion="Cardenal González" hora="19:00"></punto>
+				<punto descripcion="Cardenal González" hora="19:30"></punto>
+				<punto descripcion="San Fernando" hora="20:00"></punto>
+				<punto descripcion="Entrada C.O." hora="20:29"></punto>
+				<punto descripcion="Salida C.O." hora="21:04"></punto>
+				<punto descripcion="Leopoldo de Austria" hora="21:30"></punto>	
+				<punto descripcion="Valladares" hora="22:00"></punto>
+				<punto descripcion="Entrada" hora="22:25"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>cordoba_imagen_perdon_1</image>
+			<image>cordoba_imagen_perdon_2</image>
+			<image>cordoba_imagen_perdon_3</image>
+			<image>cordoba_imagen_perdon_4</image>
+		</images>
+		
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Calvario</nombre_corto>
+		<nombre_largo>ILUSTRE, PIADOSA Y SECULAR HERMANDAD DE PENITENCIA Y COFRADIA DE NAZARENOS DE LA VIA SACRA DE NUESTRO PADRE JESUS DEL CALVARIO, NUESTRA SEÑORA DEL MAYOR DOLOR Y SAN LORENZO MARTIR</nombre_largo>
+		<fecha_salida>20120404</fecha_salida>
+		<nombre_iglesia>Parroquia de San Lorenzo</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Jesús y María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, Capitulares, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo.</itinerario>
+		<imagenEscudo>escudo_calvario</imagenEscudo>
+		<horaSalida>19:20</horaSalida>
+		<horaRecogida>02:15</horaRecogida>
+		<latitudRegreso>37.8843887</latitudRegreso>
+		<longitudRegreso>-4.7799540</longitudRegreso>
+		<ficheroRecorrido>calvario</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="19:20"></punto>
+				<punto descripcion="Santa María de Gracia" hora="19:30"></punto>
+				<punto descripcion="Realejo" hora="20:00"></punto>
+				<punto descripcion="San Pablo" hora="20:30"></punto>
+				<punto descripcion="Entrada C.O." hora="20:54"></punto>
+				<punto descripcion="Salida C.O." hora="21:29"></punto>
+				<punto descripcion="Ángel de Saavedra" hora="22:00"></punto>	
+				<punto descripcion="Conde y Luque" hora="22:30"></punto>
+				<punto descripcion="Judería" hora="23:00"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="23:30"></punto>	
+				<punto descripcion="Santa Iglesia Catedral" hora="00:00"></punto>					
+				<punto descripcion="Cardenal González" hora="00:30"></punto>
+				<punto descripcion="San Fernando" hora="01:00"></punto>
+				<punto descripcion="San Pablo" hora="01:30"></punto>	
+				<punto descripcion="Entrada" hora="02:15"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_calvario_1</image>
+			<image>imagen_calvario_2</image>
+		</images>
+		
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Paz</nombre_corto>
+		<nombre_largo>PONTIFICIA, REAL, VENERABLE E ILUSTRE HERMANDAD FRANCISCANA Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA HUMILDAD Y PACIENCIA Y MARIA SANTISIMA DE LA PAZ Y ESPERANZA</nombre_largo>
+		<fecha_salida>20120404</fecha_salida>
+		<nombre_iglesia>Iglesia Conventual del Santo Ángel (Capuchinos)</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de Capuchinos, Conde de Torres Cabrera, Plaza de Colón, Puerta del Rincón, Calleja Conde de Priego, Plaza Conde de Priego, Plaza de Santa Marina, Santa Isabel, Enrique Redel, Hermanos López Diéguez, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Cruz Conde, San Álvaro, Plaza de San Miguel, Ramírez de Arellano, Plaza de los Carrilos, Caño, Manuel María de Arjona, Osario, Jardines de Colón, Plaza de Colón, Conde de Torres Cabrera, Plaza de Capuchinos.</itinerario>
+		<imagenEscudo>escudo_paz</imagenEscudo>
+		<horaSalida>18:30</horaSalida>
+		<horaRecogida>00:00</horaRecogida>
+		<latitudRegreso>37.8843845</latitudRegreso>
+		<longitudRegreso>-4.7798869</longitudRegreso>
+		<ficheroRecorrido>paz</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:30"></punto>
+				<punto descripcion="Plaza de Colón" hora="19:00"></punto>
+				<punto descripcion="Plaza Conde de Priego" hora="19:30"></punto>
+				<punto descripcion="Enrique Redel" hora="20:00"></punto>
+				<punto descripcion="Plaza de San Andrés" hora="20:30"></punto>
+				<punto descripcion="San Pablo" hora="21:00"></punto>	
+				<punto descripcion="Entrada C.O." hora="21:23"></punto>
+				<punto descripcion="Salida C.O." hora="21:58"></punto>
+				<punto descripcion="Plaza de los Carrillos" hora="22:30"></punto>	
+				<punto descripcion="Osario" hora="23:00"></punto>					
+				<punto descripcion="Jardines de Colón" hora="23:30"></punto>
+				<punto descripcion="Entrada" hora="00:00"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_paz_1</image>
+			<image>imagen_paz_2</image>
+		</images>
+		
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Misericordia</nombre_corto>
+		<nombre_largo>PIADOSA HERMANDAD DEL SANTISIMO SACRAMENTO, SANTOS MARTIRES DE CORDOBA Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA MISERICORDIA Y NUESTRA SEÑORA DE LAS LAGRIMAS EN SU DESAMPARO</nombre_largo>
+		<fecha_salida>20120404</fecha_salida>
+		<nombre_iglesia>Parroquia Menor de San Pedro</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Pedro, Don Rodrigo, Lineros, Plaza del Potro, Romero Barros, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús y María, Juan Varela, Santa Victoria, Plaza de la Compañia, Conde de Cárdenas, María Cristina, Claudio Marcelo, Rodríguez Marín, Plaza de la Corredera, Plaza del Socorro, Plaza de la Almagra, Escultor Juan de Mesa, Plaza de San Pedro.</itinerario>
+		<imagenEscudo>escudo_misericordia</imagenEscudo>
+		<horaSalida>20:40</horaSalida>
+		<horaRecogida>00:45</horaRecogida>
+		<latitudRegreso>37.8843802</latitudRegreso>
+		<longitudRegreso>-4.7799647</longitudRegreso>
+		<ficheroRecorrido>misericordia</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="20:40"></punto>
+				<punto descripcion="Don Rodrigo" hora="21:00"></punto>
+				<punto descripcion="Plaza del Potro" hora="21:30"></punto>
+				<punto descripcion="San Fernando" hora="22:00"></punto>
+				<punto descripcion="Entrada en C.O." hora="22:25"></punto>
+				<punto descripcion="Salida C.O." hora="23:00"></punto>
+				<punto descripcion="Plaza de la Compañia" hora="23:30"></punto>
+				<punto descripcion="Claudio Marcelo" hora="00:00"></punto>
+				<punto descripcion="Plaza de la Corredera" hora="00:30"></punto>
+				<punto descripcion="Entrada" hora="00:45"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_misericordia_1</image>
+			<image>imagen_misericordia_2</image>
+		</images>
+		
+	</cofradia>
+	
+	<!-- Jueves Santo -->
+	
+	<cofradia>
+		<nombre_corto>Nazareno</nombre_corto>
+		<nombre_largo>REAL E ILUSTRE COFRADIA DE NUESTRO PADRE JESUS NAZARENO, MARIA SANTISIMA NAZARENA Y SAN BARTOLOME</nombre_largo>
+		<fecha_salida>20120405</fecha_salida>
+		<nombre_iglesia>Iglesia Hospital de Jesús Nazareno</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza del Padre Cristóbal, Jesús Nazareno, Yerbabuena, Buen Suceso, Isaac Peral, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Ramírez de las Casas Deza, Plaza Cardenal Toledo, Carbonell y Morand, Alfonso XIII, San Pablo, Plaza de San Andrés, Hermanos López Diéguez, Arroyo de San Andrés, Muñoz Capilla, Rejas de Don Gome, Plaza de San Agustín, Compás de San Agustín, Jesús Nazareno, Plaza de San Cristóbal.</itinerario>
+		<imagenEscudo>cordoba_escudo_nazareno</imagenEscudo>
+		<horaSalida>18:15</horaSalida>
+		<horaRecogida>22:45</horaRecogida>
+		<latitudRegreso>37.8843802</latitudRegreso>
+		<longitudRegreso>-4.7799969</longitudRegreso>
+		<ficheroRecorrido>cordoba_nazareno</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:15"></punto>
+				<punto descripcion="Buen Suceso" hora="18:30"></punto>
+				<punto descripcion="Plaza de San Andrés" hora="19:00"></punto>
+				<punto descripcion="Entrada en C.O." hora="19:30"></punto>
+				<punto descripcion="Salida C.O." hora="20:05"></punto>
+				<punto descripcion="Ramírez de las Casas Deza" hora="20:30"></punto>
+				<punto descripcion="Alfonso XIII" hora="21:00"></punto>
+				<punto descripcion="Plaza de San Andrés" hora="21:30"></punto>
+				<punto descripcion="Muñoz Capilla" hora="22:00"></punto>
+				<punto descripcion="Compás de San Agustín" hora="22:30"></punto>
+				<punto descripcion="Entrada" hora="22:45"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>cordoba_imagen_nazareno_1</image>
+			<image>cordoba_imagen_nazareno_2</image>
+		</images>
+		
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Sagrada Cena</nombre_corto>
+		<nombre_largo>MUY MARIANA HERMANDAD SACRAMENTAL DE LA INMACULADA CONCEPCION, SANTO ROSARIO Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA FE EN SU SAGRADA CENA Y MARIA SANTISIMA DE LA ESPERANZA DEL VALLE</nombre_largo>
+		<fecha_salida>20120405</fecha_salida>
+		<nombre_iglesia>Parroquia del Beato Álvaro de Córdoba</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Avd. de Guerrita, José Dámaso Petete, Francisco González Pachón, Avd. de Guerrita, Gran Vía Parque, Maestro Priego López, Camino de los Sastres, Jardines de la Victoria, Lope de Hoces, Plaza de la Trinidad, Tesoro, Plaza de Ramón y Cajal, San Felipe, Gondomar, Plaza de las Tendillas, Victoriano Rivera, Alfonso XIII, Capitulares, CARRERA OFICIAL, Gondomar, San Felipe, Plaza de Ramón y Cajal, Tesoro, Plaza de la Trinidad, Lope de Hoces, Jardines de la Victoria, Antonio Maura, Plaza de Costa Sol, Antonio Maura, Gran Vía Parque, Avd. de Manolete, Plaza Matías Prats Cañete, José Mª Martorell, Avd. de Guerrita.</itinerario>
+		<imagenEscudo>escudo_sagrada_cena</imagenEscudo>
+		<horaSalida>16:00</horaSalida>
+		<horaRecogida>00:30</horaRecogida>
+		<latitudRegreso>37.8843845</latitudRegreso>
+		<longitudRegreso>-4.7799808</longitudRegreso>
+		<ficheroRecorrido>sagrada_cena</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="16:00"></punto>
+				<punto descripcion="Avd. de Guerrita" hora="16:30"></punto>
+				<punto descripcion="Gran Vía Parque" hora="17:00"></punto>
+				<punto descripcion="Maestro Priego López" hora="17:30"></punto>
+				<punto descripcion="Camino de los Sastres" hora="18:00"></punto>
+				<punto descripcion="Jardines de la Victoria" hora="18:30"></punto>
+				<punto descripcion="Gondomar" hora="19:00"></punto>
+				<punto descripcion="Alfonso XIII" hora="19:30"></punto>
+				<punto descripcion="Entrada C.O." hora="19:52"></punto>
+				<punto descripcion="Salida C.O." hora="20:27"></punto>
+				<punto descripcion="Gondomar" hora="21:00"></punto>	
+				<punto descripcion="Plaza de Ramón y Cajal" hora="21:30"></punto>
+				<punto descripcion="Jardines de la Victoria" hora="22:00"></punto>	
+				<punto descripcion="Antonio Maura" hora="22:30"></punto>
+				<punto descripcion="Avd. de Manolete" hora="23:00"></punto>
+				<punto descripcion="Plaza de Matías Prats" hora="23:30"></punto>
+				<punto descripcion="Avd. de Guerrita" hora="00:00"></punto>
+				<punto descripcion="Entrada" hora="00:30"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_sagrada_cena_1</image>
+			<image>imagen_sagrada_cena_2</image>
+		</images>
+
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Caído</nombre_corto>
+		<nombre_largo>PONTIFICIA, REAL, VENERABLE E ILUSTRE HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS CAIDO Y NUESTRA SEÑORA DEL MAYOR DOLOR EN SU SOLEDAD</nombre_largo>
+		<fecha_salida>20120405</fecha_salida>
+		<nombre_iglesia>Iglesia Conventual de San Cayetano</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Cuesta de San Cayetano, Avd. de las Ollerías, Puerta del Colodro, Mayor de Santa Marina, Plaza de Santa Marina, Santa Isabel, Enrique Redel, Hermanos López Diéguez, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Plaza de Colón, Puerta del Rincón, Plaza Ruiz de Alda, Calleja de Conde de Priego, Plaza Conde de Priego, Plaza de Santa Marina, Mayor de Santa Marina, Puerta del Colodro, Avd. de las Ollerías, Cuesta de San Cayetano.</itinerario>
+		<imagenEscudo>cordoba_escudo_caido</imagenEscudo>
+		<horaSalida>18:30</horaSalida>
+		<horaRecogida>23:50</horaRecogida>
+		<latitudRegreso>37.8843760</latitudRegreso>
+		<longitudRegreso>-4.7799647</longitudRegreso>
+		<ficheroRecorrido>cordoba_caido</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:30"></punto>
+				<punto descripcion="Mayor de Santa Marina" hora="19:00"></punto>
+				<punto descripcion="Enrique Redel" hora="19:30"></punto>
+				<punto descripcion="San Pablo" hora="20:00"></punto>
+				<punto descripcion="Entrada en C.O." hora="20:31"></punto>
+				<punto descripcion="Salida C.O." hora="21:06"></punto>
+				<punto descripcion="Plaza de San Miguel" hora="21:30"></punto>
+				<punto descripcion="Conde de Torres Cabrera" hora="22:00"></punto>
+				<punto descripcion="Plaza de Colón" hora="22:30"></punto>
+				<punto descripcion="Plaza de Santa Marina" hora="23:00"></punto>
+				<punto descripcion="Avd. de las Ollerías" hora="23:30"></punto>
+				<punto descripcion="Entrada" hora="23:50"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>cordoba_imagen_caido_1</image>
+			<image>cordoba_imagen_caido_2</image>
+		</images>
+		
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Caridad</nombre_corto>
+		<nombre_largo>REAL HERMANDAD Y COFRADIA DEL SEÑOR DE LA CARIDAD</nombre_largo>
+		<fecha_salida>20120405</fecha_salida>
+		<nombre_iglesia>Parroquia de San Francisco y San Eulogio</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Compás de San Francisco, San Fernando, Romero Barros, Plaza del Potro, Lucano, San Fernando, Diario de Córdoba, CARRERA OFICIAl, Plaza de las Tendillas, Gondomar, Sevilla, Plaza del Doctor Emilio Luque, Sevilla, Barroso, Ángel de Saavedra, Juan Varela, Santa Victoria, Plaza de la Compañía, Conde de Cárdenas, Claudio Marcelo, Diario de Córdoba, San Fernando, Compás de San Francisco.</itinerario>
+		<imagenEscudo>escudo_caridad</imagenEscudo>
+		<horaSalida>19:30</horaSalida>
+		<horaRecogida>01:00</horaRecogida>
+		<latitudRegreso>37.8843887</latitudRegreso>
+		<longitudRegreso>-4.7799861</longitudRegreso>
+		<ficheroRecorrido>caridad</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="19:30"></punto>
+				<punto descripcion="Romero Barros" hora="20:00"></punto>
+				<punto descripcion="Lucano" hora="20:30"></punto>
+				<punto descripcion="San Fernando" hora="21:00"></punto>
+				<punto descripcion="Entrada en C.O." hora="21:33"></punto>
+				<punto descripcion="Salida C.O." hora="22:08"></punto>
+				<punto descripcion="Sevilla" hora="22:30"></punto>
+				<punto descripcion="Ángel de Saavedra" hora="23:00"></punto>
+				<punto descripcion="Plaza de la Compañía" hora="23:30"></punto>
+				<punto descripcion="Diario de Córdoba" hora="00:00"></punto>
+				<punto descripcion="San Fernando" hora="00:30"></punto>
+				<punto descripcion="Entrada" hora="01:00"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_caridad_1</image>
+		</images>
+		
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Cristo de Gracia</nombre_corto>
+		<nombre_largo>TRINITARIA HERMANDAD DE PENITENCIA Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE GRACIA Y MARIA SANTISIMA DE LOS DOLORES Y MISERICORDIA</nombre_largo>
+		<fecha_salida>20120405</fecha_salida>
+		<nombre_iglesia>Parroquia de Ntra. Sra. de Gracia (PP.Trinitarios)</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Plaza del Santísimo Cristo de Gracia, Avd. de Barcelona, Trinitario Padre Manuel Fuentes, Murcia, María Auxiliadora, Plaza de San Lorenzo, Arroyo de San Rafael, Buen Suceso, Arroyo de San Andrés, Enrique Redel, Santa Isabel, Isabel Losa, Puerta del Rincón, Alfaros, Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Diego de León, Alfonso XIII, San Pablo, Plaza de San Andrés, Realejo, Santa María, de Gracia, Plaza de San Lorenzo, María Auxiliadora, Plaza del Santísimo Cristo de Gracia.</itinerario>
+		<imagenEscudo>escudo_cristo_de_gracia</imagenEscudo>
+		<horaSalida>19:00</horaSalida>
+		<horaRecogida>02:00</horaRecogida>
+		<latitudRegreso>37.8843972</latitudRegreso>
+		<longitudRegreso>-4.7799700</longitudRegreso>
+		<ficheroRecorrido>cristo_de_gracia</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="19:00"></punto>
+				<punto descripcion="María Auxiliadora" hora="19:30"></punto>
+				<punto descripcion="Arroyo de San Rafael" hora="20:00"></punto>
+				<punto descripcion="Arroyo de San Andrés" hora="20:30"></punto>
+				<punto descripcion="Santa Isabel" hora="21:00"></punto>
+				<punto descripcion="Alfaros" hora="21:30"></punto>
+				<punto descripcion="Entrada en C.O." hora="22:06"></punto>
+				<punto descripcion="Salida C.O." hora="22:41"></punto>
+				<punto descripcion="Diego de León" hora="23:00"></punto>
+				<punto descripcion="San Pablo" hora="23:30"></punto>
+				<punto descripcion="Plaza de San Andrés" hora="00:00"></punto>
+				<punto descripcion="Santa María de Gracia" hora="00:30"></punto>
+				<punto descripcion="Plaza de San Lorenzo" hora="01:00"></punto>
+				<punto descripcion="María Auxiliadora" hora="01:30"></punto>
+				<punto descripcion="Entrada" hora="02:00"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_cristo_de_gracia_1</image>
+		</images>
+		
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Angustias</nombre_corto>
+		<nombre_largo>PONTIFICIA, REAL Y CENTENARIA HERMANDAD Y COFRADIA DE NUESTRA SEÑORA DE LAS ANGUSTIAS CORONADA</nombre_largo>
+		<fecha_salida>20120405</fecha_salida>
+		<nombre_iglesia>Real Iglesia de San Pablo</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Diego de León, Alfonso XIII, Alfaros, Juan Rufo, Rejas de Don Gome, Compás de San Agustín, Plaza de San Agustín, Jesus Nazareno, Yerbabuena, Buen Suceso, Arroyo de San Andrés, Hermanos López Diéguez, Plaza de San Andrés, San Pablo, Capitulares.</itinerario>
+		<imagenEscudo>cordoba_escudo_angustias</imagenEscudo>
+		<horaSalida>22:30</horaSalida>
+		<horaRecogida>02:17</horaRecogida>
+		<latitudRegreso>37.8843760</latitudRegreso>
+		<longitudRegreso>-4.7799808</longitudRegreso>
+		<ficheroRecorrido>cordoba_angustias</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="22:30"></punto>
+				<punto descripcion="Entrada en C.O." hora="22:44"></punto>
+				<punto descripcion="Salida C.O." hora="23:19"></punto>
+				<punto descripcion="Alfonso XIII" hora="00:00"></punto>
+				<punto descripcion="Juan Rufo" hora="00:30"></punto>
+				<punto descripcion="Plaza de San Agustín" hora="01:00"></punto>
+				<punto descripcion="Buen Suceso" hora="01:30"></punto>
+				<punto descripcion="San Pablo" hora="02:00"></punto>
+				<punto descripcion="Entrada" hora="02:17"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>cordoba_imagen_angustias_1</image>
+			<image>cordoba_imagen_angustias_2</image>
+		</images>
+		
+	</cofradia>
+	
+	<!-- Viernes Santo -->
+	
+	<cofradia>
+		<nombre_corto>Buena Muerte</nombre_corto>
+		<nombre_largo>HERMANDAD DE NAZARENOS CONGREGANTES DEL SANTISIMO CRISTO DE LA BUENA MUERTE Y NUESTRA SEÑORA REINA DE LOS MARTIRES</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Real Colegiata de San Hipólito</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Ignacio de Loyola, Alonso de Aguilar, Boulevard Gran Capitán, Gondomar, Plaza de las Tendillas, CARRERA OFICIAL, Diario de Córdoba, San Fernando, Cardenal González, Magistral González Francés, Puerta de Santa Catalina, Santa Iglesia Catedral, Cardenal Herrero, Judería, Deanes, Conde y Luque, Plaza Agrupación de Cofradías, Blanco Belmonte, Ángel de Saavedra, Jesús María, Plaza de las Tendillas, Gondomar, Boulevard Gran Capitán, Concepción, José Zorrilla, De la Alegría, Plaza de San Ignacio de Loyola.</itinerario>
+		<imagenEscudo>escudo_buena_muerte</imagenEscudo>
+		<horaSalida>00:00</horaSalida>
+		<horaRecogida>05:30</horaRecogida>
+		<latitudRegreso>37.88453120433248</latitudRegreso>
+		<longitudRegreso>-4.775965868304714</longitudRegreso>
+		<ficheroRecorrido>buena_muerte</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="00:00"></punto>
+				<punto descripcion="Boulevard Gran Capitán" hora="00:30"></punto>
+				<punto descripcion="Entrada C.O." hora="01:00"></punto>
+				<punto descripcion="Salida C.O." hora="01:35"></punto>
+				<punto descripcion="San Fernando" hora="02:00"></punto>
+				<punto descripcion="Cardenal González" hora="02:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="03:00"></punto>
+				<punto descripcion="Patio de los Naranjos" hora="03:30"></punto>
+				<punto descripcion="Deanes" hora="04:00"></punto>
+				<punto descripcion="Ángel de Saavedra" hora="04:30"></punto>
+				<punto descripcion="Gondomar" hora="05:00"></punto>
+				<punto descripcion="Entrada" hora="05:30"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_cordoba_buena_muerte_1</image>
+			<image>imagen_cordoba_buena_muerte_2</image>
+		</images>
+		
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Soledad</nombre_corto>
+		<nombre_largo>FRANCISCANA HERMANDAD DEL SANTISIMO SACRAMENTO Y COFRADIA DE NAZARENOS DE LA SANTA CRUZ EN EL MONTE CALVARIO Y MARIA SANTISIMA EN SU SOLEDAD</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Parroquia de Santiago</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Agustín Moreno, Don Rodrigo, Lineros, Plaza del Potro, Romero Barros, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Codradías, Conde y Luque, Deanes, Judería, Santa Iglesia Catedral, Magistral González Francés, Cardenal, González, Lucano, Lineros, Don Rodrigo, Agustín Moreno.</itinerario>
+		<imagenEscudo>escudo_soledad</imagenEscudo>
+		<horaSalida>18:15</horaSalida>
+		<horaRecogida>23:05</horaRecogida>
+		<latitudRegreso>37.8843908</latitudRegreso>
+		<longitudRegreso>-4.7799674</longitudRegreso>
+		<ficheroRecorrido>soledad</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:15"></punto>
+				<punto descripcion="Agustín Moreno" hora="18:30"></punto>
+				<punto descripcion="Plaza del Potro" hora="19:00"></punto>
+				<punto descripcion="Entrada C.O." hora="19:30"></punto>
+				<punto descripcion="Salida C.O." hora="20:05"></punto>
+				<punto descripcion="Blanco Belmonte" hora="20:30"></punto>
+				<punto descripcion="Deanes" hora="21:00"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="21:30"></punto>
+				<punto descripcion="Magistral González Francés" hora="22:00"></punto>
+				<punto descripcion="Lineros" hora="22:30"></punto>
+				<punto descripcion="Entrada" hora="23:05"></punto>			
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_cordoba_soledad_1</image>
+		</images>
+		
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Expiración</nombre_corto>
+		<nombre_largo>REAL, VENERABLE E ILUSTRE HERMANDAD DE PENITENCIA Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA EXPIRACION, MARIA SANTISIMA DEL SILENCIO Y NUESTRA SEÑORA DEL ROSARIO EN SUS MISTERIOS DOLOROSOS CORONADA Y SAN ANTONIO MARIA CLARET</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Real Iglesia de San Pablo</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Capitulares, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, Capitulares.</itinerario>
+		<imagenEscudo>escudo_cordoba_expiracion</imagenEscudo>
+		<horaSalida>19:30</horaSalida>
+		<horaRecogida>00:20</horaRecogida>
+		<latitudRegreso>37.8843845</latitudRegreso>
+		<longitudRegreso>-4.7799540</longitudRegreso>
+		<ficheroRecorrido>cordoba_expiracion</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="19:30"></punto>
+				<punto descripcion="Entrada C.O." hora="19:46"></punto>
+				<punto descripcion="Salida C.O." hora="20:21"></punto>
+				<punto descripcion="Conde y Luque" hora="21:00"></punto>
+				<punto descripcion="Judería" hora="21:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="22:00"></punto>
+				<punto descripcion="Patio de los Naranjos" hora="22:30"></punto>
+				<punto descripcion="Cardenal González" hora="23:00"></punto>
+				<punto descripcion="San Fernando" hora="23:30"></punto>
+				<punto descripcion="Diario de Córdoba" hora="23:30"></punto>
+				<punto descripcion="Entrada" hora="00:20"></punto>		
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_cordoba_expiracion_1</image>
+			<image>imagen_cordoba_expiracion_2</image>
+		</images>
+		
+	</cofradia>
+	
+    <cofradia>
+		<nombre_corto>Descendimiento</nombre_corto>
+		<nombre_largo>HERMANDAD DEL SANTISIMO CRISTO DEL DESCENDIMIENTO, MARIA SANTISIMA DEL REFUGIO, SAN JUAN EVANGELISTA Y NUESTRA SEÑORA DEL BUEN FIN</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Parroquia de San José y Espíriyu Santo</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Paseo Cristo del Descendimiento, Avenida de la Diputación, Plaza de la Iglesia, Plaza de Santa Teresa, Santo Cristo, Paseo de Miraflores, Jardines de Miraflores, Puente de Miraflores, Cruz del Rastro, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús y María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Corregidor Luis de la Cerda, Triunfo, Puente Romano, Bajada del Puente, Acera Arrecife, Plaza de Santa Teresa, Plaza de la Iglesia, Avd. de la Diputación, Paseo Cristo del Descendimiento.</itinerario>
+		<imagenEscudo>escudo_cordoba_descendimiento</imagenEscudo>
+		<horaSalida>18:00</horaSalida>
+		<horaRecogida>01:40</horaRecogida>
+		<latitudRegreso>37.8843929</latitudRegreso>
+		<longitudRegreso>-4.7799754</longitudRegreso>
+		<ficheroRecorrido>cordoba_descendimiento</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:00"></punto>
+				<punto descripcion="Santo Cristo" hora="18:30"></punto>
+				<punto descripcion="J.L. Villegas" hora="19:00"></punto>
+				<punto descripcion="Cruz del Rastro" hora="19:30"></punto>
+				<punto descripcion="San Fernando" hora="20:00"></punto>
+				<punto descripcion="Entrada C.O." hora="20:18"></punto>
+				<punto descripcion="Salida C.O." hora="20:53"></punto>
+				<punto descripcion="Conde y Luque" hora="21:30"></punto>
+				<punto descripcion="Deanes" hora="22:00"></punto>
+				<punto descripcion="Patio de los Naranjos" hora="22:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="23:00"></punto>
+				<punto descripcion="Puerta de Santa Catalina" hora="23:30"></punto>
+				<punto descripcion="Triunfo" hora="00:00"></punto>
+				<punto descripcion="Puente Romano" hora="00:30"></punto>
+				<punto descripcion="Acera Arrecife" hora="01:00"></punto>
+				<punto descripcion="Entrada" hora="01:40"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_cordoba_descendimiento_1</image>
+			<image>imagen_cordoba_descendimiento_2</image>
+		</images>
+
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Dolores</nombre_corto>
+		<nombre_largo>REAL, VENERABLE E ILUSTRE HERMANDAD SERVITA DE NUESTRA SEÑORA DE LOS DOLORES CORONADA Y DEL SANTISIMO CRISTO DE LA CLEMENCIA</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Iglesia Hospital de San Jacinto</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de Capuchinos, Conde de Torres Cabrera, San Zoilo, Plaza de San Miguel, San Álvaro, Cruz Conde, Plaza de las Tendillas, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Plaza de las Tendillas, Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Ramírez de las Casas Deza, Ntra. Sra. de la Paz y Esperanza, Plza de Capuchinos.</itinerario>
+		<imagenEscudo>escudo_cordoba_dolores</imagenEscudo>
+		<horaSalida>16:30</horaSalida>
+		<horaRecogida>23:15</horaRecogida>
+		<latitudRegreso>37.8843845</latitudRegreso>
+		<longitudRegreso>-4.7799620</longitudRegreso>
+		<ficheroRecorrido>cordoba_dolores</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="16:30"></punto>
+				<punto descripcion="Conde de Torres Cabrera" hora="17:00"></punto>
+				<punto descripcion="Plaza de las Tendillas" hora="17:30"></punto>
+				<punto descripcion="Blanco Belmonte" hora="18:00"></punto>
+				<punto descripcion="Judería" hora="18:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="19:00"></punto>
+				<punto descripcion="Patio de los Naranjos" hora="19:30"></punto>
+				<punto descripcion="Cardenal González" hora="20:00"></punto>
+				<punto descripcion="San Fernando" hora="20:30"></punto>
+				<punto descripcion="Entrada C.O." hora="21:00"></punto>
+				<punto descripcion="Salida C.O." hora="21:35"></punto>
+				<punto descripcion="Plaza de San Miguel" hora="22:00"></punto>
+				<punto descripcion="Conde de Torres Cabrera" hora="22:30"></punto>
+				<punto descripcion="Entrada" hora="23:15"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_cordoba_dolores_1</image>
+			<image>imagen_cordoba_dolores_2</image>
+		</images>
+
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Sepulcro</nombre_corto>
+		<nombre_largo>HERMANDAD DE LA INMACULADA CONCEPCION Y COFRADIA DE NAZARENOS DE NUESTRO SEÑOR JESUCRISTO DEL SANTO SEPULCRO Y NUESTRA SEÑORA DEL DESCONSUELO EN SU SOLEDAD</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Parroquia del Salvador y Santo Domingo de Silos (Compañia)</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de la Compañía, Santa Victoria, Juan Varela, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARREARA OFICIAL, Jesús María, Juan Varela, Santa Victoria, Plaza de la Compañía.</itinerario>
+		<imagenEscudo>escudo_sepulcro</imagenEscudo>
+		<horaSalida>19:00</horaSalida>
+		<horaRecogida>23:20</horaRecogida>
+		<latitudRegreso>37.8843675</latitudRegreso>
+		<longitudRegreso>-4.7799593</longitudRegreso>
+		<ficheroRecorrido>sepulcro</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="19:00"></punto>
+				<punto descripcion="Plaza Agrupación de Cofradías" hora="19:30"></punto>
+				<punto descripcion="Cardenal Herrero" hora="20:00"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="20:30"></punto>
+				<punto descripcion="Magistral González Francés" hora="21:00"></punto>
+				<punto descripcion="San Fernando" hora="21:30"></punto>
+				<punto descripcion="Entrada C.O." hora="22:07"></punto>
+				<punto descripcion="Salida C.O." hora="22:42"></punto>
+				<punto descripcion="Santa Victoria" hora="23:00"></punto>
+				<punto descripcion="Entrada" hora="23:20"></punto>		
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_cordoba_sepulcro_1</image>
+			<image>imagen_cordoba_sepulcro_2</image>
+		</images>
+		
+	</cofradia>
+	
+	<!-- Domingo de Resurrección -->
+	
+	<cofradia>
+		<nombre_corto>Resucitado</nombre_corto>
+		<nombre_largo>REAL E ILUSTRE HERMANDAD DE NUESTRO SEÑOR RESUCITADO Y MARIA SANTISIMA REINA DE NUESTRA ALEGRIA</nombre_largo>
+		<fecha_salida>20120408</fecha_salida>
+		<nombre_iglesia>Parroquia de Santa Marina de Aguas Santas</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de Santa Marina, Moriscos, Obispo López Criado, Plaza de San Agustín, Rejas de Don Gome, Juan Rufo, Alfaros, Capitulares, CARREARA OFICIAL, Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Plaza de Colón, Puerta del Rincón, Plaza Ruiz de Alda, Calleja Conde de Priego, Plaza Conde de Priego, Plaza de Santa Marina.</itinerario>
+		<imagenEscudo>escudo_resucitado</imagenEscudo>
+		<horaSalida>10:00</horaSalida>
+		<horaRecogida>14:40</horaRecogida>
+		<latitudRegreso>37.8843760</latitudRegreso>
+		<longitudRegreso>-4.7799861</longitudRegreso>
+		<ficheroRecorrido>cordoba_resucitado</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="10:00"></punto>
+				<punto descripcion="Moriscos" hora="10:30"></punto>
+				<punto descripcion="CObispo López Criado" hora="11:00"></punto>
+				<punto descripcion="Rejas de Don Gome" hora="11:30"></punto>
+				<punto descripcion="Alfaros" hora="12:00"></punto>
+				<punto descripcion="Entrada C.O." hora="12:30"></punto>
+				<punto descripcion="Salida C.O." hora="13:05"></punto>
+				<punto descripcion="San Zoilo" hora="13:30"></punto>
+				<punto descripcion="Conde de Torres Cabrera" hora="14:00"></punto>
+				<punto descripcion="Plaza del Conde de Priego" hora="14:30"></punto>
+				<punto descripcion="Entrada" hora="14:40"></punto>		
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_cordoba_resucitado_1</image>
+			<image>imagen_cordoba_resucitado_2</image>
+		</images>
+		
+	</cofradia>
+	
+		
+</cofradias>

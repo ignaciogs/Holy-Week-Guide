@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Holy Week Guide</string>
+    
+    <!-- Pantalla Principal Main -->
+    <string name="main_itinerario">Itineraries</string>
+    <string name="main_mapa">On the map</string>
+    <string name="main_buscar">Where to go</string>
+    <string name="main_acercade">About</string>
+    <string name="msgSelectCity">You can change the city by clicking the map icon at the top</string>
+    
+    <!-- Pantalla de lista de cofradias -->
+    <string name="lista_cofradias_salida">Output:</string>
+    <string name="lista_cofradias_recogida">Collection:</string>
+    <string name="lista_cofradias_todas">All</string>
+    <string name="lista_cofradias_title">List of fraternities</string>
+    
+    <!-- Pantalla ficha de la cofradia -->
+    <string name="ficha_cofradia_imagenes">Images</string>
+    <string name="ficha_cofradia_lugares_detacados">Highlights</string>
+    <string name="ficha_cofradia_sobre_mapa">Map</string>
+    <string name="ficha_cofradia_numeroPasos">Number of mysteries:</string>
+    <string name="ficha_cofradia_desItinerario">Itinerary</string>
+    <string name="msgNoFoto">No Images</string>
+    
+    <!-- General -->
+    <string name="text_madruga">Dawn</string>
+    <string name="text_santo">Saint</string>
+    
+    <!-- Acerca de -->
+    <string name="acercade_desarollada">This application has been designed and developed by:</string>
+    <string name="acercade_contacto">If you have something to contribute either bugs or comments for improvements, please contact me by sending an email to ignacio.glez.s @ gmail.com</string>
+    <string name="acercade_agradecimientos">The gallery images have been picked from users Juanjo Sanchez and The Fly2009 with permission from their flickr pages.</string>
+    <string name="acercade_acercade">About</string>
+    <string name="datos_cordoba">All data pertaining to the city of Córdoba (itineraries, pictures, routes) have been introduced by Jose David Expósito Cañete</string>
+    <string name="datos_jerez">All data pertaining to the city of Jerez de la Frontera (itineraries, pictures, routes) have been introduced by Alejandro Castellano Delgado (Hermandad de la Yedra)</string>
+    <string name="datos_sanfernando">All data pertaining to the city of San Fernando (itineraries) have been introduced by Ivan Toledo Fuentes, The images are the property of www.islapasion.net  </string>
+    <string name="datos_granada">All data pertaining to the city of Granada (itineraries, pictures, routes) have been introduced by Álvaro Díaz</string>
+    
+    
+    <string name="dondeir_desarrollo">Will be available via update in brief</string>
+    
+    <string name="imageGallery_all_images">Show all images</string>
+
+    <string name="select_city">Select City</string>
+
+    <string name="resureccion"></string>
+    <string name="ramos"></string>
+</resources>

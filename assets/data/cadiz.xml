@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cofradias>
+    
+    <cofradia>
+        <nombre_corto>La Borriquita</nombre_corto>
+        <nombre_largo>COFRADÍA CARMELITANA DE PENITENCIA Y SACRAMENTAL HERMANDAD DE NAZARENOS DE NUESTRO PADRE JESÚS DE LA PAZ EN SU REAL Y TRIUNFAL ENTRADA EN JERUSALÉN Y NUESTRA MADRE Y SEÑORA MARÍA SANTÍSIMA DEL AMPARO</nombre_largo>
+        <fecha_salida>20120401</fecha_salida>
+        <nombre_iglesia>Iglesia Parroquial de Nuestra Señora del Carmen y Santa Teresa</nombre_iglesia>
+        <numer25o_pasos>2</numer25o_pasos>
+        <itinerario>Alameda Marqués de Comillas, Calderón de la Barca, Plaza de Mina (dcha.), Tinte, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, Plaza de San Antonio (izq.), Veedor, Vea Murguía, Alameda Marqués de Comillas, a su Templo.</itinerario>
+        <imagenEscudo>escudo_laborriquita</imagenEscudo>
+        <horaSalida>14:30</horaSalida>
+        <horaRecogida>21:35</horaRecogida>
+        <latitudRegreso>36.534805</latitudRegreso>
+        <longitudRegreso>-6.298428</longitudRegreso>
+        <ficheroRecorrido>borriquita</ficheroRecorrido>
+        <horarios>
+            <horario descripcion="Cruz de Guía">
+                <punto descripcion="Salida" hora="14:30"></punto>
+                <punto descripcion="Catedral" hora="17:40"></punto>
+                <punto descripcion="Candelaria" hora="18:35"></punto>
+                <punto descripcion="Palillero" hora="19:00"></punto>
+                <punto descripcion="San Pablo" hora="19:20"></punto>
+                <punto descripcion="San José" hora="19:40"></punto>
+                <punto descripcion="Recogida" hora="21:30"></punto>
+            </horario>
+            <horario descripcion="Paso Misterio">
+                <punto descripcion="Salida" hora="14:55"></punto>
+                <punto descripcion="Catedral" hora="18:30"></punto>
+                <punto descripcion="Candelaria" hora="19:00"></punto>
+                <punto descripcion="Palillero" hora="19:25"></punto>
+                <punto descripcion="San Pablo" hora="19:45"></punto>
+                <punto descripcion="San José" hora="20:05"></punto>
+                <punto descripcion="Recogida" hora="21:55"></punto>
+            </horario>
+            <horario descripcion="Último Paso">
+                <punto descripcion="Salida" hora="15:20"></punto>
+                <punto descripcion="Catedral" hora="18:30"></punto>
+                <punto descripcion="Candelaria" hora="19:25"></punto>
+                <punto descripcion="Palillero" hora="19:50"></punto>
+                <punto descripcion="San Pablo" hora="20:10"></punto>
+                <punto descripcion="San José" hora="20:30"></punto>
+                <punto descripcion="Recogida" hora="22:30"></punto>
+            </horario>
+        </horarios>
+        <images>
+            <image>imagen_borriquita_1</image>
+            <image>imagen_borriquita_2</image>
+        </images>
+        <pois>
+            <poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+            <poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+            <poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+            <poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+            <poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+            <poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+        </pois>
+    </cofradia>
+    
+	<cofradia>
+		<nombre_corto>Despojado</nombre_corto>
+		<nombre_largo>HERMANDAD SALESIANA DE PENITENCIA DE NUESTRO PADRE JESUS DEL AMOR DESPOJADO DE SUS VESTIDURAS Y MARIA SANTISIMA DE LA CONCEPCION</nombre_largo>
+		<fecha_salida>20120401</fecha_salida>
+		<nombre_iglesia>Iglesia de María Auxiliadora</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Colegio Salesianos "San Ignacio" (interior), Avenida María Auxiliadora, Adriano, Avda. de Portugal, Batista, Plaza del Árbol, Gas, Colarte, Sociedad, Parlamento, Avda. de Andalucía, General Rodríguez Bouza, Fernández Ladreda, Concepción Arenal, Campo del Sur, Jabonería, San Juan de Dios, Plaza San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL , San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios, Plocia, Cuesta de las Calesas, Plaza de la Constitución, Avda. Bahía Blanca, Acacias, Brunete, García Carrera, Avda. de Portugal, Adriano, Poeta Nieto, recogida en la Iglesia de San José.</itinerario>
+		<imagenEscudo>escudo_despojado</imagenEscudo>
+		<horaSalida>13:55</horaSalida>
+		<horaRecogida>00:25</horaRecogida>
+		<latitudRegreso>36.534714</latitudRegreso>
+		<longitudRegreso>-6.297982</longitudRegreso>
+		<ficheroRecorrido>despojado</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="13:55"></punto>
+				<punto descripcion="Catedral" hora="18:30"></punto>
+				<punto descripcion="Candelaria" hora="19:25"></punto>
+				<punto descripcion="Palillero" hora="19:50"></punto>
+				<punto descripcion="San Pablo" hora="20:10"></punto>
+				<punto descripcion="San José" hora="20:30"></punto>
+				<punto descripcion="Recogida" hora="00:25"></punto>
+			</horario>
+			<horario descripcion="Último paso">
+				<punto descripcion="Salida" hora="14:15"></punto>
+				<punto descripcion="Catedral" hora="18:50"></punto>
+				<punto descripcion="Candelaria" hora="19:45"></punto>
+				<punto descripcion="Palillero" hora="20:10"></punto>
+				<punto descripcion="San Pablo" hora="20:30"></punto>
+				<punto descripcion="San José" hora="20:50"></punto>
+				<punto descripcion="Recogida" hora="00:40"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_despojado_1</image>
+			<image>imagen_despojado_2</image>
+			<image>imagen_despojado_3</image>
+			<image>imagen_despojado_4</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="36.512184" long="-6.278971" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Santa Cena</nombre_corto>
+		<nombre_largo>HERMANDAD SACRAMENTAL Y DE PENITENCIA Y COFRADIA DE NAZARENOS DE LA PURA Y LIMPIA MADRE DE DIOS, NTRO. PADRE JESUS DEL MILAGRO EN LA SAGRADA CENA Y MARIA STMA. REINA DE TODOS LOS SANTOS</nombre_largo>
+		<fecha_salida>20120401</fecha_salida>
+		<nombre_iglesia>Iglesia Conventual de Santo Domingo</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Compás de Santo Domingo, Sopranis, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego José de Cádiz, Rosario, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Sopranis, Compás de Santo Domingo, a su Templo.</itinerario>
+		<imagenEscudo>escudo_santacena</imagenEscudo>
+		<horaSalida>17:15</horaSalida>
+		<horaRecogida>23:50</horaRecogida>
+		<latitudRegreso>36.534721</latitudRegreso>
+		<longitudRegreso>-6.297985</longitudRegreso>
+		<ficheroRecorrido>santacena</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:15"></punto>
+				<punto descripcion="Catedral" hora="18:50"></punto>
+				<punto descripcion="Candelaria" hora="19:45"></punto>
+				<punto descripcion="Palillero" hora="20:10"></punto>
+				<punto descripcion="San Pablo" hora="20:30"></punto>
+				<punto descripcion="San José" hora="20:50"></punto>
+				<punto descripcion="Recogida" hora="23:50"></punto>
+			</horario>
+			<horario descripcion="Último paso">
+				<punto descripcion="Salida" hora="17:40"></punto>
+				<punto descripcion="Catedral" hora="19:15"></punto>
+				<punto descripcion="Candelaria" hora="20:05"></punto>
+				<punto descripcion="Palillero" hora="20:30"></punto>
+				<punto descripcion="San Pablo" hora="20:50"></punto>
+				<punto descripcion="San José" hora="21:10"></punto>
+				<punto descripcion="Recogida" hora="00:15"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_santacena_1</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="36.528824" long="-6.290199" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Humildad y Paciencia</nombre_corto>
+		<nombre_largo>VENERABLE, INMEMORIAL, PONTIFICIA Y NACIONAL COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DE LA HUMILDAD Y PACIENCIA Y NUESTRA SEÑORA DE LA AMARGURA</nombre_largo>
+		<fecha_salida>20120401</fecha_salida>
+		<nombre_iglesia>Parroquia de San Agustín</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago,  CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza de San Agustín, a su Templo.</itinerario>
+		<imagenEscudo>escudo_humildadpaciencia</imagenEscudo>
+		<horaSalida>17:40</horaSalida>
+		<horaRecogida>23:45</horaRecogida>
+		<latitudRegreso>36.534725</latitudRegreso>
+		<longitudRegreso>-6.298004</longitudRegreso>
+		<ficheroRecorrido>humildadypaciencia</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:40"></punto>
+				<punto descripcion="Catedral" hora="19:10"></punto>
+				<punto descripcion="Candelaria" hora="20:30"></punto>
+				<punto descripcion="Palillero" hora="20:55"></punto>
+				<punto descripcion="San Pablo" hora="21:15"></punto>
+				<punto descripcion="San José" hora="21:35"></punto>
+				<punto descripcion="Recogida" hora="23:45"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="17:45"></punto>
+				<punto descripcion="Catedral" hora="19:30"></punto>
+				<punto descripcion="Candelaria" hora="20:50"></punto>
+				<punto descripcion="Palillero" hora="21:15"></punto>
+				<punto descripcion="San Pablo" hora="21:35"></punto>
+				<punto descripcion="San José" hora="21:55"></punto>
+				<punto descripcion="Recogida" hora="00:10"></punto>
+			</horario>
+			<horario descripcion="Último paso">
+				<punto descripcion="Salida" hora="18:10"></punto>
+				<punto descripcion="Catedral" hora="19:55"></punto>
+				<punto descripcion="Candelaria" hora="21:15"></punto>
+				<punto descripcion="Palillero" hora="21:40"></punto>
+				<punto descripcion="San Pablo" hora="22:00"></punto>
+				<punto descripcion="San José" hora="22:20"></punto>
+				<punto descripcion="Recogida" hora="00:35"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_humildad_2</image>
+			<image>imagen_humildad_3</image>
+			<image>imagen_humildad_4</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Las Penas</nombre_corto>
+		<nombre_largo>VENERABLE Y REAL ARCHICOFRADÍA DE NUESTRA SEÑORA DEL PILAR DE ZARAGOZA, NUESTRO PADRE JESÚS DE LAS PENAS Y MARÍA DE LAS PENAS Y MARÍA SANTÍSIMA DE LA CARIDAD</nombre_largo>
+		<fecha_salida>20120401</fecha_salida>
+		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Sagasta (izq.), Hospital de Mujeres (drch), Plaza de Topete, Compañía, Santiago, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Mateo de Alba, Sagasta (izq.), a su Templo.</itinerario>
+		<imagenEscudo>escudo_laspenas</imagenEscudo>
+		<horaSalida>18:10</horaSalida>
+		<horaRecogida>23:50</horaRecogida>
+		<latitudRegreso>36.532917</latitudRegreso>
+		<longitudRegreso>-6.299919</longitudRegreso>
+		<ficheroRecorrido>penas</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:10"></punto>
+				<punto descripcion="Catedral" hora="20:00"></punto>
+				<punto descripcion="Candelaria" hora="21:15"></punto>
+				<punto descripcion="Palillero" hora="21:40"></punto>
+				<punto descripcion="San Pablo" hora="22:00"></punto>
+				<punto descripcion="San José" hora="22:20"></punto>
+				<punto descripcion="Recogida" hora="23:50"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="18:25"></punto>
+				<punto descripcion="Catedral" hora="20:15"></punto>
+				<punto descripcion="Candelaria" hora="21:30"></punto>
+				<punto descripcion="Palillero" hora="21:55"></punto>
+				<punto descripcion="San Pablo" hora="22:15"></punto>
+				<punto descripcion="San José" hora="22:35"></punto>
+				<punto descripcion="Recogida" hora="00:05"></punto>
+			</horario>
+			<horario descripcion="Último paso">
+				<punto descripcion="Salida" hora="18:50"></punto>
+				<punto descripcion="Catedral" hora="20:35"></punto>
+				<punto descripcion="Candelaria" hora="21:50"></punto>
+				<punto descripcion="Palillero" hora="22:15"></punto>
+				<punto descripcion="San Pablo" hora="22:35"></punto>
+				<punto descripcion="San José" hora="22:25"></punto>
+				<punto descripcion="Recogida" hora="00:30"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_penas_1</image>
+			<image>imagen_penas_2</image>
+			<image>imagen_penas_3</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>La Palma</nombre_corto>
+		<nombre_largo>PRIMERA COMPAÑÍA ESPIRITUAL DEL SANTO ROSARIO Y CORO DEL AVE MARÍA, VENERABLE, ANTIGUA, ILUSTRE, FRANCISCANA, LASALIANA, VICENCIANA, PONTIFICIA Y REAL ARCHICOFRADÍA SACRAMENTAL DE NUESTRA SEÑORA DE LA PALMA CORONADA (AGREGADA A LA DEL SANTÍSIMO NOMBRE DE MARÍA DE LA CORTE DE ROMA), SANTÍSIMO CRISTO DE LA MISERICORDIA Y MARÍA SANTÍSIMA DE LAS PENAS</nombre_largo>
+		<fecha_salida>20120402</fecha_salida>
+		<nombre_iglesia>Parroquia de Ntra. Sra. de la Palma</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Virgen de la Palma, Virgen de las Penas, Hermano San Ignacio, Plaza Tío de la Tiza, Pastora, Rosa (dcha), Sagasta (izq), Hospital de Mujeres (drcha), Plaza de Topete, Compañía, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, Plaza de San Antonio (izq), Torre, Rosa (dcha), Patrocinio, San Félix, Virgen de la Palma (izq), a su Templo.</itinerario>
+		<imagenEscudo>escudo_lapalma</imagenEscudo>
+		<horaSalida>15:45</horaSalida>
+		<horaRecogida>00:00</horaRecogida>
+		<latitudRegreso>36.534447</latitudRegreso>
+		<longitudRegreso>-6.298610</longitudRegreso>
+		<ficheroRecorrido>palma</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="15:45"></punto>
+				<punto descripcion="Catedral" hora="18:15"></punto>
+				<punto descripcion="Candelaria" hora="19:15"></punto>
+				<punto descripcion="Palillero" hora="19:45"></punto>
+				<punto descripcion="San Pablo" hora="20:05"></punto>
+				<punto descripcion="San José" hora="20:25"></punto>
+				<punto descripcion="Recogida" hora="00:00"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="16:10"></punto>
+				<punto descripcion="Catedral" hora="18:35"></punto>
+				<punto descripcion="Candelaria" hora="19:35"></punto>
+				<punto descripcion="Palillero" hora="20:05"></punto>
+				<punto descripcion="San Pablo" hora="20:25"></punto>
+				<punto descripcion="San José" hora="20:45"></punto>
+				<punto descripcion="Recogida" hora="00:30"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="16:40"></punto>
+				<punto descripcion="Catedral" hora="19:15"></punto>
+				<punto descripcion="Candelaria" hora="20:15"></punto>
+				<punto descripcion="Palillero" hora="20:45"></punto>
+				<punto descripcion="San Pablo" hora="21:05"></punto>
+				<punto descripcion="San José" hora="21:25"></punto>
+				<punto descripcion="Recogida" hora="01:15"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_palma_1</image>
+			<image>imagen_palma_2</image>
+			<image>imagen_palma_3</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Nazareno del amor</nombre_corto>
+		<nombre_largo>VENERABLE Y SERÁFICA HERMANDAD DE PENITENCIA DE NUESTRO PADRE JESÚS NAZARENO DEL AMOR Y NUESTRA SEÑORA DE LA ESPERANZA.</nombre_largo>
+		<fecha_salida>20120402</fecha_salida>
+		<nombre_iglesia>Iglesia Conventual de San Francisco</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Francisco, Tinte, Plaza de Mina (por delante del Museo), Santiago Terry, Fermín Salvochea, Isabel la Católica, Plaza Stmo. Cristo de la Vera Cruz, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza de San Francisco, a su Templo.</itinerario>
+		<imagenEscudo>escudo_nazarenoamor</imagenEscudo>
+		<horaSalida>15:45</horaSalida>
+		<horaRecogida>23:05</horaRecogida>
+		<latitudRegreso>36.534988</latitudRegreso>
+		<longitudRegreso>-6.297690</longitudRegreso>
+		<ficheroRecorrido>nazareno_amor</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="15:45"></punto>
+				<punto descripcion="Catedral" hora="19:20"></punto>
+				<punto descripcion="Candelaria" hora="20:20"></punto>
+				<punto descripcion="Palillero" hora="20:50"></punto>
+				<punto descripcion="San Pablo" hora="21:10"></punto>
+				<punto descripcion="San José" hora="21:30"></punto>
+				<punto descripcion="Recogida" hora="23:05"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="16:15"></punto>
+				<punto descripcion="Catedral" hora="19:55"></punto>
+				<punto descripcion="Candelaria" hora="20:55"></punto>
+				<punto descripcion="Palillero" hora="21:25"></punto>
+				<punto descripcion="San Pablo" hora="21:45"></punto>
+				<punto descripcion="San José" hora="22:05"></punto>
+				<punto descripcion="Recogida" hora="00:00"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="16:45"></punto>
+				<punto descripcion="Catedral" hora="20:20"></punto>
+				<punto descripcion="Candelaria" hora="21:20"></punto>
+				<punto descripcion="Palillero" hora="21:50"></punto>
+				<punto descripcion="San Pablo" hora="22:10"></punto>
+				<punto descripcion="San José" hora="22:30"></punto>
+				<punto descripcion="Recogida" hora="00:15"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_amor_1</image>
+			<image>imagen_amor_2</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Prendimiento</nombre_corto>
+		<nombre_largo>REAL CONGREGACIÓN DE LA VELA Y MAYOR CULTO AL SANTÍSIMO SACRAMENTO, FRANCISCANA Y CARMELITANA HERMANDAD DE PENITENCIA DE NUESTRO PADRE JESÚS EN SU PRENDIMIENTO, MARÍA SANTÍSIMA DEL PATROCINIO Y BEATO FRAY DIEGO JOSÉ DE CÁDIZ.</nombre_largo>
+		<fecha_salida>20120402</fecha_salida>
+		<nombre_iglesia>Parroquia de Ntra. Sra. del Carmen y Santa Teresa</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Alameda Marqués de Comillas, Calderón de la Barca, Plaza de Mina, Tinte, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San Antonio (centro), Veedor, Bendición de Dios, Alameda Marqués de Comillas, a su Templo.</itinerario>
+		<imagenEscudo>escudo_prendimiento</imagenEscudo>
+		<horaSalida>17:00</horaSalida>
+		<horaRecogida>00:30</horaRecogida>
+		<latitudRegreso>36.535069</latitudRegreso>
+		<longitudRegreso>-6.299251</longitudRegreso>
+		<ficheroRecorrido>prendimiento</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:00 "></punto>
+				<punto descripcion="Catedral" hora="20:25"></punto>
+				<punto descripcion="Candelaria" hora="21:25"></punto>
+				<punto descripcion="Palillero" hora="21:55"></punto>
+				<punto descripcion="San Pablo" hora="22:15"></punto>
+				<punto descripcion="San José" hora="22:35"></punto>
+				<punto descripcion="Recogida" hora="00:30"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="17:15"></punto>
+				<punto descripcion="Catedral" hora="20:45"></punto>
+				<punto descripcion="Candelaria" hora="21:25"></punto>
+				<punto descripcion="Palillero" hora="22:15"></punto>
+				<punto descripcion="San Pablo" hora="22:35"></punto>
+				<punto descripcion="San José" hora="22:55"></punto>
+				<punto descripcion="Recogida" hora="01:00"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="17:30"></punto>
+				<punto descripcion="Catedral" hora="21:10"></punto>
+				<punto descripcion="Candelaria" hora="22:10"></punto>
+				<punto descripcion="Palillero" hora="22:40"></punto>
+				<punto descripcion="San Pablo" hora="23:00"></punto>
+				<punto descripcion="San José" hora="23:20"></punto>
+				<punto descripcion="Recogida" hora="01:30"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_prendimiento_1</image>
+			<image>imagen_prendimiento_2</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Vera Cruz</nombre_corto>
+		<nombre_largo>MUY ILUSTRE, ANTIGUA, VENERABLE, Y FRANCISCANA HERMANDAD Y COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DE LA VERA-CRUZ Y NUESTRA SEÑORA DE LA SOLEDAD.</nombre_largo>
+		<fecha_salida>20120402</fecha_salida>
+		<nombre_iglesia>Iglesia Conventual de San Francisco</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza de San Francisco, a su Templo.</itinerario>
+		<imagenEscudo>escudo_veracruz</imagenEscudo>
+		<horaSalida>19:25</horaSalida>
+		<horaRecogida>00:50</horaRecogida>
+		<latitudRegreso>36.534718</latitudRegreso>
+		<longitudRegreso>-6.297977</longitudRegreso>
+		<ficheroRecorrido>vera_cruz</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="19:25"></punto>
+				<punto descripcion="Catedral" hora="21:25"></punto>
+				<punto descripcion="Candelaria" hora="22:15"></punto>
+				<punto descripcion="Palillero" hora="22:45"></punto>
+				<punto descripcion="San Pablo" hora="23:05"></punto>
+				<punto descripcion="San José" hora="23:25"></punto>
+				<punto descripcion="Recogida" hora="00:50"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="19:40"></punto>
+				<punto descripcion="Catedral" hora="21:40"></punto>
+				<punto descripcion="Candelaria" hora="22:30"></punto>
+				<punto descripcion="Palillero" hora="23:00"></punto>
+				<punto descripcion="San Pablo" hora="23:20"></punto>
+				<punto descripcion="San José" hora="23:40"></punto>
+				<punto descripcion="Recogida" hora="01:10"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="20:10"></punto>
+				<punto descripcion="Catedral" hora="22:00"></punto>
+				<punto descripcion="Candelaria" hora="22:50"></punto>
+				<punto descripcion="Palillero" hora="23:20"></punto>
+				<punto descripcion="San Pablo" hora="23:40"></punto>
+				<punto descripcion="San José" hora="00:00"></punto>
+				<punto descripcion="Recogida" hora="01:50"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_veracruz_1</image>
+			<image>imagen_veracruz_2</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Piedad</nombre_corto>
+		<nombre_largo>VENERABLE Y NACIONAL COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DEL MAYOR DOLOR Y MARÍA SANTÍSIMA DE LA SALUD.</nombre_largo>
+		<fecha_salida>20120403</fecha_salida>
+		<nombre_iglesia>Iglesia de Santiago</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, a su Templo.</itinerario>
+		<imagenEscudo>escudo_piedad</imagenEscudo>
+		<horaSalida>17:45</horaSalida>
+		<horaRecogida>00:15</horaRecogida>
+		<latitudRegreso>36.534592</latitudRegreso>
+		<longitudRegreso>-6.298124</longitudRegreso>
+		<ficheroRecorrido>piedad</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:45"></punto>
+				<punto descripcion="Catedral" hora="18:05"></punto>
+				<punto descripcion="Candelaria" hora="19:05"></punto>
+				<punto descripcion="Palillero" hora="19:40"></punto>
+				<punto descripcion="San Pablo" hora="20:00"></punto>
+				<punto descripcion="San José" hora="20:20"></punto>
+				<punto descripcion="Recogida" hora="00:15"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="18:00"></punto>
+				<punto descripcion="Catedral" hora="18:25"></punto>
+				<punto descripcion="Candelaria" hora="19:20"></punto>
+				<punto descripcion="Palillero" hora="19:50"></punto>
+				<punto descripcion="San Pablo" hora="20:10"></punto>
+				<punto descripcion="San José" hora="20:30"></punto>
+				<punto descripcion="Recogida" hora="00:35"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="18:20"></punto>
+				<punto descripcion="Catedral" hora="18:50"></punto>
+				<punto descripcion="Candelaria" hora="19:45"></punto>
+				<punto descripcion="Palillero" hora="20:15"></punto>
+				<punto descripcion="San Pablo" hora="20:35"></punto>
+				<punto descripcion="San José" hora="20:55"></punto>
+				<punto descripcion="Recogida" hora="01:00"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_piedad_1</image>
+			<image>imagen_piedad_2</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>El Caido</nombre_corto>
+		<nombre_largo>HERMANDAD SACRAMENTAL, VENERABLE, Y MARIANISTA COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS CAIDO Y MARÍA SANTÍSIMA DE LOS DESAMPARADOS.</nombre_largo>
+		<fecha_salida>20120403</fecha_salida>
+		<nombre_iglesia>Iglesia Conventual de San Francisco</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza Stmo. Cristo de la Vera-Cruz, Plaza San Francisco, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza de San Francisco, Plaza Stmo. Cristo de la Vera-Cruz, a su Templo.</itinerario>
+		<imagenEscudo>escudo_cadiz_caido</imagenEscudo>
+		<horaSalida>16:45</horaSalida>
+		<horaRecogida>23:00</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>caido</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="16:45"></punto>
+				<punto descripcion="Catedral" hora="19:00"></punto>
+				<punto descripcion="Candelaria" hora="19:55"></punto>
+				<punto descripcion="Palillero" hora="20:25"></punto>
+				<punto descripcion="San Pablo" hora="20:45"></punto>
+				<punto descripcion="San José" hora="21:05"></punto>
+				<punto descripcion="Recogida" hora="23:00"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="17:05"></punto>
+				<punto descripcion="Catedral" hora="19:20"></punto>
+				<punto descripcion="Candelaria" hora="20:15"></punto>
+				<punto descripcion="Palillero" hora="20:45"></punto>
+				<punto descripcion="San Pablo" hora="21:05"></punto>
+				<punto descripcion="San José" hora="21:25"></punto>
+				<punto descripcion="Recogida" hora="23:30"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="17:25"></punto>
+				<punto descripcion="Catedral" hora="19:45"></punto>
+				<punto descripcion="Candelaria" hora="20:40"></punto>
+				<punto descripcion="Palillero" hora="21:10"></punto>
+				<punto descripcion="San Pablo" hora="21:30"></punto>
+				<punto descripcion="San José" hora="21:50"></punto>
+				<punto descripcion="Recogida" hora="00:00"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_caido_1</image>
+			<image>imagen_caido_2</image>
+			<image>imagen_caido_3</image>
+			<image>imagen_caido_4</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Sanidad</nombre_corto>
+		<nombre_largo>VENERABLE Y NACIONAL COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DEL MAYOR DOLOR Y MARÍA SANTÍSIMA DE LA SALUD.</nombre_largo>
+		<fecha_salida>20120403</fecha_salida>
+		<nombre_iglesia>Parroquia de Santa Cruz</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de Fray Félix, Obispo José María Rancés, Plaza de San Martín, Posadilla, San Antonio Abad, Fabio Rufino, Pomponio Mela, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, Rosario, Márquez de Valdeiñigo, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Ruiz de Bustamante, Marqués de Cádiz, Pelota, Pomponio Mela, Fabio Rufino, San Antonio Abad, Posadilla, Plaza de San Martín, Obispo José María Rances, Plaza de Fray Félix, a su Templo.</itinerario>
+		<imagenEscudo>escudo_mayordolor</imagenEscudo>
+		<horaSalida>18:45</horaSalida>
+		<horaRecogida>01:00</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>sanidad</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:45"></punto>
+				<punto descripcion="Catedral" hora="19:50"></punto>
+				<punto descripcion="Candelaria" hora="20:45"></punto>
+				<punto descripcion="Palillero" hora="21:15"></punto>
+				<punto descripcion="San Pablo" hora="21:35"></punto>
+				<punto descripcion="San José" hora="21:55"></punto>
+				<punto descripcion="Recogida" hora="01:00"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="19:00"></punto>
+				<punto descripcion="Catedral" hora="20:05"></punto>
+				<punto descripcion="Candelaria" hora="21:00"></punto>
+				<punto descripcion="Palillero" hora="21:30"></punto>
+				<punto descripcion="San Pablo" hora="21:50"></punto>
+				<punto descripcion="San José" hora="22:10"></punto>
+				<punto descripcion="Recogida" hora="01:15"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="19:15"></punto>
+				<punto descripcion="Catedral" hora="20:20"></punto>
+				<punto descripcion="Candelaria" hora="21:15"></punto>
+				<punto descripcion="Palillero" hora="21:45"></punto>
+				<punto descripcion="San Pablo" hora="22:05"></punto>
+				<punto descripcion="San José" hora="22:25"></punto>
+				<punto descripcion="Recogida" hora="01:30"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_sanidad_1</image>
+			<image>imagen_sanidad_2</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+    
+    <cofradia>
+        <nombre_corto>Columnas</nombre_corto>
+        <nombre_largo>VENERABLE, REAL Y MUY ILUSTRE ARCHICOFRADÍA DE LA SANTÍSIMA RESURRECCIÓN Y PENITENCIA DE NUESTRO PADRE JESÚS ATADO A LA COLUMNA Y AZOTES Y MARÍA SANTÍSIMA DE LAS LÁGRIMAS.</nombre_largo>
+        <fecha_salida>20120403</fecha_salida>
+        <nombre_iglesia>Parroquia de San Antonio</nombre_iglesia>
+        <numero_pasos>2</numero_pasos>
+        <itinerario>Plaza de San Antonio (dcha.), Ancha, San José (izq.),Plaza de Mina,Tinte, Rosario,Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Benjumeda, Torre, Plaza de San Antonio, a su Templo.</itinerario>
+        <imagenEscudo>escudo_columnas</imagenEscudo>
+        <horaSalida>17:15</horaSalida>
+        <horaRecogida>23:30</horaRecogida>
+        <latitudRegreso>36.534500</latitudRegreso>
+        <longitudRegreso>-6.298698</longitudRegreso>
+        <ficheroRecorrido>columnas</ficheroRecorrido>
+        <horarios>
+            <horario descripcion="Cruz de Guía">
+                <punto descripcion="Salida" hora="17:15"></punto>
+                <punto descripcion="Catedral" hora="20:25"></punto>
+                <punto descripcion="Candelaria" hora="21:20"></punto>
+                <punto descripcion="Palillero" hora="21:50"></punto>
+                <punto descripcion="San Pablo" hora="22:10"></punto>
+                <punto descripcion="San José" hora="22:30"></punto>
+                <punto descripcion="Recogida" hora="23:30"></punto>
+            </horario>
+            <horario descripcion="Paso Misterio">
+                <punto descripcion="Salida" hora="17:30"></punto>
+                <punto descripcion="Catedral" hora="20:45"></punto>
+                <punto descripcion="Candelaria" hora="21:40"></punto>
+                <punto descripcion="Palillero" hora="22:10"></punto>
+                <punto descripcion="San Pablo" hora="22:30"></punto>
+                <punto descripcion="San José" hora="22:50"></punto>
+                <punto descripcion="Recogida" hora="00:00"></punto>
+            </horario>
+            <horario descripcion="Último Paso">
+                <punto descripcion="Salida" hora="17:55"></punto>
+                <punto descripcion="Catedral" hora="21:10"></punto>
+                <punto descripcion="Candelaria" hora="22:05"></punto>
+                <punto descripcion="Palillero" hora="22:35"></punto>
+                <punto descripcion="San Pablo" hora="22:55"></punto>
+                <punto descripcion="San José" hora="23:15"></punto>
+                <punto descripcion="Recogida" hora="00:30"></punto>
+            </horario>
+        </horarios>
+        <images>
+            <image>imagen_columnas_1</image>
+            <image>imagen_columnas_2</image>
+        </images>
+        <pois>
+            <poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+            <poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+            <poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+            <poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+            <poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+            <poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+        </pois>
+    </cofradia>
+	
+	<cofradia>
+		<nombre_corto>Ecce-Homo</nombre_corto>
+		<nombre_largo>REAL Y VENERABLE, ARCHICOFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DEL ECCE–HOMO, MARÍA SANTÍSIMA DE LAS ANGUSTIAS Y SAN JUAN EVANGELISTA.</nombre_largo>
+		<fecha_salida>20120403</fecha_salida>
+		<nombre_iglesia>Iglesia de la Conversión de San Pablo</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Ancha, Novena, Valverde, Beato Diego de Cádiz, Rosario, Plaza de San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Cánovas del Castillo, Valverde, Novena, Ancha, a su Templo.</itinerario>
+		<imagenEscudo>escudo_eccehomo</imagenEscudo>
+		<horaSalida>18:15</horaSalida>
+		<horaRecogida>00:05</horaRecogida>
+		<latitudRegreso>36.534580</latitudRegreso>
+		<longitudRegreso>-6.298120</longitudRegreso>
+		<ficheroRecorrido>eccehomo</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:15"></punto>
+				<punto descripcion="Catedral" hora="21:15"></punto>
+				<punto descripcion="Candelaria" hora="22:10"></punto>
+				<punto descripcion="Palillero" hora="22:40"></punto>
+				<punto descripcion="San Pablo" hora="23:00"></punto>
+				<punto descripcion="San José" hora="23:20"></punto>
+				<punto descripcion="Recogida" hora="00:05"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="18:35"></punto>
+				<punto descripcion="Catedral" hora="21:35"></punto>
+				<punto descripcion="Candelaria" hora="22:30"></punto>
+				<punto descripcion="Palillero" hora="23:00"></punto>
+				<punto descripcion="San Pablo" hora="23:20"></punto>
+				<punto descripcion="San José" hora="23:40"></punto>
+				<punto descripcion="Recogida" hora="00:25"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="18:55"></punto>
+				<punto descripcion="Catedral" hora="21:55"></punto>
+				<punto descripcion="Candelaria" hora="22:50"></punto>
+				<punto descripcion="Palillero" hora="23:20"></punto>
+				<punto descripcion="San Pablo" hora="23:40"></punto>
+				<punto descripcion="San José" hora="00:00"></punto>
+				<punto descripcion="Recogida" hora="00:50"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_eccehomo_1</image>
+			<image>imagen_eccehomo_2</image>
+			<image>imagen_eccehomo_3</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>La Luz y el Agua</nombre_corto>
+		<nombre_largo>REAL, GREMIAL NACIONAL Y MARIANISTA HERMANDAD SACRAMENTAL DEL SANTÍSIMO CRISTO DE LAS AGUAS, NUESTRA SEÑORA DE LA LUZ Y ASOCIACIÓN DE DISCÍPULOS DE SAN JUAN EVANGELISTA.</nombre_largo>
+		<fecha_salida>20120404</fecha_salida>
+		<nombre_iglesia>Parroquia de Santa Cruz</nombre_iglesia>
+		<numero_pasos>3</numero_pasos>
+		<itinerario>Plaza de Fray Félix, Campo del Sur, Arquitecto Acero, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pomponio Mela, Fabio Rufino, San Antonio Abad, Posadilla, Plaza San Martín, Obispo José María Rancés, Plaza de Fray Félix, a su Templo.</itinerario>
+		<imagenEscudo>escudo_luzyagua</imagenEscudo>
+		<horaSalida>16:45</horaSalida>	
+		<horaRecogida>00:50</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>luzagua</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="16:45"></punto>
+				<punto descripcion="Catedral" hora="17:45"></punto>
+				<punto descripcion="Candelaria" hora="18:50"></punto>
+				<punto descripcion="Palillero" hora="19:40"></punto>
+				<punto descripcion="San Pablo" hora="20:00"></punto>
+				<punto descripcion="San José" hora="20:20"></punto>
+				<punto descripcion="Recogida" hora="00:50"></punto>
+			</horario>
+			<horario descripcion="Paso San Juan">
+				<punto descripcion="Salida" hora="17:00"></punto>
+				<punto descripcion="Catedral" hora="18:00"></punto>
+				<punto descripcion="Candelaria" hora="19:00"></punto>
+				<punto descripcion="Palillero" hora="19:50"></punto>
+				<punto descripcion="San Pablo" hora="20:10"></punto>
+				<punto descripcion="San José" hora="20:30"></punto>
+				<punto descripcion="Recogida" hora="01:05"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="17:20"></punto>
+				<punto descripcion="Catedral" hora="18:20"></punto>
+				<punto descripcion="Candelaria" hora="19:20"></punto>
+				<punto descripcion="Palillero" hora="20:05"></punto>
+				<punto descripcion="San Pablo" hora="20:25"></punto>	
+				<punto descripcion="San José" hora="20:45"></punto>
+				<punto descripcion="Recogida" hora="01:25"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="17:40"></punto>
+				<punto descripcion="Catedral" hora="18:40"></punto>
+				<punto descripcion="Candelaria" hora="19:40"></punto>
+				<punto descripcion="Palillero" hora="20:25"></punto>
+				<punto descripcion="San Pablo" hora="20:45"></punto>
+				<punto descripcion="San José" hora="21:05"></punto>
+				<punto descripcion="Recogida" hora="01:45"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_luzagua_1</image>
+			<image>imagen_luzagua_2</image>
+			<image>imagen_luzagua_3</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>La Cigarrera</nombre_corto>
+		<nombre_largo>REAL, ILUSTRE Y VENERABLE COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DE LA SALUD, MARÍA SANTÍSIMA DE LA ESPERANZA Y NUESTRA SEÑORA DEL AMOR HERMOSO.</nombre_largo>
+		<fecha_salida>20120404</fecha_salida>
+		<nombre_iglesia>Iglesia Conventual de Santo Domingo</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Compás de Santo Domingo, Plocia, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios, Plocia, Compás de Santo Domingo, a su Templo.</itinerario>
+		<imagenEscudo>escudo_cigarrera</imagenEscudo>
+		<horaSalida>17:15</horaSalida>
+		<horaRecogida>01:00</horaRecogida>
+		<latitudRegreso>36.534721</latitudRegreso>
+		<longitudRegreso>-6.297950</longitudRegreso>
+		<ficheroRecorrido>cigarrera</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:15"></punto>
+				<punto descripcion="Catedral" hora="18:55"></punto>
+				<punto descripcion="Candelaria" hora="19:55"></punto>
+				<punto descripcion="Palillero" hora="20:35"></punto>
+				<punto descripcion="San Pablo" hora="20:55"></punto>
+				<punto descripcion="San José" hora="21:15"></punto>
+				<punto descripcion="Recogida" hora="01:00"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="17:35"></punto>
+				<punto descripcion="Catedral" hora="19:20"></punto>
+				<punto descripcion="Candelaria" hora="20:20"></punto>
+				<punto descripcion="Palillero" hora="21:00"></punto>
+				<punto descripcion="San Pablo" hora="21:20"></punto>
+				<punto descripcion="San José" hora="21:40"></punto>
+				<punto descripcion="Recogida" hora="01:30"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="18:00"></punto>
+				<punto descripcion="Catedral" hora="19:45"></punto>
+				<punto descripcion="Candelaria" hora="20:45"></punto>
+				<punto descripcion="Palillero" hora="21:25"></punto>
+				<punto descripcion="San Pablo" hora="21:45"></punto>
+				<punto descripcion="San José" hora="22:05"></punto>
+				<punto descripcion="Recogida" hora="02:00"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_cigarreras_1</image>
+			<image>imagen_cigarreras_2</image>
+			<image>imagen_cigarreras_3</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Sentencia</nombre_corto>
+		<nombre_largo>VENERABLE Y MERCEDARIA COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DE LA SENTENCIA Y NUESTRA SEÑORA DEL BUEN FIN.</nombre_largo>
+		<fecha_salida>20120404</fecha_salida>
+		<nombre_iglesia>Parroquia de Ntra. Sra. de la Merced</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Merced, Plaza de las Canastas, Jesús de la Sentencia, San Juan de Dios, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), San Juan de Dios, Jesús de la Sentencia, Plaza de las Canastas, Merced, a su Templo.</itinerario>
+		<imagenEscudo>escudo_sentencia</imagenEscudo>
+		<horaSalida>18:15</horaSalida>
+		<horaRecogida>01:15</horaRecogida>
+		<latitudRegreso>36.534645</latitudRegreso>
+		<longitudRegreso>-6.298068</longitudRegreso>
+		<ficheroRecorrido>sentencia</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:15"></punto>
+				<punto descripcion="Catedral" hora="19:50"></punto>
+				<punto descripcion="Candelaria" hora="20:50"></punto>
+				<punto descripcion="Palillero" hora="21:30"></punto>
+				<punto descripcion="San Pablo" hora="21:50"></punto>
+				<punto descripcion="San José" hora="22:10"></punto>
+				<punto descripcion="Recogida" hora="01:15"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="18:30"></punto>
+				<punto descripcion="Catedral" hora="20:10"></punto>
+				<punto descripcion="Candelaria" hora="21:10"></punto>
+				<punto descripcion="Palillero" hora="21:50"></punto>
+				<punto descripcion="San Pablo" hora="22:10"></punto>
+				<punto descripcion="San José" hora="22:30"></punto>
+				<punto descripcion="Recogida" hora="01:45"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="19:00"></punto>
+				<punto descripcion="Catedral" hora="20:35"></punto>
+				<punto descripcion="Candelaria" hora="21:35"></punto>
+				<punto descripcion="Palillero" hora="22:15"></punto>
+				<punto descripcion="San Pablo" hora="22:35"></punto>
+				<punto descripcion="San José" hora="22:55"></punto>
+				<punto descripcion="Recogida" hora="03:00"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_sentencia_1</image>
+			<image>imagen_sentencia_2</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Angustias</nombre_corto>
+		<nombre_largo>VENERABLE COFRADÍA DE PENITENCIA DE NUESTRA SEÑORA DE LAS ANGUSTIAS.</nombre_largo>
+		<fecha_salida>20120404</fecha_salida>
+		<nombre_iglesia>Capilla de Ntra. Sra. de las Angustias</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Isabel la Católica, Alameda de Apodaca, Honduras, Costa Rica, Conde O'Reilly, Plaza Argüelles, Manuel Rances, Beato Diego de Cádiz, Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza de San Francisco, Plaza Stmo. Cristo de la Vera-Cruz, Isabel la Católica, a su Templo.</itinerario>
+		<imagenEscudo>escudo_cadiz_angustias</imagenEscudo>
+		<horaSalida>20:00</horaSalida>
+		<horaRecogida>00:55</horaRecogida>
+		<latitudRegreso>36.534996</latitudRegreso>
+		<longitudRegreso>-6.297685</longitudRegreso>
+		<ficheroRecorrido>angustias</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="20:00"></punto>
+				<punto descripcion="Catedral" hora="21:05"></punto>
+				<punto descripcion="Candelaria" hora="21:45"></punto>
+				<punto descripcion="Palillero" hora="22:20"></punto>
+				<punto descripcion="San Pablo" hora="22:40"></punto>
+				<punto descripcion="San José" hora="23:00"></punto>
+				<punto descripcion="Recogida" hora="00:55"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="20:15"></punto>
+				<punto descripcion="Catedral" hora="21:35"></punto>
+				<punto descripcion="Candelaria" hora="22:15"></punto>
+				<punto descripcion="Palillero" hora="22:50"></punto>
+				<punto descripcion="San Pablo" hora="23:10"></punto>
+				<punto descripcion="San José" hora="23:30"></punto>
+				<punto descripcion="Recogida" hora="01:35"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_angustias_1</image>
+			<image>imagen_angustias_2</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Afligidos</nombre_corto>
+		<nombre_largo>VENERABLE, REAL Y DEVOTA COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESUS DE LOS AFLIGIDOS Y MARÍA SANTÍSIMA DE LOS DESCONSUELO.</nombre_largo>
+		<fecha_salida>20120405</fecha_salida>
+		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Sagasta (izq.), Hospital de Mujeres (drch), Plaza Topete, Compañía, Santiago, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Santa Inés, Sagasta, a su Templo.</itinerario>
+		<imagenEscudo>escudo_afligidos</imagenEscudo>
+		<horaSalida>18:30</horaSalida>
+		<horaRecogida>23:45</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>afligidos</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:30"></punto>
+				<punto descripcion="Catedral" hora="20:00"></punto>
+				<punto descripcion="Candelaria" hora="20:50"></punto>
+				<punto descripcion="Palillero" hora="21:20"></punto>
+				<punto descripcion="San Pablo" hora="21:40"></punto>
+				<punto descripcion="San José" hora="22:00"></punto>
+				<punto descripcion="Recogida" hora="23:45"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="19:00"></punto>
+				<punto descripcion="Catedral" hora="20:25"></punto>
+				<punto descripcion="Candelaria" hora="21:15"></punto>
+				<punto descripcion="Palillero" hora="21:45"></punto>
+				<punto descripcion="San Pablo" hora="22:05"></punto>
+				<punto descripcion="San José" hora="22:25"></punto>
+				<punto descripcion="Recogida" hora="00:00"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_afligidos_1</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Oración en el Huerto</nombre_corto>
+		<nombre_largo>VENERABLE COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DE LA ORACIÓN EN EL HUERTO Y NUESTRA SEÑORA DE GRACIA Y ESPERANZA.</nombre_largo>
+		<fecha_salida>20120405</fecha_salida>
+		<nombre_iglesia>Parroquia de San Severiano</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Tolosa Latour (izq.), Plaza de San Severiano, Acacias, Plaza de la Constitución, Santa Elena, Cuestas de las Calesas, Teniente Andújar, Santo Domingo, Compás de Santo Domingo, Sopranis, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Cánovas del Castillo, Valverde, Beato Diego de Cádiz, Rosario, Marqués de Valdeiñigo, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios, Plocia, Cuestas de las Calesas, Santa Elena, Plaza de la Constitución, Acacias, Plaza de San Severiano, Tolosa Latour, a su Templo.</itinerario>
+		<imagenEscudo>escudo_oracionhuerto</imagenEscudo>
+		<horaSalida>17:00</horaSalida>
+		<horaRecogida>03:15</horaRecogida>
+		<latitudRegreso>36.534592</latitudRegreso>
+		<longitudRegreso>-6.298122</longitudRegreso>
+		<ficheroRecorrido>oracionhuerto</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:00"></punto>
+				<punto descripcion="Catedral" hora="20:35"></punto>
+				<punto descripcion="Candelaria" hora="21:25"></punto>
+				<punto descripcion="Palillero" hora="22:00"></punto>
+				<punto descripcion="San Pablo" hora="22:20"></punto>
+				<punto descripcion="San José" hora="22:40"></punto>
+				<punto descripcion="Recogida" hora="03:15"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="17:15"></punto>
+				<punto descripcion="Catedral" hora="20:55"></punto>
+				<punto descripcion="Candelaria" hora="21:45"></punto>
+				<punto descripcion="Palillero" hora="22:20"></punto>
+				<punto descripcion="San Pablo" hora="22:40"></punto>
+				<punto descripcion="San José" hora="23:00"></punto>
+				<punto descripcion="Recogida" hora="03:45"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="17:30"></punto>
+				<punto descripcion="Catedral" hora="21:20"></punto>
+				<punto descripcion="Candelaria" hora="22:10"></punto>
+				<punto descripcion="Palillero" hora="22:45"></punto>
+				<punto descripcion="San Pablo" hora="23:05"></punto>
+				<punto descripcion="San José" hora="23:25"></punto>
+				<punto descripcion="Recogida" hora="04:15"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_oracionhuerto_1</image>
+			<image>imagen_oracionhuerto_2</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Nazareno</nombre_corto>
+		<nombre_largo>INMEMORIAL, VENERABLE, PONTIFICIA Y REAL COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS NAZARENO, SANTA CRUZ DE JERUSALEN Y MARIA SANTÍSIMA DE LOS DOLORES.</nombre_largo>
+		<fecha_salida>20120405</fecha_salida>
+		<nombre_iglesia>Iglesia Conventual de Santa María</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Santa María, Jabonería, San Juan de Dios, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Sopranis, Compás de Santo Domingo, Botica, Concepción Arenal, Santa María, a su Templo.</itinerario>
+		<imagenEscudo>escudo_nazareno</imagenEscudo>
+		<horaSalida>20:30</horaSalida>
+		<horaRecogida>06:00</horaRecogida>
+		<latitudRegreso>36.534714</latitudRegreso>
+		<longitudRegreso>-6.297980</longitudRegreso>
+		<ficheroRecorrido>nazareno</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="20:30"></punto>
+				<punto descripcion="Catedral" hora="21:45"></punto>
+				<punto descripcion="Candelaria" hora="22:35"></punto>
+				<punto descripcion="Palillero" hora="23:10"></punto>
+				<punto descripcion="San Pablo" hora="23:30"></punto>
+				<punto descripcion="San José" hora="23:50"></punto>
+				<punto descripcion="Recogida" hora="06:00"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="21:00"></punto>
+				<punto descripcion="Catedral" hora="22:15"></punto>
+				<punto descripcion="Candelaria" hora="23:05"></punto>
+				<punto descripcion="Palillero" hora="23:40"></punto>
+				<punto descripcion="San Pablo" hora="00:00"></punto>
+				<punto descripcion="San José" hora="00:20"></punto>
+				<punto descripcion="Recogida" hora="06:30"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="21:45"></punto>
+				<punto descripcion="Catedral" hora="22:55"></punto>
+				<punto descripcion="Candelaria" hora="23:45"></punto>
+				<punto descripcion="Palillero" hora="00:20"></punto>
+				<punto descripcion="San Pablo" hora="00:40"></punto>
+				<punto descripcion="San José" hora="01:00"></punto>
+				<punto descripcion="Recogida" hora="07:00"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_nazareno_1</image>
+			<image>imagen_nazareno_2</image>
+			<image>imagen_nazareno_3</image>	
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+    
+    <cofradia>
+        <nombre_corto>Medinaceli</nombre_corto>
+        <nombre_largo>HERMANDAD SACRAMENTAL, ESCLAVITUD Y COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS Y RESCATADO Y MARÍA SANTÍSIMA DE LA TRINIDAD.</nombre_largo>
+        <fecha_salida>20120405</fecha_salida>
+        <nombre_iglesia>Parroquia de Santa Cruz</nombre_iglesia>
+        <numero_pasos>2</numero_pasos>
+        <itinerario>Plaza de Fray Félix, Obispo José Mª Rancés, Plaza San Martin, Posadilla, San Antonio Abad, Fabio Rufino, Pomponio Mela, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Cánovas del Castillo, Columela, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colon, Cobos, Pelota, Pomponio Mela, Fabio Rufino, San Antonio Abad, Posadilla, Plaza de San Martín, Obispo José María Rancés, Plaza de Fray Félix, a su Templo.</itinerario>
+        <imagenEscudo>escudo_medinaceli</imagenEscudo>
+        <horaSalida>23:15</horaSalida>
+        <horaRecogida>04:45</horaRecogida>
+        <latitudRegreso></latitudRegreso>
+        <longitudRegreso></longitudRegreso>
+        <ficheroRecorrido>medinaceli</ficheroRecorrido>
+        <horarios>
+            <horario descripcion="Cruz de Guía">
+                <punto descripcion="Salida" hora="23:15"></punto>
+                <punto descripcion="Catedral" hora="00:00"></punto>
+                <punto descripcion="Candelaria" hora="00:50"></punto>
+                <punto descripcion="Palillero" hora="01:25"></punto>
+                <punto descripcion="San Pablo" hora="01:45"></punto>
+                <punto descripcion="San José" hora="02:05"></punto>
+                <punto descripcion="Recogida" hora="04:45"></punto>
+            </horario>
+            <horario descripcion="Paso Misterio">
+                <punto descripcion="Salida" hora="23:35"></punto>
+                <punto descripcion="Catedral" hora="00:25"></punto>
+                <punto descripcion="Candelaria" hora="01:15"></punto>
+                <punto descripcion="Palillero" hora="01:50"></punto>
+                <punto descripcion="San Pablo" hora="02:10"></punto>
+                <punto descripcion="San José" hora="02:30"></punto>
+                <punto descripcion="Recogida" hora="05:00"></punto>
+            </horario>
+            <horario descripcion="Último Paso">
+                <punto descripcion="Salida" hora="23:55"></punto>
+                <punto descripcion="Catedral" hora="01:00"></punto>
+                <punto descripcion="Candelaria" hora="01:50"></punto>
+                <punto descripcion="Palillero" hora="02:25"></punto>
+                <punto descripcion="San Pablo" hora="02:45"></punto>
+                <punto descripcion="San José" hora="03:05"></punto>
+                <punto descripcion="Recogida" hora="05:15"></punto>
+            </horario>
+        </horarios>
+        <images>
+            <image>imagen_medinaceli_1</image>
+            <image>imagen_medinaceli_2</image>
+            <image>imagen_medinaceli_3</image>
+        </images>
+        <pois>
+            <poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+            <poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+            <poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+            <poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+            <poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+            <poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+        </pois>
+    </cofradia>
+	
+	<cofradia>
+		<nombre_corto>Descendimiento</nombre_corto>
+		<nombre_largo>REAL HERMANDAD Y COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DEL DESCENDIMIENTO DE LA SANTA CRUZ Y NUESTRA SEÑORA DE LOS DOLORES.</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Parroquia de San Lorenzo</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Sagasta (izq.), Hospital de Mujeres (drch), Plaza Topete, Compañía, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Hospital de Mujeres, Sagasta, a su Templo.</itinerario>
+		<imagenEscudo>escudo_descendimiento</imagenEscudo>
+		<horaSalida>00:15</horaSalida>
+		<horaRecogida>05:15</horaRecogida>
+		<latitudRegreso>36.531971</latitudRegreso>
+		<longitudRegreso>-6.300871</longitudRegreso>
+		<ficheroRecorrido>descendimiento</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="00:15"></punto>
+				<punto descripcion="Catedral" hora="02:00"></punto>
+				<punto descripcion="Candelaria" hora="02:50"></punto>
+				<punto descripcion="Palillero" hora="03:20"></punto>
+				<punto descripcion="San Pablo" hora="03:40"></punto>
+				<punto descripcion="San José" hora="04:00"></punto>
+				<punto descripcion="Recogida" hora="05:14"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="01:00"></punto>
+				<punto descripcion="Catedral" hora="02:20"></punto>
+				<punto descripcion="Candelaria" hora="03:10"></punto>
+				<punto descripcion="Palillero" hora="03:40"></punto>
+				<punto descripcion="San Pablo" hora="04:00"></punto>
+				<punto descripcion="San José" hora="04:20"></punto>
+				<punto descripcion="Recogida" hora="05:45"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_descendimiento_1</image>
+			<image>imagen_descendimiento_2</image>	
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Perdón</nombre_corto>
+		<nombre_largo>VENERABLE COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DEL PERDÓN Y MARÍA SANTÍSIMA DEL ROSARIO EN SUS MISTERIOS DOLOROSOS.</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Parroquia de Santa Cruz</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de Fray Félix, Campo del Sur, Arquitecto Acero, Estación de Penitencia en la S.I.C., Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pomponio Mela, Fabio Rufino, San Antonio Abad, Posadilla, Plaza de San Martín, Obispo José María Rancés, Plaza de Fray Félix, a su Templo.</itinerario>
+		<imagenEscudo>escudo_perdon</imagenEscudo>
+		<horaSalida>03:00</horaSalida>
+		<horaRecogida>09:30</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>perdon</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="03:00"></punto>
+				<punto descripcion="Catedral" hora="03:30"></punto>
+				<punto descripcion="Candelaria" hora="04:25"></punto>
+				<punto descripcion="Palillero" hora="04:55"></punto>
+				<punto descripcion="San Pablo" hora="05:15"></punto>
+				<punto descripcion="San José" hora="05:35"></punto>
+				<punto descripcion="Recogida" hora="09:30"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="03:20"></punto>
+				<punto descripcion="Catedral" hora="03:50"></punto>
+				<punto descripcion="Candelaria" hora="04:50"></punto>
+				<punto descripcion="Palillero" hora="05:25"></punto>
+				<punto descripcion="San Pablo" hora="05:45"></punto>
+				<punto descripcion="San José" hora="06:05"></punto>
+				<punto descripcion="Recogida" hora="09:50"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="03:45"></punto>
+				<punto descripcion="Catedral" hora="04:15"></punto>
+				<punto descripcion="Candelaria" hora="05:15"></punto>
+				<punto descripcion="Palillero" hora="05:50"></punto>
+				<punto descripcion="San Pablo" hora="06:10"></punto>
+				<punto descripcion="San José" hora="06:30"></punto>
+				<punto descripcion="Recogida" hora="10:15"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_perdon_1</image>
+			<image>imagen_perdon_2</image>	
+			<image>imagen_perdon_3</image>	
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Expiracion</nombre_corto>
+		<nombre_largo>MUY ILUSTRE Y VENERABLE COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DE LA EXPIRACIÓN Y MARÍA SANTÍSIMA DE LA VICTORIA.</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Parroquia Castrense del Santo Ángel</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de Falla, San Rafael, Hospital de Mujeres, Plaza de Topete, Compañía, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, Plaza de San Antonio, Torre, Benjumeda, Plaza de las Viudas, Virgili, Plaza de Falla, a su Templo.</itinerario>
+		<imagenEscudo>escudo_expiracion</imagenEscudo>
+		<horaSalida>17:00</horaSalida>
+		<horaRecogida>00:20</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>expiracion</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="17:00"></punto>
+				<punto descripcion="Catedral" hora="19:45"></punto>
+				<punto descripcion="Candelaria" hora="20:50"></punto>
+				<punto descripcion="Palillero" hora="21:35"></punto>
+				<punto descripcion="San Pablo" hora="21:55"></punto>
+				<punto descripcion="San José" hora="22:15"></punto>
+				<punto descripcion="Recogida" hora="00:20"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="17:20"></punto>
+				<punto descripcion="Catedral" hora="20:10"></punto>
+				<punto descripcion="Candelaria" hora="21:15"></punto>
+				<punto descripcion="Palillero" hora="22:00"></punto>
+				<punto descripcion="San Pablo" hora="22:20"></punto>
+				<punto descripcion="San José" hora="22:40"></punto>
+				<punto descripcion="Recogida" hora="01:05"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="17:40"></punto>
+				<punto descripcion="Catedral" hora="20:40"></punto>
+				<punto descripcion="Candelaria" hora="21:50"></punto>
+				<punto descripcion="Palillero" hora="22:35"></punto>
+				<punto descripcion="San Pablo" hora="22:55"></punto>
+				<punto descripcion="San José" hora="23:15"></punto>
+				<punto descripcion="Recogida" hora="01:45"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_expiracion_1</image>
+			<image>imagen_expiracion_2</image>	
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Siete Palabras</nombre_corto>
+		<nombre_largo>VENERABLE Y MERCEDARIA HERMANDAD DE PENITENCIA DE LAS SIETE PALABRAS DEL SANTÍSIMO CRISTO DE LA SED Y MARÍA SANTÍSIMA DE LA PIEDAD.</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Parroquia de Ntra. Sra. de la Merced</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Merced, Plaza de las Canastas, Jesús de la Sentencia, San Juan de Dios, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, Rosario, Plaza de San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), San Juan de Dios, Jesús de la Sentencia, Plaza de las Canastas, Merced, a su Templo.</itinerario>
+		<imagenEscudo>escudo_siete_palabras</imagenEscudo>
+		<horaSalida>19:45</horaSalida>
+		<horaRecogida>02:15</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>sietepalabras</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="19:45"></punto>
+				<punto descripcion="Catedral" hora="21:05"></punto>
+				<punto descripcion="Candelaria" hora="22:00"></punto>
+				<punto descripcion="Palillero" hora="22:40"></punto>
+				<punto descripcion="San Pablo" hora="23:00"></punto>
+				<punto descripcion="San José" hora="23:20"></punto>
+				<punto descripcion="Recogida" hora="02:15"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="20:05"></punto>
+				<punto descripcion="Catedral" hora="21:25"></punto>
+				<punto descripcion="Candelaria" hora="22:20"></punto>
+				<punto descripcion="Palillero" hora="23:00"></punto>
+				<punto descripcion="San Pablo" hora="23:20"></punto>
+				<punto descripcion="San José" hora="23:40"></punto>
+				<punto descripcion="Recogida" hora="02:35"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_sietepalabras_1</image>
+			<image>imagen_sietepalabras_2</image>	
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Dolores</nombre_corto>
+		<nombre_largo>ORDEN SEGLAR DE LOS SIERVOS DE MARIA, FRATERNIDAD SERVITA DE MARIA SANTÍSIMA DE LOS DOLORES.</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Sagasta (izq.), Hospital de Mujeres, Plaza Topete, Compañía, Plaza de Pío XII, Estación de Penitencia en laS.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Santa Inés (izq.), Sagasta (dcha.), a su Templo.</itinerario>
+		<imagenEscudo>escudo_dolores</imagenEscudo>
+		<horaSalida>19:45</horaSalida>
+		<horaRecogida>01:25</horaRecogida>
+		<latitudRegreso>36.533039</latitudRegreso>
+		<longitudRegreso>-6.299761</longitudRegreso>
+		<ficheroRecorrido>dolores</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="19:45"></punto>
+				<punto descripcion="Catedral" hora="21:40"></punto>
+				<punto descripcion="Candelaria" hora="22:30"></punto>
+				<punto descripcion="Palillero" hora="23:10"></punto>
+				<punto descripcion="San Pablo" hora="23:30"></punto>
+				<punto descripcion="San José" hora="23:50"></punto>
+				<punto descripcion="Recogida" hora="01:25"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="20:15"></punto>
+				<punto descripcion="Catedral" hora="22:00"></punto>
+				<punto descripcion="Candelaria" hora="22:50"></punto>
+				<punto descripcion="Palillero" hora="23:30"></punto>
+				<punto descripcion="San Pablo" hora="23:50"></punto>
+				<punto descripcion="San José" hora="00:10"></punto>
+				<punto descripcion="Recogida" hora="02:00"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_dolores_1</image>	
+			<image>imagen_dolores_2</image>	
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Silencio</nombre_corto>
+		<nombre_largo>COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DE LA BUENA MUERTE Y MARÍA SANTÍSIMA DEL MAYOR DOLOR.</nombre_largo>
+		<fecha_salida>20120406</fecha_salida>
+		<nombre_iglesia>Parroquia de San Agustín</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (dcha.), Plaza de Mina, Tinte, Plaza de San Francisco (lateral izquierdo), San Francisco, Plaza de San Agustín, a su Templo.</itinerario>
+		<imagenEscudo>escudo_silencio</imagenEscudo>
+		<horaSalida>21:45</horaSalida>
+		<horaRecogida>01:50</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>silencio</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="21:45"></punto>
+				<punto descripcion="Catedral" hora="22:35"></punto>
+				<punto descripcion="Candelaria" hora="23:25"></punto>
+				<punto descripcion="Palillero" hora="23:50"></punto>
+				<punto descripcion="San Pablo" hora="00:10"></punto>
+				<punto descripcion="San José" hora="00:35"></punto>
+				<punto descripcion="Recogida" hora="01:50"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="22:00"></punto>
+				<punto descripcion="Catedral" hora="22:50"></punto>
+				<punto descripcion="Candelaria" hora="23:40"></punto>
+				<punto descripcion="Palillero" hora="00:05"></punto>
+				<punto descripcion="San Pablo" hora="00:25"></punto>
+				<punto descripcion="San José" hora="00:50"></punto>
+				<punto descripcion="Recogida" hora="02:05"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="22:15"></punto>
+				<punto descripcion="Catedral" hora="23:10"></punto>
+				<punto descripcion="Candelaria" hora="00:00"></punto>
+				<punto descripcion="Palillero" hora="00:25"></punto>
+				<punto descripcion="San Pablo" hora="00:45"></punto>
+				<punto descripcion="San José" hora="01:10"></punto>
+				<punto descripcion="Recogida" hora="02:25"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_silencio_1</image>	
+			<image>imagen_silencio_2</image>
+			<image>imagen_silencio_3</image>
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Ecce-Mater-Tua</nombre_corto>
+		<nombre_largo>SECCION DEPENITENCIA DE LAS CONGREGACIONES MARIANAS ECCE-MATER-TUA.</nombre_largo>
+		<fecha_salida>20120407</fecha_salida>
+		<nombre_iglesia>Iglesia de Santiago</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Plaza de Pío XII, Compañía, Santiago, Plaza de Candelaria, Montañés, Plaza del Palillero, Novena, Ancha, San José, San Pedro, Beato Diego de Cádiz, Rosario, Marqués de Valdeiñigo, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, a su Templo.</itinerario>
+		<imagenEscudo>escudo_matertua</imagenEscudo>
+		<horaSalida>01:00</horaSalida>
+		<horaRecogida>03:00</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>matertua</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="01:00"></punto>
+				<punto descripcion="Palillero" hora="02:00"></punto>
+				<punto descripcion="San José" hora="02:30"></punto>
+				<punto descripcion="Recogida" hora="03:00"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="01:15"></punto>
+				<punto descripcion="Palillero" hora="02:10"></punto>
+				<punto descripcion="San José" hora="02:45"></punto>
+				<punto descripcion="Recogida" hora="03:45"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_matertua_1</image>	
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Santo Entierro</nombre_corto>
+		<nombre_largo>VENERABLE Y REAL COFRADÍA DE NUESTRA SEÑORA DE LA SOLEDAD Y SANTO ENTIERRO DE NUESTRO SEÑOR JESUCRISTO.</nombre_largo>
+		<fecha_salida>20120407</fecha_salida>
+		<nombre_iglesia>Parroquia de Santa Cruz</nombre_iglesia>
+		<numero_pasos>2</numero_pasos>
+		<itinerario>Plaza de Fray Félix, Obispo José Ma. Rances, Plaza San Martin, Fabio Rufino, Pomponio Mela, Pelota, Plaza Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Cánovas del Castillo, Valverde, Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Nueva, San Juan de Dios (centro), Pomponio Mela, Fabio Rufino, Plaza de San Martín, Obispo José María Rancés, Plaza de Fray Félix, a su Templo.</itinerario>
+		<imagenEscudo>escudo_santoentierro</imagenEscudo>
+		<horaSalida>15:15</horaSalida>
+		<horaRecogida>21:20</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<ficheroRecorrido>santoentierro</ficheroRecorrido>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="15:15"></punto>
+				<punto descripcion="Catedral" hora="16:00"></punto>
+				<punto descripcion="Candelaria" hora="16:55"></punto>
+				<punto descripcion="Palillero" hora="17:30"></punto>
+				<punto descripcion="San Pablo" hora="17:45"></punto>
+				<punto descripcion="San José" hora="18:00"></punto>
+				<punto descripcion="Recogida" hora="21:20"></punto>
+			</horario>
+			<horario descripcion="Paso Misterio">
+				<punto descripcion="Salida" hora="15:30"></punto>
+				<punto descripcion="Catedral" hora="16:15"></punto>
+				<punto descripcion="Candelaria" hora="17:10"></punto>
+				<punto descripcion="Palillero" hora="17:45"></punto>
+				<punto descripcion="San Pablo" hora="18:00"></punto>
+				<punto descripcion="San José" hora="18:15"></punto>
+				<punto descripcion="Recogida" hora="21:40"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="15:45"></punto>
+				<punto descripcion="Catedral" hora="16:30"></punto>
+				<punto descripcion="Candelaria" hora="17:25"></punto>
+				<punto descripcion="Palillero" hora="18:00"></punto>
+				<punto descripcion="San Pablo" hora="18:15"></punto>
+				<punto descripcion="San José" hora="18:30"></punto>
+				<punto descripcion="Recogida" hora="22:00"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_santoentierro_1</image>
+			<image>imagen_santoentierro_2</image>	
+		</images>
+		<pois>
+			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
+			<poi description="Catedral" comment="" lat="36.529644" long="-6.294968" interes="NO"></poi>
+			<poi description="Candelaria" comment="" lat="36.530769" long="-6.295010" interes="NO"></poi>
+			<poi description="Palillero" comment="" lat="36.531689" long="-6.296368" interes="NO"></poi>
+			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
+			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
+		</pois>
+	</cofradia>
+	
+	<cofradia>
+		<nombre_corto>Resucitado</nombre_corto>
+		<nombre_corto>Resucitado</nombre_corto>
+		<nombre_largo>VENERABLE, REAL Y MUY ILUSTRE ARCHICOFRADÍA DE LA SANTÍSIMA RESURRECCIÓN Y PENITENCIA DE NUESTRO PADRE JESÚS ATADO A LA COLUMNA Y AZOTES Y MARÍA SANTÍSIMA DE LAS LÁGRIMAS.</nombre_largo>
+		<fecha_salida>20120408</fecha_salida>
+		<nombre_iglesia>Parroquia de San Antonio</nombre_iglesia>
+		<numero_pasos>1</numero_pasos>
+		<itinerario>Plaza de San Antonio (izq.), Zaragoza, Benjumeda (izq.), San José (izq.), Cánovas del Castillo, Valverde (dcha.), Novena (dcha.), Ancha, Plaza de San Antonio (izquieda), a su Templo.</itinerario>
+		<imagenEscudo>escudo_cadiz_resucitado</imagenEscudo>
+		<horaSalida>18:00</horaSalida>
+		<horaRecogida>21:00</horaRecogida>
+		<latitudRegreso></latitudRegreso>
+		<longitudRegreso></longitudRegreso>
+		<horarios>
+			<horario descripcion="Cruz de Guía">
+				<punto descripcion="Salida" hora="18:00"></punto>
+				<punto descripcion="Recogida" hora="21:00"></punto>
+			</horario>
+			<horario descripcion="Último Paso">
+				<punto descripcion="Salida" hora="18:20"></punto>
+				<punto descripcion="Recogida" hora="21:20"></punto>
+			</horario>
+		</horarios>
+		<images>
+			<image>imagen_resucitado_1</image>	
+		</images>
+	</cofradia>
+	
+</cofradias>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Jerez El Perdón</name>
+  <description><![CDATA[]]></description>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Ermita de Guía</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-6.140746,36.682060,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Itinerario</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -6.141272,36.682713,0.000000
+        -6.140930,36.682850,0.000000
+        -6.140390,36.683010,0.000000
+        -6.139830,36.683010,0.000000
+        -6.138910,36.683460,0.000000
+        -6.139020,36.683670,0.000000
+        -6.139070,36.683861,0.000000
+        -6.139020,36.684010,0.000000
+        -6.138840,36.684059,0.000000
+        -6.138720,36.684200,0.000000
+        -6.138620,36.684479,0.000000
+        -6.138250,36.684818,0.000000
+        -6.137640,36.685612,0.000000
+        -6.137480,36.686169,0.000000
+        -6.138360,36.686661,0.000000
+        -6.137980,36.687222,0.000000
+        -6.137840,36.687592,0.000000
+        -6.137580,36.687759,0.000000
+        -6.137480,36.687611,0.000000
+        -6.137400,36.687309,0.000000
+        -6.137160,36.687401,0.000000
+        -6.137140,36.687351,0.000000
+        -6.137140,36.686852,0.000000
+        -6.137230,36.686390,0.000000
+        -6.137230,36.686062,0.000000
+        -6.137090,36.685860,0.000000
+        -6.136560,36.685429,0.000000
+        -6.136550,36.684441,0.000000
+        -6.136840,36.682442,0.000000
+        -6.137450,36.681751,0.000000
+        -6.137690,36.681938,0.000000
+        -6.137810,36.682098,0.000000
+        -6.138110,36.682789,0.000000
+        -6.138510,36.683220,0.000000
+        -6.138630,36.683460,0.000000
+        -6.138820,36.683460,0.000000
+        -6.139820,36.682930,0.000000
+        -6.139649,36.682590,0.000000
+        -6.140550,36.682232,0.000000
+        -6.140700,36.682152,0.000000
+        -6.140966,36.682430,0.000000
+        -6.141255,36.682724,0.000000
+        -6.141250,36.682728,0.000000
+        -6.141255,36.682728,0.000000
+        -6.141250,36.682743,0.000000
+        -6.141229,36.682713,0.000000
+        -6.141261,36.682728,0.000000
+        -6.141223,36.682720,0.000000
+        -6.141250,36.682735,0.000000
+        -6.141239,36.682709,0.000000
+        -6.141250,36.682735,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Catedral</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-6.140735,36.682117,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palquillo</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-6.136433,36.685070,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza del Arenal</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-6.137559,36.681835,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
