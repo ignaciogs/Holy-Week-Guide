@@ -1,109 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" 
-	android:id="@+id/ficha_cofradia_scItinerario"
-  	android:layout_width="wrap_content"
-	android:layout_height="fill_parent"
-	android:layout_centerHorizontal="true"
-  	>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/ficha_cofradia_scItinerario"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerHorizontal="true"
+        >
 
-<RelativeLayout
-  android:layout_width="fill_parent"
-  android:layout_height="fill_parent" android:background="#FF252323"
-  >
-  
-  <LinearLayout android:id="@+id/ficha_cofradia_lyEscudoNombre"
-  android:layout_width="fill_parent"
-  android:layout_height="wrap_content"
-  android:orientation="horizontal"
-  android:padding="8dp"
-  >
-  
-	  <ImageView android:id="@+id/ficha_cofradia_escudo"
-	  android:layout_width="wrap_content"
-	  android:layout_height="wrap_content"
-	  android:src="@drawable/escudo_laborriquita"
-	  />
-	  
-	  <TextView android:id="@+id/ficha_cofradia_nombreLargo"
-	  android:layout_width="wrap_content"
-	  android:layout_height="wrap_content"
-	  android:text="Nombre largo de la cofradia"
-	  android:layout_marginLeft="5dp"
-	  />
-  
-  </LinearLayout>
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            >
 
-  <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
-          android:orientation="horizontal" android:id="@+id/ficha_cofradia_llData"
-          android:layout_below="@+id/ficha_cofradia_lyEscudoNombre"
-          android:gravity="top"
-          >
+        <LinearLayout
+                android:id="@+id/ficha_cofradia_lyEscudoNombre"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="8dp"
+                >
 
-      <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="70"
+            <ImageView
+                    android:id="@+id/ficha_cofradia_escudo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/escudo_laborriquita"
+                    />
+
+            <TextView
+                    android:id="@+id/ficha_cofradia_nombreLargo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nombre largo de la cofradia"
+                    android:layout_marginLeft="5dp"
+                    />
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/ficha_cofradia_llData"
+                android:layout_below="@+id/ficha_cofradia_lyEscudoNombre"
+                android:gravity="top"
+                >
+
+            <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="70"
                     android:orientation="vertical"
                     android:layout_marginLeft="3dp"
                     android:layout_marginRight="3dp">
-  
-          <TextView android:id="@+id/ficha_cofradia_numeroPasos"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:text="Numero de pasos: 1"
-          />
 
-          <TextView android:id="@+id/ficha_cofradia_nombreIglesia"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:text="Nombre de la iglesia"
-          android:layout_below="@+id/ficha_cofradia_numeroPasos"
-          />
+                <TextView
+                        android:id="@+id/ficha_cofradia_numeroPasos"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Numero de pasos: 1"
+                        />
 
-      </LinearLayout>
+                <TextView
+                        android:id="@+id/ficha_cofradia_nombreIglesia"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Nombre de la iglesia"
+                        android:layout_below="@+id/ficha_cofradia_numeroPasos"
+                        />
 
-      <ImageView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="30"
-                 android:id="@+id/ficha_cofradia_imgTunicas"
-                 android:src="@drawable/cadiz_tunica_laborriquita"
-      />
+            </LinearLayout>
 
-  </LinearLayout>
-  
-  <RelativeLayout android:id="@+id/ficha_cofradia_lyItinerario"
-  android:layout_width="fill_parent"
-  android:layout_height="wrap_content"
-  android:padding="8dp"
-  android:layout_below="@id/ficha_cofradia_llData"
-  >
-  
-	  	<TableLayout android:id="@+id/ficha_cofradia_tlItinerario"
-	  	android:layout_width="wrap_content"
-	  	android:layout_height="wrap_content"
-	  	android:padding="1dp"
-	  	android:layout_centerHorizontal="true"
-        android:background="#FF252323"
-	   	>
-	  	
-	  	</TableLayout>
-  	
-  </RelativeLayout>
-  
-  <TextView android:id="@+id/ficha_cofradia_desItinerario"
-  android:layout_width="wrap_content"
-  android:layout_height="wrap_content"
-  android:text="@string/ficha_cofradia_desItinerario"
-  android:layout_below="@+id/ficha_cofradia_lyItinerario"
-  android:layout_marginLeft="3dp"
-  android:textStyle="bold"
-  android:textSize="18sp"
-  />
-  
-  <TextView android:id="@+id/ficha_cofradia_itinerario"
-  android:layout_width="wrap_content"
-  android:layout_height="wrap_content"
-  android:text="Itinerario"
-  android:layout_below="@+id/ficha_cofradia_desItinerario"
-  android:layout_marginLeft="3dp"
-  />
-  
-</RelativeLayout>  
+            <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="30"
+                    android:id="@+id/ficha_cofradia_imgTunicas"
+                    android:src="@drawable/cadiz_tunica_laborriquita"
+                    />
+
+        </LinearLayout>
+
+        <RelativeLayout
+                android:id="@+id/ficha_cofradia_lyItinerario"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:layout_below="@id/ficha_cofradia_llData"
+                >
+
+            <TableLayout
+                    android:id="@+id/ficha_cofradia_tlItinerario"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="1dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="#FF252323"
+                    >
+
+            </TableLayout>
+
+        </RelativeLayout>
+
+        <TextView
+                android:id="@+id/ficha_cofradia_desItinerario"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ficha_cofradia_desItinerario"
+                android:layout_below="@+id/ficha_cofradia_lyItinerario"
+                android:layout_marginLeft="3dp"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                />
+
+        <TextView
+                android:id="@+id/ficha_cofradia_itinerario"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Itinerario"
+                android:layout_below="@+id/ficha_cofradia_desItinerario"
+                android:layout_marginLeft="3dp"
+                />
+
+    </RelativeLayout>
 
 </ScrollView>

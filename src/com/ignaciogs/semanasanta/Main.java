@@ -88,15 +88,6 @@ public class Main extends SherlockActivity {
             }
         });
         
-        /* Click en la opcion de Ir a */
-        TextView tvDondeIr = (TextView) findViewById(R.id.main_Encontrar);
-        tvDondeIr.setOnClickListener(new OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Toast.makeText(Main.this, getString(R.string.dondeir_desarrollo), Toast.LENGTH_LONG).show();
-            }
-        });
-        
         /* Click en la opcion de acerca de */
         TextView tvAcercaDe = (TextView) findViewById(R.id.main_AcercaDe);
         tvAcercaDe.setOnClickListener(new OnClickListener() {
