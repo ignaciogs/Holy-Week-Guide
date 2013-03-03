@@ -32,13 +32,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
+import com.actionbarsherlock.app.SherlockActivity;
 import com.ignaciogs.semanasanta.imagegallery.customGallery;
-import greendroid.app.GDActivity;
-import greendroid.widget.ActionBar;
 
 import java.util.List;
 
-public class ImagesViewActivity extends GDActivity {
+public class ImagesViewActivity extends SherlockActivity {
 	
 	private Cofradia currentCofradia;
 	private customGallery gallery;
@@ -46,7 +45,7 @@ public class ImagesViewActivity extends GDActivity {
 	@Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setActionBarContentView(R.layout.images_view_activity);
+        setContentView(R.layout.images_view_activity);
         
         Bundle extras = getIntent().getExtras();
         Bundle params = extras.getBundle("datos");
@@ -56,11 +55,9 @@ public class ImagesViewActivity extends GDActivity {
         gallery = (customGallery)findViewById(R.id.images_view_gallery);
         AdapterImages ai= new AdapterImages(this, currentCofradia.getImages());
         gallery.setAdapter(ai);
-        
-        ActionBar ab = getActionBar();
+
         Typeface fontFace = Typeface.createFromAsset(getAssets(), "fonts/chris.ttf");
-      //Trabajo ab.setTypeFace(fontFace, 26.f);
-        ab.setTitle(currentCofradia.getNombre_corto());
+        getSupportActionBar().setTitle(currentCofradia.getNombre_corto());
 	}
 	
 	private class AdapterImages extends BaseAdapter {

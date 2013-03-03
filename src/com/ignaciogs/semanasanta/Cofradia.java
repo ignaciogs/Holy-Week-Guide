@@ -51,6 +51,8 @@ public class Cofradia implements Serializable {
 	private String longitudRegreso = "0";
 	private String ficheroRecorrido = "";
 	private List<Poi> pois = new ArrayList<Poi>();
+    private String descripcion;
+    private String releases;
 	
 	public List<Poi> getPois() {
 		return pois;
@@ -169,5 +171,20 @@ public class Cofradia implements Serializable {
 	public void setHorarios(List<Horario> horarios) {
 		this.horarios = horarios;
 	}
-	
+
+    public String getDescripcion() {
+        return descripcion;
+    }
+
+    public void setDescripcion(String descripcion) {
+        this.descripcion = descripcion;
+    }
+
+    public String getReleases() {
+        return releases;
+    }
+
+    public void setReleases(String releases) {
+        this.releases = releases;
+    }
 }

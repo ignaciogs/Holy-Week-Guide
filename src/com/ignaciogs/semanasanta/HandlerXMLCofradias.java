@@ -35,7 +35,7 @@ public class HandlerXMLCofradias extends DefaultHandler {
 	private Horario horario;
 	private Punto punto;
 	private Poi poi;
-		
+
 	@Override
     public void startDocument() throws SAXException {
     }
@@ -78,7 +78,7 @@ public class HandlerXMLCofradias extends DefaultHandler {
     public void endElement(String namespaceURI, String localName, String qName) throws SAXException {
 
 		if (localName.equals("cofradia")) {
-			Utils.cofradias.add(cofradia);
+			DataManager.getInstance().getCofradiasList().add(cofradia);
 		} else if (localName.equals("nombre_corto")) {
 			cofradia.setNombre_corto(gTextoEtiqueta);
 		} else if (localName.equals("nombre_largo")) {
@@ -105,7 +105,11 @@ public class HandlerXMLCofradias extends DefaultHandler {
 			cofradia.setLongitudRegreso(gTextoEtiqueta);
 		} else if (localName.equals("ficheroRecorrido")) {
 			cofradia.setFicheroRecorrido(gTextoEtiqueta);
-		}
+		} else if (localName.equals("descripcion")) {
+            cofradia.setDescripcion(gTextoEtiqueta);
+        } else if (localName.equals("estrenos")) {
+            cofradia.setReleases(gTextoEtiqueta);
+        }
 			
 	}
 }

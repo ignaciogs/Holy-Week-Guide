@@ -25,16 +25,11 @@
 
 package com.ignaciogs.semanasanta;
 
-import greendroid.app.GDApplication;
+import android.app.Application;
 
-public class ApplicationSemanaSanta extends GDApplication {
+public class ApplicationSemanaSanta extends Application{
 
     private String nameActiveCity;
-
-	@Override
-	public Class<?> getHomeActivityClass() {
-		return Main.class;
-	}
 
     public String getNameActiveCity() {
         return nameActiveCity;

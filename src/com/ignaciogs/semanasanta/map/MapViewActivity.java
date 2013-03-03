@@ -33,13 +33,12 @@ import android.location.Location;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.LinearLayout;
+import com.actionbarsherlock.app.SherlockMapActivity;
+import com.actionbarsherlock.view.MenuItem;
 import com.google.android.maps.*;
 import com.ignaciogs.semanasanta.Cofradia;
 import com.ignaciogs.semanasanta.Poi;
 import com.ignaciogs.semanasanta.R;
-import com.ignaciogs.semanasanta.Utils;
-import greendroid.app.GDMapActivity;
-import greendroid.widget.ActionBar;
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 import org.xml.sax.XMLReader;
@@ -53,7 +52,7 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
 
-public class MapViewActivity extends GDMapActivity {
+public class MapViewActivity extends SherlockMapActivity {
 	
 	private MapView mapView;
 	private Cofradia currentCofradia;
@@ -65,20 +64,21 @@ public class MapViewActivity extends GDMapActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setActionBarContentView(R.layout.gd_segment);
+		setContentView(R.layout.map_view_activity);
 		
 		Bundle extras = getIntent().getExtras();
 		Bundle params = extras.getBundle("datos");
 	        
 	    currentCofradia = (Cofradia) params.getSerializable("cofradia");
-	    
-	    ActionBar ab = getActionBar();
+
         Typeface fontFace = Typeface.createFromAsset(getAssets(), "fonts/chris.ttf");
         //Trabajo ab.setTypeFace(fontFace, 26.f);
-        ab.setTitle(currentCofradia.getNombre_corto());
+        getSupportActionBar().setTitle(currentCofradia.getNombre_corto());
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
 		
 	    LinearLayout layoutMapContainer = (LinearLayout) this.findViewById(R.id.LinearLayoutMap);
-		mapView = new MapView(this, Utils.KEY_GOOGLE_MAPS);
+		mapView = new MapView(this, getString(R.string.KEY_GOOGLE_MAPS));
 		mapView.setBuiltInZoomControls(true);
 		mapView.setClickable(true);
 		layoutMapContainer.addView(mapView);
@@ -89,7 +89,7 @@ public class MapViewActivity extends GDMapActivity {
 			NavigationSaxHandler navSaxHandler = new NavigationSaxHandler();
             xmlreader.setContentHandler(navSaxHandler);
 
-            InputSource is = new InputSource(this.getAssets().open(Utils.directoryRutes + currentCofradia.getFicheroRecorrido() + ".xml"));
+            InputSource is = new InputSource(this.getAssets().open(String.format("%s%s.xml", getString(R.string.directoryRoutes), currentCofradia.getFicheroRecorrido())));
             xmlreader.parse(is);
             String allCoordinates = navSaxHandler.getParsedData();
             drawPath(allCoordinates, Color.parseColor("#add331"), Color.parseColor("#ff0404"), mapView );
@@ -113,6 +113,17 @@ public class MapViewActivity extends GDMapActivity {
 		mapOverlays.add(myLoc);
 		showPOIs();
 	}
+
+    @Override
+    public boolean onMenuItemSelected(int featureId, MenuItem item) {
+        boolean result = false;
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                break;
+        }
+        return result;
+    }
 	
 	private void showPOIs() {
 		//mapOverlays.clear();
@@ -224,11 +235,6 @@ public class MapViewActivity extends GDMapActivity {
 	    }
 	    mMapView01.setEnabled(true);
 	}
-
-	@Override
-	protected boolean isRouteDisplayed() {
-		return false;
-	}
 	
 	@Override
 	protected void onResume() {
@@ -242,8 +248,13 @@ public class MapViewActivity extends GDMapActivity {
 		myLoc.disableCompass();
 		myLoc.disableMyLocation();
 	}
-	
-	private class myCoolLocationOverlay extends MyLocationOverlay{
+
+    @Override
+    protected boolean isRouteDisplayed() {
+        return false;
+    }
+
+    private class myCoolLocationOverlay extends MyLocationOverlay{
 
 		public myCoolLocationOverlay(Context context, MapView mapView) {
 			super(context, mapView);

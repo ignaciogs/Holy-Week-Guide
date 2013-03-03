@@ -26,28 +26,31 @@
 package com.ignaciogs.semanasanta;
 
 import android.content.Intent;
-import android.graphics.Typeface;
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.*;
+import com.actionbarsherlock.app.SherlockActivity;
+import com.actionbarsherlock.view.Menu;
+import com.actionbarsherlock.view.MenuItem;
+import com.actionbarsherlock.view.SubMenu;
 import com.ignaciogs.semanasanta.imagegallery.ImageGalleryView;
 import com.ignaciogs.semanasanta.map.MapViewActivity;
-import greendroid.app.GDActivity;
-import greendroid.widget.*;
-import greendroid.widget.QuickActionWidget.OnQuickActionClickListener;
 
-import java.io.Serializable;
+public class FichaCofradia extends SherlockActivity {
 
-public class FichaCofradia extends GDActivity {
-	
+    private final static int GROUP_ACTION = 1;
+    private final static int ACTION_IMAGES = 10;
+    private final static int ACTION_ROUTE = 11;
+    private final static int ACTION_RELEASES = 12;
+    private final static int ACTION_HISTORY = 13;
 	private Cofradia currentCodradia;
-	private QuickActionGrid mMenuFicha;
 	
 	@Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setActionBarContentView(R.layout.ficha_cofradia);
+        setContentView(R.layout.ficha_cofradia);
         
         Bundle extras = getIntent().getExtras();
         Bundle params = extras.getBundle("datos");
@@ -114,58 +117,76 @@ public class FichaCofradia extends GDActivity {
         loadItinerario();
         
         /* Creamos los botones de la barra superior */
-        ActionBar ab = getActionBar();
-        ab.addItem(greendroid.widget.ActionBarItem.Type.Add);
-
-        ab.setTitle(currentCodradia.getNombre_corto());
-        
-        mMenuFicha = new QuickActionGrid(this);
-        mMenuFicha.setOnQuickActionClickListener(mActionListenerMenuFicha);
-        if (currentCodradia.getImages().size() > 0) {
-            mMenuFicha.addQuickAction(new QuickAction(this, R.drawable.gd_action_bar_take_photo_alt, getString(R.string.ficha_cofradia_imagenes)));
-            if (!currentCodradia.getFicheroRecorrido().equals(""))  {
-                mMenuFicha.addQuickAction(new QuickAction(this, R.drawable.gd_action_bar_locate_alt, getString(R.string.ficha_cofradia_sobre_mapa)));
-            }
-        } else {
-            mMenuFicha.setOnQuickActionClickListener(null);
-        }
+        getSupportActionBar().setTitle(currentCodradia.getNombre_corto());
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 	}
-	
-	private OnQuickActionClickListener mActionListenerMenuFicha = new OnQuickActionClickListener() {
-	    public void onQuickActionClicked(QuickActionWidget widget, int position) {
-	    	if (position == 0) { //Imagenes
-	    		if (currentCodradia.getImages().size() > 0) {
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        SubMenu subMenu = menu.addSubMenu("");
+
+        if (currentCodradia.getImages().size() > 0) {
+            subMenu.add(GROUP_ACTION, ACTION_IMAGES, 0, getString(R.string.ficha_cofradia_imagenes));
+        }
+
+        if (!currentCodradia.getFicheroRecorrido().equals(""))  {
+            subMenu.add(GROUP_ACTION, ACTION_ROUTE, 0, getString(R.string.route));
+        }
+
+        if (!TextUtils.isEmpty(currentCodradia.getReleases()))  {
+            subMenu.add(GROUP_ACTION, ACTION_RELEASES, 0, getString(R.string.releases));
+        }
+
+        if (!TextUtils.isEmpty(currentCodradia.getDescripcion()))  {
+            subMenu.add(GROUP_ACTION, ACTION_HISTORY, 0, getString(R.string.history));
+        }
+
+        MenuItem subMenu1Item = subMenu.getItem();
+        subMenu1Item.setIcon(R.drawable.action_bar_menu);
+        subMenu1Item.setShowAsAction(MenuItem.SHOW_AS_ACTION_ALWAYS | MenuItem.SHOW_AS_ACTION_WITH_TEXT);
+
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onMenuItemSelected(int featureId, MenuItem item) {
+        boolean result = false;
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                break;
+            case ACTION_IMAGES:
+                if (currentCodradia.getImages().size() > 0) {
 	    			Intent i = new Intent(FichaCofradia.this, ImageGalleryView.class);
 					Bundle params = new Bundle();
 					params.putSerializable("cofradia", currentCodradia);
 					i.putExtra("datos", params);
 					startActivity(i);
-	    			
+
 	    		} else {
 	    			Toast.makeText(FichaCofradia.this, getString(R.string.msgNoFoto), Toast.LENGTH_LONG).show();
 	    		}
-	    	} else if (position == 2) { //Lugares destacados
-	    	} else if (position == 1) { //Vision Mapa
-	    		Intent i = new Intent(FichaCofradia.this, MapViewActivity.class);
+                break;
+            case ACTION_ROUTE:
+                Intent i = new Intent(FichaCofradia.this, MapViewActivity.class);
 				Bundle params = new Bundle();
 				params.putSerializable("cofradia", currentCodradia);
 				i.putExtra("datos", params);
 				startActivity(i);
-	    	}
-	    }
-	};
-	
-	@Override
-	public boolean onHandleActionBarItemClick(ActionBarItem item, int pos) {
-		switch (pos) {
-		case 0:
-			mMenuFicha.show(item.getItemView());
-			break;
-		default:
-			break;
-	    }
-	    return super.onHandleActionBarItemClick(item, pos);
-	}
+                break;
+            case ACTION_HISTORY:
+                Intent intent = new Intent(FichaCofradia.this, DescriptionActivity.class);
+                intent.putExtra(DescriptionActivity.KEY_OBJECT, currentCodradia);
+                startActivity(intent);
+                break;
+            case ACTION_RELEASES:
+                Intent intentReleases = new Intent(FichaCofradia.this, ReleasesActivity.class);
+                intentReleases.putExtra(DescriptionActivity.KEY_OBJECT, currentCodradia);
+                startActivity(intentReleases);
+                break;
+        }
+        return result;
+    }
 	
 	private void loadItinerario() {
 		TableLayout tlGeneral = (TableLayout)findViewById(R.id.ficha_cofradia_tlItinerario);

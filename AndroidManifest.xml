@@ -26,26 +26,30 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.ignaciogs.semanasanta"
-      android:installLocation="preferExternal" 
       android:versionName="1.6" android:versionCode="7">
-    <uses-sdk android:minSdkVersion="4" />
+
+    <uses-sdk
+            android:minSdkVersion="8"
+            android:targetSdkVersion="11"/>
 
     <application android:icon="@drawable/icon" android:label="@string/app_name" android:name=".ApplicationSemanaSanta">
     <uses-library android:name="com.google.android.maps"></uses-library>
         <activity android:name=".Main"
-                  android:label="@string/app_name" android:theme="@style/Theme.SemanaSanta"
+                  android:label="@string/app_name"
                   android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="ItinerarioListActivity" android:theme="@style/Theme.SemanaSanta" android:screenOrientation="portrait"></activity>
-        <activity android:name="FichaCofradia" android:theme="@style/Theme.SemanaSanta" android:screenOrientation="portrait"></activity>
-        <activity android:name="ImagesViewActivity" android:theme="@style/Theme.SemanaSanta"></activity>
-        <activity android:name="com.ignaciogs.semanasanta.map.MapViewActivity" android:theme="@style/Theme.SemanaSanta"></activity>
-        <activity android:name="AcercaDeActivity" android:theme="@style/Theme.SemanaSanta"></activity>
-        <activity android:name="com.ignaciogs.semanasanta.imagegallery.ImageGalleryView" android:theme="@style/Theme.SemanaSanta"></activity>
+        <activity android:name=".ItinerarioListActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".FichaCofradia" android:screenOrientation="portrait"></activity>
+        <activity android:name=".ImagesViewActivity"></activity>
+        <activity android:name=".map.MapViewActivity"></activity>
+        <activity android:name=".AcercaDeActivity"></activity>
+        <activity android:name=".imagegallery.ImageGalleryView"></activity>
+        <activity android:name=".DescriptionActivity"></activity>
+        <activity android:name=".ReleasesActivity"></activity>
         
     </application>
     

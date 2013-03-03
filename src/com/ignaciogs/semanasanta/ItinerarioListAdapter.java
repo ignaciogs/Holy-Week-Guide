@@ -32,9 +32,6 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.GregorianCalendar;
 import java.util.List;
 
 public class ItinerarioListAdapter extends BaseAdapter {
@@ -91,19 +88,19 @@ public class ItinerarioListAdapter extends BaseAdapter {
 		TextView lblDiaSemana = (TextView)convertView.findViewById(R.id.item_list_itinerario_nombreDiaSemana);
 		if (position == 0) {
 			lblDiaSemana.setVisibility(View.VISIBLE);
-			lblDiaSemana.setText(Utils.getNameDayFromDate(cofradia.getFecha_salida(), cofradia.getHoraSalida(), context, isPrimerDomingo));
+			lblDiaSemana.setText(DataManager.getInstance().getNameDayFromDate(cofradia.getFecha_salida(), cofradia.getHoraSalida(), context, isPrimerDomingo));
 		} else if ( (position > 0) && (! cofradia.getFecha_salida().equals(listCofradias.get(position -1).getFecha_salida()))) {
 			lblDiaSemana.setVisibility(View.VISIBLE);
-			lblDiaSemana.setText(Utils.getNameDayFromDate(cofradia.getFecha_salida(), cofradia.getHoraSalida(), context, isPrimerDomingo));
+			lblDiaSemana.setText(DataManager.getInstance().getNameDayFromDate(cofradia.getFecha_salida(), cofradia.getHoraSalida(), context, isPrimerDomingo));
 		} else {
 			//Si la fecha es la misma comprobamos la hora ya que hay que distinguir entre madrugada y tarde
 			int horaSalida = Integer.valueOf(cofradia.getHoraSalida().substring(0, 2));
 			int horaSalidaAnt = Integer.valueOf(listCofradias.get(position -1).getHoraSalida().substring(0, 2));
-			if (  ((horaSalida < Utils.horaFinMadrugada) && (horaSalidaAnt >= Utils.horaFinMadrugada)) ||
-					((horaSalidaAnt < Utils.horaFinMadrugada) && (horaSalida >= Utils.horaFinMadrugada)) ) {
+			if (  ((horaSalida < DataManager.getInstance().getHoraFinMadrugada()) && (horaSalidaAnt >= DataManager.getInstance().getHoraFinMadrugada())) ||
+					((horaSalidaAnt < DataManager.getInstance().getHoraFinMadrugada()) && (horaSalida >= DataManager.getInstance().getHoraFinMadrugada())) ) {
 				//Una es de madrugada y la otra es de tarde
 				lblDiaSemana.setVisibility(View.VISIBLE);
-				lblDiaSemana.setText(Utils.getNameDayFromDate(cofradia.getFecha_salida(), cofradia.getHoraSalida(), context, isPrimerDomingo));
+				lblDiaSemana.setText(DataManager.getInstance().getNameDayFromDate(cofradia.getFecha_salida(), cofradia.getHoraSalida(), context, isPrimerDomingo));
 			} else {
 				lblDiaSemana.setVisibility(View.GONE); 
 			}

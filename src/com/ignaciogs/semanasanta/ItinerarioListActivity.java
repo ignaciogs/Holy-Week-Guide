@@ -26,109 +26,105 @@
 package com.ignaciogs.semanasanta;
 
 import android.content.Intent;
-import android.graphics.Typeface;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
-import greendroid.app.GDActivity;
-import greendroid.widget.*;
-import greendroid.widget.QuickActionWidget.OnQuickActionClickListener;
+import com.actionbarsherlock.app.SherlockActivity;
+import com.actionbarsherlock.view.Menu;
+import com.actionbarsherlock.view.MenuItem;
+import com.actionbarsherlock.view.SubMenu;
 
 import java.io.Serializable;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.GregorianCalendar;
 import java.util.List;
 
-public class ItinerarioListActivity extends GDActivity {
-	
-	private QuickActionGrid mMenuDiasSemana;
-	private ListView listView;
-	private List<Cofradia> partialList = new ArrayList<Cofradia>();
-	
-	@Override
+public class ItinerarioListActivity extends SherlockActivity {
+
+    private ListView listView;
+    private List<Cofradia> partialList = new ArrayList<Cofradia>();
+    private static final int GROUP_ICONS_DAYS = 2;
+
+    @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setActionBarContentView(R.layout.itinerario_list_activity);
-        
-        partialList.addAll(Utils.cofradias);
-        ItinerarioListAdapter adapter = new ItinerarioListAdapter(this, partialList);   
-        listView = (ListView)findViewById(R.id.itinerario_list_lvDatos);
+        setContentView(R.layout.itinerario_list_activity);
+
+        partialList.addAll(DataManager.getInstance().getCofradiasList());
+        ItinerarioListAdapter adapter = new ItinerarioListAdapter(this, partialList);
+        listView = (ListView) findViewById(R.id.itinerario_list_lvDatos);
         listView.setOnItemClickListener(click_lista);
         listView.setAdapter(adapter);
-        
-        ActionBar ab = getActionBar();
-        ab.addItem(greendroid.widget.ActionBarItem.Type.Add);
-        ab.getItem(0).setDrawable(R.drawable.action_bar_itinerario);
-        
-        Typeface fontFace = Typeface.createFromAsset(getAssets(), "fonts/chris.ttf");
-        ab.setTitle(getString(R.string.lista_cofradias_title));
-        
-        /* Creamos los quickaction dependiendo de los días de la semana */
-        mMenuDiasSemana = new QuickActionGrid(this);
-        mMenuDiasSemana.setOnQuickActionClickListener(mActionListenerDiasSemana);
-        /* Metemos el de todos los dias */
-        mMenuDiasSemana.addQuickAction(new QuickAction(this, R.drawable.action_bar_transparent, getString(R.string.lista_cofradias_todas)));
-        for (String dia : Utils.daysOfWeeks) {
-        	String desc = dia.substring(0,3);
-        	if (dia.indexOf(getString(R.string.text_madruga)) > -1) { //Indicamos que es madrugada
-        		desc += " (" + getString(R.string.text_madruga).substring(0,1) + ")";
-        	}
-        	mMenuDiasSemana.addQuickAction(new QuickAction(this, R.drawable.action_bar_transparent, desc));
-        }
-	}
-	
-	@Override
-	public boolean onHandleActionBarItemClick(ActionBarItem item, int pos) {
-		switch (pos) {
-		case 0:
-			mMenuDiasSemana.show(item.getItemView());
-			break;
-		default:
-			break;
-	    }
-	    return super.onHandleActionBarItemClick(item, pos);
-	}
-	
-	private OnQuickActionClickListener mActionListenerDiasSemana = new OnQuickActionClickListener() {
-	    public void onQuickActionClicked(QuickActionWidget widget, int position) {
-	    	if (position == 0) {
-	    		FilterByDayOfWeek(getString(R.string.lista_cofradias_todas));
-	    	} else {
-	    		FilterByDayOfWeek(Utils.daysOfWeeks.get(position - 1));
-	    	}
-	    }
-	};
-	
-	private void FilterByDayOfWeek(String dayOfWeek) {
-		if (dayOfWeek.equals(getString(R.string.lista_cofradias_todas))) { //son todas las cofradias
-			partialList.clear();
-			partialList.addAll(Utils.cofradias);
-		} else {
-			partialList.clear();
-            Boolean isPrimerDomingo = true;
-			for (Cofradia cofradia : Utils.cofradias) {
-				if (dayOfWeek.equals(Utils.getNameDayFromDate(cofradia.getFecha_salida(), cofradia.getHoraSalida(), ItinerarioListActivity.this, isPrimerDomingo))) {
-					partialList.add(cofradia);
-				}
-			}
-		}
-		listView.setAdapter(new ItinerarioListAdapter(this, partialList) );
-	}
-	
-	private OnItemClickListener click_lista = new OnItemClickListener() {
 
-		@Override
-		public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
-			Intent i = new Intent(ItinerarioListActivity.this, FichaCofradia.class);
-			Bundle params = new Bundle();
-			params.putSerializable("cofradia", (Serializable)partialList.get(arg2));
-			i.putExtra("datos", params);
-			startActivity(i);
-		}
-		
-	};
+        getSupportActionBar().setTitle(getString(R.string.lista_cofradias_title));
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        SubMenu subMenu = menu.addSubMenu("");
+        subMenu.add(GROUP_ICONS_DAYS, 0, 0, getString(R.string.lista_cofradias_todas));
+        for (int i = 0; i < DataManager.getInstance().getDaysOfWeeksList().size(); i++) {
+            String dia = DataManager.getInstance().getDaysOfWeeksList().get(i);
+            String desc = dia.substring(0, 3);
+            if (dia.indexOf(getString(R.string.text_madruga)) > -1) { //Indicamos que es madrugada
+                desc += " (" + getString(R.string.text_madruga) + ")";
+            }
+            MenuItem menuItem = subMenu.add(GROUP_ICONS_DAYS, i + 1, 0, desc);
+        }
+
+        MenuItem subMenu1Item = subMenu.getItem();
+        subMenu1Item.setIcon(R.drawable.action_bar_itinerario);
+        subMenu1Item.setShowAsAction(MenuItem.SHOW_AS_ACTION_ALWAYS | MenuItem.SHOW_AS_ACTION_WITH_TEXT);
+
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    private void FilterByDayOfWeek(String dayOfWeek) {
+        if (dayOfWeek.equals(getString(R.string.lista_cofradias_todas))) { //son todas las cofradias
+            partialList.clear();
+            partialList.addAll(DataManager.getInstance().getCofradiasList());
+        } else {
+            partialList.clear();
+            Boolean isPrimerDomingo = true;
+            for (Cofradia cofradia : DataManager.getInstance().getCofradiasList()) {
+                if (dayOfWeek.equals(DataManager.getInstance().getNameDayFromDate(cofradia.getFecha_salida(), cofradia.getHoraSalida(), ItinerarioListActivity.this, isPrimerDomingo))) {
+                    partialList.add(cofradia);
+                }
+            }
+        }
+        listView.setAdapter(new ItinerarioListAdapter(this, partialList));
+    }
+
+    private OnItemClickListener click_lista = new OnItemClickListener() {
+
+        @Override
+        public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
+            Intent i = new Intent(ItinerarioListActivity.this, FichaCofradia.class);
+            Bundle params = new Bundle();
+            params.putSerializable("cofradia", (Serializable) partialList.get(arg2));
+            i.putExtra("datos", params);
+            startActivity(i);
+        }
+
+    };
+
+    @Override
+    public boolean onMenuItemSelected(int featureId, MenuItem item) {
+        boolean result = false;
+        if (item.getGroupId() == GROUP_ICONS_DAYS) {
+            if (item.getItemId() == 0) {
+                FilterByDayOfWeek(getString(R.string.lista_cofradias_todas));
+            } else {
+                FilterByDayOfWeek(DataManager.getInstance().getDaysOfWeeksList().get(item.getItemId() - 1));
+            }
+            result = true;
+        } else if (item.getItemId() == android.R.id.home) {
+            finish();
+            result = true;
+        }
+        return result;
+    }
+
 }

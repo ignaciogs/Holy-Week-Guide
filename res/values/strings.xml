@@ -13,7 +13,7 @@
     <string name="lista_cofradias_salida">Output:</string>
     <string name="lista_cofradias_recogida">Collection:</string>
     <string name="lista_cofradias_todas">All</string>
-    <string name="lista_cofradias_title">List of fraternities</string>
+    <string name="lista_cofradias_title">List of Fraternities</string>
     
     <!-- Pantalla ficha de la cofradia -->
     <string name="ficha_cofradia_imagenes">Images</string>
@@ -24,7 +24,7 @@
     <string name="msgNoFoto">No Images</string>
     
     <!-- General -->
-    <string name="text_madruga">Dawn</string>
+    <string name="text_madruga">Morning</string>
     <string name="text_santo">Saint</string>
     
     <!-- Acerca de -->
@@ -46,4 +46,9 @@
 
     <string name="resureccion"></string>
     <string name="ramos"></string>
+
+    <string name="holyWeekGuide">Holy Week Guide</string>
+    <string name="route">Route</string>
+    <string name="history">History</string>
+    <string name="releases">Releases</string>
 </resources>

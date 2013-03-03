@@ -7,7 +7,7 @@
         <nombre_largo>COFRADÍA CARMELITANA DE PENITENCIA Y SACRAMENTAL HERMANDAD DE NAZARENOS DE NUESTRO PADRE JESÚS DE LA PAZ EN SU REAL Y TRIUNFAL ENTRADA EN JERUSALÉN Y NUESTRA MADRE Y SEÑORA MARÍA SANTÍSIMA DEL AMPARO</nombre_largo>
         <fecha_salida>20120401</fecha_salida>
         <nombre_iglesia>Iglesia Parroquial de Nuestra Señora del Carmen y Santa Teresa</nombre_iglesia>
-        <numer25o_pasos>2</numer25o_pasos>
+        <numero_pasos>2</numero_pasos>
         <itinerario>Alameda Marqués de Comillas, Calderón de la Barca, Plaza de Mina (dcha.), Tinte, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, Plaza de San Antonio (izq.), Veedor, Vea Murguía, Alameda Marqués de Comillas, a su Templo.</itinerario>
         <imagenEscudo>escudo_laborriquita</imagenEscudo>
         <horaSalida>14:30</horaSalida>
@@ -56,6 +56,8 @@
             <poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
             <poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
         </pois>
+        <descripcion>La imagen del Señor de la Paz fue encargada al imaginero gaditano D. Miguel Lainez Capote en el año 1.944, procesionando por vez primera el año del Señor de 1.945. Es un Cristo de mirada penetrante y valioso sentir para nuestros hermanos fundadores, bendecido en una solemne ceremonia en la Parroquia de San José por Monseñor Tomás Gutiérrez (el obispo de las cofradías) el día 17 de diciembre de aquel histórico año.&#xA;&#xA;Debido a la mala conservación del titular, al ataque de la carcoma y al deterioro del candelero, en el año 1.978, le fue encargado a D. Francisco Buiza Fernández la delicada hazaña de dar el nuevo aspecto a nuestro actual Titular. La Junta de entonces deseaba que la imagen conservara al menos parte de la faz que tallara Lainez Capote, por lo que Buiza introdujo una parte de la antigua mascarilla en el cuerpo modelado de la nueva imagen y adecuadamente retocado fue trasladado conjuntamente a madera.&#xA;&#xA;La preciosa imagen de la Virgen del Amparo se realizó en los talleres del valenciano Rafael Perís, en base de unas manos que se encontraron en el baúl de una gaditana gran conocida de D. Emilio Bartús, datadas estas en el siglo XVIII de exquisita suavidad y delicadeza, en postura suplicante y acogedora basándose el imaginero en dolorosas genuinamente sevillanas, como la del Refugio, Socorro y Presentación.&#xA;&#xA;Cinco fueron los nombres propuestos para la advocación de la Madre : Dulce Nombre, Refugio, Socorro, Consuelo y Amparo; el niño Miguelito García fue el encargado de sacar la papeleta agraciada con el dulce nombre que encierra todos los demás, AMPARO de nuestras vidas. Se bendijo en la Parroquia de San José, en la Función Principal de Instituto, el 14 de marzo de 1.948, predicando en su honor está Santa Eucaristía el dominico misionero Ignacio Rodríguez Pérez. </descripcion>
+        <estrenos>Paso de palio</estrenos>
     </cofradia>
     
 	<cofradia>

@@ -25,19 +25,40 @@
 
 package com.ignaciogs.semanasanta;
 
-import android.graphics.Typeface;
 import android.os.Bundle;
+import android.widget.TextView;
 import com.actionbarsherlock.app.SherlockActivity;
+import com.actionbarsherlock.view.MenuItem;
 
-public class AcercaDeActivity extends SherlockActivity {
-	
-	@Override
+public class DescriptionActivity extends SherlockActivity {
+
+    public static final String KEY_OBJECT = "KEY_OBJECT";
+    private Cofradia currentCofradia;
+
+    @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.acercade_activity);
+        setContentView(R.layout.description_activity);
 
-        Typeface fontFace = Typeface.createFromAsset(getAssets(), "fonts/chris.ttf");
-        getSupportActionBar().setTitle(getString(R.string.acercade_acercade));
+        Bundle extras = getIntent().getExtras();
+        if (extras != null && extras.containsKey(KEY_OBJECT) && extras.get(KEY_OBJECT) instanceof Cofradia) {
+            currentCofradia = (Cofradia) extras.get(KEY_OBJECT);
+            ((TextView) findViewById(R.id.description_tv_text)).setText(currentCofradia.getDescripcion());
+        }
+
+        getSupportActionBar().setTitle(currentCofradia.getNombre_corto());
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+    }
+
+    @Override
+    public boolean onMenuItemSelected(int featureId, MenuItem item) {
+        boolean result = false;
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                break;
+        }
+        return result;
     }
 
 }

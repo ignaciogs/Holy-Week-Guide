@@ -13,7 +13,7 @@
     <string name="lista_cofradias_salida">Salida:</string>
     <string name="lista_cofradias_recogida">Recogida:</string>
     <string name="lista_cofradias_todas">Todas</string>
-    <string name="lista_cofradias_title">Lista de Cofradias</string>
+    <string name="lista_cofradias_title">Lista de Cofradías</string>
     
     <!-- Pantalla ficha de la cofradia -->
     <string name="ficha_cofradia_imagenes">Imágenes</string>
@@ -47,5 +47,7 @@
 
     <string name="resureccion">de Resurrección</string>
     <string name="ramos">de Ramos</string>
+
+    <string name="holyWeekGuide">Guía de Semana Santa</string>
     
 </resources>
