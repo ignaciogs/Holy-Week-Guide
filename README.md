@@ -4,6 +4,8 @@
 
 Holy Week Guide is an android application with the itineraries, images and all information of the brotherhoods Spain's holy week
 
+[![Holy-Week-Guide screenshot][1]]
+
 ## Dependencies
 
 [android-mapviewballoons](https://github.com/jgilfelt/android-mapviewballoons)
@@ -13,3 +15,6 @@ Holy Week Guide is an android application with the itineraries, images and all i
 [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 This libraries is including in libs directory
+
+
+[1]: https://raw.github.com/ignaciogs/Holy-Week-Guide/master/Screenshot_1.png
