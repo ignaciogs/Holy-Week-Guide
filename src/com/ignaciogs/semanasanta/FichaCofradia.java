@@ -159,12 +159,6 @@ public class FichaCofradia extends SherlockActivity {
                     Intent intent = new Intent(FichaCofradia.this, ImageGalleryActivity.class);
                     intent.putExtra(ImageGalleryActivity.KEY_OBJECT, currentCofradia);
                     startActivity(intent);
-//	    			Intent i = new Intent(FichaCofradia.this, ImageGalleryView.class);
-//					Bundle params = new Bundle();
-//					params.putSerializable("cofradia", currentCofradia);
-//					i.putExtra("datos", params);
-//					startActivity(i);
-
 	    		} else {
 	    			Toast.makeText(FichaCofradia.this, getString(R.string.msgNoFoto), Toast.LENGTH_LONG).show();
 	    		}

@@ -8,40 +8,40 @@
         <fecha_salida>20130324</fecha_salida>
         <nombre_iglesia>Iglesia Parroquial de Nuestra Señora del Carmen y Santa Teresa</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Alameda Marqués de Comillas, Calderón de la Barca, Plaza de Mina (dcha.), Tinte, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, Plaza de San Antonio (izq.), Veedor, Vea Murguía, Alameda Marqués de Comillas, a su Templo.</itinerario>
+        <itinerario>Alameda Marqués de Comillas, Calderón de la Barca, Plaza de Mina (dcha.), Tinte, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colon, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, Plaza de San Antonio (izq.), Zaragoza, Benjumeda, Plaza de las Viudas, Vea Murguía, Alameda Marqués de Comillas, a su Templo.</itinerario>
         <imagenEscudo>escudo_laborriquita</imagenEscudo>
         <horaSalida>14:30</horaSalida>
-        <horaRecogida>21:35</horaRecogida>
+        <horaRecogida>22:00</horaRecogida>
         <latitudRegreso>36.534805</latitudRegreso>
         <longitudRegreso>-6.298428</longitudRegreso>
         <ficheroRecorrido>borriquita</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="14:30"></punto>
-                <punto descripcion="Catedral" hora="17:40"></punto>
-                <punto descripcion="Candelaria" hora="18:35"></punto>
-                <punto descripcion="Palillero" hora="19:00"></punto>
-                <punto descripcion="San Pablo" hora="19:20"></punto>
-                <punto descripcion="San José" hora="19:40"></punto>
-                <punto descripcion="Recogida" hora="21:30"></punto>
+                <punto descripcion="Catedral" hora="17:45"></punto>
+                <punto descripcion="Candelaria" hora="18:40"></punto>
+                <punto descripcion="Palillero" hora="19:05"></punto>
+                <punto descripcion="San Pablo" hora="19:25"></punto>
+                <punto descripcion="San José" hora="19:45"></punto>
+                <punto descripcion="Recogida" hora="22:00"></punto>
             </horario>
             <horario descripcion="Paso Misterio">
-                <punto descripcion="Salida" hora="14:55"></punto>
-                <punto descripcion="Catedral" hora="18:30"></punto>
-                <punto descripcion="Candelaria" hora="19:00"></punto>
-                <punto descripcion="Palillero" hora="19:25"></punto>
-                <punto descripcion="San Pablo" hora="19:45"></punto>
-                <punto descripcion="San José" hora="20:05"></punto>
-                <punto descripcion="Recogida" hora="21:55"></punto>
+                <punto descripcion="Salida" hora="15:00"></punto>
+                <punto descripcion="Catedral" hora="18:10"></punto>
+                <punto descripcion="Candelaria" hora="19:05"></punto>
+                <punto descripcion="Palillero" hora="19:30"></punto>
+                <punto descripcion="San Pablo" hora="19:50"></punto>
+                <punto descripcion="San José" hora="20:10"></punto>
+                <punto descripcion="Recogida" hora="22:25"></punto>
             </horario>
             <horario descripcion="Último Paso">
-                <punto descripcion="Salida" hora="15:20"></punto>
-                <punto descripcion="Catedral" hora="18:30"></punto>
-                <punto descripcion="Candelaria" hora="19:25"></punto>
-                <punto descripcion="Palillero" hora="19:50"></punto>
-                <punto descripcion="San Pablo" hora="20:10"></punto>
-                <punto descripcion="San José" hora="20:30"></punto>
-                <punto descripcion="Recogida" hora="22:30"></punto>
+                <punto descripcion="Salida" hora="15:30"></punto>
+                <punto descripcion="Catedral" hora="18:35"></punto>
+                <punto descripcion="Candelaria" hora="19:30"></punto>
+                <punto descripcion="Palillero" hora="19:55"></punto>
+                <punto descripcion="San Pablo" hora="20:15"></punto>
+                <punto descripcion="San José" hora="20:35"></punto>
+                <punto descripcion="Recogida" hora="23:00"></punto>
             </horario>
         </horarios>
         <images>
@@ -57,7 +57,7 @@
             <poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
         </pois>
         <descripcion>La imagen del Señor de la Paz fue encargada al imaginero gaditano D. Miguel Lainez Capote en el año 1.944, procesionando por vez primera el año del Señor de 1.945. Es un Cristo de mirada penetrante y valioso sentir para nuestros hermanos fundadores, bendecido en una solemne ceremonia en la Parroquia de San José por Monseñor Tomás Gutiérrez (el obispo de las cofradías) el día 17 de diciembre de aquel histórico año.&#xA;&#xA;Debido a la mala conservación del titular, al ataque de la carcoma y al deterioro del candelero, en el año 1.978, le fue encargado a D. Francisco Buiza Fernández la delicada hazaña de dar el nuevo aspecto a nuestro actual Titular. La Junta de entonces deseaba que la imagen conservara al menos parte de la faz que tallara Lainez Capote, por lo que Buiza introdujo una parte de la antigua mascarilla en el cuerpo modelado de la nueva imagen y adecuadamente retocado fue trasladado conjuntamente a madera.&#xA;&#xA;La preciosa imagen de la Virgen del Amparo se realizó en los talleres del valenciano Rafael Perís, en base de unas manos que se encontraron en el baúl de una gaditana gran conocida de D. Emilio Bartús, datadas estas en el siglo XVIII de exquisita suavidad y delicadeza, en postura suplicante y acogedora basándose el imaginero en dolorosas genuinamente sevillanas, como la del Refugio, Socorro y Presentación.&#xA;&#xA;Cinco fueron los nombres propuestos para la advocación de la Madre : Dulce Nombre, Refugio, Socorro, Consuelo y Amparo; el niño Miguelito García fue el encargado de sacar la papeleta agraciada con el dulce nombre que encierra todos los demás, AMPARO de nuestras vidas. Se bendijo en la Parroquia de San José, en la Función Principal de Instituto, el 14 de marzo de 1.948, predicando en su honor está Santa Eucaristía el dominico misionero Ignacio Rodríguez Pérez. </descripcion>
-        <masdatos>Paso de palio</masdatos>
+        <masdatos>Música:&#xA;&#xA;Agrupación Musical Polillas, de Cádiz, para Jesús de la Paz y Banda de Música Pedro Álvarez Hidalgo, de Puerto Real, para la Virgen del Amparo</masdatos>
     </cofradia>
     
 	<cofradia>
@@ -66,31 +66,31 @@
 		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Iglesia de María Auxiliadora</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
-		<itinerario>Colegio Salesianos "San Ignacio" (interior), Avenida María Auxiliadora, Adriano, Avda. de Portugal, Batista, Plaza del Árbol, Gas, Colarte, Sociedad, Parlamento, Avda. de Andalucía, General Rodríguez Bouza, Fernández Ladreda, Concepción Arenal, Campo del Sur, Jabonería, San Juan de Dios, Plaza San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL , San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios, Plocia, Cuesta de las Calesas, Plaza de la Constitución, Avda. Bahía Blanca, Acacias, Brunete, García Carrera, Avda. de Portugal, Adriano, Poeta Nieto, recogida en la Iglesia de San José.</itinerario>
+		<itinerario>Colegio Salesianos “San Ignacio” (interior), Avenida María Auxiliadora, Poeta Nieto, Avda. Andalucía, Marianista Cubillo, Callejón del Blanco, Avda. Fernández Ladreda, Concepción Arenal, Campo del Sur, Jabonería, San Juan de Dios, Plaza San Juan de Dios (delante del Ayto.), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, Rosario, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios, Plocia, Cuesta de las Calesas, Plaza de la Constitución, Avda. Bahía Blanca, Acacias, Brunete, García de Sola, Escalzo, Avda. María Auxiliadora, Interior del Colegio Salesianos a su Templo.</itinerario>
 		<imagenEscudo>escudo_despojado</imagenEscudo>
-		<horaSalida>13:55</horaSalida>
-		<horaRecogida>00:25</horaRecogida>
+		<horaSalida>15:00</horaSalida>
+		<horaRecogida>01:15</horaRecogida>
 		<latitudRegreso>36.534714</latitudRegreso>
 		<longitudRegreso>-6.297982</longitudRegreso>
 		<ficheroRecorrido>despojado</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
-				<punto descripcion="Salida" hora="13:55"></punto>
-				<punto descripcion="Catedral" hora="18:30"></punto>
-				<punto descripcion="Candelaria" hora="19:25"></punto>
-				<punto descripcion="Palillero" hora="19:50"></punto>
-				<punto descripcion="San Pablo" hora="20:10"></punto>
-				<punto descripcion="San José" hora="20:30"></punto>
-				<punto descripcion="Recogida" hora="00:25"></punto>
+				<punto descripcion="Salida" hora="15:00"></punto>
+				<punto descripcion="Catedral" hora="18:35"></punto>
+				<punto descripcion="Candelaria" hora="19:30"></punto>
+				<punto descripcion="Palillero" hora="19:55"></punto>
+				<punto descripcion="San Pablo" hora="20:15"></punto>
+				<punto descripcion="San José" hora="20:35"></punto>
+				<punto descripcion="Recogida" hora="01:15"></punto>
 			</horario>
 			<horario descripcion="Último paso">
-				<punto descripcion="Salida" hora="14:15"></punto>
-				<punto descripcion="Catedral" hora="18:50"></punto>
-				<punto descripcion="Candelaria" hora="19:45"></punto>
-				<punto descripcion="Palillero" hora="20:10"></punto>
-				<punto descripcion="San Pablo" hora="20:30"></punto>
-				<punto descripcion="San José" hora="20:50"></punto>
-				<punto descripcion="Recogida" hora="00:40"></punto>
+				<punto descripcion="Salida" hora="15:20"></punto>
+				<punto descripcion="Catedral" hora="18:55"></punto>
+				<punto descripcion="Candelaria" hora="19:50"></punto>
+				<punto descripcion="Palillero" hora="20:15"></punto>
+				<punto descripcion="San Pablo" hora="20:35"></punto>
+				<punto descripcion="San José" hora="20:55"></punto>
+				<punto descripcion="Recogida" hora="01:35"></punto>
 			</horario>
 		</horarios>
 		<images>
@@ -107,6 +107,8 @@
 			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
 			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
 		</pois>
+        <descripcion>La Hermandad se funda el día 15 de mayo de 2007 por Decreto del Obispo Diocesano Monseñor Antonio Ceballos Atienza, dándose a conocer el día 20 de mayo con la lectura del Decreto de Erección Canónica en la Iglesia de María Auxiliadora por parte del Rvdo. Padre Carlos Correa.&#xA;&#xA;Su primera Junta de Gobierno toma posesión el día 3 de junio siendo su primer Hermano Mayor Luis Manuel Rivero Ramos y su Director Espiritual el Reverendo Padre José Antonio Perdigones, SDB. En esa jornada se presentó el escudo de la Hermandad, que fue diseñado por Juan Carlos Romero Pérez y ,que tal y como se describe en los Estatutos, está inspirado en el escudo de la Congregación Salesiana: en el centro aparece el ancla, signo de la esperanza; sobre el ancla la estrella, simbolizando la fe; coronando el escudo, la cruz sobre las aguas, símbolo del escudo de la Diócesis de Cádiz; a los lados del ancla dos medallones, mostrando el símbolo del amor, con la imagen del pelícano y en el otro apareciendo un jarrón con azucenas, simbolizando la pureza de María; la palma y el laurel que, entrelazados al pie, abrazan el escudo hasta su mitad, son emblemas del premio reservado a una vida entrega hasta el final, por amor; se ha conservado el lema de la Congregación Salesiana “Da mihi animas caetera tolle”, que significa: dame almas y llévate los demás. </descripcion>
+        <masdatos>Música:&#xA;&#xA;Banda de Cornetas y Tambores Nuestra Señora del Rosario, de Cádiz</masdatos>
 	</cofradia>
 	
 	<cofradia>
@@ -115,7 +117,7 @@
 		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Iglesia Conventual de Santo Domingo</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
-		<itinerario>Compás de Santo Domingo, Sopranis, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego José de Cádiz, Rosario, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Sopranis, Compás de Santo Domingo, a su Templo.</itinerario>
+		<itinerario>Compás de Santo Domingo, Sopranis, Plaza de San Juan de Dios (Delante del Ayuntamiento), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego José de Cádiz, Rosario, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Sopranis, Compás de Santo Domingo, a su Templo.</itinerario>
 		<imagenEscudo>escudo_santacena</imagenEscudo>
 		<horaSalida>17:15</horaSalida>
 		<horaRecogida>23:50</horaRecogida>
@@ -125,20 +127,20 @@
 		<horarios>
 			<horario descripcion="Cruz de Guía">
 				<punto descripcion="Salida" hora="17:15"></punto>
-				<punto descripcion="Catedral" hora="18:50"></punto>
-				<punto descripcion="Candelaria" hora="19:45"></punto>
-				<punto descripcion="Palillero" hora="20:10"></punto>
-				<punto descripcion="San Pablo" hora="20:30"></punto>
-				<punto descripcion="San José" hora="20:50"></punto>
+				<punto descripcion="Catedral" hora="18:55"></punto>
+				<punto descripcion="Candelaria" hora="19:50"></punto>
+				<punto descripcion="Palillero" hora="20:15"></punto>
+				<punto descripcion="San Pablo" hora="20:35"></punto>
+				<punto descripcion="San José" hora="20:55"></punto>
 				<punto descripcion="Recogida" hora="23:50"></punto>
 			</horario>
 			<horario descripcion="Último paso">
 				<punto descripcion="Salida" hora="17:40"></punto>
 				<punto descripcion="Catedral" hora="19:15"></punto>
-				<punto descripcion="Candelaria" hora="20:05"></punto>
-				<punto descripcion="Palillero" hora="20:30"></punto>
-				<punto descripcion="San Pablo" hora="20:50"></punto>
-				<punto descripcion="San José" hora="21:10"></punto>
+				<punto descripcion="Candelaria" hora="20:10"></punto>
+				<punto descripcion="Palillero" hora="20:35"></punto>
+				<punto descripcion="San Pablo" hora="20:55"></punto>
+				<punto descripcion="San José" hora="21:15"></punto>
 				<punto descripcion="Recogida" hora="00:15"></punto>
 			</horario>
 		</horarios>
@@ -153,6 +155,8 @@
 			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
 			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
 		</pois>
+        <descripcion>El primer pilar para la fundación de la Hermandad de la Sagrada Cena se coloca el seis de junio de 1960, gracias al prior de Santo Domingo en aquella fecha, el dominico fray Pablo del Olmo, ya fallecido, y su primer hermano mayor, José Luis Sancho Mejías, quienes adquieren un grupo escultórico que había quedado depositado en el convento dominico, pensando en fundar una hermandad de penitencia. Siendo este hecho reafirmado el 13 de abril de 1963 cuando la autoridad eclesiástica la erige canónicamente.&#xA;&#xA;En sus primeros años sólo atendía el culto interno y su labor social, cayendo al poco tiempo en un estancamiento del que pronto se recuperara, realizando su primera salida procesional en 1970, solo el paso de misterio. En  el año 1971 se le concedió al Príncipe de Asturias, Don Juan Carlos de Borbón, el titulo de Hermano Mayor Honorífico y a su alteza Doña Sofía, el titulo de Camarista de Honor de la Santísima Virgen en la visita realizada al Convento de Santo Domingo.&#xA;&#xA;La Virgen de los Santos y Esperanza, talla de propiedad particular, fue bendecida en el año 1971. Sólo procesionaria en Semana Santa en el año 1977 y lo hace desde un tinglado instalado en la calle Higuera (al no obtener permiso para hacerlo desde Santo Domingo), donde se monta un paso con enseres cedidos por la Archicofradía de la Merced, Cofradía de las Cigarreras, Cofradía de la Borriquita y Archicofradía del Carmen. Desde entonces no se ha vuelto a realizar un culto interno o externo a la Señora. Con anterioridad había procesionado por las calles de Cádiz en el año 1972, con motivo del 25 Aniversario de la Coronación Canónica de la Santísima Virgen del Rosario. Poco después de la salida procesional del año 1977 la imagen se retiraría del culto y pasaba de nuevo a manos de su dueño, José Luis Sancho Mejías.</descripcion>
+        <masdatos>Música:&#xA;&#xA;Agrupación Musical Sagrada Cena, propia de la Hermandad.&#xA;&#xA;Estrenos:&#xA;&#xA;Respiraderos delanteros bordados</masdatos>
 	</cofradia>
 	
 	<cofradia>
@@ -161,40 +165,40 @@
 		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Parroquia de San Agustín</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
-		<itinerario>Plaza de San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago,  CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza de San Agustín, a su Templo.</itinerario>
+		<itinerario>Plaza de San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza de San Agustín, a su Templo.</itinerario>
 		<imagenEscudo>escudo_humildadpaciencia</imagenEscudo>
-		<horaSalida>17:40</horaSalida>
-		<horaRecogida>23:45</horaRecogida>
+		<horaSalida>19:00</horaSalida>
+		<horaRecogida>00:30</horaRecogida>
 		<latitudRegreso>36.534725</latitudRegreso>
 		<longitudRegreso>-6.298004</longitudRegreso>
 		<ficheroRecorrido>humildadypaciencia</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
-				<punto descripcion="Salida" hora="17:40"></punto>
-				<punto descripcion="Catedral" hora="19:10"></punto>
-				<punto descripcion="Candelaria" hora="20:30"></punto>
-				<punto descripcion="Palillero" hora="20:55"></punto>
-				<punto descripcion="San Pablo" hora="21:15"></punto>
-				<punto descripcion="San José" hora="21:35"></punto>
-				<punto descripcion="Recogida" hora="23:45"></punto>
+				<punto descripcion="Salida" hora="19:00"></punto>
+				<punto descripcion="Catedral" hora="20:35"></punto>
+				<punto descripcion="Candelaria" hora="21:30"></punto>
+				<punto descripcion="Palillero" hora="21:55"></punto>
+				<punto descripcion="San Pablo" hora="22:15"></punto>
+				<punto descripcion="San José" hora="22:35"></punto>
+				<punto descripcion="Recogida" hora="00:30"></punto>
 			</horario>
 			<horario descripcion="Paso Misterio">
-				<punto descripcion="Salida" hora="17:45"></punto>
-				<punto descripcion="Catedral" hora="19:30"></punto>
-				<punto descripcion="Candelaria" hora="20:50"></punto>
-				<punto descripcion="Palillero" hora="21:15"></punto>
-				<punto descripcion="San Pablo" hora="21:35"></punto>
-				<punto descripcion="San José" hora="21:55"></punto>
-				<punto descripcion="Recogida" hora="00:10"></punto>
+				<punto descripcion="Salida" hora="19:05"></punto>
+				<punto descripcion="Catedral" hora="20:55"></punto>
+				<punto descripcion="Candelaria" hora="21:10"></punto>
+				<punto descripcion="Palillero" hora="22:15"></punto>
+				<punto descripcion="San Pablo" hora="22:35"></punto>
+				<punto descripcion="San José" hora="22:55"></punto>
+				<punto descripcion="Recogida" hora="00:55"></punto>
 			</horario>
 			<horario descripcion="Último paso">
-				<punto descripcion="Salida" hora="18:10"></punto>
-				<punto descripcion="Catedral" hora="19:55"></punto>
-				<punto descripcion="Candelaria" hora="21:15"></punto>
-				<punto descripcion="Palillero" hora="21:40"></punto>
-				<punto descripcion="San Pablo" hora="22:00"></punto>
-				<punto descripcion="San José" hora="22:20"></punto>
-				<punto descripcion="Recogida" hora="00:35"></punto>
+				<punto descripcion="Salida" hora="19:30"></punto>
+				<punto descripcion="Catedral" hora="21:20"></punto>
+				<punto descripcion="Candelaria" hora="22:15"></punto>
+				<punto descripcion="Palillero" hora="22:40"></punto>
+				<punto descripcion="San Pablo" hora="23:00"></punto>
+				<punto descripcion="San José" hora="23:20"></punto>
+				<punto descripcion="Recogida" hora="01:20"></punto>
 			</horario>
 		</horarios>
 		<images>
@@ -210,6 +214,8 @@
 			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
 			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
 		</pois>
+        <descripcion>Aunque sean parcos los detalles que poseemos sobre el origen de la Cofradía, puede estimarse que resulta fundada por un grupo de cargadores de Indias de origen vizcaíno, si bien desconozcamos su fecha exacta de fundación, datando los últimos datos documentados del año 1621. Desde su origen queda además estrechamente vinculada a la Orden de San Agustín, asentada en la ciudad en el año 1617. En tal sentido pudiera considerarse la existencia de una comunión de intereses entre los citados cargadores de Indias y la mencionada orden religiosa. Así estos últimos harían realidad una antigua pretensión de la orden, altamente interesada en ubicarse de forma estable en una ciudad como el Cádiz del s. XVII, de tanta importancia en la actividad mercantil y comercial, y por tanto puente de culturas, lugar de encuentro y residencia de una populosa y pujante población. Por su parte los primeros, asentados desde el año 1483 en una capilla de la actual Iglesia Parroquial de Santa Cruz, lograban finalmente ubicarse de manera independiente en una iglesia nueva, la del convento de San Agustín, en gran parte financiada por ellos, y que surgía en el centro de la actividad mercantil del Cádiz de la época, frente al muelle y en la calle de mayor movimiento de negocios.&#xA;&#xA;Allí quedaron agrupados los naturales de Guipúzcoa, Álava, Vizcaya y del reino de Navarra para rendir culto a Nuestro Señor bajo la veneración de la Humildad y Paciencia de Cristo. De hecho, y como es sabido, en las actuales pechinas de la cúpula de la iglesia parroquial de San Agustín se conservan los escudos de armas de las citadas provincias. Esta circunstancia motivó que fuera conocida popularmente como “cofradía de los vizcaínos”, denominación que con el transcurrir del tiempo fue cayendo en desuso, al extremo que durante el s. XX deja de utilizarse  Entre los fundadores conocemos los nombres de Juanes y Diego de Aguirre, Manuel y Miguel de Iriberri, Antonio de la Yust y Pedro Martínez de Aldabe, los primeros naturales de Lezo, los segundos de San Sebastián y los últimos de otras localidades de Guipúzcoa. De este listado sin duda alguna sobresale la figura de Manuel de Iriberri, albacea de Diego de Aguirre que pasa por ser el auténtico impulsor de la creación de la Cofradía, y bajo cuyo mecenazgo se construyó la iglesia conventual sede de la Cofradía, tal y como consta en la escritura de adquisición de la primitiva capilla dedicada al Santísimo Cristo de la Humildad y Paciencia y formalizada ante el escribano público Sebastián García Moreno el 22 de febrero del año 1642.</descripcion>
+        <masdatos>Música:&#xA;&#xA;Banda de Cornetas y Tambores Tres Caídas, de Arcos de la Frontera (Cádiz) para el Cristo y Banda de Música del Nazareno de Rota para la Virgen</masdatos>
 	</cofradia>
 	
 	<cofradia>
@@ -218,40 +224,40 @@
 		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
-		<itinerario>Sagasta (izq.), Hospital de Mujeres (drch), Plaza de Topete, Compañía, Santiago, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Mateo de Alba, Sagasta (izq.), a su Templo.</itinerario>
+		<itinerario>Sagasta (izq.), Hospital de Mujeres (drch), Plaza la Libertad, Plaza de Topete, Compañía, Santiago, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Mateo de Alba, Sagasta (izq.), a su Templo.</itinerario>
 		<imagenEscudo>escudo_laspenas</imagenEscudo>
-		<horaSalida>18:10</horaSalida>
-		<horaRecogida>23:50</horaRecogida>
+		<horaSalida>18:00</horaSalida>
+		<horaRecogida>00:15</horaRecogida>
 		<latitudRegreso>36.532917</latitudRegreso>
 		<longitudRegreso>-6.299919</longitudRegreso>
 		<ficheroRecorrido>penas</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
-				<punto descripcion="Salida" hora="18:10"></punto>
+				<punto descripcion="Salida" hora="18:00"></punto>
 				<punto descripcion="Catedral" hora="20:00"></punto>
-				<punto descripcion="Candelaria" hora="21:15"></punto>
-				<punto descripcion="Palillero" hora="21:40"></punto>
-				<punto descripcion="San Pablo" hora="22:00"></punto>
-				<punto descripcion="San José" hora="22:20"></punto>
-				<punto descripcion="Recogida" hora="23:50"></punto>
+				<punto descripcion="Candelaria" hora="20:55"></punto>
+				<punto descripcion="Palillero" hora="21:20"></punto>
+				<punto descripcion="San Pablo" hora="21:40"></punto>
+				<punto descripcion="San José" hora="22:00"></punto>
+				<punto descripcion="Recogida" hora="00:15"></punto>
 			</horario>
 			<horario descripcion="Paso Misterio">
-				<punto descripcion="Salida" hora="18:25"></punto>
+				<punto descripcion="Salida" hora="18:15"></punto>
 				<punto descripcion="Catedral" hora="20:15"></punto>
+				<punto descripcion="Candelaria" hora="21:10"></punto>
+				<punto descripcion="Palillero" hora="21:35"></punto>
+				<punto descripcion="San Pablo" hora="21:55"></punto>
+				<punto descripcion="San José" hora="22:15"></punto>
+				<punto descripcion="Recogida" hora="00:30"></punto>
+			</horario>
+			<horario descripcion="Último paso">
+				<punto descripcion="Salida" hora="18:40"></punto>
+				<punto descripcion="Catedral" hora="20:35"></punto>
 				<punto descripcion="Candelaria" hora="21:30"></punto>
 				<punto descripcion="Palillero" hora="21:55"></punto>
 				<punto descripcion="San Pablo" hora="22:15"></punto>
 				<punto descripcion="San José" hora="22:35"></punto>
-				<punto descripcion="Recogida" hora="00:05"></punto>
-			</horario>
-			<horario descripcion="Último paso">
-				<punto descripcion="Salida" hora="18:50"></punto>
-				<punto descripcion="Catedral" hora="20:35"></punto>
-				<punto descripcion="Candelaria" hora="21:50"></punto>
-				<punto descripcion="Palillero" hora="22:15"></punto>
-				<punto descripcion="San Pablo" hora="22:35"></punto>
-				<punto descripcion="San José" hora="22:25"></punto>
-				<punto descripcion="Recogida" hora="00:30"></punto>
+				<punto descripcion="Recogida" hora="00:55"></punto>
 			</horario>
 		</horarios>
 		<images>
@@ -267,6 +273,8 @@
 			<poi description="San Pablo" comment="" lat="36.532852" long="-6.296974" interes="NO"></poi>
 			<poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
 		</pois>
+        <descripcion>Una señora, la cual no quiso dar su nombre, regaló el día 7 de Septiembre de 1949, a D. Santiago Moreno Ruíz, una Imagen deteriorada que veneraba en su oratorio particular como Nuestro Padre Jesús de las Penas. Dicha Imagen fue restaurada por el escultor gaditano Miguel Láinez Capote y bendecida el 10 de Abril de 1954, por el Párroco de San Lorenzo, P. Francisco Jiménez-Alfaro y Gutiérrez. En torno a esta Imagen se constituyó la Junta Pro-Cultos, fundándose la Cofradía de Nuestro Padre Jesús de las Penas el día 23 de Noviembre de 1955, por Decreto del Obispo Tomás Gutiérrez Díaz.&#xA;&#xA;El 11 de Diciembre de 1955 se celebra el primer Cabildo General de Hermanos, quedando constituida la primera Junta de Gobierno, formada por las mismas personas que constituyeron la Junta Pro-Cultos. El primer Prioste de la Cofradía fue D. Benedicto Gómez Sanz.&#xA;&#xA;La primera salida de la primitiva Imagen de Nuestro Padre Jesús de las Penas tuvo lugar en la Santa Cuaresma de 1955, en un Vía-Crucis por la feligresía de San Lorenzo. Procesionó por vez primera en la tarde del Lunes Santo de 1956, ya que el Domingo de Ramos estaba lloviendo. Para tal ocasión, la Imagen vistió túnica bordada perteneciente a Nuestro Padre Jesús de los Desamparados, de la Parroquia de San Antonio (vulgarmente conocido como El Señor del Patio). Para celebrar su primera salida, la Camarera del Señor costeó una comida a sesenta pobres.</descripcion>
+        <masdatos>Música:&#xA;&#xA;Agrupación Musical Ecce Mater, de Cádiz, para Jesús de las Penas y Asociación Filarmónica Ciudad de Conil para la Virgen de la Caridad</masdatos>
 	</cofradia>
 	
 	<cofradia>

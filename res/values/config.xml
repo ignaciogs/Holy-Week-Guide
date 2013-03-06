@@ -26,8 +26,8 @@
 
 <resources>
 
-    <!--<string name="KEY_GOOGLE_MAPS">0B8Rsd6rLL0nlCx9VT1moiWzNGYAosIa0lMNfSg</string> //Development-->
-    <string name="KEY_GOOGLE_MAPS">0EVJD0cnsmODNkBv_RRNbJlRr8g7kyTvdv3lHHw</string>
+    <string name="KEY_GOOGLE_MAPS">0B8Rsd6rLL0n3BmfwM95oh8joV49fiR3OOmqY0Q</string>
+    <!--<string name="KEY_GOOGLE_MAPS">0EVJD0cnsmODNkBv_RRNbJlRr8g7kyTvdv3lHHw</string> //Market-->
 
     <string name="directoryRoutes">rutas/</string>
 

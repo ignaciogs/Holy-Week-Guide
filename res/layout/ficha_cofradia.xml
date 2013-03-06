@@ -59,6 +59,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Numero de pasos: 1"
+                        android:paddingLeft="5dp"
                         />
 
                 <TextView
@@ -67,6 +68,7 @@
                         android:layout_height="wrap_content"
                         android:text="Nombre de la iglesia"
                         android:layout_below="@+id/ficha_cofradia_numeroPasos"
+                        android:paddingLeft="5dp"
                         />
 
             </LinearLayout>
@@ -111,6 +113,7 @@
                 android:layout_marginLeft="3dp"
                 android:textStyle="bold"
                 android:textSize="18sp"
+                android:padding="5dp"
                 />
 
         <TextView
@@ -120,6 +123,7 @@
                 android:text="Itinerario"
                 android:layout_below="@+id/ficha_cofradia_desItinerario"
                 android:layout_marginLeft="3dp"
+                android:padding="5dp"
                 />
 
     </RelativeLayout>
