@@ -25,29 +25,35 @@
 
 package com.ignaciogs.semanasanta;
 
-import android.os.Bundle;
-import android.widget.TextView;
-import com.actionbarsherlock.app.SherlockActivity;
-import com.actionbarsherlock.view.MenuItem;
 
-public class ReleasesActivity extends SherlockActivity {
+import android.os.Bundle;
+import android.support.v4.view.ViewPager;
+import com.actionbarsherlock.app.SherlockFragmentActivity;
+import com.actionbarsherlock.view.MenuItem;
+import com.ignaciogs.semanasanta.adapters.ImagesAdapter;
+
+public class ImageGalleryActivity extends SherlockFragmentActivity {
 
     public static final String KEY_OBJECT = "KEY_OBJECT";
+
     private Cofradia currentCofradia;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.releases_activity);
+        setContentView(R.layout.image_gallery_activity);
 
         Bundle extras = getIntent().getExtras();
         if (extras != null && extras.containsKey(KEY_OBJECT) && extras.get(KEY_OBJECT) instanceof Cofradia) {
             currentCofradia = (Cofradia) extras.get(KEY_OBJECT);
-            ((TextView) findViewById(R.id.releases_tv_text)).setText(currentCofradia.getMoreData());
         }
 
         getSupportActionBar().setTitle(currentCofradia.getNombre_corto());
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+        ImagesAdapter imagesAdapter = new ImagesAdapter(getSupportFragmentManager(), currentCofradia.getImages(), ImageGalleryActivity.this);
+        ViewPager viewPager = (ViewPager) findViewById(R.id.image_gallery_vp_images);
+        viewPager.setAdapter(imagesAdapter);
     }
 
     @Override
@@ -56,6 +62,7 @@ public class ReleasesActivity extends SherlockActivity {
         switch (item.getItemId()) {
             case android.R.id.home:
                 finish();
+                result = true;
                 break;
         }
         return result;

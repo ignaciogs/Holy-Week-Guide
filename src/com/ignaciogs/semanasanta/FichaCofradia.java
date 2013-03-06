@@ -35,7 +35,6 @@ import com.actionbarsherlock.app.SherlockActivity;
 import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuItem;
 import com.actionbarsherlock.view.SubMenu;
-import com.ignaciogs.semanasanta.imagegallery.ImageGalleryView;
 import com.ignaciogs.semanasanta.map.MapViewActivity;
 
 public class FichaCofradia extends SherlockActivity {
@@ -45,7 +44,7 @@ public class FichaCofradia extends SherlockActivity {
     private final static int ACTION_ROUTE = 11;
     private final static int ACTION_RELEASES = 12;
     private final static int ACTION_HISTORY = 13;
-	private Cofradia currentCodradia;
+	private Cofradia currentCofradia;
 	
 	@Override
     public void onCreate(Bundle savedInstanceState) {
@@ -55,12 +54,12 @@ public class FichaCofradia extends SherlockActivity {
         Bundle extras = getIntent().getExtras();
         Bundle params = extras.getBundle("datos");
         
-        currentCodradia = (Cofradia) params.getSerializable("cofradia");
+        currentCofradia = (Cofradia) params.getSerializable("cofradia");
         
         /* Buscamos es escudo de la cofradia */
 		ImageView imgEscudo = (ImageView)findViewById(R.id.ficha_cofradia_escudo);
-		if (! currentCodradia.getImagenEscudo().equals("")) {
-			int idEscudo = getResources().getIdentifier(currentCodradia.getImagenEscudo(), "drawable", "com.ignaciogs.semanasanta");
+		if (! currentCofradia.getImagenEscudo().equals("")) {
+			int idEscudo = getResources().getIdentifier(currentCofradia.getImagenEscudo(), "drawable", "com.ignaciogs.semanasanta");
 			if (idEscudo > 0) {
 				imgEscudo.setVisibility(View.VISIBLE);
 				imgEscudo.setImageResource(idEscudo);
@@ -74,7 +73,7 @@ public class FichaCofradia extends SherlockActivity {
         //Buscamos la imagen del color de la tunicas
         ImageView imgTunica = (ImageView)findViewById(R.id.ficha_cofradia_imgTunicas);
         ApplicationSemanaSanta app = (ApplicationSemanaSanta)getApplication();
-        String nomCorto = currentCodradia.getNombre_corto().replaceAll(" ", "");
+        String nomCorto = currentCofradia.getNombre_corto().replaceAll(" ", "");
         nomCorto = nomCorto.replaceAll("-", "_");
         nomCorto = nomCorto.replaceAll("ñ", "ny");
         nomCorto = nomCorto.replaceAll("á", "a");
@@ -89,7 +88,7 @@ public class FichaCofradia extends SherlockActivity {
         nomCorto = nomCorto.replaceAll("Ú", "u");
         String nomImg = app.getNameActiveCity() + "_tunica_" + nomCorto;
         nomImg = nomImg.toLowerCase();
-        if (! currentCodradia.getImagenEscudo().equals("")) {
+        if (! currentCofradia.getImagenEscudo().equals("")) {
             int idTunica = getResources().getIdentifier(nomImg, "drawable", getApplication().getPackageName());
             if (idTunica > 0) {
                 imgTunica.setVisibility(View.VISIBLE);
@@ -102,22 +101,22 @@ public class FichaCofradia extends SherlockActivity {
         }
         
         TextView txtNombreLargo = (TextView)findViewById(R.id.ficha_cofradia_nombreLargo);
-        txtNombreLargo.setText(currentCodradia.getNombre_largo());
+        txtNombreLargo.setText(currentCofradia.getNombre_largo());
         
         TextView txtNumeroPasos = (TextView)findViewById(R.id.ficha_cofradia_numeroPasos);
-        txtNumeroPasos.setText(getString(R.string.ficha_cofradia_numeroPasos) + " " + currentCodradia.getNumero_pasos());
+        txtNumeroPasos.setText(getString(R.string.ficha_cofradia_numeroPasos) + " " + currentCofradia.getNumero_pasos());
         
         TextView txtNombreIglesia = (TextView)findViewById(R.id.ficha_cofradia_nombreIglesia);
-        txtNombreIglesia.setText(currentCodradia.getNombre_iglesia());
+        txtNombreIglesia.setText(currentCofradia.getNombre_iglesia());
         
         TextView txtItinerario = (TextView)findViewById(R.id.ficha_cofradia_itinerario);
-        txtItinerario.setText(currentCodradia.getItinerario());
+        txtItinerario.setText(currentCofradia.getItinerario());
         
         /* Cargamos el irinerario */
         loadItinerario();
         
         /* Creamos los botones de la barra superior */
-        getSupportActionBar().setTitle(currentCodradia.getNombre_corto());
+        getSupportActionBar().setTitle(currentCofradia.getNombre_corto());
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 	}
 
@@ -125,20 +124,20 @@ public class FichaCofradia extends SherlockActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         SubMenu subMenu = menu.addSubMenu("");
 
-        if (currentCodradia.getImages().size() > 0) {
+        if (currentCofradia.getImages().size() > 0) {
             subMenu.add(GROUP_ACTION, ACTION_IMAGES, 0, getString(R.string.ficha_cofradia_imagenes));
         }
 
-        if (!currentCodradia.getFicheroRecorrido().equals(""))  {
+        if (!currentCofradia.getFicheroRecorrido().equals(""))  {
             subMenu.add(GROUP_ACTION, ACTION_ROUTE, 0, getString(R.string.route));
         }
 
-        if (!TextUtils.isEmpty(currentCodradia.getReleases()))  {
-            subMenu.add(GROUP_ACTION, ACTION_RELEASES, 0, getString(R.string.releases));
+        if (!TextUtils.isEmpty(currentCofradia.getDescripcion()))  {
+            subMenu.add(GROUP_ACTION, ACTION_HISTORY, 0, getString(R.string.history));
         }
 
-        if (!TextUtils.isEmpty(currentCodradia.getDescripcion()))  {
-            subMenu.add(GROUP_ACTION, ACTION_HISTORY, 0, getString(R.string.history));
+        if (!TextUtils.isEmpty(currentCofradia.getMoreData()))  {
+            subMenu.add(GROUP_ACTION, ACTION_RELEASES, 0, getString(R.string.moreData));
         }
 
         MenuItem subMenu1Item = subMenu.getItem();
@@ -156,12 +155,15 @@ public class FichaCofradia extends SherlockActivity {
                 finish();
                 break;
             case ACTION_IMAGES:
-                if (currentCodradia.getImages().size() > 0) {
-	    			Intent i = new Intent(FichaCofradia.this, ImageGalleryView.class);
-					Bundle params = new Bundle();
-					params.putSerializable("cofradia", currentCodradia);
-					i.putExtra("datos", params);
-					startActivity(i);
+                if (currentCofradia.getImages().size() > 0) {
+                    Intent intent = new Intent(FichaCofradia.this, ImageGalleryActivity.class);
+                    intent.putExtra(ImageGalleryActivity.KEY_OBJECT, currentCofradia);
+                    startActivity(intent);
+//	    			Intent i = new Intent(FichaCofradia.this, ImageGalleryView.class);
+//					Bundle params = new Bundle();
+//					params.putSerializable("cofradia", currentCofradia);
+//					i.putExtra("datos", params);
+//					startActivity(i);
 
 	    		} else {
 	    			Toast.makeText(FichaCofradia.this, getString(R.string.msgNoFoto), Toast.LENGTH_LONG).show();
@@ -170,18 +172,18 @@ public class FichaCofradia extends SherlockActivity {
             case ACTION_ROUTE:
                 Intent i = new Intent(FichaCofradia.this, MapViewActivity.class);
 				Bundle params = new Bundle();
-				params.putSerializable("cofradia", currentCodradia);
+				params.putSerializable("cofradia", currentCofradia);
 				i.putExtra("datos", params);
 				startActivity(i);
                 break;
             case ACTION_HISTORY:
                 Intent intent = new Intent(FichaCofradia.this, DescriptionActivity.class);
-                intent.putExtra(DescriptionActivity.KEY_OBJECT, currentCodradia);
+                intent.putExtra(DescriptionActivity.KEY_OBJECT, currentCofradia);
                 startActivity(intent);
                 break;
             case ACTION_RELEASES:
                 Intent intentReleases = new Intent(FichaCofradia.this, ReleasesActivity.class);
-                intentReleases.putExtra(DescriptionActivity.KEY_OBJECT, currentCodradia);
+                intentReleases.putExtra(DescriptionActivity.KEY_OBJECT, currentCofradia);
                 startActivity(intentReleases);
                 break;
         }
@@ -190,7 +192,7 @@ public class FichaCofradia extends SherlockActivity {
 	
 	private void loadItinerario() {
 		TableLayout tlGeneral = (TableLayout)findViewById(R.id.ficha_cofradia_tlItinerario);
-		int numColumns = currentCodradia.getHorarios().size();
+		int numColumns = currentCofradia.getHorarios().size();
 		
 		TableRow trCabecera = new TableRow(this);
 		trCabecera.setBackgroundColor(0xFFFFFFFF);
@@ -200,7 +202,7 @@ public class FichaCofradia extends SherlockActivity {
 		tvBlanco.setText("   ");
 		tvBlanco.setPadding(5, 5, 5, 5);
 		trCabecera.addView(tvBlanco);
-		for (Horario horario : currentCodradia.getHorarios()) {
+		for (Horario horario : currentCofradia.getHorarios()) {
 			TextView tv = new TextView(this);
 			tv.setPadding(5, 5, 5, 5);
 			tv.setGravity(Gravity.CENTER_HORIZONTAL);
@@ -210,8 +212,8 @@ public class FichaCofradia extends SherlockActivity {
 		}
 		tlGeneral.addView(trCabecera);
 		
-		for (int j = 0; j < currentCodradia.getHorarios().get(0).getPuntos().size(); j++) {
-			Punto punto = currentCodradia.getHorarios().get(0).getPuntos().get(j);
+		for (int j = 0; j < currentCofradia.getHorarios().get(0).getPuntos().size(); j++) {
+			Punto punto = currentCofradia.getHorarios().get(0).getPuntos().get(j);
 			TableRow tr = new TableRow(this);
 			tr.setBackgroundColor(0xFFFFFFFF);
 			tr.setPadding(1, 1, 1, 1);
@@ -223,7 +225,7 @@ public class FichaCofradia extends SherlockActivity {
 			tr.addView(tvDes);
 			
 			for (int i = 0; i < numColumns; i++) {
-				String hora = currentCodradia.getHorarios().get(i).getPuntos().get(j).getHora();
+				String hora = currentCofradia.getHorarios().get(i).getPuntos().get(j).getHora();
 				TextView tvHora = new TextView(this);
 				tvHora.setBackgroundColor(0xFF000000);
 				tvHora.setGravity(Gravity.CENTER_HORIZONTAL);

@@ -8,6 +8,8 @@ Holy Week Guide is an android application with the itineraries, images and all i
 
 [android-mapviewballoons](https://github.com/jgilfelt/android-mapviewballoons)
 
-[GreenDroid](https://github.com/cyrilmottier/GreenDroid)
+[ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
+
+[Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 This libraries is including in libs directory

@@ -52,7 +52,7 @@ public class Cofradia implements Serializable {
 	private String ficheroRecorrido = "";
 	private List<Poi> pois = new ArrayList<Poi>();
     private String descripcion;
-    private String releases;
+    private String moreData;
 	
 	public List<Poi> getPois() {
 		return pois;
@@ -180,11 +180,11 @@ public class Cofradia implements Serializable {
         this.descripcion = descripcion;
     }
 
-    public String getReleases() {
-        return releases;
+    public String getMoreData() {
+        return moreData;
     }
 
-    public void setReleases(String releases) {
-        this.releases = releases;
+    public void setMoreData(String moreData) {
+        this.moreData = moreData;
     }
 }

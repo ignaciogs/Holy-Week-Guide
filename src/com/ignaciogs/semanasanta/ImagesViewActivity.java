@@ -33,7 +33,6 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import com.actionbarsherlock.app.SherlockActivity;
-import com.ignaciogs.semanasanta.imagegallery.customGallery;
 
 import java.util.List;
 

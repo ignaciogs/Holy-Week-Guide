@@ -49,5 +49,8 @@
     <string name="ramos">de Ramos</string>
 
     <string name="holyWeekGuide">Guía de Semana Santa</string>
+    <string name="route">Ruta</string>
+    <string name="history">Historia</string>
+    <string name="moreData">Más datos</string>
     
 </resources>

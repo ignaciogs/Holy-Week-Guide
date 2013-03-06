@@ -5,7 +5,7 @@
     <cofradia>
         <nombre_corto>La Borriquita</nombre_corto>
         <nombre_largo>COFRADÍA CARMELITANA DE PENITENCIA Y SACRAMENTAL HERMANDAD DE NAZARENOS DE NUESTRO PADRE JESÚS DE LA PAZ EN SU REAL Y TRIUNFAL ENTRADA EN JERUSALÉN Y NUESTRA MADRE Y SEÑORA MARÍA SANTÍSIMA DEL AMPARO</nombre_largo>
-        <fecha_salida>20120401</fecha_salida>
+        <fecha_salida>20130324</fecha_salida>
         <nombre_iglesia>Iglesia Parroquial de Nuestra Señora del Carmen y Santa Teresa</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>Alameda Marqués de Comillas, Calderón de la Barca, Plaza de Mina (dcha.), Tinte, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, Plaza de San Antonio (izq.), Veedor, Vea Murguía, Alameda Marqués de Comillas, a su Templo.</itinerario>
@@ -45,8 +45,8 @@
             </horario>
         </horarios>
         <images>
-            <image>imagen_borriquita_1</image>
-            <image>imagen_borriquita_2</image>
+            <image>http://imageshack.us/a/img96/2566/borriquita1h.jpg</image>
+            <image>http://imageshack.us/a/img687/4256/borriquita2r.jpg</image>
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -57,13 +57,13 @@
             <poi description="San José" comment="" lat="36.534294" long="-6.298449" interes="NO"></poi>
         </pois>
         <descripcion>La imagen del Señor de la Paz fue encargada al imaginero gaditano D. Miguel Lainez Capote en el año 1.944, procesionando por vez primera el año del Señor de 1.945. Es un Cristo de mirada penetrante y valioso sentir para nuestros hermanos fundadores, bendecido en una solemne ceremonia en la Parroquia de San José por Monseñor Tomás Gutiérrez (el obispo de las cofradías) el día 17 de diciembre de aquel histórico año.&#xA;&#xA;Debido a la mala conservación del titular, al ataque de la carcoma y al deterioro del candelero, en el año 1.978, le fue encargado a D. Francisco Buiza Fernández la delicada hazaña de dar el nuevo aspecto a nuestro actual Titular. La Junta de entonces deseaba que la imagen conservara al menos parte de la faz que tallara Lainez Capote, por lo que Buiza introdujo una parte de la antigua mascarilla en el cuerpo modelado de la nueva imagen y adecuadamente retocado fue trasladado conjuntamente a madera.&#xA;&#xA;La preciosa imagen de la Virgen del Amparo se realizó en los talleres del valenciano Rafael Perís, en base de unas manos que se encontraron en el baúl de una gaditana gran conocida de D. Emilio Bartús, datadas estas en el siglo XVIII de exquisita suavidad y delicadeza, en postura suplicante y acogedora basándose el imaginero en dolorosas genuinamente sevillanas, como la del Refugio, Socorro y Presentación.&#xA;&#xA;Cinco fueron los nombres propuestos para la advocación de la Madre : Dulce Nombre, Refugio, Socorro, Consuelo y Amparo; el niño Miguelito García fue el encargado de sacar la papeleta agraciada con el dulce nombre que encierra todos los demás, AMPARO de nuestras vidas. Se bendijo en la Parroquia de San José, en la Función Principal de Instituto, el 14 de marzo de 1.948, predicando en su honor está Santa Eucaristía el dominico misionero Ignacio Rodríguez Pérez. </descripcion>
-        <estrenos>Paso de palio</estrenos>
+        <masdatos>Paso de palio</masdatos>
     </cofradia>
     
 	<cofradia>
 		<nombre_corto>Despojado</nombre_corto>
 		<nombre_largo>HERMANDAD SALESIANA DE PENITENCIA DE NUESTRO PADRE JESUS DEL AMOR DESPOJADO DE SUS VESTIDURAS Y MARIA SANTISIMA DE LA CONCEPCION</nombre_largo>
-		<fecha_salida>20120401</fecha_salida>
+		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Iglesia de María Auxiliadora</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Colegio Salesianos "San Ignacio" (interior), Avenida María Auxiliadora, Adriano, Avda. de Portugal, Batista, Plaza del Árbol, Gas, Colarte, Sociedad, Parlamento, Avda. de Andalucía, General Rodríguez Bouza, Fernández Ladreda, Concepción Arenal, Campo del Sur, Jabonería, San Juan de Dios, Plaza San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL , San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios, Plocia, Cuesta de las Calesas, Plaza de la Constitución, Avda. Bahía Blanca, Acacias, Brunete, García Carrera, Avda. de Portugal, Adriano, Poeta Nieto, recogida en la Iglesia de San José.</itinerario>
@@ -94,10 +94,10 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_despojado_1</image>
-			<image>imagen_despojado_2</image>
-			<image>imagen_despojado_3</image>
-			<image>imagen_despojado_4</image>
+			<image>http://imageshack.us/a/img171/9083/imagendespojado1.jpg</image>
+			<image>http://imageshack.us/a/img577/7488/imagendespojado2.jpg</image>
+			<image>http://imageshack.us/a/img855/1593/imagendespojado3.jpg</image>
+			<image>http://imageshack.us/a/img90/4206/imagendespojado4.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="36.512184" long="-6.278971" interes="NO"></poi>
@@ -112,7 +112,7 @@
 	<cofradia>
 		<nombre_corto>Santa Cena</nombre_corto>
 		<nombre_largo>HERMANDAD SACRAMENTAL Y DE PENITENCIA Y COFRADIA DE NAZARENOS DE LA PURA Y LIMPIA MADRE DE DIOS, NTRO. PADRE JESUS DEL MILAGRO EN LA SAGRADA CENA Y MARIA STMA. REINA DE TODOS LOS SANTOS</nombre_largo>
-		<fecha_salida>20120401</fecha_salida>
+		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Iglesia Conventual de Santo Domingo</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Compás de Santo Domingo, Sopranis, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego José de Cádiz, Rosario, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Sopranis, Compás de Santo Domingo, a su Templo.</itinerario>
@@ -143,7 +143,7 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_santacena_1</image>
+			<image>http://imageshack.us/a/img268/7793/imagensantacena1.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="36.528824" long="-6.290199" interes="NO"></poi>
@@ -158,7 +158,7 @@
 	<cofradia>
 		<nombre_corto>Humildad y Paciencia</nombre_corto>
 		<nombre_largo>VENERABLE, INMEMORIAL, PONTIFICIA Y NACIONAL COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DE LA HUMILDAD Y PACIENCIA Y NUESTRA SEÑORA DE LA AMARGURA</nombre_largo>
-		<fecha_salida>20120401</fecha_salida>
+		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Parroquia de San Agustín</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago,  CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza de San Agustín, a su Templo.</itinerario>
@@ -198,9 +198,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_humildad_2</image>
-			<image>imagen_humildad_3</image>
-			<image>imagen_humildad_4</image>
+			<image>http://imageshack.us/a/img407/3231/imagenhumildad2.jpg</image>
+			<image>http://imageshack.us/a/img213/4059/imagenhumildad3.jpg</image>
+			<image>http://imageshack.us/a/img833/4899/imagenhumildad4.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -215,7 +215,7 @@
 	<cofradia>
 		<nombre_corto>Las Penas</nombre_corto>
 		<nombre_largo>VENERABLE Y REAL ARCHICOFRADÍA DE NUESTRA SEÑORA DEL PILAR DE ZARAGOZA, NUESTRO PADRE JESÚS DE LAS PENAS Y MARÍA DE LAS PENAS Y MARÍA SANTÍSIMA DE LA CARIDAD</nombre_largo>
-		<fecha_salida>20120401</fecha_salida>
+		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Sagasta (izq.), Hospital de Mujeres (drch), Plaza de Topete, Compañía, Santiago, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Mateo de Alba, Sagasta (izq.), a su Templo.</itinerario>
@@ -255,9 +255,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_penas_1</image>
-			<image>imagen_penas_2</image>
-			<image>imagen_penas_3</image>
+			<image>http://imageshack.us/a/img694/4334/imagenpenas1.jpg</image>
+			<image>http://imageshack.us/a/img534/2228/imagenpenas2.jpg</image>
+			<image>http://imageshack.us/a/img811/5972/imagenpenas3.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -272,7 +272,7 @@
 	<cofradia>
 		<nombre_corto>La Palma</nombre_corto>
 		<nombre_largo>PRIMERA COMPAÑÍA ESPIRITUAL DEL SANTO ROSARIO Y CORO DEL AVE MARÍA, VENERABLE, ANTIGUA, ILUSTRE, FRANCISCANA, LASALIANA, VICENCIANA, PONTIFICIA Y REAL ARCHICOFRADÍA SACRAMENTAL DE NUESTRA SEÑORA DE LA PALMA CORONADA (AGREGADA A LA DEL SANTÍSIMO NOMBRE DE MARÍA DE LA CORTE DE ROMA), SANTÍSIMO CRISTO DE LA MISERICORDIA Y MARÍA SANTÍSIMA DE LAS PENAS</nombre_largo>
-		<fecha_salida>20120402</fecha_salida>
+		<fecha_salida>20130325</fecha_salida>
 		<nombre_iglesia>Parroquia de Ntra. Sra. de la Palma</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Virgen de la Palma, Virgen de las Penas, Hermano San Ignacio, Plaza Tío de la Tiza, Pastora, Rosa (dcha), Sagasta (izq), Hospital de Mujeres (drcha), Plaza de Topete, Compañía, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, Plaza de San Antonio (izq), Torre, Rosa (dcha), Patrocinio, San Félix, Virgen de la Palma (izq), a su Templo.</itinerario>
@@ -312,9 +312,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_palma_1</image>
-			<image>imagen_palma_2</image>
-			<image>imagen_palma_3</image>
+			<image>http://imageshack.us/a/img706/7050/imagenpalma1.jpg</image>
+			<image>http://imageshack.us/a/img40/2484/imagenpalma2.jpg</image>
+			<image>http://imageshack.us/a/img839/6791/imagenpalma3.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -329,7 +329,7 @@
 	<cofradia>
 		<nombre_corto>Nazareno del amor</nombre_corto>
 		<nombre_largo>VENERABLE Y SERÁFICA HERMANDAD DE PENITENCIA DE NUESTRO PADRE JESÚS NAZARENO DEL AMOR Y NUESTRA SEÑORA DE LA ESPERANZA.</nombre_largo>
-		<fecha_salida>20120402</fecha_salida>
+		<fecha_salida>20130325</fecha_salida>
 		<nombre_iglesia>Iglesia Conventual de San Francisco</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Francisco, Tinte, Plaza de Mina (por delante del Museo), Santiago Terry, Fermín Salvochea, Isabel la Católica, Plaza Stmo. Cristo de la Vera Cruz, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza de San Francisco, a su Templo.</itinerario>
@@ -369,8 +369,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_amor_1</image>
-			<image>imagen_amor_2</image>
+			<image>http://imageshack.us/a/img202/8074/imagenamor1.jpg</image>
+			<image>http://imageshack.us/a/img203/8104/imagenamor2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -385,7 +385,7 @@
 	<cofradia>
 		<nombre_corto>Prendimiento</nombre_corto>
 		<nombre_largo>REAL CONGREGACIÓN DE LA VELA Y MAYOR CULTO AL SANTÍSIMO SACRAMENTO, FRANCISCANA Y CARMELITANA HERMANDAD DE PENITENCIA DE NUESTRO PADRE JESÚS EN SU PRENDIMIENTO, MARÍA SANTÍSIMA DEL PATROCINIO Y BEATO FRAY DIEGO JOSÉ DE CÁDIZ.</nombre_largo>
-		<fecha_salida>20120402</fecha_salida>
+		<fecha_salida>20130325</fecha_salida>
 		<nombre_iglesia>Parroquia de Ntra. Sra. del Carmen y Santa Teresa</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Alameda Marqués de Comillas, Calderón de la Barca, Plaza de Mina, Tinte, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San Antonio (centro), Veedor, Bendición de Dios, Alameda Marqués de Comillas, a su Templo.</itinerario>
@@ -425,8 +425,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_prendimiento_1</image>
-			<image>imagen_prendimiento_2</image>
+			<image>http://imageshack.us/a/img837/3049/imagenprendimiento1.jpg</image>
+			<image>http://imageshack.us/a/img11/7062/imagenprendimiento2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -441,7 +441,7 @@
 	<cofradia>
 		<nombre_corto>Vera Cruz</nombre_corto>
 		<nombre_largo>MUY ILUSTRE, ANTIGUA, VENERABLE, Y FRANCISCANA HERMANDAD Y COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DE LA VERA-CRUZ Y NUESTRA SEÑORA DE LA SOLEDAD.</nombre_largo>
-		<fecha_salida>20120402</fecha_salida>
+		<fecha_salida>20130325</fecha_salida>
 		<nombre_iglesia>Iglesia Conventual de San Francisco</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza de San Francisco, a su Templo.</itinerario>
@@ -481,8 +481,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_veracruz_1</image>
-			<image>imagen_veracruz_2</image>
+			<image>http://imageshack.us/a/img90/5038/imagenveracruz1.jpg</image>
+			<image>http://imageshack.us/a/img829/4524/imagenveracruz2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -497,7 +497,7 @@
 	<cofradia>
 		<nombre_corto>Piedad</nombre_corto>
 		<nombre_largo>VENERABLE Y NACIONAL COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DEL MAYOR DOLOR Y MARÍA SANTÍSIMA DE LA SALUD.</nombre_largo>
-		<fecha_salida>20120403</fecha_salida>
+		<fecha_salida>20130326</fecha_salida>
 		<nombre_iglesia>Iglesia de Santiago</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, a su Templo.</itinerario>
@@ -537,8 +537,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_piedad_1</image>
-			<image>imagen_piedad_2</image>
+			<image>http://imageshack.us/a/img39/1788/imagenpiedad1.jpg</image>
+			<image>http://imageshack.us/a/img15/5264/imagenpiedad2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -553,7 +553,7 @@
 	<cofradia>
 		<nombre_corto>El Caido</nombre_corto>
 		<nombre_largo>HERMANDAD SACRAMENTAL, VENERABLE, Y MARIANISTA COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS CAIDO Y MARÍA SANTÍSIMA DE LOS DESAMPARADOS.</nombre_largo>
-		<fecha_salida>20120403</fecha_salida>
+		<fecha_salida>20130326</fecha_salida>
 		<nombre_iglesia>Iglesia Conventual de San Francisco</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza Stmo. Cristo de la Vera-Cruz, Plaza San Francisco, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza de San Francisco, Plaza Stmo. Cristo de la Vera-Cruz, a su Templo.</itinerario>
@@ -593,10 +593,10 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_caido_1</image>
-			<image>imagen_caido_2</image>
-			<image>imagen_caido_3</image>
-			<image>imagen_caido_4</image>
+			<image>http://imageshack.us/a/img708/9536/imagencaido1.jpg</image>
+			<image>http://imageshack.us/a/img18/8383/imagencaido2.jpg</image>
+			<image>http://imageshack.us/a/img839/1100/imagencaido3.jpg</image>
+			<image>http://imageshack.us/a/img42/152/imagencaido4.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -611,7 +611,7 @@
 	<cofradia>
 		<nombre_corto>Sanidad</nombre_corto>
 		<nombre_largo>VENERABLE Y NACIONAL COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DEL MAYOR DOLOR Y MARÍA SANTÍSIMA DE LA SALUD.</nombre_largo>
-		<fecha_salida>20120403</fecha_salida>
+		<fecha_salida>20130326</fecha_salida>
 		<nombre_iglesia>Parroquia de Santa Cruz</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de Fray Félix, Obispo José María Rancés, Plaza de San Martín, Posadilla, San Antonio Abad, Fabio Rufino, Pomponio Mela, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, Rosario, Márquez de Valdeiñigo, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Ruiz de Bustamante, Marqués de Cádiz, Pelota, Pomponio Mela, Fabio Rufino, San Antonio Abad, Posadilla, Plaza de San Martín, Obispo José María Rances, Plaza de Fray Félix, a su Templo.</itinerario>
@@ -651,8 +651,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_sanidad_1</image>
-			<image>imagen_sanidad_2</image>
+			<image>http://imageshack.us/a/img7/6397/imagensanidad1.jpg</image>
+			<image>http://imageshack.us/a/img545/7833/imagensanidad2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -667,7 +667,7 @@
     <cofradia>
         <nombre_corto>Columnas</nombre_corto>
         <nombre_largo>VENERABLE, REAL Y MUY ILUSTRE ARCHICOFRADÍA DE LA SANTÍSIMA RESURRECCIÓN Y PENITENCIA DE NUESTRO PADRE JESÚS ATADO A LA COLUMNA Y AZOTES Y MARÍA SANTÍSIMA DE LAS LÁGRIMAS.</nombre_largo>
-        <fecha_salida>20120403</fecha_salida>
+        <fecha_salida>20130326</fecha_salida>
         <nombre_iglesia>Parroquia de San Antonio</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>Plaza de San Antonio (dcha.), Ancha, San José (izq.),Plaza de Mina,Tinte, Rosario,Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Benjumeda, Torre, Plaza de San Antonio, a su Templo.</itinerario>
@@ -707,8 +707,8 @@
             </horario>
         </horarios>
         <images>
-            <image>imagen_columnas_1</image>
-            <image>imagen_columnas_2</image>
+            <image>http://imageshack.us/a/img545/5364/imagencolumnas1.jpg</image>
+            <image>http://imageshack.us/a/img441/5820/imagencolumnas2.jpg</image>
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -723,7 +723,7 @@
 	<cofradia>
 		<nombre_corto>Ecce-Homo</nombre_corto>
 		<nombre_largo>REAL Y VENERABLE, ARCHICOFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DEL ECCE–HOMO, MARÍA SANTÍSIMA DE LAS ANGUSTIAS Y SAN JUAN EVANGELISTA.</nombre_largo>
-		<fecha_salida>20120403</fecha_salida>
+		<fecha_salida>20130326</fecha_salida>
 		<nombre_iglesia>Iglesia de la Conversión de San Pablo</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Ancha, Novena, Valverde, Beato Diego de Cádiz, Rosario, Plaza de San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Cánovas del Castillo, Valverde, Novena, Ancha, a su Templo.</itinerario>
@@ -763,9 +763,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_eccehomo_1</image>
-			<image>imagen_eccehomo_2</image>
-			<image>imagen_eccehomo_3</image>
+			<image>http://imageshack.us/a/img829/9980/imageneccehomo1.jpg</image>
+			<image>http://imageshack.us/a/img171/2952/imageneccehomo2.jpg</image>
+			<image>http://imageshack.us/a/img687/7527/imageneccehomo3.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -780,7 +780,7 @@
 	<cofradia>
 		<nombre_corto>La Luz y el Agua</nombre_corto>
 		<nombre_largo>REAL, GREMIAL NACIONAL Y MARIANISTA HERMANDAD SACRAMENTAL DEL SANTÍSIMO CRISTO DE LAS AGUAS, NUESTRA SEÑORA DE LA LUZ Y ASOCIACIÓN DE DISCÍPULOS DE SAN JUAN EVANGELISTA.</nombre_largo>
-		<fecha_salida>20120404</fecha_salida>
+		<fecha_salida>20130327</fecha_salida>
 		<nombre_iglesia>Parroquia de Santa Cruz</nombre_iglesia>
 		<numero_pasos>3</numero_pasos>
 		<itinerario>Plaza de Fray Félix, Campo del Sur, Arquitecto Acero, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza de San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pomponio Mela, Fabio Rufino, San Antonio Abad, Posadilla, Plaza San Martín, Obispo José María Rancés, Plaza de Fray Félix, a su Templo.</itinerario>
@@ -829,9 +829,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_luzagua_1</image>
-			<image>imagen_luzagua_2</image>
-			<image>imagen_luzagua_3</image>
+			<image>http://imageshack.us/a/img547/374/imagenluzagua1.jpg</image>
+			<image>http://imageshack.us/a/img689/5311/imagenluzagua2.jpg</image>
+			<image>http://imageshack.us/a/img845/426/imagenluzagua3.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -846,7 +846,7 @@
 	<cofradia>
 		<nombre_corto>La Cigarrera</nombre_corto>
 		<nombre_largo>REAL, ILUSTRE Y VENERABLE COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DE LA SALUD, MARÍA SANTÍSIMA DE LA ESPERANZA Y NUESTRA SEÑORA DEL AMOR HERMOSO.</nombre_largo>
-		<fecha_salida>20120404</fecha_salida>
+		<fecha_salida>20130327</fecha_salida>
 		<nombre_iglesia>Iglesia Conventual de Santo Domingo</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Compás de Santo Domingo, Plocia, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios, Plocia, Compás de Santo Domingo, a su Templo.</itinerario>
@@ -886,9 +886,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_cigarreras_1</image>
-			<image>imagen_cigarreras_2</image>
-			<image>imagen_cigarreras_3</image>
+			<image>http://imageshack.us/a/img7/589/imagencigarreras1.jpg</image>
+			<image>http://imageshack.us/a/img39/2681/imagencigarreras2.jpg</image>
+			<image>http://imageshack.us/a/img254/5391/imagencigarreras3.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -903,7 +903,7 @@
 	<cofradia>
 		<nombre_corto>Sentencia</nombre_corto>
 		<nombre_largo>VENERABLE Y MERCEDARIA COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DE LA SENTENCIA Y NUESTRA SEÑORA DEL BUEN FIN.</nombre_largo>
-		<fecha_salida>20120404</fecha_salida>
+		<fecha_salida>20130327</fecha_salida>
 		<nombre_iglesia>Parroquia de Ntra. Sra. de la Merced</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Merced, Plaza de las Canastas, Jesús de la Sentencia, San Juan de Dios, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), San Juan de Dios, Jesús de la Sentencia, Plaza de las Canastas, Merced, a su Templo.</itinerario>
@@ -943,8 +943,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_sentencia_1</image>
-			<image>imagen_sentencia_2</image>
+			<image>http://imageshack.us/a/img854/6411/imagensentencia1.jpg</image>
+			<image>http://imageshack.us/a/img109/1003/imagensentencia2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -959,7 +959,7 @@
 	<cofradia>
 		<nombre_corto>Angustias</nombre_corto>
 		<nombre_largo>VENERABLE COFRADÍA DE PENITENCIA DE NUESTRA SEÑORA DE LAS ANGUSTIAS.</nombre_largo>
-		<fecha_salida>20120404</fecha_salida>
+		<fecha_salida>20130327</fecha_salida>
 		<nombre_iglesia>Capilla de Ntra. Sra. de las Angustias</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Isabel la Católica, Alameda de Apodaca, Honduras, Costa Rica, Conde O'Reilly, Plaza Argüelles, Manuel Rances, Beato Diego de Cádiz, Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza de San Francisco, Plaza Stmo. Cristo de la Vera-Cruz, Isabel la Católica, a su Templo.</itinerario>
@@ -990,8 +990,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_angustias_1</image>
-			<image>imagen_angustias_2</image>
+			<image>http://imageshack.us/a/img40/5831/imagenangustias1.jpg</image>
+			<image>http://imageshack.us/a/img443/4380/imagenangustias2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1006,7 +1006,7 @@
 	<cofradia>
 		<nombre_corto>Afligidos</nombre_corto>
 		<nombre_largo>VENERABLE, REAL Y DEVOTA COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESUS DE LOS AFLIGIDOS Y MARÍA SANTÍSIMA DE LOS DESCONSUELO.</nombre_largo>
-		<fecha_salida>20120405</fecha_salida>
+		<fecha_salida>20130328</fecha_salida>
 		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Sagasta (izq.), Hospital de Mujeres (drch), Plaza Topete, Compañía, Santiago, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Santa Inés, Sagasta, a su Templo.</itinerario>
@@ -1037,7 +1037,7 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_afligidos_1</image>
+			<image>http://imageshack.us/a/img138/4762/imagenafligidos1.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1052,7 +1052,7 @@
 	<cofradia>
 		<nombre_corto>Oración en el Huerto</nombre_corto>
 		<nombre_largo>VENERABLE COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DE LA ORACIÓN EN EL HUERTO Y NUESTRA SEÑORA DE GRACIA Y ESPERANZA.</nombre_largo>
-		<fecha_salida>20120405</fecha_salida>
+		<fecha_salida>20130328</fecha_salida>
 		<nombre_iglesia>Parroquia de San Severiano</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Tolosa Latour (izq.), Plaza de San Severiano, Acacias, Plaza de la Constitución, Santa Elena, Cuestas de las Calesas, Teniente Andújar, Santo Domingo, Compás de Santo Domingo, Sopranis, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Cánovas del Castillo, Valverde, Beato Diego de Cádiz, Rosario, Marqués de Valdeiñigo, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios, Plocia, Cuestas de las Calesas, Santa Elena, Plaza de la Constitución, Acacias, Plaza de San Severiano, Tolosa Latour, a su Templo.</itinerario>
@@ -1092,8 +1092,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_oracionhuerto_1</image>
-			<image>imagen_oracionhuerto_2</image>
+			<image>http://imageshack.us/a/img268/9825/imagenoracionhuerto1.jpg</image>
+			<image>http://imageshack.us/a/img854/3518/imagenoracionhuerto2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1108,7 +1108,7 @@
 	<cofradia>
 		<nombre_corto>Nazareno</nombre_corto>
 		<nombre_largo>INMEMORIAL, VENERABLE, PONTIFICIA Y REAL COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS NAZARENO, SANTA CRUZ DE JERUSALEN Y MARIA SANTÍSIMA DE LOS DOLORES.</nombre_largo>
-		<fecha_salida>20120405</fecha_salida>
+		<fecha_salida>20130328</fecha_salida>
 		<nombre_iglesia>Iglesia Conventual de Santa María</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Santa María, Jabonería, San Juan de Dios, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Sopranis, Compás de Santo Domingo, Botica, Concepción Arenal, Santa María, a su Templo.</itinerario>
@@ -1148,9 +1148,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_nazareno_1</image>
-			<image>imagen_nazareno_2</image>
-			<image>imagen_nazareno_3</image>	
+			<image>http://imageshack.us/a/img35/6174/imagennazareno1.jpg</image>
+			<image>http://imageshack.us/a/img819/1303/imagennazareno2.jpg</image>
+			<image>http://imageshack.us/a/img259/3155/imagennazareno3.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1165,7 +1165,7 @@
     <cofradia>
         <nombre_corto>Medinaceli</nombre_corto>
         <nombre_largo>HERMANDAD SACRAMENTAL, ESCLAVITUD Y COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS Y RESCATADO Y MARÍA SANTÍSIMA DE LA TRINIDAD.</nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
+        <fecha_salida>20130328</fecha_salida>
         <nombre_iglesia>Parroquia de Santa Cruz</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>Plaza de Fray Félix, Obispo José Mª Rancés, Plaza San Martin, Posadilla, San Antonio Abad, Fabio Rufino, Pomponio Mela, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Cánovas del Castillo, Columela, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colon, Cobos, Pelota, Pomponio Mela, Fabio Rufino, San Antonio Abad, Posadilla, Plaza de San Martín, Obispo José María Rancés, Plaza de Fray Félix, a su Templo.</itinerario>
@@ -1205,9 +1205,9 @@
             </horario>
         </horarios>
         <images>
-            <image>imagen_medinaceli_1</image>
-            <image>imagen_medinaceli_2</image>
-            <image>imagen_medinaceli_3</image>
+            <image>http://imageshack.us/a/img209/7962/imagenmedinaceli1.jpg</image>
+            <image>http://imageshack.us/a/img194/4043/imagenmedinaceli2.jpg</image>
+            <image>http://imageshack.us/a/img607/4782/imagenmedinaceli3.jpg</image>
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1222,7 +1222,7 @@
 	<cofradia>
 		<nombre_corto>Descendimiento</nombre_corto>
 		<nombre_largo>REAL HERMANDAD Y COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DEL DESCENDIMIENTO DE LA SANTA CRUZ Y NUESTRA SEÑORA DE LOS DOLORES.</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Parroquia de San Lorenzo</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Sagasta (izq.), Hospital de Mujeres (drch), Plaza Topete, Compañía, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Hospital de Mujeres, Sagasta, a su Templo.</itinerario>
@@ -1253,8 +1253,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_descendimiento_1</image>
-			<image>imagen_descendimiento_2</image>	
+			<image>http://imageshack.us/a/img189/1184/imagendescendimiento1.jpg</image>
+			<image>http://imageshack.us/a/img442/419/imagendescendimiento2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1269,7 +1269,7 @@
 	<cofradia>
 		<nombre_corto>Perdón</nombre_corto>
 		<nombre_largo>VENERABLE COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DEL PERDÓN Y MARÍA SANTÍSIMA DEL ROSARIO EN SUS MISTERIOS DOLOROSOS.</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Parroquia de Santa Cruz</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de Fray Félix, Campo del Sur, Arquitecto Acero, Estación de Penitencia en la S.I.C., Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Plaza de Mina, Tinte, Plaza San Francisco, San Francisco, Plaza San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), Pomponio Mela, Fabio Rufino, San Antonio Abad, Posadilla, Plaza de San Martín, Obispo José María Rancés, Plaza de Fray Félix, a su Templo.</itinerario>
@@ -1309,9 +1309,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_perdon_1</image>
-			<image>imagen_perdon_2</image>	
-			<image>imagen_perdon_3</image>	
+			<image>http://imageshack.us/a/img521/1006/imagenperdon1.jpg</image>
+			<image>http://imageshack.us/a/img834/3426/imagenperdon2.jpg</image>
+			<image>http://imageshack.us/a/img801/9563/imagenperdon3.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1326,7 +1326,7 @@
 	<cofradia>
 		<nombre_corto>Expiracion</nombre_corto>
 		<nombre_largo>MUY ILUSTRE Y VENERABLE COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DE LA EXPIRACIÓN Y MARÍA SANTÍSIMA DE LA VICTORIA.</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Parroquia Castrense del Santo Ángel</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de Falla, San Rafael, Hospital de Mujeres, Plaza de Topete, Compañía, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, Plaza de San Antonio, Torre, Benjumeda, Plaza de las Viudas, Virgili, Plaza de Falla, a su Templo.</itinerario>
@@ -1366,8 +1366,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_expiracion_1</image>
-			<image>imagen_expiracion_2</image>	
+			<image>http://imageshack.us/a/img22/5481/imagenexpiracion1.jpg</image>
+			<image>http://imageshack.us/a/img717/1641/imagenexpiracion2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1382,7 +1382,7 @@
 	<cofradia>
 		<nombre_corto>Siete Palabras</nombre_corto>
 		<nombre_largo>VENERABLE Y MERCEDARIA HERMANDAD DE PENITENCIA DE LAS SIETE PALABRAS DEL SANTÍSIMO CRISTO DE LA SED Y MARÍA SANTÍSIMA DE LA PIEDAD.</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Parroquia de Ntra. Sra. de la Merced</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Merced, Plaza de las Canastas, Jesús de la Sentencia, San Juan de Dios, Plaza de San Juan de Dios, Pelota, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, San Pedro, Beato Diego de Cádiz, Rosario, Plaza de San Agustín, San Francisco, Nueva, Plaza de San Juan de Dios (centro), San Juan de Dios, Jesús de la Sentencia, Plaza de las Canastas, Merced, a su Templo.</itinerario>
@@ -1413,8 +1413,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_sietepalabras_1</image>
-			<image>imagen_sietepalabras_2</image>	
+			<image>http://imageshack.us/a/img402/2360/imagensietepalabras1.jpg</image>
+			<image>http://imageshack.us/a/img689/833/imagensietepalabras2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1429,7 +1429,7 @@
 	<cofradia>
 		<nombre_corto>Dolores</nombre_corto>
 		<nombre_largo>ORDEN SEGLAR DE LOS SIERVOS DE MARIA, FRATERNIDAD SERVITA DE MARIA SANTÍSIMA DE LOS DOLORES.</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Sagasta (izq.), Hospital de Mujeres, Plaza Topete, Compañía, Plaza de Pío XII, Estación de Penitencia en laS.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (izq.), Santa Inés (izq.), Sagasta (dcha.), a su Templo.</itinerario>
@@ -1460,8 +1460,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_dolores_1</image>	
-			<image>imagen_dolores_2</image>	
+			<image>http://imageshack.us/a/img836/3407/imagendolores1.jpg</image>
+			<image>http://imageshack.us/a/img690/3498/imagendolores2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1476,7 +1476,7 @@
 	<cofradia>
 		<nombre_corto>Silencio</nombre_corto>
 		<nombre_largo>COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DE LA BUENA MUERTE Y MARÍA SANTÍSIMA DEL MAYOR DOLOR.</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Parroquia de San Agustín</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza de Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José (dcha.), Plaza de Mina, Tinte, Plaza de San Francisco (lateral izquierdo), San Francisco, Plaza de San Agustín, a su Templo.</itinerario>
@@ -1516,9 +1516,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_silencio_1</image>	
-			<image>imagen_silencio_2</image>
-			<image>imagen_silencio_3</image>
+			<image>http://imageshack.us/a/img822/8900/imagensilencio1.jpg</image>
+			<image>http://imageshack.us/a/img715/6137/imagensilencio2.jpg</image>
+			<image>http://imageshack.us/a/img690/599/imagensilencio3.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1533,7 +1533,7 @@
 	<cofradia>
 		<nombre_corto>Ecce-Mater-Tua</nombre_corto>
 		<nombre_largo>SECCION DEPENITENCIA DE LAS CONGREGACIONES MARIANAS ECCE-MATER-TUA.</nombre_largo>
-		<fecha_salida>20120407</fecha_salida>
+		<fecha_salida>20130330</fecha_salida>
 		<nombre_iglesia>Iglesia de Santiago</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Plaza de Pío XII, Compañía, Santiago, Plaza de Candelaria, Montañés, Plaza del Palillero, Novena, Ancha, San José, San Pedro, Beato Diego de Cádiz, Rosario, Marqués de Valdeiñigo, San Francisco, Plaza San Agustín, San Francisco, Cristóbal Colón, Cobos, Plaza de Pío XII, a su Templo.</itinerario>
@@ -1558,7 +1558,7 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_matertua_1</image>	
+			<image>http://imageshack.us/a/img12/9924/imagenmatertua1.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1573,7 +1573,7 @@
 	<cofradia>
 		<nombre_corto>Santo Entierro</nombre_corto>
 		<nombre_largo>VENERABLE Y REAL COFRADÍA DE NUESTRA SEÑORA DE LA SOLEDAD Y SANTO ENTIERRO DE NUESTRO SEÑOR JESUCRISTO.</nombre_largo>
-		<fecha_salida>20120407</fecha_salida>
+		<fecha_salida>20130330</fecha_salida>
 		<nombre_iglesia>Parroquia de Santa Cruz</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de Fray Félix, Obispo José Ma. Rances, Plaza San Martin, Fabio Rufino, Pomponio Mela, Pelota, Plaza Pío XII, Estación de Penitencia en la S.I.C., Arquitecto Acero, Plaza Pío XII, Compañía, Santiago, CARRERA OFICIAL, San José, Cánovas del Castillo, Valverde, Beato Diego de Cádiz, San Francisco, Plaza San Agustín, San Francisco, Nueva, San Juan de Dios (centro), Pomponio Mela, Fabio Rufino, Plaza de San Martín, Obispo José María Rancés, Plaza de Fray Félix, a su Templo.</itinerario>
@@ -1613,8 +1613,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_santoentierro_1</image>
-			<image>imagen_santoentierro_2</image>	
+			<image>http://imageshack.us/a/img811/3059/imagensantoentierro1.jpg</image>
+			<image>http://imageshack.us/a/img13/7418/imagensantoentierro2.jpg</image>
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
@@ -1630,7 +1630,7 @@
 		<nombre_corto>Resucitado</nombre_corto>
 		<nombre_corto>Resucitado</nombre_corto>
 		<nombre_largo>VENERABLE, REAL Y MUY ILUSTRE ARCHICOFRADÍA DE LA SANTÍSIMA RESURRECCIÓN Y PENITENCIA DE NUESTRO PADRE JESÚS ATADO A LA COLUMNA Y AZOTES Y MARÍA SANTÍSIMA DE LAS LÁGRIMAS.</nombre_largo>
-		<fecha_salida>20120408</fecha_salida>
+		<fecha_salida>20130331</fecha_salida>
 		<nombre_iglesia>Parroquia de San Antonio</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Plaza de San Antonio (izq.), Zaragoza, Benjumeda (izq.), San José (izq.), Cánovas del Castillo, Valverde (dcha.), Novena (dcha.), Ancha, Plaza de San Antonio (izquieda), a su Templo.</itinerario>
@@ -1650,7 +1650,7 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_resucitado_1</image>	
+			<image>http://imageshack.us/a/img841/4425/imagenresucitado1.jpg</image>
 		</images>
 	</cofradia>
 	

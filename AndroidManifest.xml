@@ -42,14 +42,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ItinerarioListActivity" android:screenOrientation="portrait"></activity>
-        <activity android:name=".FichaCofradia" android:screenOrientation="portrait"></activity>
-        <activity android:name=".ImagesViewActivity"></activity>
-        <activity android:name=".map.MapViewActivity"></activity>
-        <activity android:name=".AcercaDeActivity"></activity>
-        <activity android:name=".imagegallery.ImageGalleryView"></activity>
-        <activity android:name=".DescriptionActivity"></activity>
-        <activity android:name=".ReleasesActivity"></activity>
+        <activity android:name=".ItinerarioListActivity" android:screenOrientation="portrait" />
+        <activity android:name=".FichaCofradia" android:screenOrientation="portrait" />
+        <activity android:name=".ImagesViewActivity" />
+        <activity android:name=".map.MapViewActivity" />
+        <activity android:name=".AcercaDeActivity" />
+        <activity android:name=".DescriptionActivity" />
+        <activity android:name=".ReleasesActivity" />
+        <activity android:name=".ImageGalleryActivity" />
         
     </application>
     

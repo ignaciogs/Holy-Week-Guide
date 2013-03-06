@@ -23,31 +23,37 @@
  *
  */
 
-package com.ignaciogs.semanasanta.imagegallery;
+package com.ignaciogs.semanasanta.adapters;
 
 import android.content.Context;
-import android.util.AttributeSet;
-import android.view.MotionEvent;
-import android.widget.Gallery;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
+import com.ignaciogs.semanasanta.fragments.ImageFragment;
 
-public class customGallery extends Gallery {
+import java.util.List;
 
-	public customGallery(Context context, AttributeSet attrs) {
-		super(context, attrs);
-	}
-	
-	public customGallery(Context context) {
-		super(context);
-	}
-	
-	private boolean isScrollingLeft(MotionEvent e1, MotionEvent e2){
-		  return e2.getX() > e1.getX();  
-		}
+/**
+ * ImagesAdapter class
+ */
+public class ImagesAdapter extends FragmentPagerAdapter {
 
-	@Override
-	public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX,
-			float velocityY) {
-	    return true;
-	}		
+    private List<String> data;
+    private Context context;
 
+    public ImagesAdapter(FragmentManager fm, List<String> data, Context context) {
+        super(fm);
+        this.data = data;
+        this.context = context;
+    }
+
+    @Override
+    public Fragment getItem(int i) {
+        return ImageFragment.newInstance(data.get(i));
+    }
+
+    @Override
+    public int getCount() {
+        return data.size();
+    }
 }

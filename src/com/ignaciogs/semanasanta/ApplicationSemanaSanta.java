@@ -26,10 +26,20 @@
 package com.ignaciogs.semanasanta;
 
 import android.app.Application;
+import android.content.Context;
+import android.graphics.Bitmap;
+import com.nostra13.universalimageloader.cache.disc.naming.Md5FileNameGenerator;
+import com.nostra13.universalimageloader.cache.memory.MemoryCacheAware;
+import com.nostra13.universalimageloader.cache.memory.impl.LRULimitedMemoryCache;
+import com.nostra13.universalimageloader.core.DisplayImageOptions;
+import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
+import com.nostra13.universalimageloader.core.assist.QueueProcessingType;
 
-public class ApplicationSemanaSanta extends Application{
+public class ApplicationSemanaSanta extends Application {
 
     private String nameActiveCity;
+    private DisplayImageOptions defaultOptionsImage;
 
     public String getNameActiveCity() {
         return nameActiveCity;
@@ -37,5 +47,36 @@ public class ApplicationSemanaSanta extends Application{
 
     public void setNameActiveCity(String nameActiveCity) {
         this.nameActiveCity = nameActiveCity;
+    }
+
+    @Override
+    public void onCreate() {
+        initImageLoader(getApplicationContext());
+    }
+
+    private void initImageLoader(Context context) {
+        //Create default options
+        defaultOptionsImage = new DisplayImageOptions.Builder()
+                .cacheInMemory()
+                .cacheOnDisc()
+                .build();
+
+        int memoryCacheSize = (int) (Runtime.getRuntime().maxMemory() / 8);
+
+        MemoryCacheAware<String, Bitmap> memoryCache = new LRULimitedMemoryCache(memoryCacheSize);
+        ImageLoaderConfiguration config = new ImageLoaderConfiguration.Builder(context)
+                .threadPriority(Thread.NORM_PRIORITY - 2)
+                .memoryCache(memoryCache)
+                .denyCacheImageMultipleSizesInMemory()
+                .discCacheFileNameGenerator(new Md5FileNameGenerator())
+                .tasksProcessingOrder(QueueProcessingType.LIFO)
+                .enableLogging()
+                .defaultDisplayImageOptions(defaultOptionsImage)
+                .build();
+        ImageLoader.getInstance().init(config);
+    }
+
+    public DisplayImageOptions getDefaultOptionsImage() {
+        return defaultOptionsImage;
     }
 }
