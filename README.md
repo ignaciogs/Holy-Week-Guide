@@ -5,6 +5,9 @@
 Holy Week Guide is an android application with the itineraries, images and all information of the brotherhoods Spain's holy week
 
 [![Holy-Week-Guide screenshot][1]]
+[![Holy-Week-Guide screenshot][2]]
+[![Holy-Week-Guide screenshot][3]]
+[![Holy-Week-Guide screenshot][4]]
 
 ## Dependencies
 
@@ -18,3 +21,6 @@ This libraries is including in libs directory
 
 
 [1]: https://raw.github.com/ignaciogs/Holy-Week-Guide/master/Screenshot_1.png
+[2]: https://raw.github.com/ignaciogs/Holy-Week-Guide/master/Screenshot_2.png
+[3]: https://raw.github.com/ignaciogs/Holy-Week-Guide/master/Screenshot_3.png
+[4]: https://raw.github.com/ignaciogs/Holy-Week-Guide/master/Screenshot_4.png
