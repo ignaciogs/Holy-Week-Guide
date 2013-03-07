@@ -1,41 +1,240 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <cofradias>
-
+    <cofradia>
+        <nombre_corto>Humildad y Paciencia</nombre_corto>
+        <nombre_largo>TRINITARIA HERMANDAD Y COFRADIA DE NAZARENOS DEL STMO. CRISTO DE LA HUMILDAD Y PACIENCIA, NTRA. SEÑORA DE LA TRINIDAD, SAN JUAN EVANGELISTA Y SAN ANTONIO ABAD.</nombre_largo>
+        <fecha_salida>20130323</fecha_salida>
+        <nombre_iglesia>Convento Santisima Trinidad</nombre_iglesia>
+        <numero_pasos>1</numero_pasos>
+        <itinerario>Plaza de las Angustias, Molineros, Ramón de Cala, Antón Daza, Barja, Plaza Leon XIII, PARROQUIA DE SAN MIGUEL, Plaza Leon XIII, San Miguel, San Pablo, Caballeros, Plaza del Arenal, Corredera, Plaza Esteve, Doña Blanca, Union, Bodegas, Medina, Higueras, Plaza de las Angustias
+        </itinerario>
+        <imagenEscudo>humildad_y_paciencia</imagenEscudo>
+        <horaSalida>21:30</horaSalida>
+        <horaRecogida>00:30</horaRecogida>
+        <latitudRegreso></latitudRegreso>
+        <longitudRegreso></longitudRegreso>
+        <ficheroRecorrido></ficheroRecorrido>
+        <horarios>
+            <horario descripcion="Cruz de Guia">
+                <punto descripcion="Salida" hora="21:30"></punto>
+                <punto descripcion="Parroquia San Miguel" hora="22:30"></punto>
+                <punto descripcion="Recogida" hora="00:15"></punto>
+            </horario>
+            <horario descripcion="Ultimo paso">
+                <punto descripcion="Salida" hora="21:45"></punto>
+                <punto descripcion="Parroquia San Miguel" hora="22:45"></punto>
+                <punto descripcion="Recogida" hora="00:30"></punto>
+            </horario>
+        </horarios>
+        <images>
+            <image>humildad_y_paciencia_1</image>
+            <image>humildad_y_paciencia_2</image>
+        </images>
+        <pois>
+        </pois>
+        <descripcion>Esta actual Hermandad de Humildad y Paciencia fue erigida en el año 1994 como Asociacion Parroquial por el primer Obispo de Jerez, D. Rafael Bellido Caro. \n Tras varios años de trabajo, Monseñor Rafael Bellido, primer Obispo de Jerez, aprobo el 2 de febrero del año 2000, a la Hermandad del Santisimo Cristo de la Humildad y Paciencia, Nuestra Señora de la Presentacion y San Antonio Abad. \n En junio del año 2002, el Ministro General de los Trinitarios acogió a la Hermandad en la Familia Trinitaria como Laicos Trinitarios.\nEn el Sabado de pasion del año 2008 realizo primera estacion de penitencia como Hermandad y Cofradia de Nazarenos a la Iglesia Parroquial de San Miguel desde el Templo de San Juan Bautista (Los Descalzos) por imposibilidad de hacerlo desde su sede canónica por estrechez de la puerta de salida.\nEn el año 2009 realizo estacion de penitencia al mismo Templo de San Miguel desde la Santa Iglesia Catedral. En los años 2010 y 2011 hizo la estación de penitencia desde la iglesia Parroquial de San Dionisio. Desde el año 2008 realiza estación de Penitencia el Sábado de Pasión. \n El año 2012 realizo estacion de penitencia desde su sede canonica de la Iglesia de la Santisima Trinidad.</descripcion>
+        <masdatos>Nuevo Estandarte. Senatus y atributos de la Pasión (Lanza y esponja).\nMúsica de Capilla a cargo de Trivium Capilla (oboe, clarinete y fagot).</masdatos>
+    </cofradia>
+    <cofradia>
+        <nombre_corto>Pasion</nombre_corto>
+        <nombre_largo>HERMANDAD Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA PASION, NEGACIONES Y LAGRIMAS DE
+            SAN PEDRO, ANGUSTIA DE MARIA MADRE DE LA IGLESIA, Y SANTA ANGELA DE LA CRUZ
+        </nombre_largo>
+        <fecha_salida>20130323</fecha_salida>
+        <nombre_iglesia>Iglesia de Santa Angela de la Cruz</nombre_iglesia>
+        <numero_pasos>1</numero_pasos>
+        <itinerario>Playa del Rompidillo, Avenida Nazaret, Avenida de los Monumentos, Gibralfaro, Parque de Doñana,
+            Parque de los Alcornocales, Puerto del Boyar, Iran, Israel, Avenida del Mediterraneo, Calle del Mar, Avenida
+            de Nazaret, Alboran, PARROQUIA VIRGEN DE LOS DOLORES, Plaza Kiwi, Republica Saharaui, Paseo de las Delicias,
+            Almendro, Beethoven, Isaac Albéniz, Fresa, Macedonia, Rosquilleros, Sandía, Playa del Rompidillo, Iglesia de
+            Santa Angela.
+        </itinerario>
+        <imagenEscudo>pasion</imagenEscudo>
+        <horaSalida>18:00</horaSalida>
+        <horaRecogida>00:00</horaRecogida>
+        <latitudRegreso></latitudRegreso>
+        <longitudRegreso></longitudRegreso>
+        <ficheroRecorrido></ficheroRecorrido>
+        <horarios>
+            <horario descripcion="Cruz de Guia">
+                <punto descripcion="Salida" hora="18:00"></punto>
+                <punto descripcion="Parroquia de los Dolores" hora="20:25"></punto>
+                <punto descripcion="Recogida" hora=""></punto>
+            </horario>
+            <horario descripcion="Ultimo paso">
+                <punto descripcion="Salida" hora=""></punto>
+                <punto descripcion="Parroquia de los Dolores" hora="21:05"></punto>
+                <punto descripcion="Recogida" hora="00:00"></punto>
+            </horario>
+        </horarios>
+        <images>
+            <image></image>
+        </images>
+        <pois>
+        </pois>
+        <descripcion>En el año 1999 surge un grupo de chavales con inquietudes cofrades en el barrio de La Granja,
+            concretamente en la plaza de Bornos. Este grupo se reunió bajo la advocación de Ntro. Padre Jesús del Buen
+            Consuelo y con él pretendían representar el momento en el que Jesús es presentado al pueblo. Para ello en un
+            paso de 35 Costaleros hecho por ellos mismo, además del Cristo aparecían 2 imágenes más (Pilatos que lo
+            presentaba al pueblo y un sayón que lo prendía). Estas imágenes fueron realizadas por un joven del barrio.
+            En el año 2000 se producen cambios en esta Asociación Juvenil al comprar un nuevo paso. El paso que
+            compraron fue el antiguo de la que fue Asociación Parroquial de Ntro. Padre Jesús en su Soberano Poder. \n
+            El 4 de Agosto de 2001, se encarga la realización de la imagen titular de la Agrupación, Ntro. Padre Jesús
+            de la Pasión, al escultor imaginero D. Antonio Jesús Dubé Verdugo. El 13 de Marzo de 2002, el Vicario de
+            Pastoral D. José Palomas Agout Pbro., reconoce la existencia de la Asociación. Teniendo esta como sede
+            provisional a la Parroquia de Virgen de los Dolores. \n El Sábado 18 de Mayo de 2002, llega la imagen de
+            Ntro. Padre Jesús de la Pasión a Jerez y tras la autorizacion fue bendecida el 20 de Julio. El 25 de
+            Noviembre de 2004 pasa a ser Agrupación Parroquial. \n El día 30 de Mayo de 2007 en el seno de la Agrupación
+            se crea la Agrupación Musical de Ntro. Padre Jesús de la Pasión.El Domingo 13 de Enero de 2008, la imagen de
+            Ntro. Padre Jesús de la Pasión llega a la Parroquia de Virgen de los Dolores, donde tendrá la Agrupación su
+            sede canoníca a la espera de la construcción del Centro Pastoral de Santa Ángela de la Cruz.El día 15 de
+            Marzo 2008, Sábado de Pasión, Ntro. Padre Jesús de la Pasión realiza por primera vez su Salida Procesional.
+            El 9 de Septiembre de 2010 es bendecida por parte de nuestro Obispo D. José Mazuelos Pérez la Iglesia de
+            Santa Ángela de Cruz, futura sede definitiva de la Agrupación.
+        </descripcion>
+        <estrenos>Túnica de los nazarenos. Dalmaticas del Cuerpo de Acólitos. Cuatro palermos para celadores.</estrenos>
+        <banda>Banda de Cornetas y Tambores Vera-Cruz de Utrera</banda>
+    </cofradia>
+    <cofradia>
+        <nombre_corto>Sed</nombre_corto>
+        <nombre_largo>HERMANDAD SACRAMENTAL DE LA SANTÍSIMA TRINIDAD, TRONO DE MISERICORDIA Y COFRADÍA DE NAZARENOS DEL
+            SANTÍSIMO CRISTO DE LA SED AMPARO DE MARÍA SANTÍSIMA Y BEATA TERESA DE CALCUTA
+        </nombre_largo>
+        <fecha_salida>20130323</fecha_salida>
+        <nombre_iglesia>Parroquia de San Juan Grande y Ntra. Sra. de la Candelaria - Provisional en UPACE
+        </nombre_iglesia>
+        <numero_pasos>1</numero_pasos>
+        <itinerario>Escritor Federico de la Vega, Arquitecto Hernández Rubio, Antonio Quintero y Ramírez, Miguel Hue,
+            Arquitecto José Vargas, Avenida Blas Infante, Glorieta Cuatro Caminos, Alcubilla, Puerto, Armas, Plaza del
+            Arenal, Caballeros, San Pablo, San Miguel, Plaza León XIII, IGLESIA DE SAN MIGUEL, Plaza León XIII, Santa
+            Cecilia, Guarnidos, Plaza del Carbón, Ronda de Muleros, Hijuela del Agrimensor, Garrochistas de Bailén,
+            Hijuela de las Coles, María Luisa Cobo Peña, Arquitecto Hernández Rubio, Escritor Federico de la Vega.
+        </itinerario>
+        <imagenEscudo>sed</imagenEscudo>
+        <horaSalida>18:15</horaSalida>
+        <horaRecogida>00:15</horaRecogida>
+        <latitudRegreso></latitudRegreso>
+        <longitudRegreso></longitudRegreso>
+        <ficheroRecorrido></ficheroRecorrido>
+        <horarios>
+            <horario descripcion="Cruz de Guia">
+                <punto descripcion="Salida" hora="18:15"></punto>
+                <punto descripcion="Parroquia San Miguel" hora="21:00"></punto>
+                <punto descripcion="Recogida" hora=""></punto>
+            </horario>
+            <horario descripcion="Ultimo paso">
+                <punto descripcion="Salida" hora=""></punto>
+                <punto descripcion="Parroquia San Miguel" hora="21:10"></punto>
+                <punto descripcion="Recogida" hora="00:15"></punto>
+            </horario>
+        </horarios>
+        <images>
+            <image></image>
+        </images>
+        <pois>
+        </pois>
+        <descripcion>La Agrupación Parroquial fue constituida el 29 de octubre de 2006 en la naciente parroquia de San
+            Juan Grande y Nuestra Señora de la Candelaria. El 8 de diciembre del mismo año fue reconocida por la
+            autoridad eclesiástica. La mayoría de los miembros fundadores formaban parte de una antigua asociación
+            Juvenil de Viernes de Dolores.\n El 23 de diciembre de 2008 se recibe la aprobación por parte del Obispado
+            del nuevo boceto del Cristo de la Sed, diseño realizado por el escultor-imaginero onubense Elías Rodríguez
+            Picón. La bendición tuvo lugar el día 10 de septiembre 2010 en la Iglesia parroquial de San Miguel. \n El
+            día 6 de abril de 2010, en Cabildo de hermanos se elige como advocación mariana la del Amparo de María
+            Santísima. El dia 11 de enero de 2012, se celebró el traslado del Santísimo Cristo de la Sed a la Santa
+            Iglesia Catedral para la erección canónica de la Hermandad. El 12 de enero de 2013 fue erigida Hermandad de
+            Penitencia por el Obispo de Jerez, D. José Mazuelos Pérez en la Santa Iglesia Catedral.
+        </descripcion>
+        <estrenos>Candelabros de guardabrisas para el paso del Cristo.</estrenos>
+        <banda>Banda de Cornetas y Tambores Nuestra Señora del Rosario, de Cádiz.</banda>
+    </cofradia>
+    <cofradia>
+        <nombre_corto>San Rafael</nombre_corto>
+        <nombre_largo>HERMANDAD Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA SALUD, NUESTRA SENORA DE LAS AGUAS
+            Y ARCANGELES SAN RAFAEL Y SAN GABRIEL
+        </nombre_largo>
+        <fecha_salida>20130323</fecha_salida>
+        <nombre_iglesia>Parroquia de San Rafael</nombre_iglesia>
+        <numero_pasos>1</numero_pasos>
+        <itinerario>Freyde, Vicente Aleixandre, Plaza Pio Baroja (lado derecho), Jorge Manrique, Cuesta de la Hoyanca,
+            Avenida Ronda Mulero, Plaza Santisimo Cristo de la Expiracion, ERMITA DE SAN TELMO, Plaza Santisimo Cristo
+            de la Expiracion, Pavia, Plata, Empedrada, Cruz Vieja, Ramon de Cala, Pollo, Vicario, Plaza del Carbon (lado
+            izquierdo), Avenida Ronda de Muleros, Hijuela del Agrimensor, Garrochistas de Bailén, Calle B, Freyde.
+        </itinerario>
+        <imagenEscudo>san_rafael</imagenEscudo>
+        <horaSalida>17:45</horaSalida>
+        <horaRecogida>23:15</horaRecogida>
+        <latitudRegreso></latitudRegreso>
+        <longitudRegreso></longitudRegreso>
+        <ficheroRecorrido></ficheroRecorrido>
+        <horarios>
+            <horario descripcion="Cruz de Guia">
+                <punto descripcion="Salida" hora="17:45"></punto>
+                <punto descripcion="Ermita de San Telmo" hora="19:15"></punto>
+                <punto descripcion="Recogida" hora=""></punto>
+            </horario>
+            <horario descripcion="Ultimo paso">
+                <punto descripcion="Salida" hora=""></punto>
+                <punto descripcion="Ermita de San Telmo" hora="19:25"></punto>
+                <punto descripcion="Recogida" hora="23:15"></punto>
+            </horario>
+        </horarios>
+        <images>
+            <image></image>
+        </images>
+        <pois>
+        </pois>
+        <descripcion>La Hermandad nace de las llamadas Asociaciones Juveniles de Torresoto. Tras una reunión con el
+            párroco de San Rafael, D. Angel Obradors, se deciden por su traslado a la misma, uniéndose a ellos dos
+            Asociaciones juveniles mas, la de Vallesequillo y la Federico Mayo. El 19 de marzo del 2005, Sábado de
+            Pasión, tuvo lugar la bendición de Nuestro Padre Jesús de la Salud, obra del pintor e imaginero jerezano
+            Miguel Ángel. \n El 19 de junio de 2006 llega el Decreto del Sr. Obispo de Asidonia-Jerez, D. Juan del Río
+            Martín, por el cual se comunica que se erigen en la Agrupación Parroquial de Nuestro Padre Jesús de la
+            Salud, Nuestra Señora de las Aguas, San Rafael y San Gabriel, con sede canónica en la Parroquial de San
+            Rafael y San Gabriel.En asamblea de asociados celebrada en julio de 2010 se decidió cambiar la primitiva
+            imagen titular por una nueva del imaginero Fernando J. Aguado Hernández. El día 21 de marzo de 2012 se
+            bendijo la nueva imagen de Nuestro Padre Jesús de la Salud por el Obispo de Asidonia-Jerez, D. José Mazuelos
+            Perez en la Parroquia de San Rafael. /n El dia 11 de enero de 2012, se celebró el traslado del Señor a la
+            Santa Iglesia Catedral para la erección canónica de la Hermandad. El 12 de enero de 2013 fue erigida
+            Hermandad de Penitencia por el Obispo de Jerez, D. José Mazuelos Pérez en la Santa Iglesia Catedral.
+        </descripcion>
+        <estrenos>Erección canónica y primera salida como Hermandad de Penitencia.</estrenos>
+        <banda>Agrupación Musical de María Santísima de las Lágrimas de San Fernando (Cádiz).</banda>
+    </cofradia>
     <cofradia>
         <nombre_corto>Borriquita</nombre_corto>
         <nombre_largo>HERMANDAD Y COFRADIA DE CRISTO REY EN SU ENTRADA TRIUNFAL EN JERUSALEN, NTRA. SRA. DE LA ESTRELLA
             Y SAN JUAN BAUTISTA DE LA SALLE
         </nombre_largo>
-        <fecha_salida>20120401</fecha_salida>
+        <fecha_salida>20130324</fecha_salida>
         <nombre_iglesia>Colegio San Jose</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Plaza N.P.Jesus de la Sgda.Cena, Plaza San Marcos, Plaza Rafael Rivero, Puerta de Sevilla, Porvera,
-            San Juan de Dios, Sevilla, Palquillo, CARRERA OFICIAL, Aire,Visitacion, Santa Isabel, Jose L. Diez (lado
-            derecho),Limones, Plaza Luis Braille,Plaza del Carmen, Carmen, Sederia, Plaza Santo Angel,Torneria, Plaza
-            Rafael Rivero, Plaza San Marcos, Plaza N.P.Jesus de la Sgda. Cena.
+        <itinerario>Plaza Nuestro Padre Jesús de la Sagrada Cena, Plaza San Marcos, Plaza Rafael Rivero, Puerta de
+            Sevilla, Porvera, San Juan de Dios, Sevilla, Palquillo, CARRERA OFICIAL, Encarnación, Reducto, Cruces, Plaza
+            del Arroyo, José Luis Díez, Limones, Plaza Luis Braille, Plaza del Carmen, Sedería, Plaza Santo Ángel,
+            Tornería, Plaza Rafael Rivero, Plaza San Marcos, Plaza Nuestro Padre Jesús de la Sagrada Cena
         </itinerario>
         <imagenEscudo>borriquita</imagenEscudo>
-        <horaSalida>17:30</horaSalida>
+        <horaSalida>17:15</horaSalida>
         <horaRecogida>23:30</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>borriquita_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="17:30"></punto>
-                <punto descripcion="Palquillo" hora="18:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="19:45"></punto>
-                <punto descripcion="Catedral" hora="20:25"></punto>
-                <punto descripcion="Fuera Catedral" hora="20:35"></punto>
+                <punto descripcion="Salida" hora="17:15"></punto>
+                <punto descripcion="Palquillo" hora="18:30"></punto>
+                <punto descripcion="Plaza Asuncion" hora="19:40"></punto>
+                <punto descripcion="Catedral" hora="20:10"></punto>
+                <punto descripcion="Fuera Catedral" hora="20:20"></punto>
                 <punto descripcion="Recogida" hora="22:50"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="18:10"></punto>
-                <punto descripcion="Palquillo" hora="19:25"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:10"></punto>
-                <punto descripcion="Catedral" hora="21:05"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:15"></punto>
+                <punto descripcion="Salida" hora="17:55"></punto>
+                <punto descripcion="Palquillo" hora="19:10"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:20"></punto>
+                <punto descripcion="Catedral" hora="20:50"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:00"></punto>
                 <punto descripcion="Recogida" hora="23:30"></punto>
             </horario>
         </horarios>
@@ -46,10 +245,14 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.685623" long="-6.139137" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
-        <descripcion>Descripcion larga y/o historia de la cofradia.</descripcion>
+        <descripcion></descripcion>
+        <estrenos>No se conocen aun</estrenos>
+        <banda>Banda de Cornetas y Tambores Victoria, de León, tras el paso de Cristo Rey y la Banda de Música Enrique
+            Galán de Rota (Cádiz) en el paso de Palio.
+        </banda>
     </cofradia>
 
     <cofradia>
@@ -57,37 +260,37 @@
         <nombre_largo>HERMANDAD Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DEL PERDON, MARIA SANTISIMA DEL PERPETUO
             SOCORRO Y SAN JOSE OBRERO
         </nombre_largo>
-        <fecha_salida>20120401</fecha_salida>
+        <fecha_salida>20130324</fecha_salida>
         <nombre_iglesia>Ermita de Guia</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Pasaje del Stmo. Cristo del Perdon, Ermita de Guia, Calzada del Arroyo, Arco del Arroyo, Plaza del
-            Arroyo, Barranco, Curtidores, Plaza Peones, Carpinteria Baja, Carmen, Sederia, Plaza Plateros, Plaza Santo
-            Angel, Torneria, Plaza Rafael Rivero, Puerta de Sevilla, Porvera, San Juan de Dios, Sevilla, Palquillo,
-            CARRERA OFICIAL, Aire, Cruces, Pz. del Arroyo, Calzada del Arroyo, Ermita de Guia, Pasaje del Stmo Cristo
-            del Perdon.
+        <itinerario>Pasaje del Santísimo Cristo del Perdón, Ermita de Guía, Calzada del Arroyo, Arco del Arroyo, Plaza
+            Domecq, Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo
+            Ángel, Tornería, Plaza Rafael Rivero, Puerta de Sevilla, Porvera, San Juan de Dios, Sevilla, Palquillo,
+            CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado derecho), Arroyo,
+            Arco del Arroyo, Calzada del Arroyo, Ermita de Guía, Pasaje del Santísimo Cristo del Perdón
         </itinerario>
         <imagenEscudo>perdon</imagenEscudo>
         <horaSalida>16:50</horaSalida>
-        <horaRecogida>22:45</horaRecogida>
+        <horaRecogida>22:40</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>perdon_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="16:50"></punto>
-                <punto descripcion="Palquillo" hora="19:30"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:30"></punto>
-                <punto descripcion="Catedral" hora="21:10"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:20"></punto>
-                <punto descripcion="Recogida" hora="22:30"></punto>
+                <punto descripcion="Palquillo" hora="19:15"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:25"></punto>
+                <punto descripcion="Catedral" hora="20:55"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:25"></punto>
+                <punto descripcion="Recogida" hora="22:20"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="17:0"></punto>
-                <punto descripcion="Palquillo" hora="19:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:45"></punto>
-                <punto descripcion="Catedral" hora="21:25"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:35"></punto>
-                <punto descripcion="Recogida" hora="22:45"></punto>
+                <punto descripcion="Salida" hora="17:10"></punto>
+                <punto descripcion="Palquillo" hora="19:35"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:45"></punto>
+                <punto descripcion="Catedral" hora="21:15"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:25"></punto>
+                <punto descripcion="Recogida" hora="22:40"></punto>
             </horario>
         </horarios>
         <images>
@@ -97,10 +300,14 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.682060" long="-6.140746" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
-
+        <descripcion></descripcion>
+        <estrenos>Bordado del exterior de las caídas laterales del Paso de Palio.</estrenos>
+        <banda>No lleva música el Cristo, y la Banda de Música Virgen del Castillo, de Lebrija (Sevilla) tras el paso de
+            palio de la Virgen del Perpetuo Socorro.
+        </banda>
     </cofradia>
 
     <cofradia>
@@ -108,37 +315,37 @@
         <nombre_largo>HERMANDAD Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DEL CONSUELO EN EL DESPRECIO DE HERODES,
             MADRE DE DIOS DE LA MISERICORDIA Y SAN CRISTOBAL MARTIR
         </nombre_largo>
-        <fecha_salida>20120401</fecha_salida>
+        <fecha_salida>20130324</fecha_salida>
         <nombre_iglesia>Basilica Ntra. Sra de la Merced Coronada</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Bas?lica Ntra. Sra. De la Merced, Merced, Sta. Maria de la Merced, Nueva, Angostillo, Plaza Santiago
-            (lado Izquierdo), Ancha, Porvera, Gaitan, San Juan Grande, Sevilla, Palquillo, CARRERA OFICIAL, Aire,Cruces,
-            Plaza Domecq (lado derecho), Barranco, Curtidores, Plaza Peones, Carpinteria Baja, Carmen, Sederia, Plaza
-            Plateros, Plaza Santo Angel, Torneria,Plaza Rafael Rivero, Porvera, Ancha, Plaza Santiago (lado
-            derecho),Merced, Basilica Ntra. Sra. De la Merced.
+        <itinerario>Merced, Santa María de la Merced, Nueva, Angostillo, Plaza Santiago (lado izquierdo), Ancha,
+            Porvera, Gaitán, San Juan Grande, Sevilla, Palquillo, CARRERA OFICIAL, Encarnación, Reducto, Cruces, Plaza
+            Domecq (lado derecho), Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza
+            Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael Rivero, Porvera, Ancha, Plaza Santiago (lado derecho),
+            Merced, Basílica Nuestra Señora de la Merced
         </itinerario>
         <imagenEscudo>transporte</imagenEscudo>
-        <horaSalida>17:25</horaSalida>
-        <horaRecogida>01:40</horaRecogida>
+        <horaSalida>17:15</horaSalida>
+        <horaRecogida>01:15</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>transporte_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="17:25"></punto>
-                <punto descripcion="Palquillo" hora="19:50"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:50"></punto>
-                <punto descripcion="Catedral" hora="21:30"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:40"></punto>
-                <punto descripcion="Recogida" hora="01:15"></punto>
+                <punto descripcion="Salida" hora="17:15"></punto>
+                <punto descripcion="Palquillo" hora="19:40"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:50"></punto>
+                <punto descripcion="Catedral" hora="21:20"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:30"></punto>
+                <punto descripcion="Recogida" hora="00:50"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="17:50"></punto>
-                <punto descripcion="Palquillo" hora="20:15"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:15"></punto>
-                <punto descripcion="Catedral" hora="21:55"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:05"></punto>
-                <punto descripcion="Recogida" hora="01:40"></punto>
+                <punto descripcion="Salida" hora="17:35"></punto>
+                <punto descripcion="Palquillo" hora="20:05"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:15"></punto>
+                <punto descripcion="Catedral" hora="21:45"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:55"></punto>
+                <punto descripcion="Recogida" hora="01:15"></punto>
             </horario>
         </horarios>
         <images>
@@ -148,7 +355,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.686592" long="-6.145939" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -159,13 +366,12 @@
         <nombre_largo>ANTIGUA Y VENERABLE HERMANDAD DEL SANTISIMO CRISTO DE LA CORONACION DE ESPINAS, MARIA SANTISIMA DE
             LA PAZ EN SU MAYOR AFLICCION Y SAN JUAN BAUTISTA
         </nombre_largo>
-        <fecha_salida>20120401</fecha_salida>
+        <fecha_salida>20130324</fecha_salida>
         <nombre_iglesia>Capilla Los Desemparados</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Arcos, Gaspar Fernandez, Bizcocheros, Antona de Dios, Plaza San Andr?s, Rosario,Plaza Aladro (lado
-            izquierdo), Eguiluz, Sevilla, Palquillo, CARRERA OFICIAL, Aire,Visitacion, Santa Isabel, Jose L. D?ez(Lado
-            Derecho) , Plaza Asunci?n (lado derecho), Angostillo, Plaza de la Yerba,Consitorio, Plaza Arenal, Corredera,
-            Plaza Esteve, Santa Maria, Cerron, Arcos.
+        <itinerario>Arcos, Gaspar Fernández, Bizcocheros, Antona de Dios, Plaza San Andrés, Rosario, Plaza Aladro,
+            Palquillo, CARRERA OFICIAL, Encarnación, de la Rosa, Manuel María González, Plaza Monti, Plaza Arenal (lado
+            izquierdo), Corredera, Plaza Esteve, Santa María, Cerrón, Arcos
         </itinerario>
         <imagenEscudo>coronacion</imagenEscudo>
         <horaSalida>17:45</horaSalida>
@@ -176,18 +382,18 @@
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="17:45"></punto>
-                <punto descripcion="Palquillo" hora="20:20"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:20"></punto>
-                <punto descripcion="Catedral" hora="22:00"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:10"></punto>
-                <punto descripcion="Recogida" hora="00:45"></punto>
+                <punto descripcion="Palquillo" hora="20:10"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:20"></punto>
+                <punto descripcion="Catedral" hora="21:50"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:00"></punto>
+                <punto descripcion="Recogida" hora="00:35"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="18:15"></punto>
-                <punto descripcion="Palquillo" hora="20:50"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:50"></punto>
-                <punto descripcion="Catedral" hora="22:30"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:40"></punto>
+                <punto descripcion="Palquillo" hora="20:40"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:50"></punto>
+                <punto descripcion="Catedral" hora="22:20"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:30"></punto>
                 <punto descripcion="Recogida" hora="01:05"></punto>
             </horario>
         </horarios>
@@ -198,7 +404,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.684311" long="-6.129609" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -206,38 +412,37 @@
 
     <cofradia>
         <nombre_corto>Angustias</nombre_corto>
-        <nombre_largo>ANTIGUA Y VENERABLE HERMANDAD DE NUESTRA SE?ORA DE LAS ANGUSTIAS</nombre_largo>
-        <fecha_salida>20120401</fecha_salida>
+        <nombre_largo>ANTIGUA Y VENERABLE HERMANDAD DE NUESTRA SEÑORA DE LAS ANGUSTIAS</nombre_largo>
+        <fecha_salida>20130324</fecha_salida>
         <nombre_iglesia>Capilla de las Angustias</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
         <itinerario>Plaza de las Angustias (lado derecho), Higueras, Medina, Honda, Bizcocheros, Caracuel, Plaza San
-            Andres, Santa Rosa, Plaza Aladro, Eguiluz, Sevilla, Palquillo, CARRERA OFICIAL,Aire, Reducto Alto, Plaza de
-            la Encarnacion, De la Rosa, Manuel Maria Gonzalez, Plaza Monti, Armas, Conde de Bayona, San Agustin,Santa
-            Cecilia, Plaza Leon XIII, Barja, Plaza Anton Daza, Ramon de Cala, Molineros,Plaza de las Angustias (lado
-            derecho).
+            Andrés, Rosario, Plaza Aladro, Palquillo, CARRERA OFICIAL, Encarnación, de la Rosa, Manuel María González,
+            Monti, Armas, Conde de Bayona, San Agustín, Santa Cecilia, Plaza León XIII, Barja, Plaza Antón Daza, Ramón
+            de Cala, Molineros, Plaza de las Angustias (lado derecho)
         </itinerario>
         <imagenEscudo>angustias</imagenEscudo>
-        <horaSalida>18:45</horaSalida>
-        <horaRecogida>00:50</horaRecogida>
+        <horaSalida>18:50</horaSalida>
+        <horaRecogida>00:55</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>angustias_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="18:45"></punto>
-                <punto descripcion="Palquillo" hora="20:55"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:55"></punto>
-                <punto descripcion="Catedral" hora="22:35"></punto>
+                <punto descripcion="Salida" hora="18:50"></punto>
+                <punto descripcion="Palquillo" hora="20:45"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:55"></punto>
+                <punto descripcion="Catedral" hora="22:25"></punto>
                 <punto descripcion="Fuera Catedral" hora="22:55"></punto>
-                <punto descripcion="Recogida" hora="00:35"></punto>
+                <punto descripcion="Recogida" hora="00:45"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="19:00"></punto>
-                <punto descripcion="Palquillo" hora="21:10"></punto>
-                <punto descripcion="Plaza Arenal" hora="22:10"></punto>
-                <punto descripcion="Catedral" hora="22:50"></punto>
-                <punto descripcion="Fuera Catedral" hora="23:10"></punto>
-                <punto descripcion="Recogida" hora="00:50"></punto>
+                <punto descripcion="Palquillo" hora="20:55"></punto>
+                <punto descripcion="Plaza Asuncion" hora="22:05"></punto>
+                <punto descripcion="Catedral" hora="22:35"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:45"></punto>
+                <punto descripcion="Recogida" hora="00:55"></punto>
             </horario>
         </horarios>
         <images>
@@ -246,7 +451,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.680664" long="-6.132903" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -257,34 +462,35 @@
         <nombre_largo>HERMANDAD DE LA SANTA CRUZ Y COFRADIA DE NAZARENOS DE NUESTRO JESUS DE LA PAZ EN EL DESPRECIO DEL
             PUEBLO, MARIA STMA. REFUGIO DE LOS PECADORES, GLORIOSA VIRGEN DE FATIMA Y BENDITO PATRIARCA SAN JOSE
         </nombre_largo>
-        <fecha_salida>20120402</fecha_salida>
-        <nombre_iglesia>Parroquia Nuestra Se?ora de Fatima</nombre_iglesia>
+        <fecha_salida>20130325</fecha_salida>
+        <nombre_iglesia>Parroquia Nuestra Señora de Fatima</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Antonio Mejias Bienvenida, Martin Ferrador, Juan Belmonte, Jose Gomez Gallito, Manolete, Circo, Nu?o
-            de Ca?as, Santo Domingo, Eguiluz, Mamelon, CARRERA OFICIAL, Visitacion, Santa Isabel, Jose Luis Diez, Pz. de
-            la Asuncion, Chapineria, Sederia, Santo Angel, Torneria, Pz. del Clavo, Eguilaz, Pz.del Banco, Larga,
-            Rotonda de los Casinos, Bizcocheros, Caldereros, Pz. Quemada, Don Juan, Gomez Carrilo, Clavel, M. del Carmen
-            Requejo Iglesias, Av. de Fatima, Pasaje Don Buenaventura Sanchez Falcon, Antonio Mejias Bienvenida.
+        <itinerario>Antonio Mejías Bienvenida, Martín Ferrador, Juan Belmonte, José Gómez Gallito, Manolete, Circo
+            (lateral Plaza de Toros), Nuño de Caña, Santo Domingo, Plaza Aladro, Palacio Marqués de Domecq, CARRERA
+            OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza del Arroyo, Barranco, Plaza Peones,
+            Carpintería Baja, Carmen, Sedería, Santo Ángel, Tornería, Plaza del Clavo, Eguilaz, Alameda del Banco,
+            Larga, Bizcocheros, Caldereros, Plaza Quemada, Gómez Carrillo, Clavel, María del Carmen Requejo Iglesias,
+            Avenida de Fátima, Pasaje D. Buenaventura Sánchez Falcón, Antonio Mejías Bienvenida.
         </itinerario>
         <imagenEscudo>paz</imagenEscudo>
-        <horaSalida>16:30</horaSalida>
-        <horaRecogida>00:15</horaRecogida>
+        <horaSalida>16:45</horaSalida>
+        <horaRecogida>01:30</horaRecogida>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="16:30"></punto>
+                <punto descripcion="Salida" hora="16:45"></punto>
                 <punto descripcion="Palquillo" hora="18:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="19:45"></punto>
+                <punto descripcion="Plaza Asuncion" hora="19:55"></punto>
                 <punto descripcion="Catedral" hora="20:25"></punto>
                 <punto descripcion="Fuera Catedral" hora="20:35"></punto>
-                <punto descripcion="Recogida" hora="11:55"></punto>
+                <punto descripcion="Recogida" hora="01:10"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="16:50"></punto>
+                <punto descripcion="Salida" hora="16:55"></punto>
                 <punto descripcion="Palquillo" hora="19:05"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:05"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:15"></punto>
                 <punto descripcion="Catedral" hora="20:45"></punto>
                 <punto descripcion="Fuera Catedral" hora="20:55"></punto>
-                <punto descripcion="Recogida" hora="00:15"></punto>
+                <punto descripcion="Recogida" hora="01:30"></punto>
             </horario>
         </horarios>
         <images>
@@ -295,20 +501,20 @@
 
     <cofradia>
         <nombre_corto>Santa Cena</nombre_corto>
-        <nombre_largo>REAL Y ANTIGUA HERMANDAD DEL SANT?SIMO SACRAMENTO, SAGRADA CENA DE NUESTRO SE?OR JESUCRISTO Y
-            SANTA MAR?A DE LA PAZ Y CONCORDIA EN SUS MISTERIOS GLORIOSOS Y DOLOROSOS
+        <nombre_largo>REAL Y ANTIGUA HERMANDAD DEL SANTISIMO SACRAMENTO, SAGRADA CENA DE NUESTRO SEÑOR JESUCRISTO Y
+            SANTA MARIA DE LA PAZ Y CONCORDIA EN SUS MISTERIOS GLORIOSOS Y DOLOROSOS
         </nombre_largo>
-        <fecha_salida>20120402</fecha_salida>
+        <fecha_salida>20130325</fecha_salida>
         <nombre_iglesia>Parroquia San Marcos</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Plaza N.P. Jes?s Sgda. Cena, Plaza San Marcos, Plaza Rafael Rivero, Puerta de Sevilla, Porvera,
-            Gait?n, San Juan Grande, Sevilla, Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza del Arroyo (lado
-            derecho),Barranco, Curtidores,Plaza Peones, Carpinteria Baja, Carmen, Seder?a, Plaza Plateros,Plaza Santo
-            ?ngel,Torneria, Plaza Rafael Rivero, Plaza San Marcos, Plaza N.P. Jes?s Sgda. Cena.
+        <itinerario>Plaza Nuestro Padre Jesús de la Sagrada Cena, Plaza de San Marcos, Plaza Rafael Rivero, Porvera,
+            Gaitán, San Juan Grande, Alameda Cristina, Palquillo, CARRERA OFICIAL, Encarnación, de la Rosa, Manuel María
+            González, Plaza Monti, Pozuelo, Letrados, Plaza de la Asunción, Padre Luis Bellido, Santo Ángel, Tornería,
+            Plaza Rafael Rivero, Plaza de San Marcos, Plaza Nuestro Padre Jesús de la Sagrada Cena
         </itinerario>
         <imagenEscudo>santacena</imagenEscudo>
         <horaSalida>17:40</horaSalida>
-        <horaRecogida>00:00</horaRecogida>
+        <horaRecogida>01:00</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>santacena_r</ficheroRecorrido>
@@ -316,18 +522,18 @@
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="17:40"></punto>
                 <punto descripcion="Palquillo" hora="19:10"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:10"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:20"></punto>
                 <punto descripcion="Catedral" hora="20:50"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:00"></punto>
-                <punto descripcion="Recogida" hora="23:30"></punto>
+                <punto descripcion="Recogida" hora="00:30"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="18:10"></punto>
                 <punto descripcion="Palquillo" hora="19:40"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:40"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:50"></punto>
                 <punto descripcion="Catedral" hora="21:20"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:30"></punto>
-                <punto descripcion="Recogida" hora="00:00"></punto>
+                <punto descripcion="Recogida" hora="01:00"></punto>
             </horario>
         </horarios>
         <images>
@@ -338,7 +544,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.685654" long="-6.139051" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -346,16 +552,17 @@
 
     <cofradia>
         <nombre_corto>Candelaria</nombre_corto>
-        <nombre_largo>HERMANDAD SACRAMENTAL Y COFRAD?A DE NAZARENOS DE NUESTRO PADRE JES?S DE LAS MISERICORDIAS Y
-            NUESTRA SE?ORA DE LA CANDELARIA
+        <nombre_largo>HERMANDAD SACRAMENTAL Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LAS MISERICORDIAS Y
+            NUESTRA SENORA DE LA CANDELARIA
         </nombre_largo>
-        <fecha_salida>20120402</fecha_salida>
+        <fecha_salida>20130325</fecha_salida>
         <nombre_iglesia>Parroquia Santa Ana</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Plaza de la Constitucion, Plaza Federico Mayo, Fernando de la Cuadra, Pizarro, Pozo del Olivar,
-            Guadalete, San Juan Grande, Sevilla, Palquillo, CARRERA OFICIAL,Aire,Cruces, Plaza Domecq (lado derecho),
-            Barranco, Curtidores, Plaza Peones, Carpinteria Baja, Carmen, Sederia, Plaza Plateros, Plaza Santo Angel,
-            Torneria, Plaza Rafael Rivero, Puerta de Sevilla, Porvera, Lealas, Plaza de la Constituci?n.
+        <itinerario>Plaza de la Constitución, Plaza Federico Mayo, Fernando de la Cuadra, Pizarro, Pozo del Olivar,
+            Guadalete, San Juan Grande, Sevilla, Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno
+            Monreal, Cruces, Plaza Domecq (lado derecho), Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen,
+            Sedería, Plaza Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael Rivero, Puerta de Sevilla, Porvera,
+            Lealas, Plaza de la Constitución
         </itinerario>
         <imagenEscudo>candelaria</imagenEscudo>
         <horaSalida>17:25</horaSalida>
@@ -367,17 +574,17 @@
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="17:25"></punto>
                 <punto descripcion="Palquillo" hora="19:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:45"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:55"></punto>
                 <punto descripcion="Catedral" hora="21:25"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:35"></punto>
-                <punto descripcion="Recogida" hora="01:30"></punto>
+                <punto descripcion="Recogida" hora="01:35"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="17:55"></punto>
-                <punto descripcion="Palquillo" hora="20:15"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:15"></punto>
-                <punto descripcion="Catedral" hora="21:55"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:05"></punto>
+                <punto descripcion="Salida" hora="17:50"></punto>
+                <punto descripcion="Palquillo" hora="20:10"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:15"></punto>
+                <punto descripcion="Catedral" hora="21:50"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:00"></punto>
                 <punto descripcion="Recogida" hora="02:00"></punto>
             </horario>
         </horarios>
@@ -388,48 +595,94 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.692459" long="-6.143203" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
     </cofradia>
+    <cofradia>
+        <nombre_corto>Amor y Sacrificio</nombre_corto>
+        <nombre_largo>PIADOSA HERMANDAD DE NUESTRA SENORA DEL AMOR Y SACRIFICIO</nombre_largo>
+        <fecha_salida>20130325</fecha_salida>
+        <nombre_iglesia>Parroquia Madre de Dios</nombre_iglesia>
+        <numero_pasos>1</numero_pasos>
+        <itinerario>Puertas del Sol, Plaza Nuestro Padre Jesús de la Sentencia, Sol, Granados, Plaza de las Angustias
+            (lado derecho), Higueras, Medina, Honda, Bizcocheros, Caracuel, Plaza San Andrés, Rosario, Plaza Aladro,
+            Palacio Domecq, Palquillo, CARRERA OFICIAL, Encarnación, de la Rosa, Manuel María González, Alameda Vieja,
+            Conde de Bayona, Santa Cecilia, Plaza León XIII, Barja, Plaza Antón Daza, Ramón de Cala, Empedrada, Plaza
+            Nuestro Padre Jesús de la Sentencia, Puertas del Sol
+        </itinerario>
+        <imagenEscudo>amorysacrificio</imagenEscudo>
+        <horaSalida>18:15</horaSalida>
+        <horaRecogida>00:30</horaRecogida>
+        <latitudRegreso>36.682076</latitudRegreso>
+        <longitudRegreso>-6.140488</longitudRegreso>
+        <ficheroRecorrido>amorysacrificio_r</ficheroRecorrido>
+        <horarios>
+            <horario descripcion="Cruz de Guia">
+                <punto descripcion="Salida" hora="18:15"></punto>
+                <punto descripcion="Palquillo" hora="20:15"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:25"></punto>
+                <punto descripcion="Catedral" hora="21:55"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:05"></punto>
+                <punto descripcion="Recogida" hora="00:10"></punto>
+            </horario>
+            <horario descripcion="Ultimo paso">
+                <punto descripcion="Salida" hora="18:35"></punto>
+                <punto descripcion="Palquillo" hora="20:35"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:45"></punto>
+                <punto descripcion="Catedral" hora="22:15"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:25"></punto>
+                <punto descripcion="Recogida" hora="00:30"></punto>
+            </horario>
+        </horarios>
+        <images>
+            <image>amorysacrificio_1</image>
+            <image>amorysacrificio_2</image>
+        </images>
+        <pois>
+            <poi description="Salida y Recogida" comment="" lat="36.677197" long="-6.130146" interes="NO"></poi>
+            <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
+            <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
+        </pois>
 
+    </cofradia>
     <cofradia>
         <nombre_corto>La Viga</nombre_corto>
-        <nombre_largo>ANTIGUA Y FERVOROSA HERMANDAD Y COFRAD?A DE NAZARENOS DEL SANT?SIMO CRISTO DE LA VIGA, NUESTRO
-            SE?OR SAN SALVADOR Y NUESTRA SE?ORA DEL SOCORRO
+        <nombre_largo>ANTIGUA Y FERVOROSA HERMANDAD Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA VIGA, NUESTRO
+            SENOR SAN SALVADOR Y NUESTRA SENORA DEL SOCORRO
         </nombre_largo>
-        <fecha_salida>20120402</fecha_salida>
+        <fecha_salida>20130325</fecha_salida>
         <nombre_iglesia>Sta. Iglesia Catedral</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Santa Iglesia Catedral (puerta principal), Reducto (lado izquierdo), Plaza de la Encarnaci?n,
-            Reducto Cardenal Bueno Monreal , Cruces, Plaza Arroyo, Barranco, Curtidores, Plaza Peones, Carpinteria Baja,
-            Carmen, Sederia, Plaza Plateros, Plaza Santo Angel, Torneria, Plaza Rafael Rivero, Puerta de Sevilla,
-            Porvera, San Juan de Dios, Sevilla, Palquillo, CARRERA OFICIAL,Visitaci?n , Santa Isabel, C/ Jos? L. D?ez
-            (lado Izquierdo), Plaza Domecq, Reducto Cardenal Bueno Monreal, Plaza de la Encarnaci?n, Reducto alto (lado
-            izquierdo), Santa Iglesia Catedral.
+        <itinerario>Santa Iglesia Catedral (puerta principal), Reducto alto, Encarnación, Reducto Cardenal Bueno
+            Monreal, Cruces, Plaza del Arroyo, Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería,
+            Plaza Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael Rivero, Puerta de Sevilla, Porvera, San Juan de
+            Dios, Sevilla, Palquillo, CARRERA OFICIAL (hasta calle Aire), Aire, Cruces, Plaza Domecq, Arroyo, Reducto
+            Cardenal Bueno Monreal, Encarnación, Reducto Alto, Santa Iglesia Catedral
         </itinerario>
         <imagenEscudo>viga</imagenEscudo>
-        <horaSalida>18:00</horaSalida>
+        <horaSalida>18:25</horaSalida>
         <horaRecogida>00:00</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>viga_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="18:00"></punto>
-                <punto descripcion="Palquillo" hora="20:20"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:20"></punto>
-                <punto descripcion="Catedral" hora="22:00"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:10"></punto>
+                <punto descripcion="Salida" hora="18:25"></punto>
+                <punto descripcion="Palquillo" hora="20:40"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:50"></punto>
+                <punto descripcion="Catedral" hora="23:40"></punto>
+                <punto descripcion="Fuera Catedral" hora="00:00"></punto>
                 <punto descripcion="Recogida" hora="23:40"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="18:20"></punto>
-                <punto descripcion="Palquillo" hora="20:40"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:40"></punto>
-                <punto descripcion="Catedral" hora="22:20"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:30"></punto>
+                <punto descripcion="Salida" hora="18:45"></punto>
+                <punto descripcion="Palquillo" hora="21:00"></punto>
+                <punto descripcion="Plaza Asuncion" hora="22:10"></punto>
+                <punto descripcion="Catedral" hora="00:00"></punto>
+                <punto descripcion="Fuera Catedral" hora="00:00"></punto>
                 <punto descripcion="Recogida" hora="00:00"></punto>
             </horario>
         </horarios>
@@ -440,56 +693,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.682163" long="-6.140539" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
-            <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
-        </pois>
-
-    </cofradia>
-
-    <cofradia>
-        <nombre_corto>Amor y Sacrificio</nombre_corto>
-        <nombre_largo>PIADOSA HERMANDAD DE NUESTRA SE?ORA DEL AMOR Y SACRIFICIO</nombre_largo>
-        <fecha_salida>20120402</fecha_salida>
-        <nombre_iglesia>Parroquia Madre de Dios</nombre_iglesia>
-        <numero_pasos>1</numero_pasos>
-        <itinerario>Puertas del Sol, Plaza N.P.Jes?s de la Sentencia, Sol, Granados, Plaza de las Angustias (lado
-            derecho), Higueras, Medina, Honda, Bizcocheros, Caracuel, Plaza San Andr?s, Rosario,Plaza Aladro (lado
-            izquierdo), Eguiluz, Sevilla, Palquillo, CARRERA OFICIAL,Aire, Cardenal Bueno Monreal, Plaza de la
-            Encarnaci?n, De la Rosa, Manuel Maria Gonzalez, Plaza Monti, Armas, Conde de Bayona, Santa Cecilia, Plaza
-            Le?n XIII, Barja, Ant?n Daza, Ramon de Cala, Empedrada, Plaza N.P. Jes?s de la Sentencia, Puertas del Sol.
-        </itinerario>
-        <imagenEscudo>amorysacrificio</imagenEscudo>
-        <horaSalida>18:25</horaSalida>
-        <horaRecogida>00:50</horaRecogida>
-        <latitudRegreso>36.682076</latitudRegreso>
-        <longitudRegreso>-6.140488</longitudRegreso>
-        <ficheroRecorrido>amorysacrificio_r</ficheroRecorrido>
-        <horarios>
-            <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="18:25"></punto>
-                <punto descripcion="Palquillo" hora="20:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:45"></punto>
-                <punto descripcion="Catedral" hora="22:25"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:35"></punto>
-                <punto descripcion="Recogida" hora="00:30"></punto>
-            </horario>
-            <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="18:45"></punto>
-                <punto descripcion="Palquillo" hora="21:05"></punto>
-                <punto descripcion="Plaza Arenal" hora="22:05"></punto>
-                <punto descripcion="Catedral" hora="22:45"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:55"></punto>
-                <punto descripcion="Recogida" hora="00:50"></punto>
-            </horario>
-        </horarios>
-        <images>
-            <image>amorysacrificio_1</image>
-            <image>amorysacrificio_2</image>
-        </images>
-        <pois>
-            <poi description="Salida y Recogida" comment="" lat="36.677197" long="-6.130146" interes="NO"></poi>
-            <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -497,22 +701,22 @@
 
     <cofradia>
         <nombre_corto>Clemencia</nombre_corto>
-        <nombre_largo>HERMANDAD Y COFRAD?A DE NAZARENOS DEL SANT?SIMO CRISTO DE LA CLEMENCIA EN LA TRAICI?N DE JUDAS,
-            MAR?A SANT?SIMA DE LA SALUD Y ESPERANZA, MADRE DE LA IGLESIA Y SAN BENITO
+        <nombre_largo>HERMANDAD Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA CLEMENCIA EN LA TRAICION DE JUDAS,
+            MARIA SANTISIMA DE LA SALUD Y ESPERANZA, MADRE DE LA IGLESIA Y SAN BENITO
         </nombre_largo>
-        <fecha_salida>20120403</fecha_salida>
+        <fecha_salida>20130326</fecha_salida>
         <nombre_iglesia>Parroquia San Benito</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>Avda. Le?n de Carranza, Dr. Mara??n, Avda. Garcia Lorca, Plaza de la Marinas, Avd, Garcia Figueras,
-            Ciriaco Alzola, Antonio Machado, Avd. Duque de Abrantes, Divina Pastora, Sevilla, Palquillo, CARRERA
-            OFICIAL,Aire, Cruces, Jose L. D?ez, Plaza Asunci?n,Chapiner?a,Sederria, Plaza Plateros, Plaza Santo Angel,
-            Torneria, Plaza Rafael Rivero, Puerta de Sevilla, Alameda Cristina (lado izquierdo),San Juan Grande,
-            Guadalete, Pozo del Olivar, Duque de Abrantes, Antonio Machado, Ciriaco Alzola, Avda. Garcia Figueras, Dr.
-            Fleming, Doctor Arruga, Doctor Mara?on, Avda. Leon de Carranza.
+        <itinerario>Avenida León de Carranza, Pasaje Velázquez, Velázquez, Avenida Duque de Abrantes, Pozo del Olivar,
+            Guadalete, San Juan Grande, Alameda Cristina, Palquillo, CARRERA OFICIAL, Encarnación, Reducto CArdenal
+            Bueno Monreal, Plaza Domecq, Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza
+            del Santo Ángel, Tornería, Plaza Rafael Rivero, Puerta de Sevilla, Alameda Cristina (lado izquierdo), San
+            Juan Grande, Guadalete, Pozo del Olivar, Duque de Abrantes, Antonio Machado, Ciriaco Alzola, Avenida García
+            Figueras, Doctor Fleming, Doctor Arruga, Doctor Marañón, Avenida León de Carranza
         </itinerario>
         <imagenEscudo>clemencia</imagenEscudo>
         <horaSalida>16:00</horaSalida>
-        <horaRecogida>01:35</horaRecogida>
+        <horaRecogida>01:30</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>clemencia_r</ficheroRecorrido>
@@ -520,18 +724,18 @@
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="16:00"></punto>
                 <punto descripcion="Palquillo" hora="18:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="19:45"></punto>
+                <punto descripcion="Plaza Asuncion" hora="19:55"></punto>
                 <punto descripcion="Catedral" hora="20:25"></punto>
                 <punto descripcion="Fuera Catedral" hora="20:35"></punto>
-                <punto descripcion="Recogida" hora="01:20"></punto>
+                <punto descripcion="Recogida" hora="01:15"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="16:15"></punto>
                 <punto descripcion="Palquillo" hora="19:00"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:00"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:10"></punto>
                 <punto descripcion="Catedral" hora="20:40"></punto>
                 <punto descripcion="Fuera Catedral" hora="20:50"></punto>
-                <punto descripcion="Recogida" hora="1:35"></punto>
+                <punto descripcion="Recogida" hora="1:30"></punto>
             </horario>
         </horarios>
         <images>
@@ -540,7 +744,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.701424" long="-6.139008" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -548,38 +752,39 @@
 
     <cofradia>
         <nombre_corto>La Defension</nombre_corto>
-        <nombre_largo>REAL,FRANCISCANA Y CASTRENSE HERMANDAD DEL SANT?SIMO CRISTO DE LA DEFENSI?N, MAR?A SANT?SIMA DE LA
+        <nombre_largo>REAL,FRANCISCANA Y CASTRENSE HERMANDAD DEL SANTISIMO CRISTO DE LA DEFENSION, MARIA SANTISIMA DE LA
             O Y SAN BRUNO
         </nombre_largo>
-        <fecha_salida>20120403</fecha_salida>
+        <fecha_salida>20130326</fecha_salida>
         <nombre_iglesia>Iglesia Conventual de la PP. Capuchinos</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Divina Pastora, Sevilla, Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza Domecq, Barranco,
-            Curtidores, Plaza Peones, Carpinteria Baja, Carmen, Sederia, Plaza Plateros, Plaza Santo Angel, Torneria,
-            Plaza Rafael Rivero, Puerta de Sevilla, Porvera, Gait?n, Plaza Mamelon, Sevilla (Bulevar), Divina Pastora.
+        <itinerario>Divina Pastora, Sevilla, Eguiluz, Plaza Aladro, Palacio Domecq, Palquillo, CARRERA OFICIAL,
+            Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado izquierdo), Barranco, Curtidores,
+            Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael
+            Rivero, Puerta de Sevilla, Porvera, Gaitán, Plaza Mamelón, Sevilla (bulevar), Divina Pastora
         </itinerario>
         <imagenEscudo>defension</imagenEscudo>
-        <horaSalida>18:25</horaSalida>
-        <horaRecogida>23:45</horaRecogida>
+        <horaSalida>18:15</horaSalida>
+        <horaRecogida>23:55</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>defension_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="18:25"></punto>
+                <punto descripcion="Salida" hora="18:15"></punto>
                 <punto descripcion="Palquillo" hora="19:05"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:05"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:15"></punto>
                 <punto descripcion="Catedral" hora="20:45"></punto>
                 <punto descripcion="Fuera Catedral" hora="20:55"></punto>
-                <punto descripcion="Recogida" hora="23:30"></punto>
+                <punto descripcion="Recogida" hora="23:35"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="18:40"></punto>
-                <punto descripcion="Palquillo" hora="19:20"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:20"></punto>
-                <punto descripcion="Catedral" hora="21:00"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:10"></punto>
-                <punto descripcion="Recogida" hora="23:45"></punto>
+                <punto descripcion="Salida" hora="18:35"></punto>
+                <punto descripcion="Palquillo" hora="19:25"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:35"></punto>
+                <punto descripcion="Catedral" hora="21:05"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:15"></punto>
+                <punto descripcion="Recogida" hora="23:55"></punto>
             </horario>
         </horarios>
         <images>
@@ -589,7 +794,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.690548" long="-6.135950" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -597,16 +802,17 @@
 
     <cofradia>
         <nombre_corto>Amor</nombre_corto>
-        <nombre_largo>ANTIGUA Y VENERABLE HERMANDAD Y COFRAD?A DE NUESTRO PADRE JES?S NAZARENO CAUTIVO, SANT?SIMO CRISTO
-            DEL AMOR, NUESTRA SE?ORA DE LOS REMEDIOS Y SAN JUAN EVANGELISTA
+        <nombre_largo>ANTIGUA Y VENERABLE HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS NAZARENO CAUTIVO, SANTISIMO CRISTO
+            DEL AMOR, NUESTRA SENORA DE LOS REMEDIOS Y SAN JUAN EVANGELISTA
         </nombre_largo>
-        <fecha_salida>20120403</fecha_salida>
+        <fecha_salida>20130326</fecha_salida>
         <nombre_iglesia>Capilla Santisimo Cristo del Amor</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>San Juan, Plaza San Juan, Chancilleria, Puerta Nueva, Porvera, Gaitan, San Juan Grande, Sevilla,
-            Palquillo, CARRERA OFICIAL,Aire, Cruces, Plaza Domecq , Barranco, Curtidores, Plaza Peones, Carpinteria
-            Baja, Carmen, Sederia, Plaza Plateros, Plaza Santo Angel, Torneria, Plaza Rafael Rivero, Plaza San Marcos,
-            Plaza N.P.Jes?s de la Sgda. Cena, Padre Rego, Compa??a, Francos, Plaza San Juan, San Juan.
+        <itinerario>San Juan, Plaza San Juan, Chancillería, Puerta Nueva, Porvera, Gaitán, San Juan Grande, Sevilla,
+            Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq, Barranco,
+            Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo Ángel, Tornería,
+            Plaza Rafael Rivero, Plaza San Marcos, Plaza Nuestro Padre Jesús de la Sagrada Cena, Padre Rego, Compañía,
+            Francos, Plaza San Juan, San Juan
         </itinerario>
         <imagenEscudo>amor</imagenEscudo>
         <horaSalida>17:45</horaSalida>
@@ -617,18 +823,18 @@
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="17:45"></punto>
-                <punto descripcion="Palquillo" hora="19:25"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:25"></punto>
-                <punto descripcion="Catedral" hora="21:05"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:15"></punto>
-                <punto descripcion="Recogida" hora="00:05"></punto>
+                <punto descripcion="Palquillo" hora="19:30"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:40"></punto>
+                <punto descripcion="Catedral" hora="21:10"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:20"></punto>
+                <punto descripcion="Recogida" hora="00:30"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="18:00"></punto>
-                <punto descripcion="Palquillo" hora="19:50"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:50"></punto>
-                <punto descripcion="Catedral" hora="21:30"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:40"></punto>
+                <punto descripcion="Palquillo" hora="19:55"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:05"></punto>
+                <punto descripcion="Catedral" hora="21:35"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:45"></punto>
                 <punto descripcion="Recogida" hora="00:30"></punto>
             </horario>
         </horarios>
@@ -639,7 +845,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.686607" long="-6.141990" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -647,16 +853,16 @@
 
     <cofradia>
         <nombre_corto>Desconsuelo</nombre_corto>
-        <nombre_largo>VENERABLE Y REAL HERMANDAD SACRAMENTAL Y ARCHICOFRAD?A DEL SILENCIO DE NUESTRO PADRE Y SE?OR DE
-            LAS PENAS, MARIA SANT?SIMA DEL DESCONSUELO, SAN JUAN EVANGELISTA Y SE?OR SAN BLAS
+        <nombre_largo>VENERABLE Y REAL HERMANDAD SACRAMENTAL Y ARCHICOFRADIA DEL SILENCIO DE NUESTRO PADRE Y SENOR DE
+            LAS PENAS, MARIA SANTISIMA DEL DESCONSUELO, SAN JUAN EVANGELISTA Y SENOR SAN BLAS
         </nombre_largo>
-        <fecha_salida>20120403</fecha_salida>
+        <fecha_salida>20130326</fecha_salida>
         <nombre_iglesia>Iglesia Parroquial de San Mateo</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>San Mateo, Nuestro Padre Se?or de las Penas, Ronda del caracol, Muro, Plaza Santa Isabel (lado
-            izquierdo), Merced, Plaza Santiago, Ancha, Porvera, San Juan de Dios, Sevilla, Palquillo, CARRERA OFICIAL,
-            Aire, Cruces, Plaza Domecq (lado izquierdo) , Barranco, Plaza Bel?n, Plaza San Lucas, Cabezas, Plaza del
-            Mercado, San Mateo.
+        <itinerario>San Mateo, Plaza del Mercado (lado derecho), Justicia, Plaza San Juan, Plaza de los Ángeles, Oliva,
+            Plaza Santiago, Ancha, Porvera, San Juan de Dios, Sevilla, Palquillo, CARRERA OFICIAL, Encarnación, Reducto
+            Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado izquierdo), Barranco, Plaza Belén, Plaza San Lucas,
+            Cabezas, Plaza del Mercado, San Mateo
         </itinerario>
         <imagenEscudo>desconsuelo</imagenEscudo>
         <horaSalida>17:00</horaSalida>
@@ -667,16 +873,16 @@
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="17:00"></punto>
-                <punto descripcion="Palquillo" hora="19:55"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:55"></punto>
-                <punto descripcion="Catedral" hora="21:35"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:45"></punto>
+                <punto descripcion="Palquillo" hora="20:00"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:10"></punto>
+                <punto descripcion="Catedral" hora="21:40"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:50"></punto>
                 <punto descripcion="Recogida" hora="00:30"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="17:45"></punto>
                 <punto descripcion="Palquillo" hora="20:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:45"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:55"></punto>
                 <punto descripcion="Catedral" hora="22:25"></punto>
                 <punto descripcion="Fuera Catedral" hora="22:35"></punto>
                 <punto descripcion="Recogida" hora="01:15"></punto>
@@ -689,7 +895,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.684475" long="-6.145713" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -697,23 +903,24 @@
 
     <cofradia>
         <nombre_corto>Soberano Poder</nombre_corto>
-        <nombre_largo>HERMANDAD Y COFRAD?A DE NAZARENOS DE NUESTRO PADRE JES?S EN SU SOBERANO PODER ANTE CAIF?S, MAR?A
-            SANT?SIMA DE LAS MERCEDES Y SAN JUAN EVANGELISTA.
+        <nombre_largo>HERMANDAD Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS EN SU SOBERANO PODER ANTE CAIFAS, MARIA
+            SANTISIMA DE LAS MERCEDES Y SAN JUAN EVANGELISTA.
         </nombre_largo>
-        <fecha_salida>20120404</fecha_salida>
+        <fecha_salida>20130327</fecha_salida>
         <nombre_iglesia>Parroquia Santa Maria Madre de la Iglesia</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>Huelva,Plaza Ronda,Avda Fernando Portillo, Avda. de Europa, Caballer?a, Paseo de la Rosaleda,
-            Comandante Paz Varela, Plaza del Caballo, Santo Domingo, Eguiluz, Sevilla, Palquillo, CARRERA
-            OFICIAL,Visitaci?n, Santa Isabel, Jose Lu?s D?ez(lado derecho), Chapiner?a, Seder?a, Plaza Plateros, Plaza
-            Santo ?ngel, Torner?a, Plaza Rafael Rivero, Puerta de Sevilla, Alameda Cristina (lado Izquierdo), Sevilla
-            (lado Derecho), Eguiluz, Santo Domingo, Pa?l, Zaragoza, Avda. de F?tima, Glorieta de la Venencia, Bruselas,
-            Avda. del Polo, Atlanta, Varsovia, Avda Lola Flores, Camaron de la Isla,Avda Nueva, Avda Fernando Portillo,
-            Plaza de Ronda, Pasaje Peatonal, Huelva.
+        <itinerario>Huelva, Pasaje María Santísima de las Mercedes, Plaza de Ronda, Plaza Grazalema, AvenidaFernando
+            Portillo, Avenida de Europa, Caballería, Paseo de la Rosaleda, Comandante Paz Varela, Plaza del Caballo,
+            Santo Domingo, Plaza Aladro, Palacio Domecq, Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno
+            Monreal, Plaza Domecq (lado derecho), José Luis Díez, Limones, Plaza Luis Braille, Carmen, Sedería, Plaza
+            Plateros, Plaza Santo Ángel, Tornería, Puerta de Sevilla, Alameda Cristina (lado izquierdo), Sevilla,
+            Eguiluz, Plaza Aladro, Santo Domingo, Paúl, Zaragoza, Avenida de Fátima, Glorieta de la Venencia, Bruselas,
+            Avenida del Polo, Atlanta, Varsovia, Avenida de Lola Flores, Camarón de la Isla, Avenida Nueva, Avenida
+            Fernando Portillo, Plaza de Ronda, Pasaje María Santísima de las Mercedes, Huelva
         </itinerario>
         <imagenEscudo>soberano</imagenEscudo>
         <horaSalida>14:30</horaSalida>
-        <horaRecogida>02:30</horaRecogida>
+        <horaRecogida>03:00</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>soberano_r</ficheroRecorrido>
@@ -721,18 +928,18 @@
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="14:30"></punto>
                 <punto descripcion="Palquillo" hora="18:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="19:45"></punto>
+                <punto descripcion="Plaza Asuncion" hora="19:55"></punto>
                 <punto descripcion="Catedral" hora="20:25"></punto>
                 <punto descripcion="Fuera Catedral" hora="20:35"></punto>
-                <punto descripcion="Recogida" hora="02:15"></punto>
+                <punto descripcion="Recogida" hora="02:45"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="14:45"></punto>
                 <punto descripcion="Palquillo" hora="19:00"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:00"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:10"></punto>
                 <punto descripcion="Catedral" hora="20:40"></punto>
                 <punto descripcion="Fuera Catedral" hora="20:50"></punto>
-                <punto descripcion="Recogida" hora="02:30"></punto>
+                <punto descripcion="Recogida" hora="03:00"></punto>
             </horario>
         </horarios>
         <images>
@@ -741,7 +948,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.697811" long="-6.107583" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -749,17 +956,18 @@
 
     <cofradia>
         <nombre_corto>Consuelo</nombre_corto>
-        <nombre_largo>HERMANDAD Y COFRAD?A DE NAZARENOS DE NUESTRO SE?OR DEL AMPARO, MAR?A SANT?SIMA DEL CONSUELO Y
-            SANTA ?NGELA DE LA CRUZ.
+        <nombre_largo>HERMANDAD Y COFRADIA DE NAZARENOS DE NUESTRO SENOR DEL AMPARO, MARIA SANTISIMA DEL CONSUELO Y
+            SANTA ANGELA DE LA CRUZ.
         </nombre_largo>
-        <fecha_salida>20120404</fecha_salida>
+        <fecha_salida>20130327</fecha_salida>
         <nombre_iglesia>Capilla del Consuelo</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>Ronda del Pelir?n,Glorieta de la Venencia, Avda. de F?tima, Zaragoza, Plaza Aladro,Eguiluz,
-            Palquillo, CARRERA OFICIAL, Aire, Visitaci?n, Santa Isabel, Jos? Luis D?ez (lado derecho), P. Luis Bellido,
-            Plaza Plateros, Plaza Santo Angel , Torner?a, Plaza Rafael Rivero, Puerta de Sevilla, Larga, Bizcocheros,
-            Caldereros, Rui L?pez,Clavel,Pintor Mu?oz Cebrian, Avda. de la Paz ,(Cruzar), Jorge Bocuze, B. de Jimena,B.
-            de Torrelobat?n,B. A?na, Ronda del Pelir?n.
+        <itinerario>Ronda del Pelirón, Glorieta de la Venencia, Avenida de Fátima, Zaragoza, Compañía de María, Plaza
+            San Andrés (lado izquierdo), Rosario, Plaza Aladro, Palacio Domeceq, Palquillo, CARRERA OFICIAL,
+            Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado izquierdo), Barranco, Curtidores,
+            Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael
+            Rivero, Puerta de Sevilla, Larga, Bizcocheros, Caldereros, Rui López, Clavel, Pintor Muñoz Cebrián, Avenida
+            de la Paz (cruzar), Jorge Bocuze, Batalla de Aína, Ronda del Pelirón.
         </itinerario>
         <imagenEscudo>consuelo</imagenEscudo>
         <horaSalida>17:45</horaSalida>
@@ -769,7 +977,7 @@
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="17:45"></punto>
                 <punto descripcion="Palquillo" hora="19:05"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:05"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:15"></punto>
                 <punto descripcion="Catedral" hora="20:45"></punto>
                 <punto descripcion="Fuera Catedral" hora="20:55"></punto>
                 <punto descripcion="Recogida" hora="00:45"></punto>
@@ -777,7 +985,7 @@
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="18:00"></punto>
                 <punto descripcion="Palquillo" hora="19:20"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:20"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:30"></punto>
                 <punto descripcion="Catedral" hora="21:00"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:10"></punto>
                 <punto descripcion="Recogida" hora="01:00"></punto>
@@ -791,38 +999,38 @@
     <cofradia>
         <nombre_corto>Santa Marta</nombre_corto>
         <nombre_largo>HERMANDAD DEL SANTISIMO CRISTO DE LA CARIDAD EN SU TRASLADO AL SEPULCRO, PENAS Y LAGRIMAS DE MARIA
-            SANT?SIMA, MADRE DE DIOS DEL PATROCINIO Y SANTA MARTA
+            SANTISIMA, MADRE DE DIOS DEL PATROCINIO Y SANTA MARTA
         </nombre_largo>
-        <fecha_salida>20120404</fecha_salida>
+        <fecha_salida>20130327</fecha_salida>
         <nombre_iglesia>Capilla de Santa Marta</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>San Mateo, Plaza del Mercado (lado derecho), Justicia, Plaza San Juan, Francos, Plaza de la
-            Compa??a, Padre Rego, Plaza San Marcos, Plaza Rafael Rivero, Puerta de Sevilla, Porvera, San Juan de Dios,
-            Sevilla, Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza Domecq (lado derecho), Barranco, Plaza Bel?n, Plaza
-            San Lucas, Cabezas, Plaza del Mercado, San Mateo.
+            Compañía, Padre Rego, Plaza San Marcos, Plaza Rafael Rivero, Puerta de Sevilla, Porvera, San Juan de Dios,
+            Sevilla, Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza Domecq (lado derecho), Barranco, Plaza Belén, Plaza
+            San Lucas, Cabezas, Plaza del Mercado, San Mateo
         </itinerario>
         <imagenEscudo>santamarta</imagenEscudo>
-        <horaSalida>16:50</horaSalida>
-        <horaRecogida>23:30</horaRecogida>
+        <horaSalida>16:40</horaSalida>
+        <horaRecogida>23:45</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>santamarta_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="16:50"></punto>
+                <punto descripcion="Salida" hora="16:40"></punto>
                 <punto descripcion="Palquillo" hora="19:25"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:25"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:35"></punto>
                 <punto descripcion="Catedral" hora="21:05"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:15"></punto>
-                <punto descripcion="Recogida" hora="23:10"></punto>
+                <punto descripcion="Recogida" hora="23:25"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="18:20"></punto>
+                <punto descripcion="Salida" hora="17:00"></punto>
                 <punto descripcion="Palquillo" hora="19:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:45"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:55"></punto>
                 <punto descripcion="Catedral" hora="21:25"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:35"></punto>
-                <punto descripcion="Recogida" hora="23:30"></punto>
+                <punto descripcion="Recogida" hora="23:45"></punto>
             </horario>
         </horarios>
         <images>
@@ -832,7 +1040,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.684277" long="-6.145231" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -840,20 +1048,19 @@
 
     <cofradia>
         <nombre_corto>Tres Caidas</nombre_corto>
-        <nombre_largo>ANTIGUA Y FERVOROSA HERMANDAD Y COFRAD?A DE NAZARENOS DE NUESTRO PADRE JES?S DE LA SALUD EN SUS
-            TRES CAIDAS Y MAR?A SANT?SIMA DE LOS DOLORES
+        <nombre_largo>ANTIGUA Y FERVOROSA HERMANDAD Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA SALUD EN SUS
+            TRES CAIDAS Y MARIA SANTISIMA DE LOS DOLORES
         </nombre_largo>
-        <fecha_salida>20120404</fecha_salida>
+        <fecha_salida>20130327</fecha_salida>
         <nombre_iglesia>Iglesia de San Lucas</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Plaza San Lucas, Plaza Belen, Barranco, Curtidores, Plaza Peones, Carpinteria Baja, Carmen, Sederia,
-            Plaza Plateros, Plaza Santo Angel, Torneria, Plaza Rafael Rivero, Puerta de Sevilla,Porvera, San Juan de
-            Dios, Sevilla, Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza Domecq (lado derecho), Barranco, Plaza Belen,
-            Plaza San Lucas.
+        <itinerario>Plaza San Lucas, Cabezas, Plaza del Mercado, Justicia, San Juan, Chancillería, Porvera, Gaitán,
+            Beato Juan Grande, Cristina, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza
+            Domecq, Barranco, Plaza Belén, Plaza San Lucas
         </itinerario>
         <imagenEscudo>trescaidas</imagenEscudo>
         <horaSalida>17:45</horaSalida>
-        <horaRecogida>23:15</horaRecogida>
+        <horaRecogida>23:45</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>trescaidas_r</ficheroRecorrido>
@@ -861,18 +1068,18 @@
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="17:45"></punto>
                 <punto descripcion="Palquillo" hora="19:50"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:50"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:00"></punto>
                 <punto descripcion="Catedral" hora="21:30"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:40"></punto>
-                <punto descripcion="Recogida" hora="22:40"></punto>
+                <punto descripcion="Recogida" hora="23:05"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="18:30"></punto>
-                <punto descripcion="Palquillo" hora="20:40"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:40"></punto>
-                <punto descripcion="Catedral" hora="22:20"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:30"></punto>
-                <punto descripcion="Recogida" hora="23:15"></punto>
+                <punto descripcion="Salida" hora="18:25"></punto>
+                <punto descripcion="Palquillo" hora="20:30"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:40"></punto>
+                <punto descripcion="Catedral" hora="22:10"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:20"></punto>
+                <punto descripcion="Recogida" hora="23:45"></punto>
             </horario>
         </horarios>
         <images>
@@ -882,7 +1089,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.684517" long="-6.142666" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -890,16 +1097,15 @@
 
     <cofradia>
         <nombre_corto>Amargura</nombre_corto>
-        <nombre_largo>HERMANDAD SACRAMENTAL DE LA SANTISIMA TRINIDAD Y COFRAD?A DE NAZARENOS DE LA SAGRADA FLAGELACI?N
-            DE NUESTRO SE?OR JESUCRISTO Y MARIA SANT?SIMA DE LA AMARGURA
+        <nombre_largo>HERMANDAD SACRAMENTAL DE LA SANTISIMA TRINIDAD Y COFRADIA DE NAZARENOS DE LA SAGRADA FLAGELACION
+            DE NUESTRO SENOR JESUCRISTO Y MARIA SANTISIMA DE LA AMARGURA
         </nombre_largo>
-        <fecha_salida>20120404</fecha_salida>
+        <fecha_salida>20130327</fecha_salida>
         <nombre_iglesia>Parroquia San Juan Bautista</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Medina, Honda, Naranjas, Patricio Garvey, Larga,Bizcocheros, Antona de Dios, Plaza San Andr?s, Santa
-            Rosa, Plaza Aladro, Eguiluz, Sevilla, Palquillo, CARRERA OFICIAL, Visitacion, Santa Isabel, Jose Luis Diez
-            (lado derecho), Plaza Asunci?n, Angostillo, Consistorio, Plaza Arenal, Corredera, Plaza de las Angustias,
-            Santisima Trinidad, Medina.
+        <itinerario>Medina, Honda, Naranjas, Patricio Garvey, Larga, Bizcocheros, Antona de Dios, Plaza San Andrés,
+            Rosario, Marqués de Casa Domecq, CARRERA OFICIAL, Encarnación, de la Rosa, Manuel María González, Plaza
+            Monti, Plaza del Arenal (lado derecho), Corredera, Plaza de las Angustias, Santísima Trinidad, Medina
         </itinerario>
         <imagenEscudo>amargura</imagenEscudo>
         <horaSalida>17:45</horaSalida>
@@ -910,18 +1116,18 @@
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="17:45"></punto>
-                <punto descripcion="Palquillo" hora="20:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:45"></punto>
-                <punto descripcion="Catedral" hora="22:25"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:35"></punto>
-                <punto descripcion="Recogida" hora="01:35"></punto>
+                <punto descripcion="Palquillo" hora="20:35"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:45"></punto>
+                <punto descripcion="Catedral" hora="22:15"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:25"></punto>
+                <punto descripcion="Recogida" hora="01:25"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="18:20"></punto>
-                <punto descripcion="Palquillo" hora="21:20"></punto>
-                <punto descripcion="Plaza Arenal" hora="22:20"></punto>
-                <punto descripcion="Catedral" hora="23:00"></punto>
-                <punto descripcion="Fuera Catedral" hora="23:10"></punto>
+                <punto descripcion="Palquillo" hora="21:10"></punto>
+                <punto descripcion="Plaza Asuncion" hora="22:20"></punto>
+                <punto descripcion="Catedral" hora="22:50"></punto>
+                <punto descripcion="Fuera Catedral" hora="23:00"></punto>
                 <punto descripcion="Recogida" hora="02:00"></punto>
             </horario>
         </horarios>
@@ -932,7 +1138,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.681877" long="-6.132206" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -940,16 +1146,17 @@
 
     <cofradia>
         <nombre_corto>Prendimiento</nombre_corto>
-        <nombre_largo>REAL Y PONTIFICIA HERMANDAD DE NUESTRO PADRE JES?S DEL PRENDIMIENTO, MARIA SAR?A DEL DESAMPARO Y
-            APOSTOL SE?OR SAN PEDRO
+        <nombre_largo>REAL Y PONTIFICIA HERMANDAD DE NUESTRO PADRE JESUS DEL PRENDIMIENTO, MARIA SANTISIMA DEL DESAMPARO
+            Y
+            APOSTOL SENOR SAN PEDRO
         </nombre_largo>
-        <fecha_salida>20120404</fecha_salida>
+        <fecha_salida>20130327</fecha_salida>
         <nombre_iglesia>Capilla de San Jose</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Capilla San Jos?, Plaza Santiago (lado izquierdo), Ancha, Porvera, Escuelas,Guadalete,San Juan
-            Grande, Sevilla, Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza del Arroyo (lado izquierdo), Barranco,
-            Curtidores, Plaza Peones, Carpinter?a baja, Carmen, Seder?a, Plaza Plateros, Plaza Santo ?ngel, Torner?a,
-            Plaza Rafael Rivero, Puerta de Sevilla, Porvera, Ancha, Plaza Santiago (lado derecho), Capilla San Jos?.
+        <itinerario>Asilo de San José, Plaza de Santiago, Ancha, Porvera, Gaitán, Mamelón, San Juan Grande, Alameda
+            Cristina, Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq,
+            Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo Ángel,
+            Tornería, Plaza Rafael Rivero, Puerta de Sevilla, Porvera, Ancha, Plaza de Santiago, Asilo de San José
         </itinerario>
         <imagenEscudo>prendimiento</imagenEscudo>
         <horaSalida>19:15</horaSalida>
@@ -960,18 +1167,18 @@
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="19:15"></punto>
-                <punto descripcion="Palquillo" hora="21:25"></punto>
-                <punto descripcion="Plaza Arenal" hora="22:25"></punto>
-                <punto descripcion="Catedral" hora="23:05"></punto>
-                <punto descripcion="Fuera Catedral" hora="23:15"></punto>
+                <punto descripcion="Palquillo" hora="21:15"></punto>
+                <punto descripcion="Plaza Asuncion" hora="22:25"></punto>
+                <punto descripcion="Catedral" hora="22:55"></punto>
+                <punto descripcion="Fuera Catedral" hora="23:05"></punto>
                 <punto descripcion="Recogida" hora="02:55"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="19:50"></punto>
-                <punto descripcion="Palquillo" hora="22:00"></punto>
-                <punto descripcion="Plaza Arenal" hora="23:00"></punto>
-                <punto descripcion="Catedral" hora="23:40"></punto>
-                <punto descripcion="Fuera Catedral" hora="23:50"></punto>
+                <punto descripcion="Palquillo" hora="21:50"></punto>
+                <punto descripcion="Plaza Asuncion" hora="23:00"></punto>
+                <punto descripcion="Catedral" hora="23:30"></punto>
+                <punto descripcion="Fuera Catedral" hora="23:40"></punto>
                 <punto descripcion="Recogida" hora="03:30"></punto>
             </horario>
         </horarios>
@@ -983,48 +1190,48 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.688229" long="-6.144179" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
     </cofradia>
     <cofradia>
         <nombre_corto>Redencion</nombre_corto>
-        <nombre_largo>ILUSTRE Y LASALIANA HERMANDAD Y COFRAD?A DE NUESTRO PADRE JES?S DE LA REDENCI?N ANTE EL SUMO
-            SACERDOTE AN?S, MAR?A STMA. MADRE DE LA IGLESIA, AUXILIADORA DEL PUEBLO DE DIOS Y SAN JUAN BOSCO.
+        <nombre_largo>ILUSTRE Y LASALIANA HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS DE LA REDENCION ANTE EL SUMO
+            SACERDOTE ANAS, MARIA STMA. MADRE DE LA IGLESIA, AUXILIADORA DEL PUEBLO DE DIOS Y SAN JUAN BOSCO.
         </nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
+        <fecha_salida>20130328</fecha_salida>
         <nombre_iglesia>Santuario de Maria Auxiliadora</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>Santuario de Mar?a Auxiliadora, Avda. San Juan Bosco, C/ Oloroso, Avda. Del Mosto, Guitarra,
-            Hospital San Juan Grande, Taxdirt, Plaza Santiago, Ancha, Porvera, Gait?n, Guadalete, San Juan Grande,
-            Sevilla, Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza Domecq (lado derecho), Barrranco, Curtidores, Plaza
-            Peones, Carpinteria Baja, Carmen, Sederia, Plaza Plateros, Plaza Santo Angel, Torneria, Plaza Rivero, Puerta
-            de Sevilla, Porvera, Lealas, Plaza de la Constituci?n (lado izquierdo), Avda. Amontillado,Avda. San Juan
-            Bosco, Santuario Maria Auxiliadora.
+        <itinerario>Santuario de María Auxiliadora, Avenida de San Juan Bosco, Oloroso, Avenida del Mosto, Guitarra,
+            Hospital San Juan Grande, Taxdirt, Plaza de Santiago, Ancha, Porvera, Gaitán, San Juan Grande, Sevilla,
+            Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado
+            derecho), Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo
+            Ángel, Tornería, Plaza Rafael Rivero, Porvera, Lealas, Plaza de la Constitución (lado izquierdo), Avenida
+            Amontillado, Avenida San Juan Bosco, Santuario María Auxiliadora
         </itinerario>
         <imagenEscudo>redencion</imagenEscudo>
         <horaSalida>16:30</horaSalida>
-        <horaRecogida>00:30</horaRecogida>
+        <horaRecogida>00:40</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>redencion_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="16:30"></punto>
-                <punto descripcion="Palquillo" hora="19:30"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:30"></punto>
-                <punto descripcion="Catedral" hora="21:10"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:20"></punto>
-                <punto descripcion="Recogida" hora="00:15"></punto>
+                <punto descripcion="Palquillo" hora="19:40"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:50"></punto>
+                <punto descripcion="Catedral" hora="21:20"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:30"></punto>
+                <punto descripcion="Recogida" hora="00:25"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="16:45"></punto>
-                <punto descripcion="Palquillo" hora="19:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:45"></punto>
-                <punto descripcion="Catedral" hora="21:25"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:35"></punto>
-                <punto descripcion="Recogida" hora="00:30"></punto>
+                <punto descripcion="Palquillo" hora="19:55"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:05"></punto>
+                <punto descripcion="Catedral" hora="21:35"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:45"></punto>
+                <punto descripcion="Recogida" hora="00:40"></punto>
             </horario>
         </horarios>
         <images>
@@ -1033,7 +1240,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.693630" long="-6.144394" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1041,40 +1248,40 @@
 
     <cofradia>
         <nombre_corto>Veracruz</nombre_corto>
-        <nombre_largo>REAL, ILUSTRE, ANTIGUA Y VENERABLE HERMANDAD Y COFRAD?A DE NAZARENOS DE LA SANTA VERA-CRUZ DE
-            NUESTRO SE?OR JESUCRISTO, SANT?SIMO CRISTO DE LA ESPERANZA Y NUESTRA SE?ORA DE LAS LAGRIMAS.
+        <nombre_largo>REAL, ILUSTRE, ANTIGUA Y VENERABLE HERMANDAD Y COFRADIA DE NAZARENOS DE LA SANTA VERA-CRUZ DE
+            NUESTRO SENOR JESUCRISTO, SANTISIMO CRISTO DE LA ESPERANZA Y NUESTRA SENORA DE LAS LAGRIMAS.
         </nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
+        <fecha_salida>20130328</fecha_salida>
         <nombre_iglesia>Iglesia San Juan de los Caballeros</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Plaza Melgarejo, San Juan, Plaza San Juan, Chancilleria, Puerta Nueva, Porvera, Gaitan, San Juan
-            Grande, Sevilla, Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza Domecq (lado izquierdo), Barranco,
-            Curtidores, Plaza Peones, Carpinteria Baja, Carmen, Sederia, Plaza Plateros, Plaza Santo Angel, Torneria,
-            Plaza Rafael Rivero, Plaza San Marcos, Padre Rego, Plaza Compa??a, Francos, Plaza San Juan, San Juan, Plaza
-            Melgarejo.
+        <itinerario>Plaza Melgarejo, San Juan, Plaza San Juan, Chancillería, Puerta Nueva, Porvera, Gaitán, San Juan
+            Grande, Sevilla, Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza
+            Domecq (lado izquierdo), Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza
+            Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael Rivero, Plaza San Marcos, Padre Rego, Plaza Compañía,
+            Francos, Plaza San Juan, San Juan, Plaza Melgarejo
         </itinerario>
         <imagenEscudo>veracruz</imagenEscudo>
         <horaSalida>18:30</horaSalida>
-        <horaRecogida>23:30</horaRecogida>
+        <horaRecogida>23:50</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>veracruz_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="18:30"></punto>
-                <punto descripcion="Palquillo" hora="19:50"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:50"></punto>
-                <punto descripcion="Catedral" hora="21:30"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:40"></punto>
-                <punto descripcion="Recogida" hora="23:15"></punto>
+                <punto descripcion="Palquillo" hora="20:00"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:10"></punto>
+                <punto descripcion="Catedral" hora="21:40"></punto>
+                <punto descripcion="Fuera Catedral" hora="21:50"></punto>
+                <punto descripcion="Recogida" hora="23:35"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="18:45"></punto>
-                <punto descripcion="Palquillo" hora="20:05"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:05"></punto>
-                <punto descripcion="Catedral" hora="21:45"></punto>
-                <punto descripcion="Fuera Catedral" hora="21:55"></punto>
-                <punto descripcion="Recogida" hora="23:30"></punto>
+                <punto descripcion="Palquillo" hora="20:15"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:25"></punto>
+                <punto descripcion="Catedral" hora="21:55"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:05"></punto>
+                <punto descripcion="Recogida" hora="23:50"></punto>
             </horario>
         </horarios>
         <images>
@@ -1084,7 +1291,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.685722" long="-6.142570" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1092,39 +1299,39 @@
 
     <cofradia>
         <nombre_corto>La Lanzada</nombre_corto>
-        <nombre_largo>FERVOROSA Y CARMELITANA HERMANDAD Y COFRAD?A DE NAZARENOS DE LA SAGRADA LANZADA DE NUESTRO SE?OR
-            JESUCRISTO, MARIA SANT?SIMA DE GRACIA Y ESPERANZA Y NUESTRA SE?ORA DEL BUEN FIN.
+        <nombre_largo>FERVOROSA Y CARMELITANA HERMANDAD Y COFRADIA DE NAZARENOS DE LA SAGRADA LANZADA DE NUESTRO SENOR
+            JESUCRISTO, MARIA SANTISIMA DE GRACIA Y ESPERANZA Y NUESTRA SENORA DEL BUEN FIN.
         </nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
+        <fecha_salida>20130328</fecha_salida>
         <nombre_iglesia>Basilica Ntra. Sra. del Carmen Coronada</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>Plaza del Carmen, Carmen, Seder?a , Plaza Plateros, Plaza Santo Angel, Torneria, Plaza Rafael
-            Rivero, Puerta de Sevilla,Alameda Cristina (lado izquierdo), San Juan Grande, Sevilla, Palquillo, CARRERA
-            OFICIAL,Aire, Cruces,Plaza Domecq (lado izquierdo), Barranco, Curtidores, Plaza Peones, Carpinteria Baja,
-            Plaza del Carmen.
+        <itinerario>Plaza del Carmen, Carmen, Sedería, Plaza Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael Rivero,
+            Puerta de Sevilla, Porvera, San Juan de Dios, Alameda Cristina, Sevilla, Palquillo, CARRERA OFICIAL,
+            Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado izquierdo), Barranco, Curtidores,
+            Plaza Peones, Carpintería Baja, Carmen, Plaza del Carmen
         </itinerario>
         <imagenEscudo>lanzada</imagenEscudo>
         <horaSalida>19:15</horaSalida>
-        <horaRecogida>23:10</horaRecogida>
+        <horaRecogida>23:20</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>lanzada_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="19:15"></punto>
-                <punto descripcion="Palquillo" hora="20:10"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:10"></punto>
-                <punto descripcion="Catedral" hora="21:50"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:00"></punto>
-                <punto descripcion="Recogida" hora="22:55"></punto>
+                <punto descripcion="Palquillo" hora="20:20"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:30"></punto>
+                <punto descripcion="Catedral" hora="22:00"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:10"></punto>
+                <punto descripcion="Recogida" hora="23:05"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="19:30"></punto>
-                <punto descripcion="Palquillo" hora="20:25"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:25"></punto>
-                <punto descripcion="Catedral" hora="22:05"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:15"></punto>
-                <punto descripcion="Recogida" hora="23:10"></punto>
+                <punto descripcion="Palquillo" hora="20:35"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:45"></punto>
+                <punto descripcion="Catedral" hora="22:15"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:25"></punto>
+                <punto descripcion="Recogida" hora="23:20"></punto>
             </horario>
         </horarios>
         <images>
@@ -1133,7 +1340,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.684174" long="-6.139963" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1142,37 +1349,37 @@
     <cofradia>
         <nombre_corto>El Huerto</nombre_corto>
         <nombre_largo>MUY ILUSTRE ARCHICOFRADIA DEL DULCE NOMBRE DE JESUS Y HERMANDAD DE NAZARENOS DE NUESTRO PADRE
-            JESUS ORANDO EN EL HUERTO, MARIA SANT?SIMA DE LA CONFORTACI?N Y SAN VICENTE FERRER.
+            JESUS ORANDO EN EL HUERTO, MARIA SANTISIMA DE LA CONFORTACION Y SAN VICENTE FERRER.
         </nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
+        <fecha_salida>20130328</fecha_salida>
         <nombre_iglesia>Convento Santo Domingo</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Alameda Cristina, Plaza Aladro (lado izquierdo), Eguiluz, Sevilla, Palquillo, CARRERA OFICIAL, Aire,
-            Cruces, Plaza Domecq (lado izquierdo),Barranco, Curtidores, Plaza Peones, Carpinter?a Baja, Carmen, Seder?a,
-            Plaza Santo Angel, Torneria, Plaza Rafael Rivero, Puerta de Sevilla, Alameda Cristina.
+        <itinerario>Alameda Cristina, Palacio Domecq, Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno
+            Monreal, Cruces, Plaza Domecq (lado izquierdo), Barranco, Curtidores, Plaza Peones, Carpintería Baja,
+            Carmen, Sedería, Plaza Santo Ángel, Tornería, Plaza Rafael Rivero, Puerta de Sevilla, Alameda Cristina
         </itinerario>
         <imagenEscudo>huerto</imagenEscudo>
-        <horaSalida>19:50</horaSalida>
-        <horaRecogida>01:10</horaRecogida>
+        <horaSalida>20:20</horaSalida>
+        <horaRecogida>01:20</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>huerto_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="19:50"></punto>
-                <punto descripcion="Palquillo" hora="20:30"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:30"></punto>
-                <punto descripcion="Catedral" hora="22:10"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:20"></punto>
-                <punto descripcion="Recogida" hora="00:50"></punto>
+                <punto descripcion="Salida" hora="20:20"></punto>
+                <punto descripcion="Palquillo" hora="20:40"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:50"></punto>
+                <punto descripcion="Catedral" hora="22:20"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:30"></punto>
+                <punto descripcion="Recogida" hora="01:00"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="20:10"></punto>
-                <punto descripcion="Palquillo" hora="20:50"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:50"></punto>
-                <punto descripcion="Catedral" hora="22:30"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:40"></punto>
-                <punto descripcion="Recogida" hora="01:10"></punto>
+                <punto descripcion="Salida" hora="20:30"></punto>
+                <punto descripcion="Palquillo" hora="21:00"></punto>
+                <punto descripcion="Plaza Asuncion" hora="22:10"></punto>
+                <punto descripcion="Catedral" hora="22:40"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:50"></punto>
+                <punto descripcion="Recogida" hora="01:20"></punto>
             </horario>
         </horarios>
         <images>
@@ -1182,7 +1389,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.686207" long="-6.137034" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1190,39 +1397,40 @@
 
     <cofradia>
         <nombre_corto>Mayor Dolor</nombre_corto>
-        <nombre_largo>PRIMITIVA Y HOSPITALARIA HERMANDAD DEL APOSTOL SE?OR SAN BARTOLOM? Y COFRAD?A DE NAZARENOS DE
-            NUESTRA SE?ORA DEL MAYOR DOLOR Y EN EL PASO DEL ECCE-HOMO.
+        <nombre_largo>PRIMITIVA Y HOSPITALARIA HERMANDAD DEL APOSTOL SENOR SAN BARTOLOME Y COFRADIA DE NAZARENOS DE
+            NUESTRA SENORA DEL MAYOR DOLOR Y EN EL PASO DEL ECCE-HOMO.
         </nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
+        <fecha_salida>20130328</fecha_salida>
         <nombre_iglesia>Parroquia de San Dionisio</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Dr. Revuelta y Montiel, Plaza de la Asunci?n, Padre L. Bellido, Plaza Plateros, Plaza Santo Angel,
-            Torner?a, Plaza Rafael Rivero, Puerta de Sevilla,Alameda Cristina (lado izquierdo),San Juan Grande, Sevilla,
-            Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza Domecq (lado izquierdo), Barranco, Curtidores, Plaza Peones,
-            Carpinter?a Baja, Carmen, Chapiner?a,Plaza de la Asunci?n, Dr. Revuelta y Montiel.
+        <itinerario>Doctor Revuelta y Montiel, Plaza de la Asunción, Padre Luis Bellido, Plaza Plateros, Plaza Santo
+            Ángel, Tornería, Plaza Rafael Rivero, Puerta de Sevilla, Porvera, San Juan Grande, Alameda Cristina,
+            Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado
+            izquierdo), Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Chapinería, Plaza de la
+            Asunción, Doctor Revuelta y Montiel
         </itinerario>
         <imagenEscudo>mayordolor</imagenEscudo>
-        <horaSalida>19:20</horaSalida>
-        <horaRecogida>01:20</horaRecogida>
+        <horaSalida>19:15</horaSalida>
+        <horaRecogida>01:30</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>mayordolor_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="19:20"></punto>
-                <punto descripcion="Palquillo" hora="20:55"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:55"></punto>
-                <punto descripcion="Catedral" hora="22:35"></punto>
-                <punto descripcion="Fuera Catedral" hora="22:45"></punto>
-                <punto descripcion="Recogida" hora="00:50"></punto>
+                <punto descripcion="Salida" hora="19:15"></punto>
+                <punto descripcion="Palquillo" hora="21:05"></punto>
+                <punto descripcion="Plaza Asuncion" hora="22:15"></punto>
+                <punto descripcion="Catedral" hora="22:45"></punto>
+                <punto descripcion="Fuera Catedral" hora="22:55"></punto>
+                <punto descripcion="Recogida" hora="01:00"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="19:50"></punto>
-                <punto descripcion="Palquillo" hora="21:25"></punto>
-                <punto descripcion="Plaza Arenal" hora="22:25"></punto>
-                <punto descripcion="Catedral" hora="23:05"></punto>
-                <punto descripcion="Fuera Catedral" hora="23:15"></punto>
-                <punto descripcion="Recogida" hora="01:20"></punto>
+                <punto descripcion="Salida" hora="19:45"></punto>
+                <punto descripcion="Palquillo" hora="21:35"></punto>
+                <punto descripcion="Plaza Asuncion" hora="22:45"></punto>
+                <punto descripcion="Catedral" hora="23:15"></punto>
+                <punto descripcion="Fuera Catedral" hora="23:25"></punto>
+                <punto descripcion="Recogida" hora="01:30"></punto>
             </horario>
         </horarios>
         <images>
@@ -1232,7 +1440,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.681973" long="-6.140617" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1240,17 +1448,16 @@
 
     <cofradia>
         <nombre_corto>Santo Crucifijo</nombre_corto>
-        <nombre_largo>PONTIFICIA, ANTIGUA Y VENERABLE HERMANDAD DEL STMO. SACRAMENTO Y COFRAD?A DE NAZARENOS DEL SANTO
-            CRUCIFIJO DE LA SALUD Y MAR?A SANT?SIMA DE LA ENCARNACI?N.
+        <nombre_largo>PONTIFICIA, ANTIGUA Y VENERABLE HERMANDAD DEL STMO. SACRAMENTO Y COFRADIA DE NAZARENOS DEL SANTO
+            CRUCIFIJO DE LA SALUD Y MARIA SANTISIMA DE LA ENCARNACION.
         </nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Parroquia San Miguel</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Plaza Le?n XIII, San Miguel,San Pablo, Caballeros,Plaza del Arenal, Corredera, Plaza Esteve,Santa
-            Mar?a, Honda, Bizcocheros, Caracuel, Plaza de San Andr?s, Rosario, Plaza Aladros (lado izquierdo), Eguiluz,
-            Sevilla, Palquillo, CARRERA OFICIAL,Aire, Cruces,Plaza Domecq (lado derecho), Barranco, Curtidores, Plaza
-            Peones, Carpinteria Baja, Carmen, Seder?a, Chapiner?a, Plaza de la Asunci?n, Angostillo, Plaza de la Yerba,
-            Consitorio, Plaza Arenal (lado izquierdo), Caballeros, San Pablo, San Miguel, Plaza Leon XIII.
+        <itinerario>Plaza León XIII, San Miguel, San Pablo, Caballero, Plaza del Arenal, Consistorio, Conde Cañete del
+            Pinar, Plateros, Santo Ángel, Tornería, Rafael Rivero, Puerta de Sevilla, Porvera, San Juan Grande, Alameda
+            Cristina, Palquillo, CARRERA OFICIAL, Encarnación, de la Rosa, Manuel María González, Monti, Plaza del
+            Arenal (lado derecho), San Agustín, Fate, San Miguel, León XIII
         </itinerario>
         <imagenEscudo>salud</imagenEscudo>
         <horaSalida>01:30</horaSalida>
@@ -1261,19 +1468,19 @@
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="01:30"></punto>
-                <punto descripcion="Palquillo" hora="03:35"></punto>
-                <punto descripcion="Plaza Arenal" hora="04:30"></punto>
-                <punto descripcion="Catedral" hora="05:05"></punto>
-                <punto descripcion="Fuera Catedral" hora="05:15"></punto>
-                <punto descripcion="Recogida" hora="06:50"></punto>
+                <punto descripcion="Palquillo" hora="03:30"></punto>
+                <punto descripcion="Plaza Asuncion" hora="04:30"></punto>
+                <punto descripcion="Catedral" hora="05:00"></punto>
+                <punto descripcion="Fuera Catedral" hora="05:05"></punto>
+                <punto descripcion="Recogida" hora="06:10"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="01:50"></punto>
-                <punto descripcion="Palquillo" hora="03:55"></punto>
-                <punto descripcion="Plaza Arenal" hora="04:50"></punto>
-                <punto descripcion="Catedral" hora="05:25"></punto>
-                <punto descripcion="Fuera Catedral" hora="05:35"></punto>
-                <punto descripcion="Recogida" hora="07:10"></punto>
+                <punto descripcion="Palquillo" hora="03:50"></punto>
+                <punto descripcion="Plaza Asuncion" hora="04:50"></punto>
+                <punto descripcion="Catedral" hora="05:20"></punto>
+                <punto descripcion="Fuera Catedral" hora="05:30"></punto>
+                <punto descripcion="Recogida" hora="06:30"></punto>
             </horario>
         </horarios>
         <images>
@@ -1285,7 +1492,7 @@
             <poi description="Salida y Recogida" comment="" lat="36.68007008999579" long="-6.1374735832214355"
                  interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1293,39 +1500,38 @@
 
     <cofradia>
         <nombre_corto>Cinco Llagas</nombre_corto>
-        <nombre_largo>HERMANDAD Y COFRAD?A DE NAZARENOS DE LAS SAGRADAS CINCO LLAGAS DE CRISTO, NUESTRO PADRE JES?S DE
-            LA V?A-CRUCIS Y MAR?A STMA. DE LA ESPERANZA.
+        <nombre_largo>HERMANDAD Y COFRADIA DE NAZARENOS DE LAS SAGRADAS CINCO LLAGAS DE CRISTO, NUESTRO PADRE JESUS DE
+            LA VIA-CRUCIS Y MARIA STMA. DE LA ESPERANZA.
         </nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Iglesia Conventual de San Francisco</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Plaza Esteve, Santamaria, Honda, Bizcocheros, Caracuel, Plaza San Andr?s, Rosario, Plaza Aladro
-            (lado izquierdo), Eguiluz, Sevilla, Palquillo, CARRERA OFICIAL,Aire, Cruces, Plaza Domecq (lado derecho),
-            Barranco,Curtidores, Plaza Peones, Carpinteria Baja, Carmen, Seder?a, Plaza Plateros, Conde Ca?ete del
-            Pinar, Consistorio, Plaza Arenal (lado izquierdo), Plaza Esteve.
+        <itinerario>Plaza Esteve, Santa María, Honda, Bizcocheros, Caracuel, Plaza de San Andrés, Rosario, Plaza Aladro,
+            Marqués de Casa Domecq, Palquillo, CARRERA OFICIAL, Encarnación, de la Rosa, Manuel María González, Monti,
+            Plaza del Arenal (lado izquierdo), Corredera, Plaza Esteve
         </itinerario>
         <imagenEscudo>cincollagas</imagenEscudo>
-        <horaSalida>02:30</horaSalida>
-        <horaRecogida>07:10</horaRecogida>
+        <horaSalida>02:15</horaSalida>
+        <horaRecogida>06:45</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>cincollagas_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="02:30"></punto>
-                <punto descripcion="Palquillo" hora="03:56"></punto>
-                <punto descripcion="Plaza Arenal" hora="04:51"></punto>
-                <punto descripcion="Catedral" hora="05:26"></punto>
-                <punto descripcion="Fuera Catedral" hora="05:36"></punto>
-                <punto descripcion="Recogida" hora="07:10"></punto>
+                <punto descripcion="Salida" hora="02:15"></punto>
+                <punto descripcion="Palquillo" hora="03:51"></punto>
+                <punto descripcion="Plaza Asuncion" hora="04:51"></punto>
+                <punto descripcion="Catedral" hora="05:21"></punto>
+                <punto descripcion="Fuera Catedral" hora="05:41"></punto>
+                <punto descripcion="Recogida" hora="06:30"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="02:45"></punto>
-                <punto descripcion="Palquillo" hora="04:11"></punto>
-                <punto descripcion="Plaza Arenal" hora="05:06"></punto>
-                <punto descripcion="Catedral" hora="05:41"></punto>
-                <punto descripcion="Fuera Catedral" hora="05:51"></punto>
-                <punto descripcion="Recogida" hora="07:10"></punto>
+                <punto descripcion="Salida" hora="02:30"></punto>
+                <punto descripcion="Palquillo" hora="04:06"></punto>
+                <punto descripcion="Plaza Asuncion" hora="05:06"></punto>
+                <punto descripcion="Catedral" hora="05:36"></punto>
+                <punto descripcion="Fuera Catedral" hora="05:46"></punto>
+                <punto descripcion="Recogida" hora="06:45"></punto>
             </horario>
         </horarios>
         <images>
@@ -1335,45 +1541,47 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.681595" long="-6.136626" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
     </cofradia>
     <cofradia>
         <nombre_corto>Nazareno</nombre_corto>
-        <nombre_largo>PONTIFICIA, REAL, ANTIGUA, VENERABLE Y PIADOSA HERMANDAD Y ARCHICOFRAD?A DE NTRO. PADRE JES?S
-            NAZARENO, SANTO CRUCIFIJO, NTRA. MADRE Y SE?ORA DEL TRASPASO Y AP?STOLES SAN JUAN, SAN ANDR?S Y SAN JUAN
+        <nombre_largo>PONTIFICIA, REAL, ANTIGUA, VENERABLE Y PIADOSA HERMANDAD Y ARCHICOFRADIA DE NTRO. PADRE JESUS
+            NAZARENO, SANTO CRUCIFIJO, NTRA. MADRE Y SENORA DEL TRASPASO Y APOSTOLES SAN JUAN, SAN ANDRES Y SAN JUAN
             GRANDE.
         </nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Capilla San Juan de Letran</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Alameda Cristina, San Juan Grande, Sevilla, Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza Domecq
-            (lado derecho), Barranco, Curtidores, Plaza Peones, Carpinteria Baja, Carmen, Seder?a, Plaza Plateros, Conde
-            Ca?ete del Pinar, Plaza de la Yerba, Consistorio, Plaza Arenal, Lancer?a, Larga, Alameda Cristina.
+        <itinerario>Patio de la Capilla de San Juan de Letrán, Alameda Cristina, Palquillo, CARRERA OFICIAL,
+            Encarnación, Reducto Cardenal Bueno Monreal, Aire, Cruces, Plaza Domecq (lado derecho), Barranco,
+            Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Conde Cañete del Pinar, Playa
+            de la Yerba, Consistorio, Plaza del Arenal, Lancería, Larga, Alameda Cristina, Patio de la Capilla de San
+            Juan de Letrán
         </itinerario>
         <imagenEscudo>nazareno</imagenEscudo>
-        <horaSalida>03:30</horaSalida>
+        <horaSalida>03:45</horaSalida>
         <horaRecogida>09:00</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>nazareno_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="03:30"></punto>
-                <punto descripcion="Palquillo" hora="04:12"></punto>
-                <punto descripcion="Plaza Arenal" hora="05:07"></punto>
-                <punto descripcion="Catedral" hora="05:42"></punto>
-                <punto descripcion="Fuera Catedral" hora="05:52"></punto>
-                <punto descripcion="Recogida" hora="08:30"></punto>
+                <punto descripcion="Salida" hora="03:45"></punto>
+                <punto descripcion="Palquillo" hora="04:07"></punto>
+                <punto descripcion="Plaza Asuncion" hora="05:07"></punto>
+                <punto descripcion="Catedral" hora="05:37"></punto>
+                <punto descripcion="Fuera Catedral" hora="05:47"></punto>
+                <punto descripcion="Recogida" hora="09:00"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="04:00"></punto>
-                <punto descripcion="Palquillo" hora="04:42"></punto>
-                <punto descripcion="Plaza Arenal" hora="05:37"></punto>
-                <punto descripcion="Catedral" hora="06:12"></punto>
-                <punto descripcion="Fuera Catedral" hora="06:22"></punto>
+                <punto descripcion="Salida" hora="04:15"></punto>
+                <punto descripcion="Palquillo" hora="04:37"></punto>
+                <punto descripcion="Plaza Asuncion" hora="05:37"></punto>
+                <punto descripcion="Catedral" hora="06:07"></punto>
+                <punto descripcion="Fuera Catedral" hora="06:17"></punto>
                 <punto descripcion="Recogida" hora="09:00"></punto>
             </horario>
         </horarios>
@@ -1385,7 +1593,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.686523" long="-6.137484" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1393,39 +1601,40 @@
 
     <cofradia>
         <nombre_corto>Buena Muerte</nombre_corto>
-        <nombre_largo>HERMANDAD DE NAZARENOS DEL SANTISIMO CRISTO DE LA BUENA MUERTE Y MAR?A SANTISIMA DEL DULCE
-            NOMBRE.
+        <nombre_largo>COFRADIA DEL NINO JESUS y HERMANDAD DE NAZARENOS DEL SANTISIMO CRISTO DE LA BUENA MUERTE Y MARIA
+            SANTISIMA DEL DULCE NOMBRE Y APOSTOL SENOR SAN JUAN.
         </nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Basilica de Ntra.Sra de la Merced Coronada</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Basilica de la Merced, Plaza de la Merced, Merced, Plaza Santiago (lado izquierdo), Ancha, Ponce,
-            Guadalete, San Juan Grande, Sevilla, Palquillo, CARRERA OFICIAL,Aire, Cruces, Plaza Domecq (lado derecho),
-            Barranco, Curtidores, Plaza Peones, Carpinteria Baja, Carmen, Seder?a, Plaza Plateros, Plaza Santo Angel,
-            Torneria, Plaza Rafael Rivero, Puerta de Sevilla, Porvera, Ancha, Plaza Santiago (lado derecho), Angostillo
-            Stmo. Cristo de la Buena Muerte, Nueva, Sta Maria de la Merced, Merced, Plaza de la Merced
+        <itinerario>Plaza de la Merced, Merced, Plaza Santiago, Ancha, Ponce, Guadalete, San Juan Grande, Alameda
+            Cristina, Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Aire, Cruces, Plaza
+            Domecq (lado izquierdo), Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza
+            Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael Rivero, Puerta de Sevilla, Porvera, Ancha, Plaza
+            Santiago (lado derecho), Angostillo del Santísimio Cristo de la Buena Muerte, Nueva, Santa María de la
+            Merced, Merced, Plaza de la Merced
         </itinerario>
         <imagenEscudo>buenamuerte</imagenEscudo>
-        <horaSalida>03:15</horaSalida>
+        <horaSalida>03:00</horaSalida>
         <horaRecogida>09:45</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>buenamuerte_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="03:15"></punto>
-                <punto descripcion="Palquillo" hora="04:43"></punto>
-                <punto descripcion="Plaza Arenal" hora="05:38"></punto>
-                <punto descripcion="Catedral" hora="06:13"></punto>
-                <punto descripcion="Fuera Catedral" hora="06:23"></punto>
+                <punto descripcion="Salida" hora="03:00"></punto>
+                <punto descripcion="Palquillo" hora="04:38"></punto>
+                <punto descripcion="Plaza Asuncion" hora="05:38"></punto>
+                <punto descripcion="Catedral" hora="06:08"></punto>
+                <punto descripcion="Fuera Catedral" hora="06:18"></punto>
                 <punto descripcion="Recogida" hora="09:30"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="03:30"></punto>
-                <punto descripcion="Palquillo" hora="04:58"></punto>
-                <punto descripcion="Plaza Arenal" hora="05:53"></punto>
-                <punto descripcion="Catedral" hora="06:28"></punto>
-                <punto descripcion="Fuera Catedral" hora="06:38"></punto>
+                <punto descripcion="Salida" hora="03:15"></punto>
+                <punto descripcion="Palquillo" hora="04:53"></punto>
+                <punto descripcion="Plaza Asuncion" hora="05:53"></punto>
+                <punto descripcion="Catedral" hora="06:23"></punto>
+                <punto descripcion="Fuera Catedral" hora="06:33"></punto>
                 <punto descripcion="Recogida" hora="09:45"></punto>
             </horario>
         </horarios>
@@ -1436,7 +1645,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.687675" long="-6.145692" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1444,17 +1653,18 @@
 
     <cofradia>
         <nombre_corto>La Yedra</nombre_corto>
-        <nombre_largo>REAL HERMANDAD DE NUESTRA SENORA DEL ROSARIO Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA
-            SENTENCIA Y HUMILDAD, STMO. CRISTO DE LA YEDRA Y NUESTRA SENORA DE LA ESPERANZA.
+        <nombre_largo>REAL HERMANDAD Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA
+            SENTENCIA Y HUMILDAD, STMO. CRISTO DE LA YEDRA, NUESTRA SENORA DE LA ESPERANZA Y DE NUESTRA SENORA DEL
+            ROSARIO.
         </nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Capilla de la Yedra</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Empedrada, Cruz Vieja, Ramon de Cala, Anton Daza, Pedro Alonso, Corredera, Plaza de las Angustias,
-            Higueras, Medina, Prieta, Arcos, Gaspar Fernandez, Bizcocheros, Antona de Dios, Plaza San Andres, Rosario,
-            Plaza Aladro (lado izquierdo), Eguiluz, Sevilla, Palquillo, CARRERA OFICIAL,Aire, Cruces, Plaza Arroyo (lado
-            derecho), Jose L. Diez , Plaza Asuncion, Angostillo, Consistorio, Plaza Arenal (lado izquierdo), Corredera,
-            Pedro Alonso, Sol,Plaza. N.P. Jesus de la Sentencia,Empedrada.
+        <itinerario>Empedrada, Cruz Vieja, Ramón de Cala, Plaza Antón Daza, Pedro Alonso, Corredera, Plaza de las
+            Angustias, Higueras, Medina, Prieta, Arcos, Gaspar Fernández, Bizcocheros, Antona de Dios, Plaza San Andrés,
+            Rosario, Plaza Aladro, Palacio Domecq, Palquillo, CARRERA OFICIAL, Encarnación, de la Rosa, Manuel María
+            González, Plaza Monti, Plaza del Arenal (lado izquierdo), Corredera, Pedro Alonso, Sol, Plaza Nuestro Padre
+            Jesús de la Sentencia, Empedrada
         </itinerario>
         <imagenEscudo>yedra</imagenEscudo>
         <horaSalida>01:30</horaSalida>
@@ -1465,18 +1675,18 @@
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="01:30"></punto>
-                <punto descripcion="Palquillo" hora="04:59"></punto>
-                <punto descripcion="Plaza Arenal" hora="05:54"></punto>
-                <punto descripcion="Catedral" hora="06:34"></punto>
-                <punto descripcion="Fuera Catedral" hora="06:44"></punto>
+                <punto descripcion="Palquillo" hora="04:54"></punto>
+                <punto descripcion="Plaza Asuncion" hora="05:54"></punto>
+                <punto descripcion="Catedral" hora="06:24"></punto>
+                <punto descripcion="Fuera Catedral" hora="06:34"></punto>
                 <punto descripcion="Recogida" hora="10:00"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="02:00"></punto>
-                <punto descripcion="Palquillo" hora="05:29"></punto>
-                <punto descripcion="Plaza Arenal" hora="06:24"></punto>
-                <punto descripcion="Catedral" hora="07:04"></punto>
-                <punto descripcion="Fuera Catedral" hora="07:14"></punto>
+                <punto descripcion="Palquillo" hora="05:24"></punto>
+                <punto descripcion="Plaza Asuncion" hora="06:24"></punto>
+                <punto descripcion="Catedral" hora="06:54"></punto>
+                <punto descripcion="Fuera Catedral" hora="07:04"></punto>
                 <punto descripcion="Recogida" hora="10:30"></punto>
             </horario>
         </horarios>
@@ -1493,7 +1703,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.677944" long="-6.131423" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1504,27 +1714,28 @@
         <nombre_largo>HERMANDAD SACRAMENTAL Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA EXALTACION Y MARIA
             SANTISIMA DE LA CONCEPCION CORONADA.
         </nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Parroquia Nuestra Senora de las Vinas</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Plaza Maria Santisima de Concepcion Coronada, Alc?ntara, Ronda de los Vi?edos,Magallanes, Fabrica
-            Botellas, Jorge Bocuze,B. del salado, Ronda del Pelir?n,Glorieta de la Venencia, Avda. Virgen de Fatima,
-            Zaragoza, Plaza Aladro, Eguiluz, Sevilla, Palquillo, CARRERA OFICIAL, Visitaci?n, Santa Isabel, Jose L. D?ez
-            (lado derecho), Plaza Asunci?n, Padre L. Bellido, Plaza Plateros, Plaza Santo ?ngel, Torner?a, Plaza Rafael
-            Rivero, Puerta de Sevilla, Larga, Honda, Arcos, Avda de Arcos, Glorieta Fabrica Botellas, Ronda de los
-            Vi?edos,Alc?ntara, Plaza M? Stma de la Concepci?n Coronada.
+        <itinerario>Plaza María Santísima de la Concepción Coronada, Alcántara, Ronda de los Viñedos, Magallanes,
+            Fábrica de Botellas, Jorge Bocuze, Batalla del Salado, Ronda del Pelirón, Glorieta de la Venencia, Avenida
+            Virgen de Fátima, Zaragoza, Plaza Aladro, Palacio Domecq, Palquillo, CARRERA OFICIAL, Encarnación, Reducto
+            Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado derecho), José Luis Díez, Limones, Plaza Luis Braille,
+            Plaza del Carmen, Carmen, Sedería, Plaza Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael Rivero, Puerta
+            de Sevilla, Larga, Honda, Arcos, Avenida de Arcos, Glorieta Fábrica de Botellas, Ronda de los Viñedos,
+            Alcántara, Plaza María Santísima de la Concepción Coronada
         </itinerario>
         <imagenEscudo>vinyas</imagenEscudo>
         <horaSalida>16:00</horaSalida>
-        <horaRecogida>01:50</horaRecogida>
+        <horaRecogida>02:00</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
-        <ficheroRecorrido>vi?as_r</ficheroRecorrido>
+        <ficheroRecorrido>vinyas_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="16:00"></punto>
                 <punto descripcion="Palquillo" hora="19:00"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:00"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:10"></punto>
                 <punto descripcion="Catedral" hora="20:40"></punto>
                 <punto descripcion="Fuera Catedral" hora="20:50"></punto>
                 <punto descripcion="Recogida" hora="01:25"></punto>
@@ -1532,36 +1743,36 @@
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="16:35"></punto>
                 <punto descripcion="Palquillo" hora="19:35"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:35"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:45"></punto>
                 <punto descripcion="Catedral" hora="21:15"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:25"></punto>
-                <punto descripcion="Recogida" hora="01:50"></punto>
+                <punto descripcion="Recogida" hora="02:00"></punto>
             </horario>
         </horarios>
         <images>
-            <image>vi?as_1</image>
-            <image>vi?as_2</image>
+            <image>viñas_1</image>
+            <image>viñas_2</image>
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.684803" long="-6.122260" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
     </cofradia>
     <cofradia>
         <nombre_corto>El Loreto</nombre_corto>
-        <nombre_largo>VENERABLE HERMANDAD Y COFRAD?A DE NAZARENOS DE LA SANTA CRUZ EN EL MONTE CALVARIO Y NUESTRA SE?ORA
-            DE LORETO EN SU SOLEDAD.
+        <nombre_largo>VENERABLE HERMANDAD Y COFRADIA DE NAZARENOS DE LA SANTA CRUZ EN EL MONTE CALVARIO Y NUESTRA SENORA
+            DE LORETO EN SU SOLEDAD
         </nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Parroquia de San Pedro</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>Bizcocheros, Antona de Dios, Plaza San Andr?s, Rosario, Plaza Aladro (lado izquierdo), Eguiluz,
-            Sevilla, Palquillo, CARRERA OFICIAL,Visitaci?n, Santa Isabel, Jose L. D?ez (lado derecho), Plaza
-            Asunci?n,Chapiner?a, Seder?a,Plaza Plateros,Plaza Santo Angel, Torneria, Eguilaz, Plaza del Banco,
-            Larga,Bizcocheros.
+        <itinerario>Bizcocheros, Antona de Dios, Plaza San Andrés, Rosario, Plaza Aladro, Palacio Domecq, Palquillo,
+            CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq, Barranco, Curtidores,
+            Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo Ángel, Tornería, Eguilaz, Plaza
+            del Banco, Larga, Bizcocheros
         </itinerario>
         <imagenEscudo>loreto</imagenEscudo>
         <horaSalida>18:30</horaSalida>
@@ -1573,7 +1784,7 @@
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="18:30"></punto>
                 <punto descripcion="Palquillo" hora="19:40"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:40"></punto>
+                <punto descripcion="Plaza Asuncion" hora="20:50"></punto>
                 <punto descripcion="Catedral" hora="21:20"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:30"></punto>
                 <punto descripcion="Recogida" hora="23:15"></punto>
@@ -1581,7 +1792,7 @@
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="18:45"></punto>
                 <punto descripcion="Palquillo" hora="19:55"></punto>
-                <punto descripcion="Plaza Arenal" hora="20:55"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:05"></punto>
                 <punto descripcion="Catedral" hora="21:35"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:45"></punto>
                 <punto descripcion="Recogida" hora="23:30"></punto>
@@ -1593,7 +1804,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.685215" long="-6.134641" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1601,19 +1812,19 @@
 
     <cofradia>
         <nombre_corto>El Cristo</nombre_corto>
-        <nombre_largo>PONTIFICIA Y REAL ARCHICOFRAD?A DEL SANT?SIMO CRISTO DE LA EXPIRACI?N, MAR?A STMA. DEL VALLE, SAN
-            JUAN EVANGELISTA Y SAN PEDRO GONZ?LEZ TELMO.
+        <nombre_largo>PONTIFICIA Y REAL ARCHICOFRADIA DEL SANTISIMO CRISTO DE LA EXPIRACION, MARIA STMA. DEL VALLE, SAN
+            JUAN EVANGELISTA Y SAN PEDRO GONZALEZ TELMO.
         </nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Ermita de San Telmo</nombre_iglesia>
         <numero_pasos>3</numero_pasos>
-        <itinerario>Plaza Stmo. Cristo de la Expiracion, S?ncho Vizca?no, Mart?n Fern?ndez, Baro,Empedrada, Plaza N.P.
-            Jesus de la Sentencia, Sol, Granados, Plaza de las Angustias, Corredera, Plaza Arenal, Consistorio, Plaza de
-            la Yerba, Conde Ca?ete del Pinar, Plaza Plateros, Plaza Santo Angel, Torneria, Plaza Rafael Rivero, Puerta
-            de Sevilla, Alameda Cristina (lado izquierdo), San Juan Grande, Sevilla, Palquillo, CARRERA OFICIAL, Aire,
-            Visitaci?n, Santa Isabel, Jose L. D?ez (lado derecho), Plaza de la Asunci?n,Angostillo, Plaza de la Yerba,
-            Consistorio, Plaza Arenal, Caballeros, Plaza Ant?n Danza, Ram?n de Cala, Cerro Fuerte, Mart?n Fern?ndez, San
-            Telmo, Plaza Stmo. Cristo de las Expiraci?n.
+        <itinerario>Plaza Santisimo Cristo de la Expiracion, Sancho Vizcaíno, Martín Fernandez, Baro, Empedrada, Plaza
+            Nuestro Padre Jesús de la Sentencia, Sol, Granados, Plaza de las Angustias, Corredera, Plaza Arenal,
+            Consistorio, Plaza de la Yerba, Conde Cañete del Pinar, Plaza Plateros, Plaza Santo Ángel, Tornería, Plaza
+            Rafael Rivero, Puerta de Sevilla, Porvera, San Juan de Dios, Alameda Cristina, Palquillo, CARRERA OFICIAL,
+            Encarnación, de la Rosa, Manuel María González, Plaza Monti, Plaza Arenal (lado derecho), Caballeros, San
+            Pablo, San Miguel, Plaza León XIII, Barja, Plaza Antón Daza, Ramón de Cala, Cerro Fuerte, San Justo, Pavía,
+            San Telmo, Plaza Santísimo Cristo de la Expiracion
         </itinerario>
         <imagenEscudo>cristo</imagenEscudo>
         <horaSalida>16:30</horaSalida>
@@ -1625,15 +1836,15 @@
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="16:30"></punto>
                 <punto descripcion="Palquillo" hora="20:00"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:00"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:10"></punto>
                 <punto descripcion="Catedral" hora="21:40"></punto>
                 <punto descripcion="Fuera Catedral" hora="21:50"></punto>
-                <punto descripcion="Recogida" hora="02:15"></punto>
+                <punto descripcion="Recogida" hora="01:45"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="16:45"></punto>
+                <punto descripcion="Salida" hora="17:15"></punto>
                 <punto descripcion="Palquillo" hora="20:45"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:45"></punto>
+                <punto descripcion="Plaza Asuncion" hora="21:55"></punto>
                 <punto descripcion="Catedral" hora="22:25"></punto>
                 <punto descripcion="Fuera Catedral" hora="22:35"></punto>
                 <punto descripcion="Recogida" hora="02:30"></punto>
@@ -1647,7 +1858,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.677704" long="-6.136551" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1655,38 +1866,39 @@
 
     <cofradia>
         <nombre_corto>La Soledad</nombre_corto>
-        <nombre_largo>PONTIFICIA Y VENERABLE HERMANDAD DE NUESTRA MADRE Y SE?ORA DE LA SOLEDAD Y SAGRADO DESCENDIMIENTO
-            DE NUESTRO SE?OR JESUCRISTO.
+        <nombre_largo>PONTIFICIA Y VENERABLE HERMANDAD DE NUESTRA MADRE Y SENORA DE LA SOLEDAD Y SAGRADO DESCENDIMIENTO
+            DE NUESTRO SENOR JESUCRISTO.
         </nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Iglesia de la Victoria</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Ponce, Guadalete, Mamelon, Sevilla, Palquillo, CARRERA OFICIAL, Aire, Visitacion, Santa Isabel, Jose
-            Luis Diez (lado derecho),Plaza Asuncion, Chapiner?a,Seder?a, Plaza Plateros, Plaza Santo Angel, Torneria,
-            Plaza Rafael Rivero, Puerta de Sevilla, Porvera, Ponce.
+        <itinerario>Ponce, Guadalete, Mamelón, Eguiluz, Plaza Aladro, Palacio Domecq, Palquillo, CARRERA OFICIAL,
+            Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado derecho), José Luis Díez, Plaza
+            Asunción, Chapinería, Sedería, Plaza Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael Rivero, Puerta
+            Sevilla, Porvera, Ponce
         </itinerario>
         <imagenEscudo>soledad</imagenEscudo>
-        <horaSalida>19:40</horaSalida>
-        <horaRecogida>01:40</horaRecogida>
+        <horaSalida>19:30</horaSalida>
+        <horaRecogida>01:30</horaRecogida>
         <latitudRegreso>36.682076</latitudRegreso>
         <longitudRegreso>-6.140488</longitudRegreso>
         <ficheroRecorrido>soledad_r</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guia">
-                <punto descripcion="Salida" hora="19:40"></punto>
+                <punto descripcion="Salida" hora="19:30"></punto>
                 <punto descripcion="Palquillo" hora="20:50"></punto>
-                <punto descripcion="Plaza Arenal" hora="21:50"></punto>
+                <punto descripcion="Plaza Asuncion" hora="22:00"></punto>
                 <punto descripcion="Catedral" hora="22:30"></punto>
                 <punto descripcion="Fuera Catedral" hora="22:40"></punto>
-                <punto descripcion="Recogida" hora="01:10"></punto>
+                <punto descripcion="Recogida" hora="01:00"></punto>
             </horario>
             <horario descripcion="Ultimo paso">
-                <punto descripcion="Salida" hora="20:10"></punto>
+                <punto descripcion="Salida" hora="20:00"></punto>
                 <punto descripcion="Palquillo" hora="21:20"></punto>
-                <punto descripcion="Plaza Arenal" hora="22:20"></punto>
+                <punto descripcion="Plaza Asuncion" hora="22:30"></punto>
                 <punto descripcion="Catedral" hora="23:00"></punto>
                 <punto descripcion="Fuera Catedral" hora="23:10"></punto>
-                <punto descripcion="Recogida" hora="01:40"></punto>
+                <punto descripcion="Recogida" hora="01:30"></punto>
             </horario>
         </horarios>
         <images>
@@ -1696,7 +1908,7 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.688511" long="-6.140660" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
@@ -1704,17 +1916,18 @@
 
     <cofradia>
         <nombre_corto>Santo Entierro</nombre_corto>
-        <nombre_largo>PONTIFICIA, REAL VENERABLE Y ANTIGUA HERMANDAD DEL SANTO ENTIERRO DE NTRO. SE?OR JESUCRISTO Y
-            NUESTRA SE?ORA DE LA PIEDAD.
+        <nombre_largo>PONTIFICIA, REAL VENERABLE Y ANTIGUA HERMANDAD DEL SANTO ENTIERRO DE NTRO. SENOR JESUCRISTO Y
+            NUESTRA SENORA DE LA PIEDAD.
         </nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130331</fecha_salida>
         <nombre_iglesia>Real Capilla del Calvario</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Taxdirt, Plaza Santiago (lado izquierdo), Ancha, Porvera, Alameda Cristina, San Juan Grande,
-            Sevilla, Palquillo, CARRERA OFICIAL, Aire, Cruces, Plaza Domecq (lado derecho), Jose Luis Diez, Plaza
-            Asuncion, Chapineria,Sederia, Plaza Plateros, Plaza Santo Angel, Torner?a, Plaza Rafael Rivero, Plaza San
-            Marcos, Plaza Ntro. Padre Jes?s de la Sagrada Cena, Padre Rego, Plaza Compa??a, Francos, Plaza San Juan,
-            Plaza de los Angeles, Oliva, Plaza Santiago (lado derecho),Taxdirt.
+        <itinerario>Taxdirt, Plaza Santiago (lado izquierdo), Ancha, Porvera, Gaitán, San Juan Grande, Sevilla,
+            Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado
+            derecho), Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo
+            Ángel, Tornería, Plaza Rafael Rivero, Plaza San Marcos, Plaza Nuestro Padre Jesús de la Sagrada Cena, Padre
+            Rego, Plaza Compañía, Francos, Plaza San Juan, Plaza de los Ángeles, Oliva, Plaza Santiago (lado derecho),
+            Taxdirt
         </itinerario>
         <imagenEscudo>santoentierro</imagenEscudo>
         <horaSalida>19:15</horaSalida>
@@ -1726,7 +1939,7 @@
             <horario descripcion="Cruz de Guia">
                 <punto descripcion="Salida" hora="19:15"></punto>
                 <punto descripcion="Palquillo" hora="21:25"></punto>
-                <punto descripcion="Plaza Arenal" hora="22:25"></punto>
+                <punto descripcion="Plaza Asuncion" hora="22:35"></punto>
                 <punto descripcion="Catedral" hora="23:05"></punto>
                 <punto descripcion="Fuera Catedral" hora="23:15"></punto>
                 <punto descripcion="Recogida" hora="02:35"></punto>
@@ -1734,7 +1947,7 @@
             <horario descripcion="Ultimo paso">
                 <punto descripcion="Salida" hora="19:40"></punto>
                 <punto descripcion="Palquillo" hora="21:50"></punto>
-                <punto descripcion="Plaza Arenal" hora="22:50"></punto>
+                <punto descripcion="Plaza Asuncion" hora="23:00"></punto>
                 <punto descripcion="Catedral" hora="23:30"></punto>
                 <punto descripcion="Fuera Catedral" hora="23:40"></punto>
                 <punto descripcion="Recogida" hora="03:00"></punto>
@@ -1747,21 +1960,22 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.690628" long="-6.147366" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
-            <poi description="Plaza Arenal" comment="" lat="36.681789" long="-6.137656" interes="NO"></poi>
+            <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 
     </cofradia>
     <cofradia>
         <nombre_corto>Resucitado</nombre_corto>
-        <nombre_largo>HERMANDAD DE LA SAGRADA RESURRECI?N DE NUESTRO SE?OR JESUCRISTO.</nombre_largo>
+        <nombre_largo>HERMANDAD DE LA SAGRADA RESURRECION DE NUESTRO SENOR JESUCRISTO.</nombre_largo>
         <fecha_salida>20120408</fecha_salida>
         <nombre_iglesia>Santa Iglesia Catedral</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>Puerta Principal, Plaza Encarnacion, de la Rosa, Manuel Maria Gonzalez, Plaza Monti, Plaza Arenal
-            (lado izq.), Lanceria, Larga, Plaza Rafael Rivero, Torneria, Plaza Santo angel, Plaza Plateros, Padre Luis
-            Bellido, Plaza Asunci?n, Jos? L. D?ez, Plaza Domecq (lado derecho), Reducto Bajo, Reducto Alto, Puerta
-            Principal.
+        <itinerario>Santa Iglesia Catedral, Reducto alto, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza
+            Domecq, Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo
+            Ángel, Tornería, Eguilaz, Plaza del Banco, Larga, Lancería, Plaza del Arenal, Consistorio, Angostillo, Plaza
+            de la Asunción, José Luis Díez, Plaza Domecq (lado derecho), Reducto Bajo, Reducto Cardenal Bueno Monreal,
+            Plaza de la Encarnación, Reducto Alto, Santa Iglesia Catedral
         </itinerario>
         <imagenEscudo>resucitado</imagenEscudo>
         <horaSalida>10:00</horaSalida>
