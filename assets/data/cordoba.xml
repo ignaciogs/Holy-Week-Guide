@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+<!--
+  ~ /*
+  ~  * Copyright (C) 2012  Ignacio Gonzalez Sainz
+  ~  *
+  ~  * Holy Week Guide: An android application with the itineraries, images and all information of the brotherhoods Spain's holy week
+  ~  *
+  ~  * Licensed under the Apache License, Version 2.0 (the "License");
+  ~  * you may not use this file except in compliance with the License.
+  ~  * You may obtain a copy of the License at
+  ~  *
+  ~  *      http://www.apache.org/licenses/LICENSE-2.0
+  ~  *
+  ~  * Unless required by applicable law or agreed to in writing, software
+  ~  * distributed under the License is distributed on an "AS IS" BASIS,
+  ~  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~  * See the License for the specific language governing permissions and
+  ~  * limitations under the License.
+  ~  *
+  ~  * Ignacio Gonzalez Sainz
+  ~  * Cádiz (Spain)
+  ~  * ignacio.glez.s@gmail.com
+  ~  *
+  ~  */
+  -->
+
 <cofradias>
 
     <!-- Jueves de Pasión -->
@@ -7,34 +32,36 @@
 	<cofradia>
 		<nombre_corto>Universitaria</nombre_corto>
 		<nombre_largo>HERMANDAD DEL SANTO CRISTO DE LA UNIVERSIDAD, NUESTRA SEÑORA DE LA PRESENTACION Y SANTO TOMAS DE AQUINO</nombre_largo>
-		<fecha_salida>20120329</fecha_salida>
+		<fecha_salida>20130321</fecha_salida>
 		<nombre_iglesia>Iglesia del Juramento de San Rafael</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
-		<itinerario>Plaza del Cardenal Salazar, Romero, Judería, Cardenal Herrero, Puerta del Perdón, Patio de los Naranjos, Santa Iglesia Catedral, Patio de los Naranjos, Puerta de Santa Catalina, Magistral González Francés, Cardenal González, Lucano, Lineros, Carlos Rubio, Gutiérrez de los Ríos, Fernan Pérez de Oliva, Plaza de San Andrés, Realejo, Santa María de Gracia, Virgen de Villaviciosa, Plaza de San Rafael.</itinerario>
+		<itinerario>Plaza Poeta Juan Bernier, Santa María de Gracia, Realejo, San Pablo, Alfonso XIII, Plaza de las Tendillas, Ángel de Saavedra, Plaza Agrupación de Cofradías, Deanes, Judería, Cardenal Herrero, Puerta del Perdón, Patio de los Naranjos, Santa Iglesia Catedral, Patio de los Naranjos, Puerta de Santa Catalina, Magistral González Francés, Cardenal González, Lucano, Lineros, Carlos Rubio, Plaza de la Almagra, Gutiérrez de los Ríos, Fernan Pérez de Oliva, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza Poeta Juan Bernier, Plaza de San Rafael.</itinerario>
 		<imagenEscudo>escudo_universitaria</imagenEscudo>
-		<horaSalida>22:00</horaSalida>
-		<horaRecogida>02:10</horaRecogida>
+		<horaSalida>21:00</horaSalida>
+		<horaRecogida>01:45</horaRecogida>
 		<latitudRegreso></latitudRegreso>
 		<longitudRegreso></longitudRegreso>
 		<ficheroRecorrido>universitaria</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
-				<punto descripcion="Salida" hora="22:00"></punto>
-				<punto descripcion="Cardenal Herrero" hora="22:30"></punto>
+				<punto descripcion="Salida" hora="21:00"></punto>
+				<punto descripcion="Realejo" hora="21:30"></punto>
+				<punto descripcion="Tendillas" hora="22:00"></punto>
+				<punto descripcion="Deanes" hora="22:30"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="23:00"></punto>
-				<punto descripcion="Magistral González Francés" hora="23:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="23:30"></punto>
 				<punto descripcion="Lucano" hora="00:00"></punto>
-				<punto descripcion="Lineros" hora="00:30"></punto>
-				<punto descripcion="Gutiérrez de los Ríos" hora="01:00"></punto>
-				<punto descripcion="Plaza de San Andrés" hora="01:30"></punto>
-				<punto descripcion="Entrada" hora="02:10"></punto>
+				<punto descripcion="Plaza de la Almagra" hora="00:30"></punto>
+				<punto descripcion="Fernán Pérez de Oliva" hora="01:00"></punto>
+				<punto descripcion="Poeta Juan Bernier" hora="01:30"></punto>
+				<punto descripcion="Entrada" hora="01:45"></punto>
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_universitaria_1</image>
-			<image>imagen_universitaria_2</image>
-			<image>imagen_universitaria_3</image>
-			<image>imagen_universitaria_4</image>
+			<image>http://imageshack.us/a/img203/9609/imagenuniversitaria1.jpg</image>
+			<image>http://imageshack.us/a/img850/7375/imagenuniversitaria2.jpg</image>
+			<image>http://imageshack.us/a/img834/4055/imagenuniversitaria3.jpg</image>
+			<image>http://imageshack.us/a/img191/3865/imagenuniversitaria4.jpg</image>
 		</images>
 
 	</cofradia>
@@ -44,7 +71,7 @@
 	<cofradia>
 		<nombre_corto>Entrada Triunfal</nombre_corto>
 		<nombre_largo>HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS DE LOS REYES EN SU ENTRADA TRIUNFAL EN JERUSALEN, MARIA SANTISIMA DE LA VICTORIA Y NUESTRA SEÑORA DE LA PALMA</nombre_largo>
-		<fecha_salida>20120401</fecha_salida>
+		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Victoriano Rivera, Plaza Mármol de Bañuelos, Alfonso XIII, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo.</itinerario>
@@ -68,9 +95,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_entrada_triunfal_1</image>
-			<image>imagen_entrada_triunfal_2</image>
-			<image>imagen_entrada_triunfal_3</image>
+			<image>http://imageshack.us/a/img715/2091/imagenentradatriunfal1.jpg</image>
+			<image>http://imageshack.us/a/img715/6483/imagenentradatriunfal2.jpg</image>
+			<image>http://imageshack.us/a/img208/6585/imagenentradatriunfal3.jpg</image>
 		</images>
 
 	</cofradia>
@@ -78,7 +105,7 @@
 	<cofradia>
 		<nombre_corto>Penas de Santiago</nombre_corto>
 		<nombre_largo>HERMANDAD Y COFRADIA DEL SANTISIMO CRISTO DE LAS PENAS, NUESTRA SEÑORA Y MADRE DE LOS DESAMPARADOS, SAN JUAN EVANGELISTA, MARIA SANTISIMA DE LA CONCEPCION Y SANTIAGO APOSTOL</nombre_largo>
-		<fecha_salida>20120401</fecha_salida>
+		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Parroquia de Santiago Apóstol</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Agustín Moreno, Plaza de San Pedro, Juan de Mesa, Plaza de la Almagra, Plaza del Socorro, Plaza de la Corredera, Rodríguez Marín, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, Lucano, Plaza del Potro, Lineros, Don Rodrigo, Agustín Moreno.</itinerario>
@@ -106,9 +133,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_penas_de_santiago_1</image>
-			<image>imagen_penas_de_santiago_2</image>
-			<image>imagen_penas_de_santiago_3</image>
+			<image>http://imageshack.us/a/img545/2804/imagenpenasdesantiago1.jpg</image>
+			<image>http://imageshack.us/a/img20/8205/imagenpenasdesantiago2.jpg</image>
+			<image>http://imageshack.us/a/img577/6577/imagenpenasdesantiago3.jpg</image>
 		</images>
 
 	</cofradia>
@@ -116,7 +143,7 @@
     <cofradia>
 		<nombre_corto>Huerto</nombre_corto>
 		<nombre_largo>HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS DE LA ORACION EN EL HUERTO, SEÑOR AMARRADO A LA COLUMNA, MARIA SANTISIMA DE LA CANDELARIA, NUESTRA SEÑORA DEL AMPARO Y SAN ELOY OBISPO</nombre_largo>
-		<fecha_salida>20120401</fecha_salida>
+		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Parroquia de San Francisco y San Eulogio</nombre_iglesia>
 		<numero_pasos>3</numero_pasos>
 		<itinerario>Compás de San Francisco, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Magistral González Francés, Cardenal González, San Fernando, Compás de San Francisco.</itinerario>
@@ -143,9 +170,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_huerto_1</image>
-			<image>imagen_huerto_2</image>
-			<image>imagen_huerto_3</image>
+			<image>http://imageshack.us/a/img252/8546/imagenhuerto1.jpg</image>
+			<image>http://imageshack.us/a/img254/3533/imagenhuerto2.jpg</image>
+			<image>http://imageshack.us/a/img29/3008/imagenhuerto3.jpg</image>
 		</images>
 
 	</cofradia>
@@ -153,7 +180,7 @@
 	<cofradia>
 		<nombre_corto>Esperanza</nombre_corto>
 		<nombre_largo>ILUSTRE Y VENERABLE HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS DE LAS PENAS Y MARIA SANTISIMA DE LA ESPERANZA</nombre_largo>
-		<fecha_salida>20120401</fecha_salida>
+		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Parroquia de San Andrés</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Plaza de las Doblas, Plaza de Capuchinos, Paz y Esperanza, Cuesta del Bailío, Alfaros, Puerta del Rincón, Plaza Ruiz de Alda, Callejón Conde de Priego, Plaza Conde de Priego, Plaza de Santa Marina, Santa Isabel, Enrique Redel, Hermanos López Diéguez, Plaza de San Andrés.</itinerario>
@@ -181,9 +208,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_esperanza_1</image>
-			<image>imagen_esperanza_2</image>
-			<image>imagen_esperanza_3</image>
+			<image>http://imageshack.us/a/img585/7364/imagenesperanza1.jpg</image>
+			<image>http://imageshack.us/a/img827/3175/imagenesperanza2.jpg</image>
+			<image>http://imageshack.us/a/img213/8463/imagenesperanza3.jpg</image>
 		</images>
 
 	</cofradia>
@@ -191,7 +218,7 @@
 	<cofradia>
 		<nombre_corto>Amor</nombre_corto>
 		<nombre_largo>REAL HERMANDAD Y COFRADIA DEL SANTISIMO CRISTO DEL AMOR, NUESTRO PADRE JESUS DEL SILENCIO EN EL DESPRECIO DE HERODES Y MARIA SANTISIMA DE LA ENCARNACION</nombre_largo>
-		<fecha_salida>20120401</fecha_salida>
+		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Parroquia de Jesús Divino Obrero</nombre_iglesia>
 		<numero_pasos>3</numero_pasos>
 		<itinerario>Plaza del Cristo del Amor, Beato Henares, Rosario, Plaza de Santa Teresa, Acera del Arrecife, Puente Romano, Triunfo, Torrijos, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Torrijos, Triunfo, Puente Romano, Acera del Arrecife, Plaza de Santa Teresa, Rosario, Beato Henares, Plaza del Cristo del Amor.</itinerario>
@@ -227,9 +254,9 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>cordoba_imagen_amor_1</image>
-			<image>cordoba_imagen_amor_2</image>
-			<image>cordoba_imagen_amor_3</image>
+			<image>http://imageshack.us/a/img685/8558/cordobaimagenamor1.jpg</image>
+			<image>http://imageshack.us/a/img716/2486/cordobaimagenamor2.jpg</image>
+			<image>http://imageshack.us/a/img837/8056/cordobaimagenamor3.jpg</image>
 		</images>
 
 	</cofradia>
@@ -237,7 +264,7 @@
     <cofradia>
 		<nombre_corto>Rescatado</nombre_corto>
 		<nombre_largo>ILUSTRE Y PIADOSA HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS NAZARENO RESCATADO Y MARIA SANTISIMA DE LA AMARGURA</nombre_largo>
-		<fecha_salida>20120401</fecha_salida>
+		<fecha_salida>20130324</fecha_salida>
 		<nombre_iglesia>Parroquia de Ntra. Sra. de Gracia (PP. Trinitarios)</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza del Santísimo Cristo de Gracia, Frailes, Plaza de San Juan de Letrán, Montero, Compás de San Agustín, Plaza de San Agustín, Plaza Beatillas, Reja de Don Gome, Juan Rufo, Alfaros, Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Diego de León, Alfonso XIII, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo, María Auxiliadora, Plaza del Santísimo Cristo de Gracia.</itinerario>
@@ -267,8 +294,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_rescatado_1</image>
-			<image>imagen_rescatado_2</image>
+			<image>http://imageshack.us/a/img801/5162/imagenrescatado1.jpg</image>
+			<image>http://imageshack.us/a/img843/549/imagenrescatado2.jpg</image>
 		</images>
 
 	</cofradia>
@@ -278,7 +305,7 @@
     <cofradia>
 		<nombre_corto>Merced</nombre_corto>
 		<nombre_largo>VENERABLE E ILUSTRE HERMANDAD DEL SANTISIMO SACRAMENTO Y COFRADIA DE PENITENTES DE NUESTRO PADRE JESUS HUMILDE EN LA CORONACION DE ESPINAS Y NUESTRA MADRE Y SEÑORA SANTA MARIA DE LA MERCED</nombre_largo>
-		<fecha_salida>20120402</fecha_salida>
+		<fecha_salida>20130325</fecha_salida>
 		<nombre_iglesia>Parroquia de San Antonio de Padua</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Agrupación Córdoba, Doctor Manuel Villegas, Escritor Cristóbal Mesa, Vázquez Venegas, San Acisclo, Sagunto, Ronda del Marrubial, Plaza del Santísimo Cristo de Gracia, María Auxiliadora, Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Torres Cabrera, Plaza de las Doblas, Plaza de Colón, Puerta del Rincón, Conde de Priego, Plaza de Santa Marina, Mayor de Santa Marina, Avenidas de las Ollerías, Héroes de Chernobil, San Juan de la Cruz, Virgen de Linares, Agrupación Córdoba.</itinerario>
@@ -310,8 +337,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_merced_1</image>
-			<image>imagen_merced_2</image>
+			<image>http://imageshack.us/a/img822/9994/imagenmerced1.jpg</image>
+			<image>http://imageshack.us/a/img585/2962/imagenmerced2.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -319,7 +346,7 @@
     <cofradia>
 		<nombre_corto>Estrella</nombre_corto>
 		<nombre_largo>HERMANDAD SACRAMENTAL DEL DULCE NOMBRE DE JESUS Y COFRADIA DE NAZARENOS DEL SANTISIMO ECCE HOMO, NUESTRO PADRE JESUS DE LA REDENCION ANTE CAIFAS, NEGACIONES Y LAGRIMAS DE SAN PEDRO Y NUESTRA SEÑORA DE LA ESTRELLA</nombre_largo>
-		<fecha_salida>20120402</fecha_salida>
+		<fecha_salida>20130325</fecha_salida>
 		<nombre_iglesia>Parroquia de San Fernando</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Joaquín Sama Naharro, Goya, Avenida del Brillante, Llanos del Pretorio, Acera de Guerrita, Plaza de Colón, Jardines de Colón, Conde de Torres Cabrera, Plaza de las Doblas, Ramírez de las Casas Deza, Cardenal Toledo, Plaza del Cardenal Toledo, Carbonell y Morand, Alfonso XIII, Capitulares, CARRERA OFICIAL, José Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Plaza de las Doblas, Burell, Puerta de Osario, Plaza de Colón, Acera de Guerrita, Llanos del Pretorio, De la Radio, Avenida Gran Capitán, Doña Berenguela, Pintor Mariano Belmonte, Jardines de la Estrella, Goya, Joaquín Sama Naharro.</itinerario>
@@ -350,8 +377,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_estrella_1</image>
-			<image>imagen_estrella_2</image>
+			<image>http://imageshack.us/a/img541/1832/granadaimagenestrella1.jpg</image>
+			<image>http://imageshack.us/a/img90/695/granadaimagenestrella2.jpg</image>
 		</images>
 
 	</cofradia>
@@ -359,7 +386,7 @@
     <cofradia>
 		<nombre_corto>Vera-Cruz</nombre_corto>
 		<nombre_largo>PIADOSA HERMANDAD SACRAMENTAL DEL BUEN PASTOR Y DE LA INMACULADA CONCEPCION Y MUY ANTIGUA, SIEMPRE ILUSTRE Y VENERABLE, PONTIFICIA, REAL, FERVOROSA, HUMILDE Y SERAFICA ARCHICOFRADIA DE LA SANTA VERA CRUZ, NUESTRO SEÑOR DE LOS REYES Y MARIA SANTISIMA DEL DULCE NOMBRE EN SUS DOLORES GLORIOSOS</nombre_largo>
-		<fecha_salida>20120402</fecha_salida>
+		<fecha_salida>20130325</fecha_salida>
 		<nombre_iglesia>Parroquia de San José y Espíriyu Santo</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Paseo Cristo del Descendimiento, Avenida de la Diputación, Plaza de Santa Teresa, Subida del Puente, Puente Romano, Triunfo, Torrijos, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Torrijos, Triunfo, Puente Romano, Bajada del Puente, Plaza de Santa Teresa, Avenida de la Diputación, Paseo Cristo del Descendimiento.</itinerario>
@@ -389,8 +416,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_vera_cruz_1</image>
-			<image>imagen_vera_cruz_2</image>
+			<image>http://imageshack.us/a/img580/5038/imagenveracruz1.jpg</image>
+			<image>http://imageshack.us/a/img43/4524/imagenveracruz2.jpg</image>
 		</images>
 
 	</cofradia>
@@ -398,7 +425,7 @@
     <cofradia>
 		<nombre_corto>Sentencia</nombre_corto>
 		<nombre_largo>ILUSTRE HERMANDAD DEL SANTISIMO SACRAMENTO, NUESTRA SEÑORA DE LA ALEGRIA Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA SENTENCIA, MARIA SANTISIMA DE GRACIA Y AMPARO Y SAN NICOLAS DE BARI</nombre_largo>
-		<fecha_salida>20120402</fecha_salida>
+		<fecha_salida>20130325</fecha_salida>
 		<nombre_iglesia>Parroquia de San Nicolás de la Villa</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Nicolás, San Felipe, Avenida Gran Capitán, Gondomar, Plaza de las Tendillas, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Puerta del Perdón, Patio de los Naranjos, Santa Iglesia Catedral, Patio de los Naranjos, Puerta de Santa Catalina, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Gondomar, Avenida Gran Capitán, San Felipe, Plaza de San Nicolás.</itinerario>
@@ -426,8 +453,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_cordoba_sentencia_1</image>
-			<image>imagen_cordoba_sentencia_2</image>
+			<image>http://imageshack.us/a/img26/2470/imagencordobasentencia1.jpg</image>
+			<image>http://imageshack.us/a/img341/5353/imagencordobasentencia2.jpg</image>
 		</images>
 
 	</cofradia>
@@ -435,7 +462,7 @@
     <cofradia>
 		<nombre_corto>Via Crucis</nombre_corto>
 		<nombre_largo>HERMANDAD Y COFRADIA DE PENITENCIA DEL VIA CRUCIS DEL SANTO CRISTO DE LA SALUD</nombre_largo>
-		<fecha_salida>20120402</fecha_salida>
+		<fecha_salida>20130325</fecha_salida>
 		<nombre_iglesia>Parroquia de San Juan y Todos los Santos (Trinidad)</nombre_iglesia>
 		<numero_pasos>0</numero_pasos>
 		<itinerario>Plaza de la Trinidad (Altar 1ª Estación), Plaza d Pinerda, Plaza de San Juan (Altar 2ª Estación), Blanco Belmonte (Altar 3ª Estación), Plaza Agrupación de Cofradías, Céspedes, Cardenal Herrero (Altar 4ª Estación), Encarnación (Altar 5ª Estación), Rey Heredia (Altar 6ª Estación), Cabezas, Arco del Portillo (Altar 7ª Estación), San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Rodríguez Sánchez, Sevilla, Plaza de San Juan, General Argote, Plaza de Ramón y Cajal, Pérez de Castro (Altar 8ª Estación), González López, Tejón y Marín (Altar 9ª Estación), Puerta de Almodóvar (Altar 10ª Estación), Judíos, Plaza de Maimónides (Altar 11ª Estación - Coro Ziryab), Albucasis, Plaza de Juda Leví (Altar 12ª Estación), Los Manríquez, Buen Pastor (Altar 13ª Estación), Ángel Torres, Sánchez de Feria, Plaza de la Trinidad (Altar 14ª Estación).</itinerario>
@@ -461,7 +488,7 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_via_crucis_1</image>
+			<image>http://imageshack.us/a/img546/7130/imagenviacrucis1.jpg</image>
 		</images>
 
 	</cofradia>
@@ -469,7 +496,7 @@
     <cofradia>
 		<nombre_corto>Ánimas</nombre_corto>
 		<nombre_largo>MUY HUMILDE Y ANTIGUA HERMANDAD SACRAMENTAL DEL SANTISIMO CRISTO DEL REMEDIO DE ANIMAS Y NUESTRA SEÑORA MADRE DE DIOS EN SUS TRISTEZAS</nombre_largo>
-		<fecha_salida>20120402</fecha_salida>
+		<fecha_salida>20130325</fecha_salida>
 		<nombre_iglesia>Parroquia de San Lorenzo Mártir</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Jesus María, Juan Varela, Santa Victoria, Plaza de la Compañía, Conde de Cárdenas, María Cristina, Alfonso XIII, Capitulares, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo.</itinerario>
@@ -494,8 +521,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_animas_1</image>
-			<image>imagen_animas_2</image>
+			<image>http://imageshack.us/a/img17/9917/imagenanimas1.jpg</image>
+			<image>http://imageshack.us/a/img191/7251/imagenanimas2.jpg</image>
 		</images>
 	</cofradia>
 	
@@ -504,7 +531,7 @@
 	<cofradia>
 		<nombre_corto>Agonía</nombre_corto>
 		<nombre_largo>HERMANDAD SACRAMENTAL DE SANTA VICTORIA Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA AGONIA Y LA SANTISIMA VIRGEN MADRE DEL REDENTOR NUESTRA SEÑORA DE LA SALUD</nombre_largo>
-		<fecha_salida>20120403</fecha_salida>
+		<fecha_salida>20130326</fecha_salida>
 		<nombre_iglesia>Parroquia de Santa Victoria</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Santa Iglesia Catedral, Patio de los Naranjos, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Plaza de las Tendillas, Victoriano Rivera, Alfonso XIII, Alfaros, Puerta del Rincón, Callejón de Conde de Priego, Plaza Conde de Priego, Plaza de Santa Marina, Mayor de Santa Marina, Puerta del Colodro, Avenida de Ollerías, Alonso el Sabio, Glorieta de Almogávares, Fuente de la Salud, Madres Escolapias, Téllez de Meneses, Plaza Bellavista, Juan Latino, Plaza Palomera, Santas Flora y María, Párroco Agustín Molina.</itinerario>
@@ -537,8 +564,7 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_agonia_1</image>
-            <image>cordoba_imagen_agonia_2</image>
+			<image>http://imageshack.us/a/img41/493/cordobaimagenagonia2.jpg</image>
 		</images>
 
 	</cofradia>
@@ -546,7 +572,7 @@
 	<cofradia>
 		<nombre_corto>Sangre</nombre_corto>
 		<nombre_largo>HERMANDAD SACRAMENTAL, SERAFICA Y CISTERCIENSE DE CAPATACES Y COSTALEROS DE LA SANTA CRUZ Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA CONVERSION, NUESTRO PADRE JESUS DE LA SANGRE EN EL DESPRECIO DEL PUEBLO, NUESTRA SEÑORA REINA DE LOS ANGELES EN SUS MISTERIOS GOZOSOS Y DOLOROSOS Y SAN JUAN EVANGELISTA</nombre_largo>
-		<fecha_salida>20120403</fecha_salida>
+		<fecha_salida>20130326</fecha_salida>
 		<nombre_iglesia>Iglesia Conventual del Santo Ángel (Capuchinos)</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de Capuchinos, Nuestra Señorade la Paz y Esperanza, Carbonell y Morand, Alfonso XII, Capitulares, CARRERA OFICIAL, Jesús y María, Ángel de Saavedra, Blanco Belmonte, Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, Capitulares, Alfonso XIII, Carbonell y Morand, Nuestra Señora de la Paz y Esperanza, Plaza de Capuchinos.</itinerario>
@@ -573,8 +599,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_sangre_1</image>
-			<image>imagen_sangre_2</image>
+			<image>http://imageshack.us/a/img171/9554/imagensangre1.jpg</image>
+			<image>http://imageshack.us/a/img96/8829/imagensangre2.jpg</image>
 		</images>
 
 	</cofradia>	
@@ -582,7 +608,7 @@
 	<cofradia>
 		<nombre_corto>Buen Suceso</nombre_corto>
 		<nombre_largo>HERMANDAD DE PENITENCIA Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DEL BUEN SUCESO EN SU ENCUENTRO CON SU SANTISIMA MADRE LA VIRGEN DE LOS DOLORES EN LA CALLE DE LA AMARGURA, MARIA SANTISIMA DE LA CARIDAD Y SAN ANDRES APOSTOL</nombre_largo>
-		<fecha_salida>20120403</fecha_salida>
+		<fecha_salida>20130326</fecha_salida>
 		<nombre_iglesia>Parroquia de Andrés</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, Capitulares, San Pablo, Plaza de San Andrés.</itinerario>
@@ -609,8 +635,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_buen_suceso_1</image>
-			<image>imagen_buen_suceso_2</image>
+			<image>http://imageshack.us/a/img189/7281/imagenbuensuceso1.jpg</image>
+			<image>http://imageshack.us/a/img191/8365/imagenbuensuceso2.jpg</image>
 		</images>
 
 	</cofradia>
@@ -618,7 +644,7 @@
 	<cofradia>
 		<nombre_corto>Santa Faz</nombre_corto>
 		<nombre_largo>HERMANDAD PENITENCIAL Y COFRADIA DE NAZARENOS DE LA SANTA FAZ DE NUESTRO SEÑOR JESUCRISTO, NUESTRO PADRE JESUS NAZARENO EN SU ENCUENTRO CON LA SANTA MUJER VERONICA, NUESTRA MADRE Y SEÑORA SANTISIMA DE LA TRINIDAD Y SANTA MARTA</nombre_largo>
-		<fecha_salida>20120403</fecha_salida>
+		<fecha_salida>20130326</fecha_salida>
 		<nombre_iglesia>Parroquia de San Juan y Todos los Santos (Trinidad)</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Lope de Hoces, Tesoro, Valladares, Leopoldo de Austria, Plaza de San Juan, Barroso, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Conde de Gondomar, San Felipe, Tesoro, Plaza de la Trinidad, Lope de Hoces.</itinerario>
@@ -648,8 +674,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_santa_faz_1</image>
-			<image>imagen_santa_faz_2</image>
+			<image>http://imageshack.us/a/img407/2034/imagensantafaz1.jpg</image>
+			<image>http://imageshack.us/a/img5/1431/imagensantafaz2.jpg</image>
 		</images>
 
 	</cofradia>
@@ -657,7 +683,7 @@
 	<cofradia>
 		<nombre_corto>Prendimiento</nombre_corto>
 		<nombre_largo>HERMANDAD SALESIANA Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS, DIVINO SALVADOR, EN SU PRENDIMIENTO, NUESTRA SEÑORA DE LA PIEDAD Y SAN JUAN BOSCO</nombre_largo>
-		<fecha_salida>20120403</fecha_salida>
+		<fecha_salida>20130326</fecha_salida>
 		<nombre_iglesia>Iglesia de María Auxiliadora</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>María Auxiliadora, Plaza de San Lorenzo, Arroyo de San Lorenzo, Ronda de Andújar, Alfonso XII, Plaza de San Pedro, Don Rodrigo, Lineros, Lucano, Ronda de Isasa, Triunfo, Torrijos, Cardenal Herrero, Puerta del Perdón, Patio de los Naranjos, Santa Iglesia Catedral, Patio de los Naranjos, Puerta de Santa Catalina, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Plaza de las Tendillas, Cruz Conde, Victoriano Rivera, Plaza Mármol de Bañuelos, Alfonso XIII, Plaza del Salvador, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo, María Auxiliadora.</itinerario>
@@ -690,10 +716,10 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>cordoba_imagen_prendimiento_1</image>
-			<image>cordoba_imagen_prendimiento_2</image>
-			<image>cordoba_imagen_prendimiento_3</image>
-			<image>cordoba_imagen_prendimiento_4</image>
+			<image>http://imageshack.us/a/img109/6911/imagencordobaprendimien.jpg</image>
+			<image>http://imageshack.us/a/img163/6911/imagencordobaprendimien.jpg</image>
+			<image>http://imageshack.us/a/img822/1633/cordobaimagenprendimien.jpg</image>
+			<image>http://imageshack.us/a/img405/1633/cordobaimagenprendimien.jpg</image>
 		</images>
 
 	</cofradia>
@@ -703,7 +729,7 @@
 	<cofradia>
 		<nombre_corto>Piedad</nombre_corto>
 		<nombre_largo>CLARETIANA HERMANDAD Y COFRADIA DEL SANTISIMO CRISTO DE LA PIEDAD Y MARIA SANTISIMA DE  VIDA , DULZURA Y ESPERANZA NUESTRA</nombre_largo>
-		<fecha_salida>20120404</fecha_salida>
+		<fecha_salida>20130327</fecha_salida>
 		<nombre_iglesia>Parroquia de San Antonio María Claret</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Patio Pico Aneto, Sierra de Guadarrama, Sierra de Cazorla, Barítono José Mª Aguilar Blanco, María La Talegona, Avd. de Miralbaida, Avd. Ntra. Sra. de Begoña, Mercadillo, Ctra. de Palma del Río, Periodista Quesada Chacón, Camino Viejo de Almodovar, Gran Vía Parque, Antonio Maura, Plaza de Costa Sol, Antonio Maura, Jardines de la Victoria, Lope de Hoces, Plaza de la Trinidad, Tesoro, Plaza Ramón y Cajal, San Felipe, Gondomar, Plaza de las Tendillas, Diego León, Alfonso XIII, Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Gondomar, Boulevard Gran Capitán, Concepción, Jardines de la Victoria, Avd. Medina Azahara, Plaza Ibn Zaydun, Periodista Quesada Chacón, Ctra. de Palma del Río, Ingeniero Benito de Aranda, Sierra de Cazaorla, Sierra de Guadarrama, Patio Pico Aneto.</itinerario>
@@ -742,8 +768,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>cordoba_imagen_piedad_1</image>
-			<image>cordoba_imagen_piedad_2</image>
+			<image>http://imageshack.us/a/img194/3027/cordobaimagenpiedad1.jpg</image>
+			<image>http://imageshack.us/a/img24/9402/cordobaimagenpiedad2.jpg</image>
 		</images>
 
 	</cofradia>
@@ -751,7 +777,7 @@
 	<cofradia>
 		<nombre_corto>Pasión</nombre_corto>
 		<nombre_largo>MUY ILUSTRE Y FERVOROSA HERMANDAD Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA PASION, MARIA SANTISIMA DEL AMOR Y SAN JUAN EVANGELISTA</nombre_largo>
-		<fecha_salida>20120404</fecha_salida>
+		<fecha_salida>20130327</fecha_salida>
 		<nombre_iglesia>Parroquia de Nuestra Señora de la Paz (San Basilio)</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>San Basilio, Arco de Caballerizas, Caballerizas Reales, Amador de los Ríos, Triunfo, Corregidor Luis de la Cerda, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús y María, Ángel de Saavedra, Blanco Belmonte, Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Cardenal Herrero, Judería, Los Manríquez, Plaza de los Santos Mártires, Caballerizas Reales, Arco de Caballerizas, Enmedio, Plaza de San Basilio.</itinerario>
@@ -780,10 +806,10 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_pasion_1</image>
-			<image>imagen_pasion_2</image>
-			<image>imagen_pasion_3</image>
-			<image>imagen_pasion_4</image>
+			<image>http://imageshack.us/a/img715/6170/imagenpasion1.jpg</image>
+			<image>http://imageshack.us/a/img62/1108/imagenpasion2.jpg</image>
+			<image>http://imageshack.us/a/img803/5430/imagenpasion3.jpg</image>
+			<image>http://imageshack.us/a/img854/3747/imagenpasion4.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -791,7 +817,7 @@
 	<cofradia>
 		<nombre_corto>Perdón</nombre_corto>
 		<nombre_largo>HERMANDAD DE PENITENCIA Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DEL PERDON ANTE ANAS, MARIA SANTISIMA DEL ROCIO Y LAGRIMAS Y SAN MIGUEL ARCANGEL</nombre_largo>
-		<fecha_salida>20120404</fecha_salida>
+		<fecha_salida>20130327</fecha_salida>
 		<nombre_iglesia>Iglesia de San Roque</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Buen Pastor, Valladares, Plaza Pineda, Leopoldo de Austria, Plaza de San Juan, Barroso, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cerdenal Herrero, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Gondomar, Sevilla, Plaza Doctor Emilio Luque, Plaza de San Juan, Leopoldo de Austria, Plaza Pineda, Valladares, Buen Pastor.</itinerario>
@@ -819,10 +845,10 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>cordoba_imagen_perdon_1</image>
-			<image>cordoba_imagen_perdon_2</image>
-			<image>cordoba_imagen_perdon_3</image>
-			<image>cordoba_imagen_perdon_4</image>
+			<image>http://imageshack.us/a/img690/580/cordobaimagenperdon1.jpg</image>
+			<image>http://imageshack.us/a/img59/5745/cordobaimagenperdon2.jpg</image>
+			<image>http://imageshack.us/a/img29/2011/cordobaimagenperdon3.jpg</image>
+			<image>http://imageshack.us/a/img541/4508/cordobaimagenperdon4.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -830,7 +856,7 @@
 	<cofradia>
 		<nombre_corto>Calvario</nombre_corto>
 		<nombre_largo>ILUSTRE, PIADOSA Y SECULAR HERMANDAD DE PENITENCIA Y COFRADIA DE NAZARENOS DE LA VIA SACRA DE NUESTRO PADRE JESUS DEL CALVARIO, NUESTRA SEÑORA DEL MAYOR DOLOR Y SAN LORENZO MARTIR</nombre_largo>
-		<fecha_salida>20120404</fecha_salida>
+		<fecha_salida>20130327</fecha_salida>
 		<nombre_iglesia>Parroquia de San Lorenzo</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Jesús y María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, Capitulares, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo.</itinerario>
@@ -860,8 +886,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_calvario_1</image>
-			<image>imagen_calvario_2</image>
+			<image>http://imageshack.us/a/img24/3326/imagencalvario1.jpg</image>
+			<image>http://imageshack.us/a/img844/6964/imagencalvario2.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -869,7 +895,7 @@
 	<cofradia>
 		<nombre_corto>Paz</nombre_corto>
 		<nombre_largo>PONTIFICIA, REAL, VENERABLE E ILUSTRE HERMANDAD FRANCISCANA Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA HUMILDAD Y PACIENCIA Y MARIA SANTISIMA DE LA PAZ Y ESPERANZA</nombre_largo>
-		<fecha_salida>20120404</fecha_salida>
+		<fecha_salida>20130327</fecha_salida>
 		<nombre_iglesia>Iglesia Conventual del Santo Ángel (Capuchinos)</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de Capuchinos, Conde de Torres Cabrera, Plaza de Colón, Puerta del Rincón, Calleja Conde de Priego, Plaza Conde de Priego, Plaza de Santa Marina, Santa Isabel, Enrique Redel, Hermanos López Diéguez, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Cruz Conde, San Álvaro, Plaza de San Miguel, Ramírez de Arellano, Plaza de los Carrilos, Caño, Manuel María de Arjona, Osario, Jardines de Colón, Plaza de Colón, Conde de Torres Cabrera, Plaza de Capuchinos.</itinerario>
@@ -896,8 +922,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_paz_1</image>
-			<image>imagen_paz_2</image>
+			<image>http://imageshack.us/a/img692/1008/imagenpaz1.jpg</image>
+			<image>http://imageshack.us/a/img832/3157/imagenpaz2.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -905,7 +931,7 @@
 	<cofradia>
 		<nombre_corto>Misericordia</nombre_corto>
 		<nombre_largo>PIADOSA HERMANDAD DEL SANTISIMO SACRAMENTO, SANTOS MARTIRES DE CORDOBA Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA MISERICORDIA Y NUESTRA SEÑORA DE LAS LAGRIMAS EN SU DESAMPARO</nombre_largo>
-		<fecha_salida>20120404</fecha_salida>
+		<fecha_salida>20130327</fecha_salida>
 		<nombre_iglesia>Parroquia Menor de San Pedro</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Pedro, Don Rodrigo, Lineros, Plaza del Potro, Romero Barros, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús y María, Juan Varela, Santa Victoria, Plaza de la Compañia, Conde de Cárdenas, María Cristina, Claudio Marcelo, Rodríguez Marín, Plaza de la Corredera, Plaza del Socorro, Plaza de la Almagra, Escultor Juan de Mesa, Plaza de San Pedro.</itinerario>
@@ -930,8 +956,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_misericordia_1</image>
-			<image>imagen_misericordia_2</image>
+			<image>http://imageshack.us/a/img13/8003/imagenmisericordia1.jpg</image>
+			<image>http://imageshack.us/a/img843/5198/imagenmisericordia2.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -941,7 +967,7 @@
 	<cofradia>
 		<nombre_corto>Nazareno</nombre_corto>
 		<nombre_largo>REAL E ILUSTRE COFRADIA DE NUESTRO PADRE JESUS NAZARENO, MARIA SANTISIMA NAZARENA Y SAN BARTOLOME</nombre_largo>
-		<fecha_salida>20120405</fecha_salida>
+		<fecha_salida>20130328</fecha_salida>
 		<nombre_iglesia>Iglesia Hospital de Jesús Nazareno</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza del Padre Cristóbal, Jesús Nazareno, Yerbabuena, Buen Suceso, Isaac Peral, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Ramírez de las Casas Deza, Plaza Cardenal Toledo, Carbonell y Morand, Alfonso XIII, San Pablo, Plaza de San Andrés, Hermanos López Diéguez, Arroyo de San Andrés, Muñoz Capilla, Rejas de Don Gome, Plaza de San Agustín, Compás de San Agustín, Jesús Nazareno, Plaza de San Cristóbal.</itinerario>
@@ -967,8 +993,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>cordoba_imagen_nazareno_1</image>
-			<image>cordoba_imagen_nazareno_2</image>
+			<image>http://imageshack.us/a/img543/7779/cordobaimagennazareno1.jpg</image>
+			<image>http://imageshack.us/a/img843/494/cordobaimagennazareno2.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -976,7 +1002,7 @@
 	<cofradia>
 		<nombre_corto>Sagrada Cena</nombre_corto>
 		<nombre_largo>MUY MARIANA HERMANDAD SACRAMENTAL DE LA INMACULADA CONCEPCION, SANTO ROSARIO Y COFRADIA DE NAZARENOS DE NUESTRO PADRE JESUS DE LA FE EN SU SAGRADA CENA Y MARIA SANTISIMA DE LA ESPERANZA DEL VALLE</nombre_largo>
-		<fecha_salida>20120405</fecha_salida>
+		<fecha_salida>20130328</fecha_salida>
 		<nombre_iglesia>Parroquia del Beato Álvaro de Córdoba</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Avd. de Guerrita, José Dámaso Petete, Francisco González Pachón, Avd. de Guerrita, Gran Vía Parque, Maestro Priego López, Camino de los Sastres, Jardines de la Victoria, Lope de Hoces, Plaza de la Trinidad, Tesoro, Plaza de Ramón y Cajal, San Felipe, Gondomar, Plaza de las Tendillas, Victoriano Rivera, Alfonso XIII, Capitulares, CARRERA OFICIAL, Gondomar, San Felipe, Plaza de Ramón y Cajal, Tesoro, Plaza de la Trinidad, Lope de Hoces, Jardines de la Victoria, Antonio Maura, Plaza de Costa Sol, Antonio Maura, Gran Vía Parque, Avd. de Manolete, Plaza Matías Prats Cañete, José Mª Martorell, Avd. de Guerrita.</itinerario>
@@ -1009,8 +1035,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_sagrada_cena_1</image>
-			<image>imagen_sagrada_cena_2</image>
+			<image>http://imageshack.us/a/img203/1488/imagensagradacena1.jpg</image>
+			<image>http://imageshack.us/a/img689/3309/imagensagradacena2.jpg</image>
 		</images>
 
 	</cofradia>
@@ -1018,7 +1044,7 @@
 	<cofradia>
 		<nombre_corto>Caído</nombre_corto>
 		<nombre_largo>PONTIFICIA, REAL, VENERABLE E ILUSTRE HERMANDAD Y COFRADIA DE NUESTRO PADRE JESUS CAIDO Y NUESTRA SEÑORA DEL MAYOR DOLOR EN SU SOLEDAD</nombre_largo>
-		<fecha_salida>20120405</fecha_salida>
+		<fecha_salida>20130328</fecha_salida>
 		<nombre_iglesia>Iglesia Conventual de San Cayetano</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Cuesta de San Cayetano, Avd. de las Ollerías, Puerta del Colodro, Mayor de Santa Marina, Plaza de Santa Marina, Santa Isabel, Enrique Redel, Hermanos López Diéguez, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Plaza de Colón, Puerta del Rincón, Plaza Ruiz de Alda, Calleja de Conde de Priego, Plaza Conde de Priego, Plaza de Santa Marina, Mayor de Santa Marina, Puerta del Colodro, Avd. de las Ollerías, Cuesta de San Cayetano.</itinerario>
@@ -1045,8 +1071,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>cordoba_imagen_caido_1</image>
-			<image>cordoba_imagen_caido_2</image>
+			<image>http://imageshack.us/a/img404/3839/cordobaimagencaido1.jpg</image>
+			<image>http://imageshack.us/a/img845/3408/cordobaimagencaido2.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -1054,7 +1080,7 @@
 	<cofradia>
 		<nombre_corto>Caridad</nombre_corto>
 		<nombre_largo>REAL HERMANDAD Y COFRADIA DEL SEÑOR DE LA CARIDAD</nombre_largo>
-		<fecha_salida>20120405</fecha_salida>
+		<fecha_salida>20130328</fecha_salida>
 		<nombre_iglesia>Parroquia de San Francisco y San Eulogio</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Compás de San Francisco, San Fernando, Romero Barros, Plaza del Potro, Lucano, San Fernando, Diario de Córdoba, CARRERA OFICIAl, Plaza de las Tendillas, Gondomar, Sevilla, Plaza del Doctor Emilio Luque, Sevilla, Barroso, Ángel de Saavedra, Juan Varela, Santa Victoria, Plaza de la Compañía, Conde de Cárdenas, Claudio Marcelo, Diario de Córdoba, San Fernando, Compás de San Francisco.</itinerario>
@@ -1081,7 +1107,7 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_caridad_1</image>
+			<image>http://imageshack.us/a/img832/6086/imagencaridad1.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -1089,7 +1115,7 @@
 	<cofradia>
 		<nombre_corto>Cristo de Gracia</nombre_corto>
 		<nombre_largo>TRINITARIA HERMANDAD DE PENITENCIA Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE GRACIA Y MARIA SANTISIMA DE LOS DOLORES Y MISERICORDIA</nombre_largo>
-		<fecha_salida>20120405</fecha_salida>
+		<fecha_salida>20130328</fecha_salida>
 		<nombre_iglesia>Parroquia de Ntra. Sra. de Gracia (PP.Trinitarios)</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Plaza del Santísimo Cristo de Gracia, Avd. de Barcelona, Trinitario Padre Manuel Fuentes, Murcia, María Auxiliadora, Plaza de San Lorenzo, Arroyo de San Rafael, Buen Suceso, Arroyo de San Andrés, Enrique Redel, Santa Isabel, Isabel Losa, Puerta del Rincón, Alfaros, Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Diego de León, Alfonso XIII, San Pablo, Plaza de San Andrés, Realejo, Santa María, de Gracia, Plaza de San Lorenzo, María Auxiliadora, Plaza del Santísimo Cristo de Gracia.</itinerario>
@@ -1119,7 +1145,7 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_cristo_de_gracia_1</image>
+			<image>http://imageshack.us/a/img713/7479/imagencristodegracia1.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -1127,7 +1153,7 @@
 	<cofradia>
 		<nombre_corto>Angustias</nombre_corto>
 		<nombre_largo>PONTIFICIA, REAL Y CENTENARIA HERMANDAD Y COFRADIA DE NUESTRA SEÑORA DE LAS ANGUSTIAS CORONADA</nombre_largo>
-		<fecha_salida>20120405</fecha_salida>
+		<fecha_salida>20130328</fecha_salida>
 		<nombre_iglesia>Real Iglesia de San Pablo</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Diego de León, Alfonso XIII, Alfaros, Juan Rufo, Rejas de Don Gome, Compás de San Agustín, Plaza de San Agustín, Jesus Nazareno, Yerbabuena, Buen Suceso, Arroyo de San Andrés, Hermanos López Diéguez, Plaza de San Andrés, San Pablo, Capitulares.</itinerario>
@@ -1151,8 +1177,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>cordoba_imagen_angustias_1</image>
-			<image>cordoba_imagen_angustias_2</image>
+			<image>http://imageshack.us/a/img801/3135/cordobaimagenangustias1.jpg</image>
+			<image>http://imageshack.us/a/img21/7585/cordobaimagenangustias2.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -1162,7 +1188,7 @@
 	<cofradia>
 		<nombre_corto>Buena Muerte</nombre_corto>
 		<nombre_largo>HERMANDAD DE NAZARENOS CONGREGANTES DEL SANTISIMO CRISTO DE LA BUENA MUERTE Y NUESTRA SEÑORA REINA DE LOS MARTIRES</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Real Colegiata de San Hipólito</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Ignacio de Loyola, Alonso de Aguilar, Boulevard Gran Capitán, Gondomar, Plaza de las Tendillas, CARRERA OFICIAL, Diario de Córdoba, San Fernando, Cardenal González, Magistral González Francés, Puerta de Santa Catalina, Santa Iglesia Catedral, Cardenal Herrero, Judería, Deanes, Conde y Luque, Plaza Agrupación de Cofradías, Blanco Belmonte, Ángel de Saavedra, Jesús María, Plaza de las Tendillas, Gondomar, Boulevard Gran Capitán, Concepción, José Zorrilla, De la Alegría, Plaza de San Ignacio de Loyola.</itinerario>
@@ -1189,8 +1215,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_cordoba_buena_muerte_1</image>
-			<image>imagen_cordoba_buena_muerte_2</image>
+			<image>http://imageshack.us/a/img822/6504/imagencordobabuenamuert.jpg</image>
+			<image>http://imageshack.us/a/img90/6504/imagencordobabuenamuert.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -1198,7 +1224,7 @@
 	<cofradia>
 		<nombre_corto>Soledad</nombre_corto>
 		<nombre_largo>FRANCISCANA HERMANDAD DEL SANTISIMO SACRAMENTO Y COFRADIA DE NAZARENOS DE LA SANTA CRUZ EN EL MONTE CALVARIO Y MARIA SANTISIMA EN SU SOLEDAD</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Parroquia de Santiago</nombre_iglesia>
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Agustín Moreno, Don Rodrigo, Lineros, Plaza del Potro, Romero Barros, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Codradías, Conde y Luque, Deanes, Judería, Santa Iglesia Catedral, Magistral González Francés, Cardenal, González, Lucano, Lineros, Don Rodrigo, Agustín Moreno.</itinerario>
@@ -1224,7 +1250,7 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_cordoba_soledad_1</image>
+			<image>http://imageshack.us/a/img824/2360/imagencordobasoledad1.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -1232,7 +1258,7 @@
 	<cofradia>
 		<nombre_corto>Expiración</nombre_corto>
 		<nombre_largo>REAL, VENERABLE E ILUSTRE HERMANDAD DE PENITENCIA Y COFRADIA DE NAZARENOS DEL SANTISIMO CRISTO DE LA EXPIRACION, MARIA SANTISIMA DEL SILENCIO Y NUESTRA SEÑORA DEL ROSARIO EN SUS MISTERIOS DOLOROSOS CORONADA Y SAN ANTONIO MARIA CLARET</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Real Iglesia de San Pablo</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Capitulares, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, Capitulares.</itinerario>
@@ -1258,8 +1284,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_cordoba_expiracion_1</image>
-			<image>imagen_cordoba_expiracion_2</image>
+			<image>http://imageshack.us/a/img542/6533/imagencordobaexpiracion.jpg</image>
+			<image>http://imageshack.us/a/img32/6533/imagencordobaexpiracion.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -1267,7 +1293,7 @@
     <cofradia>
 		<nombre_corto>Descendimiento</nombre_corto>
 		<nombre_largo>HERMANDAD DEL SANTISIMO CRISTO DEL DESCENDIMIENTO, MARIA SANTISIMA DEL REFUGIO, SAN JUAN EVANGELISTA Y NUESTRA SEÑORA DEL BUEN FIN</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Parroquia de San José y Espíriyu Santo</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Paseo Cristo del Descendimiento, Avenida de la Diputación, Plaza de la Iglesia, Plaza de Santa Teresa, Santo Cristo, Paseo de Miraflores, Jardines de Miraflores, Puente de Miraflores, Cruz del Rastro, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús y María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Corregidor Luis de la Cerda, Triunfo, Puente Romano, Bajada del Puente, Acera Arrecife, Plaza de Santa Teresa, Plaza de la Iglesia, Avd. de la Diputación, Paseo Cristo del Descendimiento.</itinerario>
@@ -1298,8 +1324,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_cordoba_descendimiento_1</image>
-			<image>imagen_cordoba_descendimiento_2</image>
+			<image>http://imageshack.us/a/img51/1558/imagencordobadescendimi.jpg</image>
+			<image>http://imageshack.us/a/img856/1558/imagencordobadescendimi.jpg</image>
 		</images>
 
 	</cofradia>
@@ -1307,7 +1333,7 @@
 	<cofradia>
 		<nombre_corto>Dolores</nombre_corto>
 		<nombre_largo>REAL, VENERABLE E ILUSTRE HERMANDAD SERVITA DE NUESTRA SEÑORA DE LOS DOLORES CORONADA Y DEL SANTISIMO CRISTO DE LA CLEMENCIA</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Iglesia Hospital de San Jacinto</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de Capuchinos, Conde de Torres Cabrera, San Zoilo, Plaza de San Miguel, San Álvaro, Cruz Conde, Plaza de las Tendillas, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Plaza de las Tendillas, Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Ramírez de las Casas Deza, Ntra. Sra. de la Paz y Esperanza, Plza de Capuchinos.</itinerario>
@@ -1336,8 +1362,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_cordoba_dolores_1</image>
-			<image>imagen_cordoba_dolores_2</image>
+			<image>http://imageshack.us/a/img833/97/imagencordobadolores1.jpg</image>
+			<image>http://imageshack.us/a/img266/5858/imagencordobadolores2.jpg</image>
 		</images>
 
 	</cofradia>
@@ -1345,7 +1371,7 @@
 	<cofradia>
 		<nombre_corto>Sepulcro</nombre_corto>
 		<nombre_largo>HERMANDAD DE LA INMACULADA CONCEPCION Y COFRADIA DE NAZARENOS DE NUESTRO SEÑOR JESUCRISTO DEL SANTO SEPULCRO Y NUESTRA SEÑORA DEL DESCONSUELO EN SU SOLEDAD</nombre_largo>
-		<fecha_salida>20120406</fecha_salida>
+		<fecha_salida>20130329</fecha_salida>
 		<nombre_iglesia>Parroquia del Salvador y Santo Domingo de Silos (Compañia)</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de la Compañía, Santa Victoria, Juan Varela, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARREARA OFICIAL, Jesús María, Juan Varela, Santa Victoria, Plaza de la Compañía.</itinerario>
@@ -1370,8 +1396,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_cordoba_sepulcro_1</image>
-			<image>imagen_cordoba_sepulcro_2</image>
+			<image>http://imageshack.us/a/img4/6647/imagencordobasepulcro1.jpg</image>
+			<image>http://imageshack.us/a/img16/8611/imagencordobasepulcro2.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -1381,7 +1407,7 @@
 	<cofradia>
 		<nombre_corto>Resucitado</nombre_corto>
 		<nombre_largo>REAL E ILUSTRE HERMANDAD DE NUESTRO SEÑOR RESUCITADO Y MARIA SANTISIMA REINA DE NUESTRA ALEGRIA</nombre_largo>
-		<fecha_salida>20120408</fecha_salida>
+		<fecha_salida>20130331</fecha_salida>
 		<nombre_iglesia>Parroquia de Santa Marina de Aguas Santas</nombre_iglesia>
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de Santa Marina, Moriscos, Obispo López Criado, Plaza de San Agustín, Rejas de Don Gome, Juan Rufo, Alfaros, Capitulares, CARREARA OFICIAL, Cruz Conde, San Álvaro, Plaza de San Miguel, San Zoilo, Conde de Torres Cabrera, Plaza de Colón, Puerta del Rincón, Plaza Ruiz de Alda, Calleja Conde de Priego, Plaza Conde de Priego, Plaza de Santa Marina.</itinerario>
@@ -1395,7 +1421,7 @@
 			<horario descripcion="Cruz de Guía">
 				<punto descripcion="Salida" hora="10:00"></punto>
 				<punto descripcion="Moriscos" hora="10:30"></punto>
-				<punto descripcion="CObispo López Criado" hora="11:00"></punto>
+				<punto descripcion="Obispo López Criado" hora="11:00"></punto>
 				<punto descripcion="Rejas de Don Gome" hora="11:30"></punto>
 				<punto descripcion="Alfaros" hora="12:00"></punto>
 				<punto descripcion="Entrada C.O." hora="12:30"></punto>
@@ -1407,8 +1433,8 @@
 			</horario>
 		</horarios>
 		<images>
-			<image>imagen_cordoba_resucitado_1</image>
-			<image>imagen_cordoba_resucitado_2</image>
+			<image>http://imageshack.us/a/img837/3581/imagencordobaresucitado.jpg</image>
+			<image>http://imageshack.us/a/img202/3581/imagencordobaresucitado.jpg</image>
 		</images>
 		
 	</cofradia>
