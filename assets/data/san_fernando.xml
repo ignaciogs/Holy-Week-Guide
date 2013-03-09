@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 
 <cofradias>
 
     <cofradia>
         <nombre_corto>Borriquita</nombre_corto>
         <nombre_largo>VENERABLE HERMANDAD SACRAMENTAL Y COFRADÍA LASALIANA DE CRISTO REY EN SU TRIUNFAL ENTRADA EN JERUSALÉN Y MARÍA SANTÍSIMA DE LA ESTRELLA</nombre_largo>
-        <fecha_salida>20120401</fecha_salida>
+        <fecha_salida>20130324</fecha_salida>
         <nombre_iglesia>Capilla de Nuestra Señora de la Estrella</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Real, Isaac Peral, Plaza del Rey, Las Cortes, General García de la Herrán, Plaza de la Iglesia, Real, CARRERA OFICIAL, Tomás del Valle, Pece Casa, Bravo, Lanuza, Héroes del Baleares, Real y a su Templo.</itinerario>
+        <itinerario>Real, Isaac Peral, Plaza del Rey, Las Cortes, General García de la Herrán, Plaza de la Iglesia, Real, CARRERA OFICIAL, Real, Tomás del Valle, Pece Casa, Bravo, Lanuza, Héroes del Baleares, Real y a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_borriquita</imagenEscudo>
         <horaSalida>16:00</horaSalida>
         <horaRecogida>21:45</horaRecogida>
@@ -23,10 +23,10 @@
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_borriquita_1</image>
-            <image>fernando_imagen_borriquita_2</image>
-            <image>fernando_imagen_borriquita_3</image>
-            <image>fernando_imagen_borriquita_4</image>
+            <image>http://imageshack.us/a/img845/1879/fernandoimagenborriquit.jpg</image>
+            <image>http://imageshack.us/a/img254/1879/fernandoimagenborriquit.jpg</image>
+            <image>http://imageshack.us/a/img717/1879/fernandoimagenborriquit.jpg</image>
+            <image>http://imageshack.us/a/img43/1879/fernandoimagenborriquit.jpg</image>
         </images>
         <pois>
         </pois>
@@ -35,28 +35,28 @@
     <cofradia>
         <nombre_corto>Humildad y Paciencia</nombre_corto>
         <nombre_largo>VENERABLE HERMANDAD Y COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DE HUMILDAD Y PACIENCIA, MARÍA SANTÍSIMA DE LAS PENAS, SAN JUAN EVANGELISTA Y SANTA MARÍA MAGDALENA</nombre_largo>
-        <fecha_salida>20120401</fecha_salida>
+        <fecha_salida>20130324</fecha_salida>
         <nombre_iglesia>Parroquia de San Servando y San Germán</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Av. Ponce de León, Avd. Al-Andalus, Rotonda Hornos Púnicos, Benjamín López, Cascos Azules de la Isla, Avd. de las Marismas, Colegio Naval Sacramento, Cecilio Pujazón, Calderón de la Barca, Sánchez Cerquero, General Valdés, Plaza del Rey, Las Cortes, General García de la Herrán, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Isaac Peral, General Valdés, Alameda Moreno de Guerra, Real, Manuel de Arriaga, San Joaquín, Pza. General Pidal, Jovellanos, San Juan de la Cruz, Dr. Florencio Pérez Gallardo, Av. Al-Andalus, Av. Ponce de León, a su Templo.</itinerario>
+        <itinerario>Av. Ponce de León, Avda. Al-Andalus, Rotonda Hornos Púnicos, Benjamín López, Cascos Azules de la Isla, Avd. de las Marismas, Colegio Naval Sacramento, Cecilio Pujazón, Calderón de la Barca, Sánchez Cerquero, General Valdés, Plaza del Rey, Las Cortes, General García de la Herrán, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Isaac Peral, General Valdés, Alameda Moreno de Guerra, Real, Manuel de Arriaga, San Joaquín, Plaza General Pidal, Jovellanos, San Juan de la Cruz, Dr. Florencio Pérez Gallardo, Avda. Al-Andalus, Avda. Ponce de León, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_humildad</imagenEscudo>
-        <horaSalida>17:45</horaSalida>
+        <horaSalida>18:00</horaSalida>
         <horaRecogida>01:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
-                <punto descripcion="Salida" hora="17:45"></punto>
+                <punto descripcion="Salida" hora="18:00"></punto>
                 <punto descripcion="Carrera Oficial" hora="21:00"></punto>
                 <punto descripcion="Recogida" hora="01:00"></punto>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_humildad_1</image>
-            <image>fernando_imagen_humildad_2</image>
-            <image>fernando_imagen_humildad_3</image>
-            <image>fernando_imagen_humildad_4</image>
+            <image>http://imageshack.us/a/img717/6136/fernandoimagenhumildad1.jpg</image>
+            <image>http://imageshack.us/a/img690/8500/fernandoimagenhumildad2.jpg</image>
+            <image>http://imageshack.us/a/img21/1087/fernandoimagenhumildad3.jpg</image>
+            <image>http://imageshack.us/a/img607/1118/fernandoimagenhumildad4.jpg</image>
         </images>
         <pois>
         </pois>
@@ -65,7 +65,7 @@
     <cofradia>
         <nombre_corto>Columna</nombre_corto>
         <nombre_largo>REAL, VENERABLE Y ANTIGUA HERMANDAD DE PENITENCIA DE NUESTRO PADRE JESÚS ATADO Y FLAGELADO EN LA COLUMNA Y NUESTRA SEÑORA MARÍA SANTÍSIMA DE LAS LÁGRIMAS</nombre_largo>
-        <fecha_salida>20120401</fecha_salida>
+        <fecha_salida>20130324</fecha_salida>
         <nombre_iglesia>Iglesia Mayor Parroquial de San Pedro y San Pablo</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, 24 de septiembre de 1810, Rosario, Colón, San Rafael, Maestro Portela, Manuel Roldán, Colón, Cardenal Spínola, Murillo, La Herrán, Real, Almirante Cervera, San Servando, San Vicente, Pérez Galdós, Capataz Nicolás Carrillo, Plaza de la Iglesia, a su Templo.</itinerario>
@@ -83,10 +83,10 @@
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_columna_1</image>
-            <image>fernando_imagen_columna_2</image>
-            <image>fernando_imagen_columna_3</image>
-            <image>fernando_imagen_columna_4</image>
+            <image>http://imageshack.us/a/img405/5809/fernandoimagencolumna1.jpg</image>
+            <image>http://imageshack.us/a/img255/8308/fernandoimagencolumna2.jpg</image>
+            <image>http://imageshack.us/a/img825/6731/fernandoimagencolumna3.jpg</image>
+            <image>http://imageshack.us/a/img688/8601/fernandoimagencolumna4.jpg</image>
         </images>
         <pois>
         </pois>
@@ -95,10 +95,10 @@
     <cofradia>
         <nombre_corto>Medinaceli</nombre_corto>
         <nombre_largo>REAL, VENERABLE Y SERÁFICA ESCLAVITUD Y ANTIGUA ARCHICOFRADÍA DEL SANTÍSIMO SACRAMENTO, DE LA INMACULADA CONCEPCIÓN Y ANIMAS BENDITAS Y FERVOROSA HERMANDAD DE PENITENCIA DE NUESTRO PADRE JESÚS CAUTIVO Y RESCATADO Y MARÍA SANTÍSIMA DE LA TRINIDAD</nombre_largo>
-        <fecha_salida>20120402</fecha_salida>
+        <fecha_salida>20130325</fecha_salida>
         <nombre_iglesia>Iglesia Mayor Parroquial de San Pedro y San Pablo</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, San Diego de Alcalá, Antonio López, Plaza Jesús de Medinaceli, Constructora Naval (Estación de Penitencia en el Convento de RR.MM. Clarisas Capuchinas), Colón, San Rafael, Maestro Portela, Manuel Roldán, Colón, Beato Cardenal Spínola, Diego de Alvear, Real, Plaza de la Iglesia, a su Templo.</itinerario>
+        <itinerario>Plaza de la Iglesia, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, San Diego de Alcalá, Antonio López, Plaza Jesús de Medinaceli, Constructora Naval (Estación de Penitencia en el Convento de RR.MM. Clarisas Capuchinas), Colón, Churruca, Maestro Portela, Manuel Roldán, Colón, Beato Cardenal Spínola, Diego de Alvear, Real, Plaza de la Iglesia, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_medinaceli</imagenEscudo>
         <horaSalida>18:45</horaSalida>
         <horaRecogida>23:30</horaRecogida>
@@ -113,11 +113,11 @@
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_medinaceli_1</image>
-            <image>fernando_imagen_medinaceli_2</image>
-            <image>fernando_imagen_medinaceli_3</image>
-            <image>fernando_imagen_medinaceli_4</image>
-            <image>fernando_imagen_medinaceli_5</image>
+            <image>http://imageshack.us/a/img213/584/fernandoimagenmedinacel.jpg</image>
+            <image>http://imageshack.us/a/img560/584/fernandoimagenmedinacel.jpg</image>
+            <image>http://imageshack.us/a/img171/584/fernandoimagenmedinacel.jpg</image>
+            <image>http://imageshack.us/a/img688/584/fernandoimagenmedinacel.jpg</image>
+            <image>http://imageshack.us/a/img14/584/fernandoimagenmedinacel.jpg</image>
         </images>
         <pois>
         </pois>
@@ -126,28 +126,28 @@
     <cofradia>
         <nombre_corto>Afligidos (Estudiantes)</nombre_corto>
         <nombre_largo>VENERABLE HERMANDAD DEL SANTÍSIMO SACRAMENTO Y COFRADÍA DE NAZARENOS DE NUESTRO PADRE JESÚS DE LOS AFLIGIDOS, MARÍA SANTÍSIMA DE LA AMARGURA Y SANTO TOMÁS DE AQUINO (ESTUDIANTES)</nombre_largo>
-        <fecha_salida>20120402</fecha_salida>
+        <fecha_salida>20130325</fecha_salida>
         <nombre_iglesia>Parroquia del Santo Cristo</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
         <itinerario>Pza. Madre Teresa de Calcuta, Profesor Antonio Ramos, Maestro Portela, Manuel Roldán, Colón, Beato Marcelo Spínola, Murillo, La Herrán, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, 24 de Septiembre de 1810, Rosario, Murillo, San Esteban, San Gaspar, Constructora Naval, Colón, Churruca, Maestro Portela, Profesor Antonio Ramos, Pza. Madre Teresa de Calcuta y a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_afligidos</imagenEscudo>
-        <horaSalida>18:00</horaSalida>
-        <horaRecogida>23:25</horaRecogida>
+        <horaSalida>17:30</horaSalida>
+        <horaRecogida>22:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
-            <horario descripcion="Paso Misterio">
-                <punto descripcion="Salida" hora="18:00"></punto>
-                <punto descripcion="Carrera Oficial" hora="20:00"></punto>
-                <punto descripcion="Recogida" hora="23:25"></punto>
+            <horario descripcion="Cruz de Guía">
+                <punto descripcion="Salida" hora="17:30"></punto>
+                <punto descripcion="Carrera Oficial" hora="18:30"></punto>
+                <punto descripcion="Recogida" hora="22:00"></punto>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_afligidos_1</image>
-            <image>fernando_imagen_afligidos_2</image>
-            <image>fernando_imagen_afligidos_3</image>
-            <image>fernando_imagen_afligidos_4</image>
+            <image>http://imageshack.us/a/img14/7731/fernandoimagenafligidos.jpg</image>
+            <image>http://imageshack.us/a/img39/7731/fernandoimagenafligidos.jpg</image>
+            <image>http://imageshack.us/a/img407/7731/fernandoimagenafligidos.jpg</image>
+            <image>http://imageshack.us/a/img833/7731/fernandoimagenafligidos.jpg</image>
         </images>
         <pois>
         </pois>
@@ -156,10 +156,10 @@
     <cofradia>
         <nombre_corto>Ecce-Homo</nombre_corto>
         <nombre_largo>Real y Venerable Hermandad de Nuestro Padre Jesús del Ecce-Homo y María Santísima de la Salud (Vulgo del Comercio)</nombre_largo>
-        <fecha_salida>20120402</fecha_salida>
+        <fecha_salida>20130325</fecha_salida>
         <nombre_iglesia>Parroquia de la Divina Pastora</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Plaza de la Pastora, Santa Rosalía, Marconi, Santo Domingo, Beato Cardenal Spinola, Diego de Alvear, Real, CARRERA OFICIAL, Isaac Peral, Pza. del Rey, Las Cortes, 24 de septiembre de 1810, Antonio López, Constructora Naval, Colón Churruca, Maestro Portela, Mariana de Pineda, Santo Domingo, Marconi, Santa Rosalía, Pza. de la Pastora, a su Templo.</itinerario>
+        <itinerario>Plaza de la Pastora, Santa Rosalía, Marconi, Santo Domingo, Beato Cardenal Spinola, Diego de Alvear, Real, CARRERA OFICIAL, Isaac Peral, Pza. del Rey, Las Cortes, 24 de septiembre de 1810, Antonio López, Constructora Naval, Colón, Churruca, Maestro Portela, Mariana de Pineda, Santo Domingo, Marconi, Santa Rosalía, Pza. de la Pastora, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_ecce_homo</imagenEscudo>
         <horaSalida>19:00</horaSalida>
         <horaRecogida>00:30</horaRecogida>
@@ -169,17 +169,17 @@
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="19:00"></punto>
-                <punto descripcion="Carrera Oficial" hora="21:00"></punto>
+                <punto descripcion="Carrera Oficial" hora="20:30"></punto>
                 <punto descripcion="Recogida" hora="00:30"></punto>>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_ecce-homo_1</image>
-            <image>fernando_imagen_ecce-homo_2</image>
-            <image>fernando_imagen_ecce-homo_3</image>
-            <image>fernando_imagen_ecce-homo_4</image>
-            <image>fernando_imagen_ecce-homo_5</image>
-            <image>fernando_imagen_ecce-homo_6</image>
+            <image>http://imageshack.us/a/img13/6347/fernandoimageneccehomo1.jpg</image>
+            <image>http://imageshack.us/a/img12/7844/fernandoimageneccehomo2.jpg</image>
+            <image>http://imageshack.us/a/img692/4808/fernandoimageneccehomo3.jpg</image>
+            <image>http://imageshack.us/a/img152/5199/fernandoimageneccehomo4.jpg</image>
+            <image>http://imageshack.us/a/img24/2084/fernandoimageneccehomo5.jpg</image>
+            <image>http://imageshack.us/a/img824/6637/fernandoimageneccehomo6.jpg</image>
         </images>
         <pois>
         </pois>
@@ -188,7 +188,7 @@
     <cofradia>
         <nombre_corto>Huerto</nombre_corto>
         <nombre_largo>VENERABLE HERMANDAD Y COFRADÍA DE PENITENCIA DE LA SAGRADA ORACIÓN DE NUESTRO SEÑOR JESUCRISTO EN EL HUERTO, MARÍA SANTÍSIMA DE GRACIA Y ESPERANZA CORONADA Y BEATO MARCELO SPÍNOLA</nombre_largo>
-        <fecha_salida>20120403</fecha_salida>
+        <fecha_salida>20130326</fecha_salida>
         <nombre_iglesia>Parroquia de la Divina Pastora</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>Plaza de la Divina Pastora, Santa Rosalía, Marconi, Santo Domingo, Cardenal Spínola, Murillo, la Herrán, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, 24 de septiembre de 1810, Rosario, Colón, San Rafael, Maestro Portela, Mariana de Pineda, Santo Domingo, Marconi, Santa Rosalía, Pza. de la Divina Pastora, a su Templo.</itinerario>
@@ -199,17 +199,17 @@
         <longitudRegreso></longitudRegreso>
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
-            <horario descripcion="Paso Misterio">
+            <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="18:15"></punto>
                 <punto descripcion="Carrera Oficial" hora="19:45"></punto>
                 <punto descripcion="Recogida" hora="23:30"></punto>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_huerto_1</image>
-            <image>fernando_imagen_huerto_2</image>
-            <image>fernando_imagen_huerto_3</image>
-            <image>fernando_imagen_huerto_4</image>
+            <image>http://imageshack.us/a/img15/7794/fernandoimagenhuerto1.jpg</image>
+            <image>http://imageshack.us/a/img837/3692/fernandoimagenhuerto2.jpg</image>
+            <image>http://imageshack.us/a/img541/9033/fernandoimagenhuerto3.jpg</image>
+            <image>http://imageshack.us/a/img35/364/fernandoimagenhuerto4.jpg</image>
         </images>
         <pois>
         </pois>
@@ -218,13 +218,13 @@
     <cofradia>
         <nombre_corto>Caridad</nombre_corto>
         <nombre_largo>VENERABLE HERMANDAD SACRAMENTAL Y COFRADÍA DE PENITENCIA DE NUESTRA MADRE Y SEÑORA LA SANTÍSIMA VIRGEN DE LA CARIDAD, Y SANTÍSIMO CRISTO DE LA SALVACIÓN EN EL MISTERIO DE SU SAGRADA MORTAJA</nombre_largo>
-        <fecha_salida>20120403</fecha_salida>
+        <fecha_salida>20130326</fecha_salida>
         <nombre_iglesia>Parroquia Vaticana y Castrense de San Francisco de Asís</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
         <itinerario>Real, Almirante Faustino Ruíz, Colegio Naval Sacramento, Cecilio Pujazón, Calderón de la Barca, Isaac Peral, Plaza del Rey, Las Cortes, General García de la Herrán, Plaza de la Iglesia, Real, CARRERA OFICIAL, Real, Tomás del Valle, Pecce Casas, Bravo, Lanuza, Barceló, San Marcos, Tirso de Molina, Velarde, Lope de Vega, Real, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_caridad</imagenEscudo>
         <horaSalida>19:00</horaSalida>
-        <horaRecogida>00:45</horaRecogida>
+        <horaRecogida>01:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
         <ficheroRecorrido></ficheroRecorrido>
@@ -232,14 +232,14 @@
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="19:00"></punto>
                 <punto descripcion="Carrera Oficial" hora="21:00"></punto>
-                <punto descripcion="Recogida" hora="00:45"></punto>
+                <punto descripcion="Recogida" hora="01:00"></punto>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_caridad_1</image>
-            <image>fernando_imagen_caridad_2</image>
-            <image>fernando_imagen_caridad_3</image>
-            <image>fernando_imagen_caridad_4</image>
+            <image>http://imageshack.us/a/img201/7286/fernandoimagencaridad1.jpg</image>
+            <image>http://imageshack.us/a/img43/8885/fernandoimagencaridad2.jpg</image>
+            <image>http://imageshack.us/a/img341/8846/fernandoimagencaridad3.jpg</image>
+            <image>http://imageshack.us/a/img23/3968/fernandoimagencaridad4.jpg</image>
         </images>
         <pois>
         </pois>
@@ -248,7 +248,7 @@
     <cofradia>
         <nombre_corto>Prendimiento</nombre_corto>
         <nombre_largo>VENERABLE HERMANDAD SACRAMENTAL Y COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DEL SOBERANO PODER EN SU PRENDIMIENTO, MARÍA SANTÍSIMA DEL BUEN FIN Y SAN JUAN EVANGELISTA</nombre_largo>
-        <fecha_salida>20120403</fecha_salida>
+        <fecha_salida>20130326</fecha_salida>
         <nombre_iglesia>Parroquia de San José Artesano</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>General García de Herrán, Poeta Jiménez Ayllón, Pza. de la Ladrillera, Escritor Montes Aguilera, Constructora Naval (Estación de Penitencia en el Convento de RR.MM. Clarisas Capuchinas), Colón, Beato Cardenal Spínola, Diego de Alvear, Real, CARRERA OFICIAL, Isaac Peral, Arenal, Interior Parque Almirante Laulhé, Av. Doctor Revuelta Soba, a su Templo.</itinerario>
@@ -266,12 +266,12 @@
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_prendimiento_1</image>
-            <image>fernando_imagen_prendimiento_2</image>
-            <image>fernando_imagen_prendimiento_3</image>
-            <image>fernando_imagen_prendimiento_4</image>
-            <image>fernando_imagen_prendimiento_5</image>
-            <image>fernando_imagen_prendimiento_6</image>
+            <image>http://imageshack.us/a/img594/6038/fernandoimagenprendimie.jpg</image>
+            <image>http://imageshack.us/a/img145/6038/fernandoimagenprendimie.jpg</image>
+            <image>http://imageshack.us/a/img16/6038/fernandoimagenprendimie.jpg</image>
+            <image>http://imageshack.us/a/img18/6038/fernandoimagenprendimie.jpg</image>
+            <image>http://imageshack.us/a/img27/6038/fernandoimagenprendimie.jpg</image>
+            <image>http://imageshack.us/a/img824/6038/fernandoimagenprendimie.jpg</image>
         </images>
         <pois>
         </pois>
@@ -280,10 +280,10 @@
     <cofradia>
         <nombre_corto>Servitas</nombre_corto>
         <nombre_largo>ORDEN SEGLAR DE SIERVOS DE MARÍA (SERVITAS)</nombre_largo>
-        <fecha_salida>20120404</fecha_salida>
+        <fecha_salida>20130327</fecha_salida>
         <nombre_iglesia>Iglesia Mayor Parroquial de San Pedro y San Pablo</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, 24 de septiembre de 1810, Antonio López, Constructora Naval, Colón, González de la Vega, Juan de Mariana, San Esteban, Murillo, La Herrán, Real, Almirante Cervera, Pérez Galdós, Callejón de la Soledad, Real, a su Templo.</itinerario>
+        <itinerario>Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, 24 de septiembre de 1810, Antonio López, Constructora Naval, Colón, Churruca, Mazarredo, San Rafael, Colón, González de la Vega, Juan de Mariana, San Esteban, Murillo, La Herrán, Real, Almirante Cervera, Pérez Galdós, Nicolás Carrillo, Real, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_servitas</imagenEscudo>
         <horaSalida>19:00</horaSalida>
         <horaRecogida>23:00</horaRecogida>
@@ -291,16 +291,16 @@
         <longitudRegreso></longitudRegreso>
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
-            <horario descripcion="Paso Misterio">
+            <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="19:00"></punto>
                 <punto descripcion="Carrera Oficial" hora="19:15"></punto>
                 <punto descripcion="Recogida" hora="23:00"></punto>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_servitas_1</image>
-            <image>fernando_imagen_servitas_2</image>
-            <image>fernando_imagen_servitas_3</image>
+            <image>http://imageshack.us/a/img189/5610/fernandoimagenservitas1.jpg</image>
+            <image>http://imageshack.us/a/img89/2012/fernandoimagenservitas2a.jpg</image>
+            <image>http://imageshack.us/a/img208/5168/fernandoimagenservitas3.jpg</image>
         </images>
         <pois>
         </pois>
@@ -309,10 +309,10 @@
     <cofradia>
         <nombre_corto>Vera-Cruz</nombre_corto>
         <nombre_largo>VENERABLE HERMANDAD DEL SANTÍSIMO CRISTO DE LA VERA-CRUZ Y NUESTRA SEÑORA DEL MAYOR DOLOR</nombre_largo>
-        <fecha_salida>20120404</fecha_salida>
+        <fecha_salida>20130327</fecha_salida>
         <nombre_iglesia>Parroquia del Santo Cristo</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>Plaza Madre Teresa de Calcuta, Profesor Antonio Ramos, Maestro Portela, Manuel Roldán, Colón, Beato Cardenal Spínola, Murillo, La Herrán, Real, Estación de Penitencia en la Iglesia Mayor, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, General García de la Herrán, Rosario, González Hontoria, Constructora Naval, Colón, Churruca, Méndez Núñez, Bazán, Plaza del Santísimo Cristo de la Vera-Cruz, Patrona, San Ignacio, Plaza Madre Teresa de Calcuta, a su Templo.</itinerario>
+        <itinerario>Plaza Madre Teresa de Calcuta, Profesor Antonio Ramos, Maestro Portela, Manuel Roldán, Colón, Beato Cardenal Spínola, Murillo, La Herrán, Real, Estación de Penitencia en la Iglesia Mayor, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, General García de la Herrán, Rosario, González Hontoria, Constructora Naval, Colón, Churruca, Méndez Núñez, Bazán, Patrona, San Ignacio, Plaza Madre Teresa de Calcuta, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_vera_cruz</imagenEscudo>
         <horaSalida>17:30</horaSalida>
         <horaRecogida>22:40</horaRecogida>
@@ -322,14 +322,14 @@
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="17:30"></punto>
-                <punto descripcion="Carrera Oficial" hora="19:40"></punto>
+                <punto descripcion="Carrera Oficial" hora="19:45"></punto>
                 <punto descripcion="Recogida" hora="22:40"></punto>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_veracruz_1</image>
-            <image>fernando_imagen_veracruz_2</image>
-            <image>fernando_imagen_veracruz_3</image>
+            <image>http://imageshack.us/a/img835/1733/fernandoimagenveracruz1.jpg</image>
+            <image>http://imageshack.us/a/img521/6620/fernandoimagenveracruz2.jpg</image>
+            <image>http://imageshack.us/a/img29/8943/fernandoimagenveracruz3.jpg</image>
         </images>
         <pois>
         </pois>
@@ -338,10 +338,10 @@
     <cofradia>
         <nombre_corto>Gran Poder</nombre_corto>
         <nombre_largo>VENERABLE HERMANDAD DEL SANTÍSIMO SACRAMENTO Y COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DEL GRAN PODER Y MARÍA SANTÍSIMA DEL AMOR</nombre_largo>
-        <fecha_salida>20120404</fecha_salida>
+        <fecha_salida>20130327</fecha_salida>
         <nombre_iglesia>Parroquia de la Sagrada Familia</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Plaza de la Sagrada Familia, Padre José Neira, Eume, Eo, Nautilus, Arapiles, Marqués de la Ensenada, Avda. de Carlos III, Paseo General Lobo, Comandante Ruiz Marcet, San Juan Bautista, Plaza José Suárez, San Rafael, Colón, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, 24 de septiembre de 1810, Antonio López, Constructora Naval, Estación de Penitencia en el Convento de las R.R.M.M. Capuchinas, Colón, San Rafael, Maestro Portela, Mariana de Pineda, Plaza Sánchez de la Campa, Hernán Cortés, Avenida del Cid, Puente Jesús del Gran Poder, Carretera del Arsenal de la Carraca, Belén, Plaza de la Anunciación, Jerusalén, Cantabria, Eume, Plaza de la Sagrada Familia, a su Templo.</itinerario>
+        <itinerario>Parroquia de la Sagrada Familia, Eume, Eo, Nautilus, Arapiles, Marqués de la Ensenada, Avda. de Carlos III, Paseo General Lobo, Comandante Ruiz Marcet, Plaza Madre Teresa de Calcuta, Avenida de Reyes Católicos, Colón, Constructora Naval, Estación de Penitencia en el Convento de las R.R. M. M. Clarisas Capuchinas, González Hontoria, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, General García de la Herrán, Rosario, Colón, San Rafael, Maestro Portela, Mariana de Pineda, Plaza Sánchez de la Campa, Hernán Cortés, Avenida del Cid, Puente Jesús del Gran Poder, Revelación, Nazaret, Felipe II, Eume, Plaza de la Sagrada Familia, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_poder</imagenEscudo>
         <horaSalida>16:45</horaSalida>
         <horaRecogida>02:30</horaRecogida>
@@ -356,11 +356,11 @@
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_granpoder_1</image>
-            <image>fernando_imagen_granpoder_2</image>
-            <image>fernando_imagen_granpoder_3</image>
-            <image>fernando_imagen_granpoder_4</image>
-            <image>fernando_imagen_granpoder_5</image>
+            <image>http://imageshack.us/a/img708/2663/fernandoimagengranpoder.jpg</image>
+            <image>http://imageshack.us/a/img837/2663/fernandoimagengranpoder.jpg</image>
+            <image>http://imageshack.us/a/img96/2663/fernandoimagengranpoder.jpg</image>
+            <image>http://imageshack.us/a/img834/2663/fernandoimagengranpoder.jpg</image>
+            <image>http://imageshack.us/a/img534/2663/fernandoimagengranpoder.jpg</image>
         </images>
         <pois>
         </pois>
@@ -369,7 +369,7 @@
     <cofradia>
         <nombre_corto>Perdón</nombre_corto>
         <nombre_largo>HERMANDAD Y COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DEL PERDÓN Y NUESTRA SEÑORA DE LA PAZ</nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
+        <fecha_salida>20130328</fecha_salida>
         <nombre_iglesia>Iglesia de la Inmaculada Concepción</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
         <itinerario>Plaza de San Juan, Magallanes, San Federico, Rotonda de la Cruz, Puente de la Casería, San José y San Antonio, Patrona, San Ignacio, Calatrava, Colón, Constructora naval, González Hontoria, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, García de la Herrán, Rosario, Colón, San Rafael, Plaza José Suárez, Pintor Martínez Pepiño, Paseo General Lobo (lado izquierdo), Joly Velasco, San Federico, Santa Rosa, Hermanos Pinzones, Alcázar de Toledo, Ricardo Isasi, Batalla del Ebro, Juan Sebastián Elcano, San Roque, Magallanes, Plaza de San Juan, a su Templo.</itinerario>
@@ -387,8 +387,8 @@
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_perdon_1</image>
-            <image>fernando_imagen_perdon_2</image>
+            <image>http://imageshack.us/a/img820/7484/fernandoimagenperdon1.jpg</image>
+            <image>http://imageshack.us/a/img209/2158/fernandoimagenperdon2.jpg</image>
         </images>
         <pois>
         </pois>
@@ -396,8 +396,8 @@
 
     <cofradia>
         <nombre_corto>Misericordia</nombre_corto>
-        <nombre_largo>REAL Y VENERABLE HERMANDAD SACRAMENTAL, CARMELITANA, FERVOROSA Y DEVOTA COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DE LA MISERICORDIA, MARÍA SANTÍSIMA DE LA PIEDAD, SANTA MUJER VERÓNICA Y SANTOS COSME Y DAMIÁN</nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
+        <nombre_largo>REAL Y VENERABLE HERMANDAD SACRAMENTAL, FERVOROSA Y DEVOTA COFRADÍA DE PENITENCIA DE NUESTRO PADRE JESÚS DE LA MISERICORDIA, MARÍA SANTÍSIMA DE LA PIEDAD, SANTA MUJER VERÓNICA</nombre_largo>
+        <fecha_salida>20130328</fecha_salida>
         <nombre_iglesia>Parroquia de la Divina Pastora</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>Plaza de la Pastora, Santa Rosalía, Marconi, Santo Domingo, Beato Cardenal Spínola, Diego de Alvear, Real, Estación de Penitencia en la Iglesia Mayor, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, General García de la Herrán, Rosario, Colón, San Rafael, Maestro Portela, Mariana de Pineda, Santa Rosalía, Plaza de la Pastora, a su Templo.</itinerario>
@@ -415,9 +415,9 @@
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_misericordia_1</image>
-            <image>fernando_imagen_misericordia_2</image>
-            <image>fernando_imagen_misericordia_3</image>
+            <image>http://imageshack.us/a/img716/7033/fernandoimagenmisericor.jpg</image>
+            <image>http://imageshack.us/a/img401/7033/fernandoimagenmisericor.jpg</image>
+            <image>http://imageshack.us/a/img15/7033/fernandoimagenmisericor.jpg</image>
         </images>
         <pois>
         </pois>
@@ -426,10 +426,10 @@
     <cofradia>
         <nombre_corto>Tres Caídas</nombre_corto>
         <nombre_largo>HERMANDAD DE NUESTRO PADRE JESÚS DE LAS TRES CAÍDAS Y MARÍA SANTÍSIMA DE LAS ANGUSTIAS</nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
+        <fecha_salida>20130328</fecha_salida>
         <nombre_iglesia>Parroquia de la Sagrada Familia</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>Parroquia de la Sagrada Familia, Padre José Neira, Carretera Arsenal de la Carraca, Puente de Nuestro Padre Jesús del Gran Poder, Avenida del Cid, Plaza Juan Vargas (paso por la puerta de entrada a la Venta de Vargas), Montañeses de la Isla, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, San Diego de Alcalá, Antonio López, Constructora Naval, Colón, Santo Domingo, Marconi, Augusto Miranda, Mariana de Pineda, Albina del Puente, Hernán Cortés, Avenida del Cid, Puente de Nuestro Padre Jesús del Gran Poder, Carretera del Arsenal de la Carraca, Reyes Magos, Nazaret, Belén, Felipe II, Eume, a su Templo.</itinerario>
+        <itinerario>Parroquia de la Sagrada Familia, Padre José Neira, Carretera Arsenal de la Carraca, Puente de Nuestro Padre Jesús del Gran Poder, Avenida del Cid, Plaza Juan Vargas (paso por la puerta de entrada a la Venta de Vargas), Montañeses de la Isla, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, General Garcia de la Herrán, Rosario, Colón, Santo Domingo, Marconi, Santa Rosalía, Hernán Cortés, Avenida del Cid, Puente de Nuestro Padre Jesús del Gran Poder, Carretera del Arsenal de la Carraca, Reyes Magos, Nazaret, Belén, Felipe II, Eume, Padre José Neira, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_tres_caidas</imagenEscudo>
         <horaSalida>20:30</horaSalida>
         <horaRecogida>07:30</horaRecogida>
@@ -437,16 +437,16 @@
         <longitudRegreso></longitudRegreso>
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
-            <horario descripcion="Paso Misterio">
+            <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="20:30"></punto>
                 <punto descripcion="Carrera Oficial" hora="00:15"></punto>
                 <punto descripcion="Recogida" hora="07:30"></punto>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_tres_caidas_1</image>
-            <image>fernando_imagen_tres_caidas_2</image>
-            <image>fernando_imagen_tres_caidas_3</image>
+            <image>http://imageshack.us/a/img707/6596/fernandoimagentrescaida.jpg</image>
+            <image>http://imageshack.us/a/img802/6596/fernandoimagentrescaida.jpg</image>
+            <image>http://imageshack.us/a/img132/6596/fernandoimagentrescaida.jpg</image>
         </images>
         <pois>
         </pois>
@@ -455,13 +455,13 @@
     <cofradia>
         <nombre_corto>Vulgo El Silencio</nombre_corto>
         <nombre_largo>REAL Y VENERABLE HERMANDAD DE PENITENCIA Y COFRADÍA DE NAZARENOS DEL SANTÍSIMO CRISTO DE LA EXPIRACIÓN Y MARÍA SANTÍSIMA DE LA ESPERANZA (VULGO EL SILENCIO)</nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
+        <fecha_salida>20130328</fecha_salida>
         <nombre_iglesia>Parroquia Vaticana y Castrense de San Francisco de Asís</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Real, Isaac Peral, Plaza del Rey, Las Cortes, 24 de septiembre de 1810, Rosario, Murillo, San Esteban, San Gaspar, Constructora Naval, Estación Menor en la Capilla de las R.R.M.M. Capuchinas, Antonio López, González Hontoria, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Sánchez Cerquero, General Valdés, Alameda Moreno de Guerra, Real, a su Templo.</itinerario>
+        <itinerario>Real, Isaac Peral, Plaza del Rey, Las Cortes, 24 de septiembre de 1810, Rosario, Murillo, San Esteban, San Gaspar, Constructora Naval, Estación Menor en la Capilla de las R.R.M.M. Capuchinas, Antonio López, González Hontoria, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Real, Sánchez Cerquero, General Valdés, Alameda Moreno de Guerra, Real, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_silencio</imagenEscudo>
         <horaSalida>21:30</horaSalida>
-        <horaRecogida>02:30</horaRecogida>
+        <horaRecogida>02:15</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
         <ficheroRecorrido></ficheroRecorrido>
@@ -469,14 +469,14 @@
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="21:30"></punto>
                 <punto descripcion="Carrera Oficial" hora="00:40"></punto>
-                <punto descripcion="Recogida" hora="02:30"></punto>
+                <punto descripcion="Recogida" hora="02:15"></punto>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_expiracion_1</image>
-            <image>fernando_imagen_expiracion_2</image>
-            <image>fernando_imagen_expiracion_3</image>
-            <image>fernando_imagen_expiracion_4</image>
+            <image>http://imageshack.us/a/img341/3690/fernandoimagenexpiracio.jpg</image>
+            <image>http://imageshack.us/a/img708/3690/fernandoimagenexpiracio.jpg</image>
+            <image>http://imageshack.us/a/img96/3690/fernandoimagenexpiracio.jpg</image>
+            <image>http://imageshack.us/a/img13/3690/fernandoimagenexpiracio.jpg</image>
         </images>
         <pois>
         </pois>
@@ -485,13 +485,13 @@
     <cofradia>
         <nombre_corto>Nazareno</nombre_corto>
         <nombre_largo>VENERABLE HERMANDAD DE PENITENCIA DE NUESTRO PADRE JESÚS NAZARENO Y MARÍA SANTÍSIMA DE LOS DOLORES</nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Iglesia Mayor Parroquial de San Pedro y San Pablo</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, General García de la Herrán, Rosario, Murillo, San Esteban, San Gaspar, Constructora Naval, Colón, Churruca, Maestro Portela, Manuel Roldán, Colón, Cardenal Spínola, Diego de Alvear, Real, Plaza de la Iglesia, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_nazareno</imagenEscudo>
         <horaSalida>02:00</horaSalida>
-        <horaRecogida>10:00</horaRecogida>
+        <horaRecogida>09:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
         <ficheroRecorrido></ficheroRecorrido>
@@ -499,16 +499,16 @@
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="02:00"></punto>
                 <punto descripcion="Carrera Oficial" hora="02:05"></punto>
-                <punto descripcion="Recogida" hora="10:00"></punto>
+                <punto descripcion="Recogida" hora="09:00"></punto>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_nazareno_1</image>
-            <image>fernando_imagen_nazareno_2</image>
-            <image>fernando_imagen_nazareno_3</image>
-            <image>fernando_imagen_nazareno_4</image>
-            <image>fernando_imagen_nazareno_5</image>
-            <image>fernando_imagen_nazareno_6</image>
+            <image>http://imageshack.us/a/img59/1003/fernandoimagennazareno1.jpg</image>
+            <image>http://imageshack.us/a/img822/5006/fernandoimagennazareno2.jpg</image>
+            <image>http://imageshack.us/a/img560/9866/fernandoimagennazareno3.jpg</image>
+            <image>http://imageshack.us/a/img827/6250/fernandoimagennazareno4.jpg</image>
+            <image>http://imageshack.us/a/img35/8828/fernandoimagennazareno5.jpg</image>
+            <image>http://imageshack.us/a/img33/5503/fernandoimagennazareno6.jpg</image>
         </images>
         <pois>
         </pois>
@@ -517,10 +517,10 @@
     <cofradia>
         <nombre_corto>Soledad</nombre_corto>
         <nombre_largo>VENERABLE HERMANDAD Y ANTIGUA COFRADÍA DE PENITENCIA DE NUESTRA SEÑORA DE LA SOLEDAD, SANTÍSIMO CRISTO DE LA REDENCIÓN DESCENDIDO DE LA CRUZ EN SU TRASLADO AL SEPULCRO Y SAN JUAN EVANGELISTA</nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Iglesia Mayor Parroquial de San Pedro y San Pablo</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Real, CARRERA OFICIAL, Isaac Peral, Calderón de la Barca, 24 de septiembre de 1810, Antonio López, Constructora Naval, San Esteban, San Gaspar, Murillo, Real, Almirante Cervera, San Servando, San Nicolás, Pérez Galdós, Capataz Nicolás Carrillo, Real.</itinerario>
+        <itinerario>Real, CARRERA OFICIAL, Isaac Peral, Calderón de la Barca, Cayetano del Toro, 24 de septiembre de 1810, Antonio López, Constructora Naval, San Gaspar, San Esteban, Murillo, Real, Almirante Cervera, San Servando, San Nicolás, Pérez Galdós, Capataz Nicolás Carrillo, Real, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_soledad</imagenEscudo>
         <horaSalida>19:30</horaSalida>
         <horaRecogida>00:00</horaRecogida>
@@ -535,10 +535,10 @@
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_soledad_1</image>
-            <image>fernando_imagen_soledad_2</image>
-            <image>fernando_imagen_soledad_3</image>
-            <image>fernando_imagen_soledad_4</image>
+            <image>http://imageshack.us/a/img845/7666/fernandoimagensoledad1.jpg</image>
+            <image>http://imageshack.us/a/img69/6669/fernandoimagensoledad2.jpg</image>
+            <image>http://imageshack.us/a/img577/8808/fernandoimagensoledad3.jpg</image>
+            <image>http://imageshack.us/a/img20/2886/fernandoimagensoledad4.jpg</image>
         </images>
         <pois>
         </pois>
@@ -547,7 +547,7 @@
     <cofradia>
         <nombre_corto>Desamparados</nombre_corto>
         <nombre_largo>VENERABLE Y GREMIAL DE SANIDAD, HERMANDAD DE CARIDAD Y COFRADÍA DE PENITENCIA DEL SANTÍSIMO CRISTO DE LA SANGRE, MARÍA SANTÍSIMA DE LOS DESAMPARADOS Y PATRIARCA BENDITO SEÑOR SAN JOSÉ</nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Capilla de Nuestra Señora de los Desamparados</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>Plaza de San José, San José, Real, Isaac Peral, General Valdés, Las Cortes, General García de la Herrán, Antonio López, Constructora Naval, Colón, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Real, San José, Plaza de San José, a su Templo.</itinerario>
@@ -565,9 +565,9 @@
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_desamparados_1</image>
-            <image>fernando_imagen_desamparados_2</image>
-            <image>fernando_imagen_desamparados_3</image>
+            <image>http://imageshack.us/a/img248/506/fernandoimagendesampara.jpg</image>
+            <image>http://imageshack.us/a/img339/506/fernandoimagendesampara.jpg</image>
+            <image>http://imageshack.us/a/img831/506/fernandoimagendesampara.jpg</image>
         </images>
         <pois>
         </pois>
@@ -576,10 +576,10 @@
     <cofradia>
         <nombre_corto>Santo Entierro</nombre_corto>
         <nombre_largo>REAL, MUY ILUSTRE Y VENERABLE HERMANDAD CARMELITANA Y ANTIGUA COFRADÍA DE NAZARENOS DEL SANTO ENTIERRO DE NUESTRO SEÑOR JESUCRISTO Y MARÍA SANTÍSIMA DEL MAYOR DOLOR EN SU SOLEDAD</nombre_largo>
-        <fecha_salida>20120406</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Iglesia Conventual de Nuestra Señora del Carmen</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Real, Alameda Moreno de Guerra, General Valdés, Plaza del Rey, Las Cortes, General García de la Herrán, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Real, Manuel de Arriaga, San Joaquín, Plaza del Carmen, Real, a su Templo.</itinerario>
+        <itinerario>Real, Isaac Peral, Plaza del Rey, Las Cortes, General García de la Herrán, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Real, Manuel de Arriaga, San Joaquín, Plaza del Carmen, Real, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_entierro</imagenEscudo>
         <horaSalida>19:00</horaSalida>
         <horaRecogida>23:55</horaRecogida>
@@ -594,10 +594,10 @@
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_santoentierro_1</image>
-            <image>fernando_imagen_santoentierro_2</image>
-            <image>fernando_imagen_santoentierro_3</image>
-            <image>fernando_imagen_santoentierro_4</image>
+            <image>http://imageshack.us/a/img843/1883/fernandoimagensantoenti.jpg</image>
+            <image>http://imageshack.us/a/img24/1883/fernandoimagensantoenti.jpg</image>
+            <image>http://imageshack.us/a/img838/1883/fernandoimagensantoenti.jpg</image>
+            <image>http://imageshack.us/a/img707/1883/fernandoimagensantoenti.jpg</image>
         </images>
         <pois>
         </pois>
@@ -606,13 +606,13 @@
     <cofradia>
         <nombre_corto>La Resurrección</nombre_corto>
         <nombre_largo>HERMANDAD DE LA SAGRADA RESURRECCIÓN DE NUESTRO SEÑOR JESUCRISTO Y MARÍA SANTÍSIMA DE LA VICTORIA</nombre_largo>
-        <fecha_salida>20120408</fecha_salida>
+        <fecha_salida>20130331</fecha_salida>
         <nombre_iglesia>Parroquia de San José Artesano</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
-        <itinerario>General García de la Herrán, Antonio López, Constructora Naval, Colón, Rosario, Plaza de la Iglesia, Real, CARRERA OFICIAL, Isaac Peral, Plaza del Rey, Las Cortes, San Diego de Alcalá, Arenal, Parque Almirante Laulhé (interior), Doctor José Revuelta Soba, a su Templo.</itinerario>
+        <itinerario>General García de la Herrán, Antonio López, Constructora Naval, Colón, Cardenal Marcelo Espínola, Murillo, La Herrán, Real, CARRERA OFICIAL, Isaac Peral, Arenal, Parque Almirante Laulhé (interior), Doctor José Revuelta Soba, a su Templo.</itinerario>
         <imagenEscudo>escudo_san_fernando_resureccion</imagenEscudo>
         <horaSalida>09:30</horaSalida>
-        <horaRecogida>14:20</horaRecogida>
+        <horaRecogida>14:15</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
         <ficheroRecorrido></ficheroRecorrido>
@@ -620,14 +620,14 @@
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="09:30"></punto>
                 <punto descripcion="Carrera Oficial" hora="12:00"></punto>
-                <punto descripcion="Recogida" hora="14:20"></punto>
+                <punto descripcion="Recogida" hora="14:15"></punto>
             </horario>
         </horarios>
         <images>
-            <image>fernando_imagen_resurreccion_1</image>
-            <image>fernando_imagen_resurreccion_2</image>
-            <image>fernando_imagen_resurreccion_3</image>
-            <image>fernando_imagen_resurreccion_4</image>
+            <image>http://imageshack.us/a/img248/7682/fernandoimagenresurrecc.jpg</image>
+            <image>http://imageshack.us/a/img824/7682/fernandoimagenresurrecc.jpg</image>
+            <image>http://imageshack.us/a/img89/3418/fernandoimagenresurreccm.jpg</image>
+            <image>http://imageshack.us/a/img546/7682/fernandoimagenresurrecc.jpg</image>
         </images>
         <pois>
         </pois>

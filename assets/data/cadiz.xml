@@ -1527,6 +1527,9 @@
 			<image>http://imageshack.us/a/img822/8900/imagensilencio1.jpg</image>
 			<image>http://imageshack.us/a/img715/6137/imagensilencio2.jpg</image>
 			<image>http://imageshack.us/a/img690/599/imagensilencio3.jpg</image>
+            <image>http://www.cadizcofrade.net/actualidad/images2006/buenamuertealtarmayor5.jpg</image>
+            <image>http://www.cadizcofrade.net/especiales/ss2008/images/buenamuerte08-1.jpg</image>
+
 		</images>
 		<pois>
 			<poi description="Salida y Recogida" comment="" lat="0" long="0" interes="NO"></poi>
