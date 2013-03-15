@@ -29,6 +29,8 @@
         <images>
             <image>http://imageshack.us/a/img823/3223/humildadypaciencia1.jpg</image>
 			<image>http://imageshack.us/a/img42/3579/humildadypaciencia2.jpg</image>
+			<image>http://imageshack.us/a/img208/2248/humildadypaciencia3.jpg</image>
+			<image>http://imageshack.us/a/img843/463/humildadypaciencia4.jpg</image>
         </images>
         <pois>            
         </pois>
@@ -95,8 +97,8 @@
             </horario>
         </horarios>
         <images>
-            <image>sed_1</image>
-			<image>sed_2</image>
+            <image>http://imageshack.us/a/img838/2568/sed1i.jpg</image>
+			<image>http://imageshack.us/a/img844/3061/sed2.jpg</image>
         </images>
         <pois>
         </pois>
@@ -129,13 +131,15 @@
             </horario>
         </horarios>
         <images>
-            <image>sanrafael_1</image>
-			<image>sanrafael_2</image>
+            <image>http://imageshack.us/a/img822/3314/sanrafael1.jpg</image>
+			<image>http://imageshack.us/a/img819/8991/sanrafael2s.jpg</image>
+			<image>http://imageshack.us/a/img690/1843/sanrafael3.jpg</image>
+			<image>http://imageshack.us/a/img39/993/sanrafael4.jpg</image>
         </images>
         <pois>
         </pois>
         <descripcion>La Hermandad nace de las llamadas Asociaciones Juveniles de Torresoto. Tras una reunión con el párroco de San Rafael, D. Angel Obradors, se deciden por su traslado a la misma, uniéndose a ellos dos Asociaciones juveniles mas, la de Vallesequillo y la Federico Mayo. El 19 de marzo del 2005, Sábado de Pasión, tuvo lugar la bendición de Nuestro Padre Jesús de la Salud, obra del pintor e imaginero jerezano Miguel Ángel. &#xA;&#xA; El 19 de junio de 2006 llega el Decreto del Sr. Obispo de Asidonia-Jerez, D. Juan del Río Martín, por el cual se comunica que se erigen en la Agrupación Parroquial de Nuestro Padre Jesús de la Salud, Nuestra Señora de las Aguas, San Rafael y San Gabriel, con sede canónica en la Parroquial de San Rafael y San Gabriel.En asamblea de asociados celebrada en julio de 2010 se decidió cambiar la primitiva imagen titular por una nueva del imaginero Fernando J. Aguado Hernández. El día 21 de marzo de 2012 se bendijo la nueva imagen de Nuestro Padre Jesús de la Salud por el Obispo de Asidonia-Jerez, D. José Mazuelos Perez en la Parroquia de San Rafael. &#xA;&#xA;El dia 11 de enero de 2012, se celebró el traslado del Señor a la Santa Iglesia Catedral para la erección canónica de la Hermandad. El 12 de enero de 2013 fue erigida Hermandad de Penitencia por el Obispo de Jerez, D. José Mazuelos Pérez en la Santa Iglesia Catedral.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA; Erección canónica y primera salida como Hermandad de Penitencia. &#xA;&#xA; Acompañamiento musical:Agrupación Musical de María Santísima de las Lágrimas de San Fernando (Cádiz). </masdatos>
+		<masdatos>Estrenos: &#xA;&#xA; Erección canónica y primera salida como Hermandad de Penitencia. &#xA;&#xA;Acompañamiento musical: &#xA;&#xA;Agrupación Musical de María Santísima de las Lágrimas de San Fernando (Cádiz). </masdatos>
 	</cofradia>
     <cofradia>
         <nombre_corto>Borriquita</nombre_corto>
@@ -223,7 +227,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: 1963 &#xA;&#xA;Imágenes: El Cristo es obra de Francisco Pinto Berraquero en 1966. La Virgen es una talla anónima restaurada en 1975 por Manuel Bonat y posteriormente en 1979 por el artista jerezano José Guerra Carretero. &#xA;&#xA;Paso: El paso de misterio es de madera brasileña y fue realizado por Antonio Martín Frenández, adaptando el diseño original de Manuel Salado. El paso de palio está realizado según el boceto del orfebre Manuel de los Ríos Navarro y el borrador de Fernando Calderón. </descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Bordado del exterior de las caídas laterales del Paso de Palio.&#xA;&#xA; Acompañamiento musical: No lleva música el Cristo, y la Banda de Música Virgen del Castillo, de Lebrija (Sevilla) tras el paso de palio de la Virgen del Perpetuo Socorro.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Bordado del exterior de las caídas laterales del Paso de Palio.&#xA;&#xA;Acompañamiento musical: &#xA;&#xA;No lleva música el Cristo, y la Banda de Música Virgen del Castillo, de Lebrija (Sevilla) tras el paso de palio de la Virgen del Perpetuo Socorro.</masdatos>
 	</cofradia>
 
     <cofradia>
@@ -268,7 +272,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Fundada en 1953 por el gremio de transportistas. &#xA;&#xA;Imágenes: Jesús del Consuelo es un cautivo atribuido con mucho fundamento a Pedro Roldán y el resto de figuras secundarias del paso de misterio que acompañan al Señor son obra del escultor jerezano Francisco Pinto Berraquero (1956). Madre de Dios de las Misericordias es obra del afamado escultor sevillano Sebastián Santos y fue encargada en 1956. &#xA;&#xA;Paso: El paso de misterio fue encargado a los jerezanos Francisco y Lutgardo Pinto Berraquero. Lo terminó Feria y su trabajo se completó en el año 1971. Toda la orfebrería del palio es de Manuel Seco Velasco a excepción de los candelabros de cola. Los bordados son obra de Carrasquilla.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun &#xA;&#xA; Acompañamiento musical: &#xA;&#xA; Tras el paso de Misterio, la Banda de Cornetas y Tambores Vera-Cruz de Los Palacios (Sevilla), y la Banda de Música Nuestra Señora de la Soledad de Santillana (Sevilla), tras el paso de Palio.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA; Tras el paso de Misterio, la Banda de Cornetas y Tambores Vera-Cruz de Los Palacios (Sevilla), y la Banda de Música Nuestra Señora de la Soledad de Santillana (Sevilla), tras el paso de Palio.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -313,7 +317,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: La hermandad se funda en 1615. &#xA;&#xA;Imágenes: El Señor es obra de Pieter Grass, del siglo XVII, y la Virgen de escultor Rivera, de la década de los cincuenta del siglo pasado. &#xA;&#xA;Paso: Manuel Guzmán Bejarano es el autor del paso de misterio, de grandes dimensiones. Se terminó en la década de los ochenta. El paso de palio es una joya tanto en orfebrería como en bordados. Emilio Landa diseñó y repujó el metal, mientras que el techo y el manto son obra de Esperanza Elena Caro.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun &#xA;&#xA; Acompañamiento musical: &#xA;&#xA; La Banda de Cornetas y Tambores del Santísimo Cristo de la Coronación de Espinas, de Córdoba, tras el paso del Cristo de la Coronación y la Banda Municipal de Música de Villalba del Alcor (Huelva) tras el paso de palio.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA; La Banda de Cornetas y Tambores del Santísimo Cristo de la Coronación de Espinas, de Córdoba, tras el paso del Cristo de la Coronación y la Banda Municipal de Música de Villalba del Alcor (Huelva) tras el paso de palio.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -348,7 +352,10 @@
             </horario>
         </horarios>
         <images>
-            <image>http://imageshack.us/a/img96/3847/angustias1.jpg</image>
+            <image>http://imageshack.us/a/img12/9623/angustias3.jpg</image>
+			<image>http://imageshack.us/a/img819/2581/angustias2.jpg</image>
+			<image>http://imageshack.us/a/img46/3847/angustias1.jpg</image>
+			<image>http://imageshack.us/a/img842/6246/angustias4.jpg</image>
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.680664" long="-6.132903" interes="NO"></poi>
@@ -357,7 +364,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Sus primeras reglas se aprueban en 1553. &#xA;&#xA; Imágenes: La imagen de Nuestra Señora de las Angustias data del s. XVI, pero se le cambió la talla que era de barro cocido a una de madera en 1925. El Señor se encargó a Ramón Chaveli en 1942 para sustituir al primitivo de la Hermandad, que se conserva en la Casa de Hermandad y data del s. XVI. &#xA;&#xA; Paso: El paso es obra de Manuel Guzmán Bejarano y fue realizado entre 1969 y 1982. El paso empieza a ser dorado por Calvo, y lo termina la familia Daza.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Restauración del manto bordado de la Virgen y del Pendón de los Siete Cuchillos, por Jesús Rosado.&#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Es cofradía de silencio, por lo cual este paso no lleva banda de música. Destaca el gran espíritu de penitencia de esta hermandad. Delante del paso desfilará, como ya es tradicional, el Orfeón de la propia Hermandad,dirigido por José María Amat Nuño, escolanía compuesta por alumnos del Oratorio Festivo, cantando pasajes del Stábat Mater.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Restauración del manto bordado de la Virgen y del Pendón de los Siete Cuchillos, por Jesús Rosado.&#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Es cofradía de silencio, por lo cual este paso no lleva banda de música. Destaca el gran espíritu de penitencia de esta hermandad. Delante del paso desfilará, como ya es tradicional, el Orfeón de la propia Hermandad,dirigido por José María Amat Nuño, escolanía compuesta por alumnos del Oratorio Festivo, cantando pasajes del Stábat Mater.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -393,7 +400,7 @@
             <image>http://imageshack.us/a/img580/4875/paz2f.jpg</image>
         </images>
 		<descripcion>Año de fundación: 8 de diciembre 2006 &#xA;&#xA;Imágenes: Imágenes: Nuestro Padre Jesús de la Paz y María Santísima Refugio de los Pecadores &#xA;&#xA; Paso: El paso de misterio es obra de Antonio Ibáñez, estando aún en fase de comienzo de talla, aunque ya procesionó el Sábado de Pasión de 2008 aun en fase de carpintería, trabajo realizado en la localidad cordobesa de La Rambla. En el año 2009 presentó ya tallado el frontal de la canastilla. El paso es de estilo barroco, calza 40 costaleros. Los cuatro candelabros de las esquinas son obra de Antonio Vega, estando éstos en posesión de la Hermandad con anterioridad a la realización de las andas de Ibáñez. El llamador del paso se estrenó en el año 2011. El Paso de Palio de la Cofradía tiene como titular, a la imagen de María Santísima Refugio de los Pecadores es obra del escultor natural de Rociana del Condado (Huelva) D. Elías Rodríguez Picón. La dolorosa llega a Jerez al Convento de los Padres Capuchinos siendo adquirida por la Hermandad mediante cuestación popular en el año 2007 y bendecida el 7 de diciembre de 2008 en la Iglesia Parroquial de Fátima.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Continuación de la talla del paso de Misterio (talla de los respiraderos frontal y trasero, maniquetas y candelabros laterales), realizada por Antonio Ibáñez. Corona de salida de plata de ley sobredorada para la Virgen, realizada por Antonio Garcia Falla.Nueva saya para la Virgen, realizada por Antonio Villar. Inicio de la candeleria del paso de palio (dos calles completas). Restauración y ampliación de los candelabros de cola para el paso de palio, por Antonio García Falla. Restauración del Crucificado, nuevo Titular de la Hermandad, realizada por el Matrimonio Navarrete.n. Restauración y ampliación de los candelabros de cola para el paso de palio, por Antonio García Falla. Restauración del Crucificado, nuevo Titular de la Hermandad, realizada por el Matrimonio Navarrete. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA; Delante de la Cruz de Guia, la Agrupación Musical Virgen del Refugio, de Jerez, la Agrupación Musical Virgen de Valme de Dos Hermanas (Sevilla) tras el Paso de Misterio y la Banda de Música "Alvarez Quintero" de Utrera (Sevilla) tras el paso de Palio.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Continuación de la talla del paso de Misterio (talla de los respiraderos frontal y trasero, maniquetas y candelabros laterales), realizada por Antonio Ibáñez. Corona de salida de plata de ley sobredorada para la Virgen, realizada por Antonio Garcia Falla.Nueva saya para la Virgen, realizada por Antonio Villar. Inicio de la candeleria del paso de palio (dos calles completas). Restauración y ampliación de los candelabros de cola para el paso de palio, por Antonio García Falla. Restauración del Crucificado, nuevo Titular de la Hermandad, realizada por el Matrimonio Navarrete.n. Restauración y ampliación de los candelabros de cola para el paso de palio, por Antonio García Falla. Restauración del Crucificado, nuevo Titular de la Hermandad, realizada por el Matrimonio Navarrete. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA; Delante de la Cruz de Guia, la Agrupación Musical Virgen del Refugio, de Jerez, la Agrupación Musical Virgen de Valme de Dos Hermanas (Sevilla) tras el Paso de Misterio y la Banda de Música "Alvarez Quintero" de Utrera (Sevilla) tras el paso de Palio.</masdatos>
  </cofradia>
 
     <cofradia>
@@ -430,7 +437,11 @@
         </horarios>
         <images>
             <image>http://imageshack.us/a/img443/8838/santacena1.jpg</image>
-            <image>http://imageshack.us/a/img96/5271/santacena2m.jpg</image>
+            <image>http://imageshack.us/a/img27/3936/santacena6.jpg</image>
+			<image>http://imageshack.us/a/img13/7514/santacena5.jpg</image>
+			<image>http://imageshack.us/a/img827/5383/santacena4.jpg</image>
+			<image>http://imageshack.us/a/img29/3065/santacena02.jpg</image>
+			<image>http://imageshack.us/a/img839/2772/santacena7.jpg</image>
             <image>http://imageshack.us/a/img833/9192/santacena3.jpg</image>
         </images>
         <pois>
@@ -440,7 +451,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: La Hermandad de Penitencia se funda en 1953, aunque está fusionada con la primitiva Sacramental. &#xA;&#xA;Imágenes: La portentosa figura del Señor de la Cena es obra de Luis Ortega Bru, que completó la mayoría de las imágenes secundarias del impresionante misterio. María Stma de la Paz y Concordía es anónima del s. XVII. &#xA;&#xA;Paso: El paso de misterio es una joya de la Semana Santa jerezana, y se compró a la trianera hermandad del Cachorro. Es obra de Castillo Lastrucci siguiendo el dibujo de Juan Pérez Calvo. El paso de palio es de Esperanza Elena Caro, y el techo se inspira en trazados mudéjares muy característicos.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Restauración de las antiguas caídas del palio para el paso de Gloria de la Virgen de la Paz en sus Misterios Gloriosos. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Tras el paso de Misterio la Agrupación Musical Nuestra Señora de la Estrella, de Dos Hermanas (Sevilla) y tras el paso de palio la Banda de Música Municipal de Coria del Río (Sevilla).</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Restauración de las antiguas caídas del palio para el paso de Gloria de la Virgen de la Paz en sus Misterios Gloriosos. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Tras el paso de Misterio la Agrupación Musical Nuestra Señora de la Estrella, de Dos Hermanas (Sevilla) y tras el paso de palio la Banda de Música Municipal de Coria del Río (Sevilla).</masdatos>
     </cofradia>
 
     <cofradia>
@@ -475,7 +486,8 @@
             </horario>
         </horarios>
         <images>
-            <image>http://imageshack.us/a/img171/5766/candelaria1.jpg</image>
+            <image>http://imageshack.us/a/img577/5766/candelaria1.jpg</image>
+			<image>http://imageshack.us/a/img541/6865/candelaria3.jpg</image>
             <image>http://imageshack.us/a/img543/2364/candelaria2.jpg</image>
         </images>
         <pois>
@@ -485,7 +497,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Sus primeras reglas se aprueban en 1957. &#xA;&#xA;Imágenes: En 1977 se le encarga a Pinto Berraquero que realice la imagen del Señor de las Misericordias a imagen de la antigua de Castillo que la había destruido la carcoma. Manuel Prieto Fernández es el autor de Nuestra Señora de la Candelaria en 1959. &#xA;&#xA;Paso: El misterio se le encarga a Manuel Guzmán Bejarano tallado en caoba, mientras que la orfebrería del palio es realizada por Manuel de los Ríos en 1983 y los bordados por Carlos del Corral.</descripcion>
-		<masdatos>Estrenos:&#xA;&#xA;Paño que porta la Santa Mujer Veronica, realizado por José Luis Romeral y donado por Rafael Marín Romero. La marcha "Una Cruz de Misericordia" cuyo autor es D. Gabriel Vicenti Hidalgo. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Agrupación Musical Nuestro Padre Jesús de la Sentencia y Humildad de Jerez, para el paso de Misterio y la Banda de Música Municipal Maestro Enrique Galán de Rota (Cadiz) para el Paso de Palio.</masdatos>
+		<masdatos>Estrenos:&#xA;&#xA;Paño que porta la Santa Mujer Veronica, realizado por José Luis Romeral y donado por Rafael Marín Romero. La marcha "Una Cruz de Misericordia" cuyo autor es D. Gabriel Vicenti Hidalgo. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Agrupación Musical Nuestro Padre Jesús de la Sentencia y Humildad de Jerez, para el paso de Misterio y la Banda de Música Municipal Maestro Enrique Galán de Rota (Cadiz) para el Paso de Palio.</masdatos>
     </cofradia>
     <cofradia>
         <nombre_corto>Amor y Sacrificio</nombre_corto>
@@ -529,7 +541,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: En 1941 se aprueban sus primeras reglas, aunque la Hermandad se aprueba un año antes. &#xA;&#xA;Imágenes: Nuestra Señora del Amor y Sacrificio es obra de Carlos Monteverde Herrera, que la realizó en 1941 a imagen y semejanza de la que está en la Iglesia Mayor de Tarifa. &#xA;&#xA;Paso: El paso es obra de Soto, y fue realizado en caoba en la década de los ochenta. Es portado por cargadores, y no por costaleros.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Restauración de la Virgen, por Ressur S.A. &#xA;&#xA; Acompañamiento musical: &#xA;&#xAEs una Hermandad de silencio en la que sus hermanos no dejan de rezar el rosario en su recorrido.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Restauración de la Virgen, por Ressur S.A. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Es una Hermandad de silencio en la que sus hermanos no dejan de rezar el rosario en su recorrido.</masdatos>
     </cofradia>
    <cofradia>
         <nombre_corto>La Viga</nombre_corto>
@@ -573,7 +585,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Aunque la Hermandad se funda en 1946, tiene sus orígenes en la antigua Hermandad de San Salvador, del siglo XVI. &#xA;&#xA;Imágenes: La talla del Cristo de la Viga es anónima, y es el crucificado más antiguo que procesiona en Semana Santa, ya que pertenece a finales del siglo XIV o principios del XV. Nuestra Señora del Socorro es copatrona de la ciudad, y es obra anónima del s. XVI. &#xA;&#xA;Paso: El paso de Cristo perteneció a la Hermandad del Santo Crucifijo y fue realizado en 1928 en caoba por José Asencio Vivero y los tallistas hermanos Cintado. Pedro Ramírez guió a un grupo de hermanos para bordar el techo y las caídas del paso de palio, que fue adquirido a la hermandad del Santo Entierro de Rota en 1975.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun &#xA;&#xA; Acompañamiento musical:&#xA;&#xATras;el palio de la Virgen del Socorro, la Banda de Musica Virgen de la Victoria (Las Cigarreras) de Sevilla. El paso del Cristo de la Viga es de riguroso silencio.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun &#xA;&#xA;Acompanamiento Musical:&#xA;&#xA;Tras;el palio de la Virgen del Socorro, la Banda de Musica Virgen de la Victoria (Las Cigarreras) de Sevilla. El paso del Cristo de la Viga es de riguroso silencio.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -608,7 +620,8 @@
             </horario>
         </horarios>
         <images>
-            <image>http://imageshack.us/a/img824/3403/clemencia1.jpg</image>
+            <image>http://imageshack.us/a/img837/3403/clemencia1.jpg</image>
+			<image>http://imageshack.us/a/img571/360/clemencia2.jpg</image>
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.701424" long="-6.139008" interes="NO"></poi>
@@ -617,7 +630,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Don Rafael Bellido Caro la hace hermandad el 3 de diciembre de 1998. &#xA;&#xA;Imágenes: Los hermanos Ortega Alonso realizaron la portentosa imagen del Santísimo Cristo de la Clemencia en la Traición de Judas en 1993. María Santísima de Salud y Esperanza es obra de Salvador Madroñal y es de 1999. &#xA;&#xA;Paso: El paso de misterio empezó a realizarse en 1998 en el taller de los hermanos Caballero, de Sevilla. Los faldones bordados y los respiraderos son obra de Fernando Calderón. </descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Dos sayas bordadas para la Virgen de Salud y Esperanza. Manto verde para la Virgen. Cruz pectoral bendecida por el Papa para la Virgen. Continua la realización del paso de palio (peana para la Virgen, que será recibida pasada la Semana Santa). Dalmáticas blancas &#xA;&#xA; Acompañamiento musical: &#xA;&#xA; La Agrupación Musical Los Gitanos, de Sevilla va tras el paso desde el año de su estreno en la Carrera Oficial en el 2005.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Dos sayas bordadas para la Virgen de Salud y Esperanza. Manto verde para la Virgen. Cruz pectoral bendecida por el Papa para la Virgen. Continua la realización del paso de palio (peana para la Virgen, que será recibida pasada la Semana Santa). Dalmáticas blancas &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA; La Agrupación Musical Los Gitanos, de Sevilla va tras el paso desde el año de su estreno en la Carrera Oficial en el 2005.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -662,7 +675,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Las hermandad se funda el 6 de julio de 1957. &#xA;&#xA;Imágenes: El Cristo de la Defensión es de José Esteve, y fue traído a Jerez desde Valencia en 1794. María Stma. de la O es obra de Alvarez Duarte, de 1971. &#xA;&#xA;Paso: El paso de misterio es obra de Antonio Martín en madera de cedro, y se termina en 1990. El diseño del palio es obra de Dubé de Luque, y lo realiza Manuel de los Ríos, salvo la candelería y peana que es de Villareal.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Tras el paso de Cristo la Banda de Cornetas y Tambores de la Centuria Macarena de Sevilla y tras el paso de Palio, la Banda de Música Municipal de Gerena (Sevilla).</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Tras el paso de Cristo la Banda de Cornetas y Tambores de la Centuria Macarena de Sevilla y tras el paso de Palio, la Banda de Música Municipal de Gerena (Sevilla).</masdatos>
     </cofradia>
 
     <cofradia>
@@ -697,7 +710,9 @@
             </horario>
         </horarios>
         <images>
-            <image>http://imageshack.us/a/img541/3683/amor1a.jpg</image>
+            <image>http://imageshack.us/a/img51/9514/amor2p.jpg</image>
+			<image>http://imageshack.us/a/img199/7120/amor1f.jpg</image>
+			<image>http://imageshack.us/a/img825/8341/amor3.jpg</image>
             <image>http://imageshack.us/a/img707/4543/amor2gj.jpg</image>
         </images>
         <pois>
@@ -706,9 +721,10 @@
             <poi description="Plaza Asuncion" comment="" lat="36.683302" long="-6.138779" interes="NO"></poi>
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
-    </cofradia>
+
 		<descripcion>Año de fundación: La hermandad se funda en 1940. &#xA;&#xA;Imágenes: El Santísimo Cristo del Amor es obra de Ramón Chaveli, y se terminó a principios de 1941. La Dolorosa de la Cofradía está atribuida a la escuela de La Roldana, de finales del s.XVII, y es de una exquisita calidad, con la particularidad que busca el cielo con la mirada. Nuestro Padre Jesús Cautivo es obra de Eslava (1969). &#xA;&#xA;Paso: El paso del Santísimo Cristo del Amor fue estrenado en 1994 y es diseño de Antonio Dubé de Luque. Se terminó en el año 2000. En la actualidad se está terminando el nuevo paso del Cautivo, obra de Francisco Verdugo y Manuel Durán.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Continuación del dorado del paso del Nazareno Cautivo. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;La Agrupación Musical San Juan, de Jerez, tras el paso del Nazareno, y Banda de Cornetas y Tambores de Virgen del Rosario, tras el paso del Cristo del Amor.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Continuación del dorado del paso del Nazareno Cautivo. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;La Agrupación Musical San Juan, de Jerez, tras el paso del Nazareno, y Banda de Cornetas y Tambores de Virgen del Rosario, tras el paso del Cristo del Amor.</masdatos>
+    </cofradia>
     <cofradia>
         <nombre_corto>Desconsuelo</nombre_corto>
         <nombre_largo>VENERABLE Y REAL HERMANDAD SACRAMENTAL Y ARCHICOFRADIA DEL SILENCIO DE NUESTRO PADRE Y SENOR DE LAS PENAS, MARIA SANTISIMA DEL DESCONSUELO, SAN JUAN EVANGELISTA Y SENOR SAN BLAS</nombre_largo>
@@ -742,7 +758,9 @@
         </horarios>
         <images>
             <image>http://imageshack.us/a/img202/6320/desconsuelo1.jpg</image>
-            <image>http://imageshack.us/a/img6/4287/desconsuelo2.jpg</image>
+            <image>http://imageshack.us/a/img195/5324/desconsuelo4.jpg</image>
+			<image>http://imageshack.us/a/img707/4287/desconsuelo2.jpg</image>
+			<image>http://imageshack.us/a/img811/7381/desconsuelo3.jpg</image>
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.684475" long="-6.145713" interes="NO"></poi>
@@ -751,7 +769,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Las primeras Reglas de la Hermandad fueron aprobadas el 18 de Mayo de 1718, aunque seis años antes se constituyó la Hermandad. &#xA;&#xA;Imágenes: Ambas son anónimas del s. XVIII. El día 13 de Abril de 1713 Nuestra Señora del Desconsuelo y San Juan Evangelista fueron bendecidas, y el Señor de las Penas un año después, aunque numerosas atribuciones apuntan a Camacho la autoría. &#xA;&#xA;Paso: La canastilla del misterio es de Guzmán Bejarano (1968) y el palio, realizado en plata de ley, es obra de Manuel Gabella Baeza, con bordados de Juan Manuel Rodríguez Ojeda adquiridos a la Hermandad de la Amargura de Sevilla. </descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Restauración del manto de salida de la Virgen del Desconsuelo, por José Ramón Peleteiro. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;La Agrupación Musical Nuestra Señora de las Lágrimas de San Fernando (Cádiz), en el Paso de Misterio y la Banda de Música Virgen del Castillo de Lebrija (Sevilla), tras el paso de la Virgen.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Restauración del manto de salida de la Virgen del Desconsuelo, por José Ramón Peleteiro. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;La Agrupación Musical Nuestra Señora de las Lágrimas de San Fernando (Cádiz), en el Paso de Misterio y la Banda de Música Virgen del Castillo de Lebrija (Sevilla), tras el paso de la Virgen.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -787,6 +805,9 @@
         </horarios>
         <images>
             <image>http://imageshack.us/a/img41/7703/soberano1.jpg</image>
+			<image>http://imageshack.us/a/img266/9812/soberano2.jpg</image>
+			<image>http://imageshack.us/a/img404/4841/soberano3.jpg</image>
+			<image></image>
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.697811" long="-6.107583" interes="NO"></poi>
@@ -795,7 +816,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: 8 de diciembre de 2004. &#xA;&#xA;Imágenes: Nuestro Padre Jesús en su Soberano Poder ante Caifás es obra de Manuel Ramos Corona. Se bendijo el 9 de julio de 1999 en la Parroquia de las Viñas. &#xA;&#xA;Paso: El paso de misterio lo realiza Antonio Ibañez, sevillano que hizo el paso del Santo Entierro de la capital hispalense. Se empieza en el 2002 y aún se está realizando.</descripcion>
-		<masdatos>Estrenos:&#xA;&#xA;Continuación del dorado del paso de Misterio, realizado por Manuel Carmona. Dorado de la trasera completado y los candelabros en proceso.  &#xA;&#xA; Acompañamiento musical: &#xA;&#xA; La Agrupación Musical Nuestro Padre Jesús de la Sentencia, de Jerez, toca los sones tras el paso.</masdatos>
+		<masdatos>Estrenos:&#xA;&#xA;Continuación del dorado del paso de Misterio, realizado por Manuel Carmona. Dorado de la trasera completado y los candelabros en proceso.  &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA; La Agrupación Musical Nuestro Padre Jesús de la Sentencia, de Jerez, toca los sones tras el paso.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -831,7 +852,7 @@
             <image>http://imageshack.us/a/img594/4263/consuelo1.jpg</image>
         </images>
 		<descripcion>Año de fundación: Don Juan del Río la hace Hermandad el 8 de diciembre de 2004. &#xA;&#xA;Imágenes: El 29 de marzo de 1996 fue bendecida la imagen de María Stma. del Consuelo, obra de Pedro Ramírez, que es autor también del Nuestro Señor del Amparo, que aún no procesiona. &#xA;&#xA;Paso: El paso lo realiza Francisco Pineda. Comienza en el 2001 y este año finaliza la talla del mismo. </descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Varales del Paso de Palio. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA; La Banda de Música Municipal de Coria del Río (Sevilla) tras el único paso</masdatos>	
+		<masdatos>Estrenos: &#xA;&#xA;Varales del Paso de Palio. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA; La Banda de Música Municipal de Coria del Río (Sevilla) tras el único paso</masdatos>	
  </cofradia>
 
     <cofradia>
@@ -876,7 +897,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Sus primeras reglas se aprueban el 22 de julio de 1960. &#xA;&#xA;Imágenes: Antonio Eslava es el autor del Santísimo Cristo de la Caridad (1963). La Virgen del Patrocinio es obra de Francisco Pinto Berraquero, y data de 1959. &#xA;&#xA;Paso: José Pérez Calvo diseña el paso de Cristo, y era propiedad de la sevillana hermandad de San Benito (1945). La mayoría de la orfebrería del palio es de Villarreal, y los bordados de Cachero sobre malla de hilo de oro.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Banda de Cornetas y Tambores Santísimo Cristo del Amor y de la Caridad tras del paso de Misterio y Banda Municipal de Música Maestro Enrique Galán de Rota tras el paso de palio. </masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Banda de Cornetas y Tambores Santísimo Cristo del Amor y de la Caridad tras del paso de Misterio y Banda Municipal de Música Maestro Enrique Galán de Rota tras el paso de palio. </masdatos>
     </cofradia>
 
     <cofradia>
@@ -911,7 +932,9 @@
             </horario>
         </horarios>
         <images>
-            <image>http://imageshack.us/a/img26/958/trescaidas1.jpg</image>
+            <image>http://imageshack.us/a/img266/818/trescaidas2.jpg</image>
+			<image>http://imageshack.us/a/img208/958/trescaidas1.jpg</image>
+			<image>http://imageshack.us/a/img580/4559/trescaidas3.jpg</image>
             <image>http://imageshack.us/a/img811/818/trescaidas2.jpg</image>
         </images>
         <pois>
@@ -921,7 +944,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: En 1940 cuando se aprueban su reorganización. &#xA;&#xA;Imágenes: El Señor de las Tres Caídas es obra de Ramón Chaveli, que la terminó en 1940. La Dolorosa es obra anónima de finales de XVII o principios del XVIII. &#xA;&#xA;Paso: El paso del Señor Caído es de José Ovando, que lo realizó en caoba y plata cofradiera en 1954. El palio es una joya en bordados, realizados en el Convento de Santa Isabel de Sevilla. La mayoría de la orfebrería es obra del taller de Villarreal.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Delante del Paso del Señor de las Tres caídas, Escolanía cantando el Miserere en latín, de Eslava. y la Banda Municipal de Gerena (Sevilla) tras el paso de Palio de la Virgen de los Dolores, por primera vez.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Delante del Paso del Señor de las Tres caídas, Escolanía cantando el Miserere en latín, de Eslava. y la Banda Municipal de Gerena (Sevilla) tras el paso de Palio de la Virgen de los Dolores, por primera vez.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -966,7 +989,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: La hermandad se funda el 29 de octubre de 1928. &#xA;&#xA;Imágenes: El italiano Jácome Bacaro es el autor del titular cristífero de la cofradía, y lo realizó en 1750. La Amargura es una dolorosa de mediados del siglo XVII, anónima, y es una de las Dolorosas de mayor devoción de toda la ciudad. &#xA;&#xA;Paso: El paso de Cristo es obra de José Ovando Merino, de mediados el siglo pasado y recuerda al paso de misterio de la cofradía sevillana de la Amargura. El palio es el más grande de la Semana Santa jerezana. Los bordados son del Convento de las Madres Carmelitas, y es de la década de los 60. Toda la orfebrería del paso es del taller de Villarreal.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Potencias de oro para el Señor de la Flagelación. Restauración de la antigua saya de salida de la Virgen, realizada en los Talleres de Fernández y Enríquez. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Banda de Cornetas y Tambores Vera-Cruz de Utrera (Sevilla) tras el paso de Misterio y la Banda de Música Julián Cerdán de Sanlúcar de Barrameda (Cádiz) tras el de palio.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Potencias de oro para el Señor de la Flagelación. Restauración de la antigua saya de salida de la Virgen, realizada en los Talleres de Fernández y Enríquez. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Banda de Cornetas y Tambores Vera-Cruz de Utrera (Sevilla) tras el paso de Misterio y la Banda de Música Julián Cerdán de Sanlúcar de Barrameda (Cádiz) tras el de palio.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -1012,7 +1035,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Casi con toda probabilidad se funda en 1660. &#xA;&#xA;Imágenes: El Prendimiento es obra anónima, pero atribuida casi por unanimidad a La Roldana, y es del siglo XVII. María Santísima del Desamparo es de la escuela valenciana, anónima de finales del XIX. &#xA;&#xA;Paso: Manuel Guzmán Bejarano realizó el paso de misterio de esta hermandad y lo terminó en 1984. La orfebrería del palio es de Lorenzo Jiménez Rueda, y los bordados de José Manuel Elena Martín.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Banda de Cornetas y Tambores Santísimo Cristo de la Victoria, de León, tras el paso de Misterio y la Banda de Música del Nazareno de Rota (Cádiz), para el paso de Palio.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Banda de Cornetas y Tambores Santísimo Cristo de la Victoria, de León, tras el paso de Misterio y la Banda de Música del Nazareno de Rota (Cádiz), para el paso de Palio.</masdatos>
     </cofradia>
     <cofradia>
         <nombre_corto>Redencion</nombre_corto>
@@ -1046,7 +1069,9 @@
             </horario>
         </horarios>
         <images>
-            <image>redencion_1</image>
+            <image>http://imageshack.us/a/img831/3899/redencion1.jpg</image>
+			<image>http://imageshack.us/a/img41/4268/redencion2.jpg</image>
+
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.693630" long="-6.144394" interes="NO"></poi>
@@ -1055,7 +1080,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Esta lasaliana hermandad se funda el día de la Inmaculada de 2004. &#xA;&#xA; Imágenes: Las imágenes titulares de la cofradía son obra de Juan Antonio Gonzalez Ventura, de Sevilla. Se bendijeron el 28/03/96. &#xA;&#xA;Paso: La talla de Nuestro Padre Jesús de la Redención, obra del escultor sevillano Juan Antonio González Ventura en 1985, tiene una altura aproximada de 1,90 metros, presenta rasgos y matices muy parecidos a las de las gubias de Luis Ortega Brú, destacando sobre todo su postura y sus expresivas manos. Se bendijo el dia 28 de marzo de 1996. De los Talleres sevillanos de D. Manuel de los Ríos salieron las potencias doradas de Ntro. Padre Jesús de la Redención. En 2011 estrenó otras potencias labradas por Ildefonso Oñate. La imagen del Señor fue restaurada por su mismo autor en el año 2005. En 2011 estrenó túnica morada.Las imágenes secundarias son obra del imaginero gaditano Luís Enrique González Rey, estrenándose en 2006 la imagen de Malco, judío que abofetea a Jesús, para 2007 se estrenan las imágenes del Sumo Sacerdote Anás y el miembro del sanedrín José de Arimatea y para 2009 las imágenes del otro miembro del sanedrín y otro guardia judío del sanedrín.El paso encuentra en ejecución de talla por el talllista sevillano Francisco Javier Pineda. En el año 2007 se estrenó la canastilla, prestándole, la Hdad sevillana del Cautivo de San Pablo para su primera salida por Carrera Oficial, los candelabros de guardabrisas. En el año 2009 se estrenaron el trono y las dos sillas, realizadas en talla por Jesús Guerrero, estando pendientes de dorado y su terminación en orfebrería. En el año 2011 se terminó de tallar la canastilla del paso, estrenándose también ese año el nuevo llamador del mismo.</descripcion>
-		<masdatos>Estrenos:&#xA;&#xA;Maniquetas talladas para el paso de misterio. Tallado de los respiraderos laterales y traseros del paso de misterio. Cartela de la delantera. Dos coronas de camarin para la Virgen. Tres mantos de brocado para la Virgen: uno de color blanco, otro celeste y otro verde, donados por dos miembros del Grupo Joven. Puñal y cinco mariquillas. Dos sayas de brocado: una de color verde y otra blanca. Cuatro candeleros para el futuro paso de palio. Estola de San Juan. Marcha "La Redención ante Anás". &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;La Banda de Cornetas y Tambores Zoilo Ruiz Mateos de Rota (Cádiz), tras el paso de Misterio.</masdatos>		
+		<masdatos>Estrenos:&#xA;&#xA;Maniquetas talladas para el paso de misterio. Tallado de los respiraderos laterales y traseros del paso de misterio. Cartela de la delantera. Dos coronas de camarin para la Virgen. Tres mantos de brocado para la Virgen: uno de color blanco, otro celeste y otro verde, donados por dos miembros del Grupo Joven. Puñal y cinco mariquillas. Dos sayas de brocado: una de color verde y otra blanca. Cuatro candeleros para el futuro paso de palio. Estola de San Juan. Marcha "La Redención ante Anás". &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;La Banda de Cornetas y Tambores Zoilo Ruiz Mateos de Rota (Cádiz), tras el paso de Misterio.</masdatos>		
     </cofradia>
 
     <cofradia>
@@ -1100,7 +1125,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: La Hermandad fue fundada en 1542. &#xA;&#xA;Imágenes: El Señor de la Esperanza es obra anónima, pero atribuida a Juan de Mesa. Es el crucificado de mayor envergadura de Jerez. Nuestra Señora de las Lágrimas es obra de Antonio Eslava. &#xA;&#xA;Paso: El paso de misterio ha sufrido modificaciones, pero su canasto es obra de Luis Jiménez Espinosa y Guzmán Bejarano. Se terminó en 1965. La orfebrería del paso de palio es del taller de Villarreal, y la corona de Lorenzo Jiménez Rueda.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Para el paso de Misterio, Música de Capilla, especialmente de los siglos XVI y XVII. Intervendrá la Capilla Musical A Capella. También lo hará la Asociación Musical Astigitana de Écija (Sevilla) tras el Palio. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Inicio de los nuevos bordados del paso de palio (se estrenarán en años venideros, una vez hayan concluido los trabajos) y nuevo Estandarte corporativo, realizado todo por José Ramón Paleteiro.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Para el paso de Misterio, Música de Capilla, especialmente de los siglos XVI y XVII. Intervendrá la Capilla Musical A Capella. También lo hará la Asociación Musical Astigitana de Écija (Sevilla) tras el Palio. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Inicio de los nuevos bordados del paso de palio (se estrenarán en años venideros, una vez hayan concluido los trabajos) y nuevo Estandarte corporativo, realizado todo por José Ramón Paleteiro.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -1144,7 +1169,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: La hermandad se funda en 1948 por un grupo de estudiantes. &#xA;&#xA;Imágenes: El Cristo de la Lanzada está atribuida a Diego Roldán, de primer tercio del siglo XVIII. Nuestra Señora del Buen Fin es obra de Alvarez Duarte, y la hermandad la adquiere en 1968. &#xA;&#xA;Paso: El único paso de la cofradía es obra de Manuel Guzmán Bejarano, que lo finalizó en el año 1986. El dorado es obra de Manuel Calvo, que lo termina a principios de la década de los noventa del siglo pasado.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;La Banda de Música del Maestro Agripino Lozano de San Fernando (Cádiz) suena tras el paso de Misterio.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;La Banda de Música del Maestro Agripino Lozano de San Fernando (Cádiz) suena tras el paso de Misterio.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -1189,7 +1214,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: La Archicofradía es de 1555 y la hermandad de penitencia de 1941. &#xA;&#xA;Imágenes: Luis Vasallo Parodi realiza en 1943 la escultura del Nuestr Padre Jesús Orando en el Huerto. María Santísima de la Confortación es anónima, pero atribuida a Jacinto Pimentel, un escultor del siglo XVII. &#xA;&#xA;Paso: El paso de misterio es ideado y realizado por el sevillano Manuel Guzmán Bejarano y se terminó de dorar en 1970. Villarreal es el autor de la orfebrería del paso de palio, y Juan Manuel Guzmán Sánchez ?Juanelo? es el creador de los bordados del palio. Las caídas son de Juan Manuel Rodríguez Ojeda.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;La Agrupación Musical de Nuestro Padre Jesus de la Sentencia y Humildad, de Jerez, tras el paso de la Oración en el Huerto y la Banda de Música Municipal de San Fernando (Cádiz) tras el paso de palio.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;La Agrupación Musical de Nuestro Padre Jesus de la Sentencia y Humildad, de Jerez, tras el paso de la Oración en el Huerto y la Banda de Música Municipal de San Fernando (Cádiz) tras el paso de palio.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -1281,7 +1306,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: La Hermandad se aprueba el 31 de mayo de 1574. &#xA;&#xA;Imágenes: El Santo Crucifijo es obra maestra del barroco andaluz, atribuida con mucho fundamento a José de Arce, escultor del XVII. María Santísima de la Encarnación fue realizada por Castillo Lastrucci en 1929. &#xA;&#xA;Paso: El paso de cristo se realizó en 1945 a imagen del del Cristo del Amor de Sevilla, obra de Francisco Ruíz Rodríguez, ?Currito el dorador?. El paso de palio está diseñado por Juan Manuel Rodríguez Ojeda y se estrenó en 1931. La orfebrería es de Seco Velasco.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Es una hermandad de rigurosa penitencia por lo que no lleva acompañamiento musical. El sonido de los pasos de los costaleros contrasta con el respetuoso silencio que se guarda a su paso por las calles Jerezanas.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Es una hermandad de rigurosa penitencia por lo que no lleva acompañamiento musical. El sonido de los pasos de los costaleros contrasta con el respetuoso silencio que se guarda a su paso por las calles Jerezanas.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -1326,7 +1351,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Sus primeras reglas datan de 1561. &#xA;&#xA; Imágenes: La imagen del Señor es obra de Ramón Chaveli, que se inspiró en 1940 en el nazareno sevillano de Pasión. La Dolorosa es de autor desconocido y fue adquirida por la hermandad en 1951. &#xA;&#xA;Paso: El paso del Señor de la Vía-Crucis es obra de José Ovando, que representó en él las catorce estaciones de un vía-crucis. Se terminó en 1954. El palio es de Carrasquilla, con tonalidades verdes y rojas, y la orfebrería es de Seco Velasco.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Es Cofradía de silencio, por lo que no lleva música.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Es Cofradía de silencio, por lo que no lleva música.</masdatos>
     </cofradia>
     <cofradia>
         <nombre_corto>Nazareno</nombre_corto>
@@ -1361,8 +1386,12 @@
         </horarios>
         <images>
             <image>http://imageshack.us/a/img15/373/nazareno1.jpg</image>
-            <image>http://imageshack.us/a/img855/8572/nazareno2.jpg</image>
+            <image>http://imageshack.us/a/img254/8572/nazareno2.jpg</image>
             <image>http://imageshack.us/a/img717/6194/nazareno3.jpg</image>
+			<image>http://imageshack.us/a/img42/7931/nazareno4.jpg</image>
+			<image>http://imageshack.us/a/img607/4880/nazareno5.jpg</image>			
+			<image>http://imageshack.us/a/img716/732/nazareno6.jpg</image>			
+			<image>http://imageshack.us/a/img29/3025/nazareno7.jpg</image>	
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.686523" long="-6.137484" interes="NO"></poi>
@@ -1371,7 +1400,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Sus primeras reglas se remontan a 1585. &#xA;&#xA;Imágenes: Nuestro Padre Jesús Nazareno es una obra anónima del s. XVI, la imagen de San Juan es también anónima del XVIII y Nuestra Madre y Señora del Traspaso es de finales de ese siglo o principios del siguiente, de autor desconocido. &#xA;&#xA; Paso: El paso de Jesús se estrenó en 1946, y es obra de Juan Pérez Calvo, que un año después realizó el de San Juan. El techo de palio es de Juan Manuel Rodríguez Ojeda, y el manto de escuela valenciana. Toda la orfebrería es de Villarreal.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Cera de toda la Cofradía realizada por Cerería Nuestra Señora de la Merced. Encaje de punto inglés para la Virgen del Traspaso, regalo de unos hermanos. Treinta faroles nuevos para renovar los que portan las Hermanas de Jesús. Llamador del paso de San Juan Evangelista donado por la hermana Cecilia Thomson. Saya pintada a mano para la Virgen del Traspaso por Daniel González. Nueva marcha dedicada a la Virgen del Traspaso, cuyo nombre es "Trapasada por el Dolor" cuyo autor es de Juan Carlos Gamino, profesor de la Escuela Municipal de Música. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Delante de la Cruz de Guía, por confirmar la Banda de Cornetas y Tambores y la Banda de Música Municipal de Cuevas del Becerro (Málaga) tras el paso de Palio.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Cera de toda la Cofradía realizada por Cerería Nuestra Señora de la Merced. Encaje de punto inglés para la Virgen del Traspaso, regalo de unos hermanos. Treinta faroles nuevos para renovar los que portan las Hermanas de Jesús. Llamador del paso de San Juan Evangelista donado por la hermana Cecilia Thomson. Saya pintada a mano para la Virgen del Traspaso por Daniel González. Nueva marcha dedicada a la Virgen del Traspaso, cuyo nombre es "Trapasada por el Dolor" cuyo autor es de Juan Carlos Gamino, profesor de la Escuela Municipal de Música. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Delante de la Cruz de Guía, por confirmar la Banda de Cornetas y Tambores y la Banda de Música Municipal de Cuevas del Becerro (Málaga) tras el paso de Palio.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -1416,7 +1445,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: Se funda el 26 de marzo de 1957. &#xA;&#xA;Imágenes: El Santísimo Cristo de la Buena Muerte lo talló el imaginero sevillano Antonio Castillo Lastrucci en 1957. María Santísima del Dulce Nombre es obra de la misma gubia, y fue realizada en 1964. &#xA;&#xA;Paso: El paso de Cristo fue realizado por Francisco Barroso en los primeros años de la década de los sesenta, en ukola brasileña en su color. La orfebrería del paso de palio es de Villarreal.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Es Cofradía de silencio, por lo que no lleva música.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Es Cofradía de silencio, por lo que no lleva música.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -1459,7 +1488,11 @@
             <image>http://imageshack.us/a/img208/4219/yedra6.jpg</image>
             <image>http://imageshack.us/a/img145/6825/yedra7.jpg</image>
             <image>http://imageshack.us/a/img203/7113/yedra8.jpg</image>
-        </images>
+			<image>http://imageshack.us/a/img5/3651/yedra9.jpg</image>
+			<image>http://imageshack.us/a/img233/2963/yedra10.jpg</image>
+			<image>http://imageshack.us/a/img40/6493/yedra11.jpg</image>
+			<image>http://imageshack.us/a/img853/6082/yedra12.jpg</image>
+		</images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.677944" long="-6.131423" interes="NO"></poi>
             <poi description="Palquillo" comment="" lat="36.685043" long="-6.136379" interes="NO"></poi>
@@ -1467,7 +1500,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>ESPERANZA CORONADA, ESPERANZA NUESTRA, ESPERANZA DE LA YEDRA. &#xA;&#xA; Coronacion Canonica Esperanza de la Yedra 14 de Septiembre 2013. &#xA;&#xA;Historia: &#xA;&#xA;En el año 1928 se intenta fundar una cofradía en la Capilla de la Yedra. Al poco tiempo adquirieron una Dolorosa, que había sido la titular de la Hermandad de los Dolores. En el año 1930 hace la primera Estación de Penitencia. En el año 37 una comisión reorganizadora fija las líneas maestras de la actual hermandad. En diciembre del 39 la hermandad compró por 1.250 ptas. las ocho figuras que componían el misterio de la Hermandad de la Macarena. Ahora sólo procesionan seis, que para algunos entendidos son de 1654. Estas figuras, al parecer, fueron retocadas en 1898. En marzo de 1948 se bendice la imagen del Señor, obra del valenciano Carmelo Vicente Suria. El paso se comenzó a tallar en el año 1986 y quedó totalmente terminado en el 92. El diseño es de Antonio Martín Fernández; las imágenes del canasto, de Manuel Carmona y el dorado, de Artesanía Arosa. Ya se ha dicho que la Dolorosa fue titular de una hermandad fundada a mediados del siglo XVIII y de estos años es la imagen. Ahora, y después de restaurada por Francisco Bazán y Francisco García Brenes (2006) se asegura que su autor fue Diego Roldán Serrralllonga. En el año 1946 Esperanza Elena Caro comenzó a bordar el palio. El palio y el manto son de terciopelo verde; los faldones, de terciopelo rojo del año 52. El diseño del manto es de Ignacio Gómez Millán (Ignacio era el único miembro de esta familia que “oficialmente” no tenía nada que ver con el arte, era químico. Ahora se habla de abrir un proceso para su beatificación). Es de suma importancia la imagen venera de éste paso. En plata de ley se ha copiado la imagen que se venera en la Capilla del Sagrario, de la Parroquia de Madre de Dios. La imagen está policromada y el estofado se ha imitado perfectamente con un pulcro cincelado. Es obra del Taller Lorenzo, Jiménez y Rueda. &#xA;&#xA;Templo: &#xA;&#xA;Capilla de la Yedra. En 1715 se solicitó construir un templete para proteger una cruz con la efigie de Cristo. Y a costa de los hermanos de la Santa Cruz de la Yedra se levantó la ermita en 1720. Fue ampliada en la segundad mitad del mismo siglo, y llegó a ser auxiliar de la Parroquia de San Miguel. La diminuta fachada – coronada por una sencilla espadaña – queda totalmente decorada por el baquetón mixtilíneo que rodea la portada. Del interior, cubierto por bóveda de cañón, destaca por su calidad la imagen de la Dolorosa, titular de esta hermandad. Tallada en los primeros años del siglo XVIII, es casi seguro que su autor sea Diego Roldán. &#xA;&#xA;Nuestro Padre Jesús de la Sentencia: &#xA;&#xA;Representa el momento de la lectura y publicación de la Sentencia. Imaginería: El Señor es obra de Carmelo Vicent Suría. Bendecida el 22 de marzo de 1948. Completan el misterio las figuras de 3 romanos, Pilatos, Barrabás, Claudia Prócula y un niño con la jofaina, todas ellas estrenadas en el 2005 obra de José Antonio Navarro Arteaga. &#xA;&#xA;Costaleros (o Cargadores): 40 &#xA;&#xA;Túnicas: Túnica y capa blanca, con antifaz de terciopelo verde, fajín del mismo color y cíngulo verde y oro. &#xA;&#xA;Cirios: Blancos y último tramo morados &#xA;&#xA;Flores: Claveles rojos. &#xA;&#xA; Capataz: Miguel Ángel Jaén Torres. &#xA;&#xA;Nuestra Señora de la Esperanza: Imagen de candelero. &#xA;&#xA; Imaginería: Hasta hace bien poco lo único cierto que se sabía de esta imagen era que había sido la Dolorosa titular de una hermandad fundada en el siglo XVIII; que se había adquirido al principio del siglo XX por 250 ptas. en casa de “La Lebrijana”, una tienda que hubo en la calle Empedrada. En el año 2006 fue restaurada por Francisco L. Bazán Franco y Francisco J. García Brenes, tras un exhaustivo estudio de Pablo J. Pomar Rodil, y éste en su informe da como autor a Diego Roldán. &#xA;&#xA; El 17/12/2010 se concede el honor de la Coronación canónica a la Sagrada imagen de Nuestra Señora de la Esperanza de la Yedra de Jerez de la Frontera y se establece que esta Coronación canónica tenga lugar el 14 de Septiembre de 2013. &#xA;&#xA; Costaleros (o Cargadores): 30 &#xA;&#xA;Túnicas: Túnica y capa blanca, con antifaz de terciopelo verde, fajín del mismo color y cíngulo verde y oro. &#xA;&#xA; Cirios: Blancos y último tramo verdes. &#xA;&#xA;Flores: Rosas blancas. &#xA;&#xA;Capataz: Tomás Sampalo.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;Tunica nueva para el Señor confeccionada por Ildefonso Jimenez en terciopelo de color berengena. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Agrupación Musical Virgen de la Estrella de Dos Hermanas (Sevilla) para el paso de Misterio y la Banda de Música Guadalrosal, de Los Rosales (Sevilla), tras el paso de palio.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;Tunica nueva para el Señor confeccionada por Ildefonso Jimenez en terciopelo de color berengena. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Agrupación Musical Virgen de la Estrella de Dos Hermanas (Sevilla) para el paso de Misterio y la Banda de Música Guadalrosal, de Los Rosales (Sevilla), tras el paso de palio.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -1502,8 +1535,8 @@
             </horario>
         </horarios>
         <images>
-            <image>viñas_1</image>
-            <image>viñas_2</image>
+            <image>http://imageshack.us/a/img713/2971/vinas1.jpg</image>
+            <image>http://imageshack.us/a/img838/8769/vinas2.jpg</image>	
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.684803" long="-6.122260" interes="NO"></poi>
@@ -1512,7 +1545,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: 15 de julio de 1960. &#xA;&#xA;Imágenes: Luis González Rey es el autor del titular cristífero de la hermandad. Se bendijo en 1991. &#xA;&#xA;Paso: El paso de misterio se estrenó en 1999, siguiendo un dibujo de Fernández Lira en madera y plata. El paso de palio es obra de Carrasquilla en los bordados, y de Villarreal la orfebrería. La corona de oro de la Concepción es obra del sevillano Jesús Dominguez.</descripcion>
-		<masdatos>Estrenos:&#xA;&#xA;Continuación del dorado del paso de Misterio (laterales y candelabros), por Artesania del Dorado de los Hermanos González. Nuevo soldado romano para el Paso de Misterio, realizado por Fernando Aguado. Restauración, enriquecimiento y plateado de los varales del paso de palio. Gloria del techo de palio. Se trata de una pintura de Juan Luis Muro, hermano de la cofradía, que representa a la Virgen Inmaculada, con el Dios Hijo, arriba el Dios Padre, y abajo San Francisco, al ser una hermandad Franciscana. Está inspirada en la pequeña iglesia llamada la Porciúncula.&#xA;&#xA; Acompañamiento musical: &#xA;&#xA; Agrupación Musical Nuestro Padre Jesús de la Sentencia tras el paso de Misterio y la Banda de Música Virgen del Castillo de Lebrija (Sevilla) tras el paso de palio.</masdatos>
+		<masdatos>Estrenos:&#xA;&#xA;Continuación del dorado del paso de Misterio (laterales y candelabros), por Artesania del Dorado de los Hermanos González. Nuevo soldado romano para el Paso de Misterio, realizado por Fernando Aguado. Restauración, enriquecimiento y plateado de los varales del paso de palio. Gloria del techo de palio. Se trata de una pintura de Juan Luis Muro, hermano de la cofradía, que representa a la Virgen Inmaculada, con el Dios Hijo, arriba el Dios Padre, y abajo San Francisco, al ser una hermandad Franciscana. Está inspirada en la pequeña iglesia llamada la Porciúncula.&#xA;&#xA;Acompanamiento Musical: &#xA;&#xA; Agrupación Musical Nuestro Padre Jesús de la Sentencia tras el paso de Misterio y la Banda de Música Virgen del Castillo de Lebrija (Sevilla) tras el paso de palio.</masdatos>
     </cofradia>
     <cofradia>
         <nombre_corto>El Loreto</nombre_corto>
@@ -1555,7 +1588,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: La hermandad se constituye en 1951. :&#xA;&#xA;Imágenes: Nuestra Señora de Loreto es de autor desconocido, pero atribuida con mucho fundamento a Juan de Astorga, de finales del s. XIX. :&#xA;&#xA;Paso: El único paso de la cofradía es de 1981, de los talleres de Villareal, y es de plata cofradiera.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Tras el paso, Capilla de Música Sacra Ciudad de Jerez, que sustituyó en 1999 a la Banda Municipal de Música, la cual venía siendo tradicional en años anteriores.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Tras el paso, Capilla de Música Sacra Ciudad de Jerez, que sustituyó en 1999 a la Banda Municipal de Música, la cual venía siendo tradicional en años anteriores.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -1590,9 +1623,9 @@
             </horario>
         </horarios>
         <images>
-            <image>cristo_1</image>
-            <image>cristo_2</image>
-            <image>cristo_3</image>
+            <image>http://imageshack.us/a/img833/4007/cristo1p.jpg</image>
+            <image>http://imageshack.us/a/img89/862/cristo2qg.jpg</image>
+            <image>http://imageshack.us/a/img152/1626/cristo3.jpg</image>
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="36.677704" long="-6.136551" interes="NO"></poi>
@@ -1601,7 +1634,7 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: 1575. &#xA;&#xA;Imágenes: El Santísimo Cristo de la Expiración es obra de Luis Vasallo Parodi, que lo realizó en 1950. San Juan es anónimo de finales del XVIII o principios del XIX, y María Stma. del Valle es del siglo XVII, de autor desconocido. &#xA;&#xA;Paso: Lutgardo Pinto Ruiz es el encargado de realizar el paso del Cristo de Jerez, el único con la Medalla de Oro de la ciudad. Las andas de San Juan son obra de Manuel Guzmán Bejarano en 1966. Los bordados del paso de palio son obra de Carrasquilla y la orfebrería la comparten Villarreal y Juan Borrero.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Agrupación Musical San Juan, de Jerez, y Banda de Música de Nuestra Señora de Palomares de Trebujena.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Agrupación Musical San Juan, de Jerez, y Banda de Música de Nuestra Señora de Palomares de Trebujena.</masdatos>
     </cofradia>
 
     <cofradia>
@@ -1646,13 +1679,13 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: 1564. &#xA;&#xA;Imágenes: El Sagrado Descendimiento es obra del afamado escultor Luís Ortega Brú, que lo terminó de realizar en 1957. Nuestra Madre y Señora de la Soledad es de José Fernández Pomar, y en su candelero reza su fecha, 1800. &#xA;&#xA;Paso: El paso de misterio fue realizado por Manuel Guzmán Bejarano y Luís Jiménez Espinosa en 1958. Los bordados del palio son de Esperaza Elena Caro y de las Carmelitas, y la orfebrería de Manuel Rodríguez Pérez.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Banda de Cornetas y Tambores del Santísimo Cristo del Amor y de la Caridad, del Puerto de Santa María y Jerez, y la Banda de Música de la Hermandad del Nazareno de Rota (Cádiz).</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Banda de Cornetas y Tambores del Santísimo Cristo del Amor y de la Caridad, del Puerto de Santa María y Jerez, y la Banda de Música de la Hermandad del Nazareno de Rota (Cádiz).</masdatos>
     </cofradia>
 
     <cofradia>
         <nombre_corto>Santo Entierro</nombre_corto>
         <nombre_largo>PONTIFICIA, REAL VENERABLE Y ANTIGUA HERMANDAD DEL SANTO ENTIERRO DE NTRO. SENOR JESUCRISTO Y NUESTRA SENORA DE LA PIEDAD.</nombre_largo>
-        <fecha_salida>20130331</fecha_salida>
+        <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Real Capilla del Calvario</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
         <itinerario>Taxdirt, Plaza Santiago (lado izquierdo), Ancha, Porvera, Gaitán, San Juan Grande, Sevilla, Palquillo, CARRERA OFICIAL, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq (lado derecho), Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo Ángel, Tornería, Plaza Rafael Rivero, Plaza San Marcos, Plaza Nuestro Padre Jesús de la Sagrada Cena, Padre Rego, Plaza Compañía, Francos, Plaza San Juan, Plaza de los Ángeles, Oliva, Plaza Santiago (lado derecho), Taxdirt</itinerario>
@@ -1691,12 +1724,12 @@
             <poi description="Catedral" comment="" lat="36.682076" long="-6.140488" interes="NO"></poi>>
         </pois>
 		<descripcion>Año de fundación: 1546 &#xA;&#xA; Imágenes: El Santo Entierro es una obra de autor desconocido del siglo XVI. Nuestra Señora de la Piedad está fechada en 1712, pero también es anónima. &#xA;&#xA;Paso: El Señor yace dentro de una urna de plata de ley, obra de Juan Laureano de Pina, el orfebre más importante del Barroco andaluz. Los bordados del palio son de las Hermanas Antúnez, y fueron adquiridos por la hermandad en la década de los 30, aunque son de 1891.</descripcion>
-		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA; Acompañamiento musical: &#xA;&#xA;Capilla Musical de la Banda Acordes de Jerez tras el paso de la Urna y Banda Acordes de Jerez tras el paso de Palio, tras la disolución de la Banda de Música de la Fundación Alcalde Zoilo Ruíz Mateos de Rota.</masdatos>
+		<masdatos>Estrenos: &#xA;&#xA;No se conocen aun. &#xA;&#xA;Acompanamiento Musical: &#xA;&#xA;Capilla Musical de la Banda Acordes de Jerez tras el paso de la Urna y Banda Acordes de Jerez tras el paso de Palio, tras la disolución de la Banda de Música de la Fundación Alcalde Zoilo Ruíz Mateos de Rota.</masdatos>
     </cofradia>
     <cofradia>
         <nombre_corto>Resucitado</nombre_corto>
         <nombre_largo>HERMANDAD DE LA SAGRADA RESURRECION DE NUESTRO SENOR JESUCRISTO</nombre_largo>
-        <fecha_salida>20120408</fecha_salida>
+        <fecha_salida>20130331</fecha_salida>
         <nombre_iglesia>Santa Iglesia Catedral</nombre_iglesia>
         <numero_pasos>1</numero_pasos>
         <itinerario>Santa Iglesia Catedral, Reducto alto, Encarnación, Reducto Cardenal Bueno Monreal, Cruces, Plaza Domecq, Barranco, Curtidores, Plaza Peones, Carpintería Baja, Carmen, Sedería, Plaza Plateros, Plaza Santo Ángel, Tornería, Eguilaz, Plaza del Banco, Larga, Lancería, Plaza del Arenal, Consistorio, Angostillo, Plaza de la Asunción, José Luis Díez, Plaza Domecq (lado derecho), Reducto Bajo, Reducto Cardenal Bueno Monreal, Plaza de la Encarnación, Reducto Alto, Santa Iglesia Catedral</itinerario>

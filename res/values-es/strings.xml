@@ -52,5 +52,8 @@
     <string name="route">Ruta</string>
     <string name="history">Historia</string>
     <string name="moreData">Más datos</string>
+    <string name="videos">Videos</string>
+    <string name="youTubeNoConnected">Error al acceder a YouTube</string>
+    <string name="loadingVideos">Cargando videos...</string>
     
 </resources>

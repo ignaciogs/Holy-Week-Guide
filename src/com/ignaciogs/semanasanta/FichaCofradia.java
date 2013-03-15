@@ -44,35 +44,36 @@ public class FichaCofradia extends SherlockActivity {
     private final static int ACTION_ROUTE = 11;
     private final static int ACTION_RELEASES = 12;
     private final static int ACTION_HISTORY = 13;
-	private Cofradia currentCofradia;
-	
-	@Override
+    private final static int ACTION_VIDEOS = 14;
+    private Cofradia currentCofradia;
+
+    @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.ficha_cofradia);
-        
+
         Bundle extras = getIntent().getExtras();
         Bundle params = extras.getBundle("datos");
-        
+
         currentCofradia = (Cofradia) params.getSerializable("cofradia");
         
         /* Buscamos es escudo de la cofradia */
-		ImageView imgEscudo = (ImageView)findViewById(R.id.ficha_cofradia_escudo);
-		if (! currentCofradia.getImagenEscudo().equals("")) {
-			int idEscudo = getResources().getIdentifier(currentCofradia.getImagenEscudo(), "drawable", "com.ignaciogs.semanasanta");
-			if (idEscudo > 0) {
-				imgEscudo.setVisibility(View.VISIBLE);
-				imgEscudo.setImageResource(idEscudo);
-			} else {
-				imgEscudo.setVisibility(View.INVISIBLE);
-			}
-		} else {
-			imgEscudo.setVisibility(View.INVISIBLE);
-		}
+        ImageView imgEscudo = (ImageView) findViewById(R.id.ficha_cofradia_escudo);
+        if (!currentCofradia.getImagenEscudo().equals("")) {
+            int idEscudo = getResources().getIdentifier(currentCofradia.getImagenEscudo(), "drawable", "com.ignaciogs.semanasanta");
+            if (idEscudo > 0) {
+                imgEscudo.setVisibility(View.VISIBLE);
+                imgEscudo.setImageResource(idEscudo);
+            } else {
+                imgEscudo.setVisibility(View.INVISIBLE);
+            }
+        } else {
+            imgEscudo.setVisibility(View.INVISIBLE);
+        }
 
         //Buscamos la imagen del color de la tunicas
-        ImageView imgTunica = (ImageView)findViewById(R.id.ficha_cofradia_imgTunicas);
-        ApplicationSemanaSanta app = (ApplicationSemanaSanta)getApplication();
+        ImageView imgTunica = (ImageView) findViewById(R.id.ficha_cofradia_imgTunicas);
+        ApplicationSemanaSanta app = (ApplicationSemanaSanta) getApplication();
         String nomCorto = currentCofradia.getNombre_corto().replaceAll(" ", "");
         nomCorto = nomCorto.replaceAll("-", "_");
         nomCorto = nomCorto.replaceAll("ñ", "ny");
@@ -88,7 +89,7 @@ public class FichaCofradia extends SherlockActivity {
         nomCorto = nomCorto.replaceAll("Ú", "u");
         String nomImg = app.getNameActiveCity() + "_tunica_" + nomCorto;
         nomImg = nomImg.toLowerCase();
-        if (! currentCofradia.getImagenEscudo().equals("")) {
+        if (!currentCofradia.getImagenEscudo().equals("")) {
             int idTunica = getResources().getIdentifier(nomImg, "drawable", getApplication().getPackageName());
             if (idTunica > 0) {
                 imgTunica.setVisibility(View.VISIBLE);
@@ -99,17 +100,17 @@ public class FichaCofradia extends SherlockActivity {
         } else {
             imgTunica.setVisibility(View.GONE);
         }
-        
-        TextView txtNombreLargo = (TextView)findViewById(R.id.ficha_cofradia_nombreLargo);
+
+        TextView txtNombreLargo = (TextView) findViewById(R.id.ficha_cofradia_nombreLargo);
         txtNombreLargo.setText(currentCofradia.getNombre_largo());
-        
-        TextView txtNumeroPasos = (TextView)findViewById(R.id.ficha_cofradia_numeroPasos);
+
+        TextView txtNumeroPasos = (TextView) findViewById(R.id.ficha_cofradia_numeroPasos);
         txtNumeroPasos.setText(getString(R.string.ficha_cofradia_numeroPasos) + " " + currentCofradia.getNumero_pasos());
-        
-        TextView txtNombreIglesia = (TextView)findViewById(R.id.ficha_cofradia_nombreIglesia);
+
+        TextView txtNombreIglesia = (TextView) findViewById(R.id.ficha_cofradia_nombreIglesia);
         txtNombreIglesia.setText(currentCofradia.getNombre_iglesia());
-        
-        TextView txtItinerario = (TextView)findViewById(R.id.ficha_cofradia_itinerario);
+
+        TextView txtItinerario = (TextView) findViewById(R.id.ficha_cofradia_itinerario);
         txtItinerario.setText(currentCofradia.getItinerario());
         
         /* Cargamos el irinerario */
@@ -118,7 +119,7 @@ public class FichaCofradia extends SherlockActivity {
         /* Creamos los botones de la barra superior */
         getSupportActionBar().setTitle(currentCofradia.getNombre_corto());
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-	}
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -128,16 +129,20 @@ public class FichaCofradia extends SherlockActivity {
             subMenu.add(GROUP_ACTION, ACTION_IMAGES, 0, getString(R.string.ficha_cofradia_imagenes));
         }
 
-        if (!currentCofradia.getFicheroRecorrido().equals(""))  {
+        if (!currentCofradia.getFicheroRecorrido().equals("")) {
             subMenu.add(GROUP_ACTION, ACTION_ROUTE, 0, getString(R.string.route));
         }
 
-        if (!TextUtils.isEmpty(currentCofradia.getDescripcion()))  {
+        if (!TextUtils.isEmpty(currentCofradia.getDescripcion())) {
             subMenu.add(GROUP_ACTION, ACTION_HISTORY, 0, getString(R.string.history));
         }
 
-        if (!TextUtils.isEmpty(currentCofradia.getMoreData()))  {
+        if (!TextUtils.isEmpty(currentCofradia.getMoreData())) {
             subMenu.add(GROUP_ACTION, ACTION_RELEASES, 0, getString(R.string.moreData));
+        }
+
+        if (currentCofradia.getVideos().size() > 0) {
+            subMenu.add(GROUP_ACTION, ACTION_VIDEOS, 0, getString(R.string.videos));
         }
 
         MenuItem subMenu1Item = subMenu.getItem();
@@ -159,16 +164,16 @@ public class FichaCofradia extends SherlockActivity {
                     Intent intent = new Intent(FichaCofradia.this, ImageGalleryActivity.class);
                     intent.putExtra(ImageGalleryActivity.KEY_OBJECT, currentCofradia);
                     startActivity(intent);
-	    		} else {
-	    			Toast.makeText(FichaCofradia.this, getString(R.string.msgNoFoto), Toast.LENGTH_LONG).show();
-	    		}
+                } else {
+                    Toast.makeText(FichaCofradia.this, getString(R.string.msgNoFoto), Toast.LENGTH_LONG).show();
+                }
                 break;
             case ACTION_ROUTE:
                 Intent i = new Intent(FichaCofradia.this, MapViewActivity.class);
-				Bundle params = new Bundle();
-				params.putSerializable("cofradia", currentCofradia);
-				i.putExtra("datos", params);
-				startActivity(i);
+                Bundle params = new Bundle();
+                params.putSerializable("cofradia", currentCofradia);
+                i.putExtra("datos", params);
+                startActivity(i);
                 break;
             case ACTION_HISTORY:
                 Intent intent = new Intent(FichaCofradia.this, DescriptionActivity.class);
@@ -180,56 +185,61 @@ public class FichaCofradia extends SherlockActivity {
                 intentReleases.putExtra(DescriptionActivity.KEY_OBJECT, currentCofradia);
                 startActivity(intentReleases);
                 break;
+            case ACTION_VIDEOS:
+                Intent intentVideos = new Intent(FichaCofradia.this, VideoViewActivity.class);
+                intentVideos.putExtra(VideoViewActivity.KEY_OBJECT, currentCofradia);
+                startActivity(intentVideos);
+                break;
         }
         return result;
     }
-	
-	private void loadItinerario() {
-		TableLayout tlGeneral = (TableLayout)findViewById(R.id.ficha_cofradia_tlItinerario);
-		int numColumns = currentCofradia.getHorarios().size();
-		
-		TableRow trCabecera = new TableRow(this);
-		trCabecera.setBackgroundColor(0xFFFFFFFF);
-		trCabecera.setPadding(1, 1, 1, 1);
-		/* creamos un textvew en blanco para la cabecer */
-		TextView tvBlanco = new TextView(this);
-		tvBlanco.setText("   ");
-		tvBlanco.setPadding(5, 5, 5, 5);
-		trCabecera.addView(tvBlanco);
-		for (Horario horario : currentCofradia.getHorarios()) {
-			TextView tv = new TextView(this);
-			tv.setPadding(5, 5, 5, 5);
-			tv.setGravity(Gravity.CENTER_HORIZONTAL);
-			tv.setText(horario.getDescripcion().replace(" ", "\n"));
-			tv.setTextColor(0xFF000000);
-			trCabecera.addView(tv);
-		}
-		tlGeneral.addView(trCabecera);
-		
-		for (int j = 0; j < currentCofradia.getHorarios().get(0).getPuntos().size(); j++) {
-			Punto punto = currentCofradia.getHorarios().get(0).getPuntos().get(j);
-			TableRow tr = new TableRow(this);
-			tr.setBackgroundColor(0xFFFFFFFF);
-			tr.setPadding(1, 1, 1, 1);
-			
-			TextView tvDes = new TextView(this);
-			tvDes.setText(punto.getDescripcion());
-			tvDes.setBackgroundColor(0xFF000000);
-			tvDes.setPadding(5, 10, 5, 10);
-			tr.addView(tvDes);
-			
-			for (int i = 0; i < numColumns; i++) {
-				String hora = currentCofradia.getHorarios().get(i).getPuntos().get(j).getHora();
-				TextView tvHora = new TextView(this);
-				tvHora.setBackgroundColor(0xFF000000);
-				tvHora.setGravity(Gravity.CENTER_HORIZONTAL);
-				tvHora.setPadding(5, 10, 5, 10);
-				tvHora.setText(hora);
-				tr.addView(tvHora);
-			}
-			
-			tlGeneral.addView(tr);
-		}
-	}
+
+    private void loadItinerario() {
+        TableLayout tlGeneral = (TableLayout) findViewById(R.id.ficha_cofradia_tlItinerario);
+        int numColumns = currentCofradia.getHorarios().size();
+
+        TableRow trCabecera = new TableRow(this);
+        trCabecera.setBackgroundColor(0xFFFFFFFF);
+        trCabecera.setPadding(1, 1, 1, 1);
+        /* creamos un textvew en blanco para la cabecer */
+        TextView tvBlanco = new TextView(this);
+        tvBlanco.setText("   ");
+        tvBlanco.setPadding(5, 5, 5, 5);
+        trCabecera.addView(tvBlanco);
+        for (Horario horario : currentCofradia.getHorarios()) {
+            TextView tv = new TextView(this);
+            tv.setPadding(5, 5, 5, 5);
+            tv.setGravity(Gravity.CENTER_HORIZONTAL);
+            tv.setText(horario.getDescripcion().replace(" ", "\n"));
+            tv.setTextColor(0xFF000000);
+            trCabecera.addView(tv);
+        }
+        tlGeneral.addView(trCabecera);
+
+        for (int j = 0; j < currentCofradia.getHorarios().get(0).getPuntos().size(); j++) {
+            Punto punto = currentCofradia.getHorarios().get(0).getPuntos().get(j);
+            TableRow tr = new TableRow(this);
+            tr.setBackgroundColor(0xFFFFFFFF);
+            tr.setPadding(1, 1, 1, 1);
+
+            TextView tvDes = new TextView(this);
+            tvDes.setText(punto.getDescripcion());
+            tvDes.setBackgroundColor(0xFF000000);
+            tvDes.setPadding(5, 10, 5, 10);
+            tr.addView(tvDes);
+
+            for (int i = 0; i < numColumns; i++) {
+                String hora = currentCofradia.getHorarios().get(i).getPuntos().get(j).getHora();
+                TextView tvHora = new TextView(this);
+                tvHora.setBackgroundColor(0xFF000000);
+                tvHora.setGravity(Gravity.CENTER_HORIZONTAL);
+                tvHora.setPadding(5, 10, 5, 10);
+                tvHora.setText(hora);
+                tr.addView(tvHora);
+            }
+
+            tlGeneral.addView(tr);
+        }
+    }
 
 }

@@ -14,7 +14,7 @@
         <horaRecogida>21:45</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_borriquita</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="16:00"></punto>
@@ -257,7 +257,7 @@
         <horaRecogida>00:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_prendimiento</ficheroRecorrido>
         <horarios>
             <horario descripcion="Paso Misterio">
                 <punto descripcion="Salida" hora="17:45"></punto>

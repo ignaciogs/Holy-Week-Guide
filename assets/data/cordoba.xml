@@ -60,6 +60,7 @@
 		<images>
 			<image>http://imageshack.us/a/img203/9609/imagenuniversitaria1.jpg</image>
 			<image>http://imageshack.us/a/img850/7375/imagenuniversitaria2.jpg</image>
+			<image>http://img825.imageshack.us/img825/7933/universitaria20121.jpg</image>
 			<image>http://imageshack.us/a/img834/4055/imagenuniversitaria3.jpg</image>
 			<image>http://imageshack.us/a/img191/3865/imagenuniversitaria4.jpg</image>
 		</images>
@@ -98,6 +99,8 @@
 			<image>http://imageshack.us/a/img715/2091/imagenentradatriunfal1.jpg</image>
 			<image>http://imageshack.us/a/img715/6483/imagenentradatriunfal2.jpg</image>
 			<image>http://imageshack.us/a/img208/6585/imagenentradatriunfal3.jpg</image>
+			<image>http://imageshack.us/a/img189/517/entradatriunfal20121.jpg</image>
+			<image>http://imageshack.us/a/img252/3879/entradatriunfal2012.jpg</image>
 		</images>
 
 	</cofradia>
@@ -136,6 +139,10 @@
 			<image>http://imageshack.us/a/img545/2804/imagenpenasdesantiago1.jpg</image>
 			<image>http://imageshack.us/a/img20/8205/imagenpenasdesantiago2.jpg</image>
 			<image>http://imageshack.us/a/img577/6577/imagenpenasdesantiago3.jpg</image>
+			<image>http://imageshack.us/a/img341/650/penasdesantiago20120.jpg</image>
+			<image>http://imageshack.us/a/img152/7706/penasdesantiago20121.jpg</image>
+			<image>http://imageshack.us/a/img233/2981/penasdesantiago20122.jpg</image>
+			<image>http://imageshack.us/a/img171/7384/penasdesantiago20123.jpg</image>
 		</images>
 
 	</cofradia>
@@ -171,6 +178,7 @@
 		</horarios>
 		<images>
 			<image>http://imageshack.us/a/img252/8546/imagenhuerto1.jpg</image>
+			<image>http://imageshack.us/a/img22/6871/huerto20121.jpg</image>
 			<image>http://imageshack.us/a/img254/3533/imagenhuerto2.jpg</image>
 			<image>http://imageshack.us/a/img29/3008/imagenhuerto3.jpg</image>
 		</images>
@@ -209,7 +217,12 @@
 		</horarios>
 		<images>
 			<image>http://imageshack.us/a/img585/7364/imagenesperanza1.jpg</image>
-			<image>http://imageshack.us/a/img827/3175/imagenesperanza2.jpg</image>
+			<image>http://img51.imageshack.us/img51/5150/cordobaimagenesperanza2.jpg</image>
+			<image>http://imageshack.us/a/img843/7593/esperanza20106.jpg</image>
+			<image>http://imageshack.us/a/img41/4649/esperanza20121.jpg</image>
+			<image>http://imageshack.us/a/img832/1792/esperanza20108.jpg</image>
+			<image>http://imageshack.us/a/img14/6691/esperanza2012.jpg</image>
+			<image>http://imageshack.us/a/img6/3702/esperanza20122.jpg</image>
 			<image>http://imageshack.us/a/img213/8463/imagenesperanza3.jpg</image>
 		</images>
 
@@ -255,6 +268,7 @@
 		</horarios>
 		<images>
 			<image>http://imageshack.us/a/img685/8558/cordobaimagenamor1.jpg</image>
+			<image>http://imageshack.us/a/img819/109/amor2012.jpg</image>
 			<image>http://imageshack.us/a/img716/2486/cordobaimagenamor2.jpg</image>
 			<image>http://imageshack.us/a/img837/8056/cordobaimagenamor3.jpg</image>
 		</images>
@@ -296,6 +310,10 @@
 		<images>
 			<image>http://imageshack.us/a/img801/5162/imagenrescatado1.jpg</image>
 			<image>http://imageshack.us/a/img843/549/imagenrescatado2.jpg</image>
+			<image>http://imageshack.us/a/img836/9448/rescatado2010.jpg</image>
+			<image>http://imageshack.us/a/img823/7898/rescatado2012.jpg</image>
+
+
 		</images>
 
 	</cofradia>
@@ -339,6 +357,9 @@
 		<images>
 			<image>http://imageshack.us/a/img822/9994/imagenmerced1.jpg</image>
 			<image>http://imageshack.us/a/img585/2962/imagenmerced2.jpg</image>
+			<image>http://imageshack.us/a/img6/9608/merced20120.jpg</image>
+			<image>http://imageshack.us/a/img832/1461/merced20121.jpg</image>
+			<image>http://imageshack.us/a/img132/6434/merced20122.jpg</image>
 		</images>
 		
 	</cofradia>
@@ -379,6 +400,10 @@
 		<images>
 			<image>http://imageshack.us/a/img541/1832/granadaimagenestrella1.jpg</image>
 			<image>http://imageshack.us/a/img90/695/granadaimagenestrella2.jpg</image>
+			<image>http://imageshack.us/a/img849/7311/estrella20121.jpg</image>
+			<image>http://imageshack.us/a/img844/2055/estrella20122.jpg</image>
+
+
 		</images>
 
 	</cofradia>
@@ -418,6 +443,15 @@
 		<images>
 			<image>http://imageshack.us/a/img580/5038/imagenveracruz1.jpg</image>
 			<image>http://imageshack.us/a/img43/4524/imagenveracruz2.jpg</image>
+			<image>http://imageshack.us/a/img221/9070/veracruz20124.jpg</image>
+			<image>http://imageshack.us/a/img138/1941/veracruz20123.jpg</image>
+			<image>http://imageshack.us/a/img843/3126/veracruz20122.jpg</image>
+			<image>http://imageshack.us/a/img43/2249/veracruz20125.jpg</image>
+			<image>http://imageshack.us/a/img203/6821/veracruz20121.jpg</image>
+
+
+
+
 		</images>
 
 	</cofradia>
@@ -455,6 +489,11 @@
 		<images>
 			<image>http://imageshack.us/a/img26/2470/imagencordobasentencia1.jpg</image>
 			<image>http://imageshack.us/a/img341/5353/imagencordobasentencia2.jpg</image>
+			<image>http://imageshack.us/a/img266/5379/sentencia20121.jpg</image>
+			<image>http://imageshack.us/a/img189/7458/sentencia20120.jpg</image>
+			<image>http://imageshack.us/a/img812/5931/sentencia20122.jpg</image>
+			<image>http://imageshack.us/a/img688/7370/sentencia20123.jpg</image>
+			<image>http://imageshack.us/a/img10/3074/sentencia20124.jpg</image>
 		</images>
 
 	</cofradia>
@@ -601,6 +640,9 @@
 		<images>
 			<image>http://imageshack.us/a/img171/9554/imagensangre1.jpg</image>
 			<image>http://imageshack.us/a/img96/8829/imagensangre2.jpg</image>
+			<image>http://imageshack.us/a/img849/4899/sangre20122.jpg</image>
+			<image>http://imageshack.us/a/img19/6835/sangre20121.jpg</image>
+			<image>http://imageshack.us/a/img546/2862/sangre20120.jpg</image>
 		</images>
 
 	</cofradia>	
@@ -922,8 +964,12 @@
 			</horario>
 		</horarios>
 		<images>
+			<image>http://img10.imageshack.us/img10/9610/paz20123.jpg</image>
 			<image>http://imageshack.us/a/img692/1008/imagenpaz1.jpg</image>
 			<image>http://imageshack.us/a/img832/3157/imagenpaz2.jpg</image>
+			<image>http://imageshack.us/a/img17/9936/paz20122.jpg</image>
+			<image>http://imageshack.us/a/img191/49/paz20121.jpg</image>
+
 		</images>
 		
 	</cofradia>
@@ -1035,7 +1081,11 @@
 			</horario>
 		</horarios>
 		<images>
+			<image>http://imageshack.us/a/img14/6298/cena20121.jpg</image>
+			<image>http://imageshack.us/a/img850/1241/cena20122.jpg</image>
 			<image>http://imageshack.us/a/img203/1488/imagensagradacena1.jpg</image>
+			<image>http://imageshack.us/a/img854/150/cena20124.jpg</image>
+			<image>http://imageshack.us/a/img12/8315/cena20123.jpg</image>
 			<image>http://imageshack.us/a/img689/3309/imagensagradacena2.jpg</image>
 		</images>
 
@@ -1071,6 +1121,7 @@
 			</horario>
 		</horarios>
 		<images>
+			<image>http://imageshack.us/a/img43/8878/caido2012.jpg</image>
 			<image>http://imageshack.us/a/img404/3839/cordobaimagencaido1.jpg</image>
 			<image>http://imageshack.us/a/img845/3408/cordobaimagencaido2.jpg</image>
 		</images>
@@ -1146,6 +1197,9 @@
 		</horarios>
 		<images>
 			<image>http://imageshack.us/a/img713/7479/imagencristodegracia1.jpg</image>
+			<image>http://imageshack.us/a/img853/7749/cristodegracia20121.jpg</image>
+			<image>http://imageshack.us/a/img801/4653/cristodegracia2012.jpg</image>
+
 		</images>
 		
 	</cofradia>
@@ -1435,6 +1489,7 @@
 		<images>
 			<image>http://imageshack.us/a/img837/3581/imagencordobaresucitado.jpg</image>
 			<image>http://imageshack.us/a/img202/3581/imagencordobaresucitado.jpg</image>
+			<image>http://imageshack.us/a/img46/5192/resucitado20120.jpg</image>
 		</images>
 		
 	</cofradia>

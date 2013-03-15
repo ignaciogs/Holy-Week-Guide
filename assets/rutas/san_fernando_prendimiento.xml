@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ /*
+  ~  * Copyright (C) 2012  Ignacio Gonzalez Sainz
+  ~  *
+  ~  * Holy Week Guide: An android application with the itineraries, images and all information of the brotherhoods Spain's holy week
+  ~  *
+  ~  * Licensed under the Apache License, Version 2.0 (the "License");
+  ~  * you may not use this file except in compliance with the License.
+  ~  * You may obtain a copy of the License at
+  ~  *
+  ~  *      http://www.apache.org/licenses/LICENSE-2.0
+  ~  *
+  ~  * Unless required by applicable law or agreed to in writing, software
+  ~  * distributed under the License is distributed on an "AS IS" BASIS,
+  ~  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~  * See the License for the specific language governing permissions and
+  ~  * limitations under the License.
+  ~  *
+  ~  * Ignacio Gonzalez Sainz
+  ~  * Cádiz (Spain)
+  ~  * ignacio.glez.s@gmail.com
+  ~  *
+  ~  */
+  -->
+<kml>
+    <Document>
+        <LineString>
+            <coordinates>
+                -6.201350,36.467548 
+                -6.201000,36.467312 
+                -6.201000,36.467312 
+                -6.200670,36.467190 
+                -6.200670,36.467190 
+                -6.200500,36.467522 
+                -6.200500,36.467522 
+                -6.200060,36.467369 
+                -6.199460,36.467258 
+                -6.199400,36.467300 
+                -6.199100,36.467892 
+                -6.199100,36.467892 
+                -6.198630,36.467838 
+                -6.198630,36.467838 
+                -6.198420,36.468060 
+                -6.198030,36.467930 
+                -6.198030,36.467930 
+                -6.197850,36.468208 
+                -6.197200,36.468849 
+                -6.197200,36.468849 
+                -6.194550,36.468079 
+                -6.194550,36.468079 
+                -6.194700,36.467690 
+                -6.194620,36.467400 
+                -6.194620,36.467400 
+                -6.194430,36.467411 
+                -6.194430,36.467411 
+                -6.194240,36.467369 
+                -6.194070,36.466831 
+                -6.194070,36.466831 
+                -6.196300,36.465950 
+                -6.196720,36.465611 
+                -6.198120,36.464161 
+                -6.198120,36.464161 
+                -6.198780,36.464561 
+                -6.198780,36.464561 
+                -6.200650,36.465752 
+                -6.200650,36.465752 
+                -6.200230,36.466228 
+                -6.200230,36.466228 
+                -6.201860,36.467091 
+                -6.201860,36.467091 
+                -6.201380,36.467571 
+            </coordinates>
+        </LineString>
+    </Document>
+</kml>

@@ -35,6 +35,7 @@ import com.actionbarsherlock.app.SherlockActivity;
 import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuItem;
 import com.actionbarsherlock.view.SubMenu;
+import com.ignaciogs.semanasanta.adapters.ItinerarioListAdapter;
 
 import java.io.Serializable;
 import java.util.ArrayList;

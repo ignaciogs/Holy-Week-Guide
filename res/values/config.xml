@@ -31,4 +31,6 @@
 
     <string name="directoryRoutes">rutas/</string>
 
+    <string name="developerKey">You key</string>
+
 </resources>

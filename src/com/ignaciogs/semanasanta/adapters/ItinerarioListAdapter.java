@@ -23,7 +23,7 @@
  *
  */
 
-package com.ignaciogs.semanasanta;
+package com.ignaciogs.semanasanta.adapters;
 
 import android.content.Context;
 import android.view.View;
@@ -31,6 +31,9 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
+import com.ignaciogs.semanasanta.Cofradia;
+import com.ignaciogs.semanasanta.DataManager;
+import com.ignaciogs.semanasanta.R;
 
 import java.util.List;
 

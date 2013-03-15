@@ -53,6 +53,7 @@ public class Cofradia implements Serializable {
 	private List<Poi> pois = new ArrayList<Poi>();
     private String descripcion;
     private String moreData;
+    private List<String> videos = new ArrayList<String>();
 	
 	public List<Poi> getPois() {
 		return pois;
@@ -186,5 +187,13 @@ public class Cofradia implements Serializable {
 
     public void setMoreData(String moreData) {
         this.moreData = moreData;
+    }
+
+    public List<String> getVideos() {
+        return videos;
+    }
+
+    public void setVideos(List<String> videos) {
+        this.videos = videos;
     }
 }

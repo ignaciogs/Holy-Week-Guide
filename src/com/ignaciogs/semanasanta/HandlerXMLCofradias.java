@@ -109,6 +109,8 @@ public class HandlerXMLCofradias extends DefaultHandler {
             cofradia.setDescripcion(gTextoEtiqueta);
         } else if (localName.equals("masdatos")) {
             cofradia.setMoreData(gTextoEtiqueta);
+        } else if (localName.equals("video")) {
+            cofradia.getVideos().add(gTextoEtiqueta);
         }
 			
 	}
