@@ -58,6 +58,10 @@ import java.io.InputStreamReader;
  */
 public class VideoViewActivity extends SherlockYouTubeBaseActivity {
 
+    private static final String SAVED_INSTANCE_CURRENT_COFRADIA = "SAVED_INSTANCE_CURRENT_COFRADIA";
+    private static final String SAVED_INSTANCE_DATA = "SAVED_INSTANCE_DATA";
+    private static final String SAVED_INSTANCE_SELECTED_ITEM = "SAVED_INSTANCE_SELECTED_ITEM";
+
     public static final String KEY_OBJECT = "KEY_OBJECT";
     private Cofradia currentCofradia;
     private YouTubePlayerView youTubeView;
@@ -65,16 +69,23 @@ public class VideoViewActivity extends SherlockYouTubeBaseActivity {
     private YouTubePlayer ytPlayer;
     private LinearLayout llData, llProgressbar;
     private VideosAdapter videosAdapter;
+    private InitialVideosListResponse data;
+    private int currentlySelectedPosition;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.video_view_activity);
 
-        Bundle extras = getIntent().getExtras();
-        if (extras != null && extras.containsKey(KEY_OBJECT) && extras.get(KEY_OBJECT) instanceof Cofradia) {
-            currentCofradia = (Cofradia) extras.get(KEY_OBJECT);
-
+        if (savedInstanceState == null) {
+            Bundle extras = getIntent().getExtras();
+            if (extras != null && extras.containsKey(KEY_OBJECT) && extras.get(KEY_OBJECT) instanceof Cofradia) {
+                currentCofradia = (Cofradia) extras.get(KEY_OBJECT);
+                currentlySelectedPosition = -1;
+            }
+        } else {
+            currentCofradia = (Cofradia) savedInstanceState.getSerializable(SAVED_INSTANCE_CURRENT_COFRADIA);
+            currentlySelectedPosition = savedInstanceState.getInt(SAVED_INSTANCE_SELECTED_ITEM);
         }
 
         llData = (LinearLayout) findViewById(R.id.video_view_ll_data);
@@ -89,7 +100,11 @@ public class VideoViewActivity extends SherlockYouTubeBaseActivity {
             @Override
             public void onInitializationSuccess(YouTubePlayer.Provider provider, YouTubePlayer youTubePlayer, boolean b) {
                 ytPlayer = youTubePlayer;
-                youTubePlayer.cueVideo(currentCofradia.getVideos().get(0));
+                if (currentlySelectedPosition >= 0 && data != null) {
+                    youTubePlayer.cueVideo(data.getData().getItems().get(currentlySelectedPosition).getId());
+                } else {
+                    youTubePlayer.cueVideo(currentCofradia.getVideos().get(0));
+                }
             }
 
             @Override
@@ -98,8 +113,21 @@ public class VideoViewActivity extends SherlockYouTubeBaseActivity {
             }
         });
 
-        loadVideos();
+        if (savedInstanceState == null) {
+            loadVideos();
+        } else {
+            llProgressbar.setVisibility(View.GONE);
+            data = (InitialVideosListResponse) savedInstanceState.getSerializable(SAVED_INSTANCE_DATA);
+            showData(data);
+        }
+    }
 
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putSerializable(SAVED_INSTANCE_DATA, data);
+        outState.putSerializable(SAVED_INSTANCE_CURRENT_COFRADIA, currentCofradia);
+        outState.putInt(SAVED_INSTANCE_SELECTED_ITEM, currentlySelectedPosition);
     }
 
     @Override
@@ -131,7 +159,7 @@ public class VideoViewActivity extends SherlockYouTubeBaseActivity {
                 if (!TextUtils.isEmpty(codesVideos)) {
                     codesVideos += "%7c";
                 }
-                codesVideos += code;
+                codesVideos += code.replace("-", "_");
             }
             String endPoint = "https://gdata.youtube.com/feeds/api/videos?q=" + codesVideos + "&v=2&alt=jsonc";
             try {
@@ -163,22 +191,40 @@ public class VideoViewActivity extends SherlockYouTubeBaseActivity {
         @Override
         protected void onPostExecute(InitialVideosListResponse videosListResponse) {
             hideProgressbar();
-            videosAdapter = new VideosAdapter(videosListResponse);
-            lvData.setAdapter(videosAdapter);
-            lvData.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-                @Override
-                public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
-                    VideoResponse videoResponse = (VideoResponse)adapterView.getAdapter().getItem(position);
-                    ytPlayer.cueVideo(videoResponse.getId());
-                }
-            });
+            data = videosListResponse;
+            showData(videosListResponse);
             super.onPostExecute(videosListResponse);
         }
     }
 
     private void hideProgressbar() {
-        llData.setVisibility(View.VISIBLE);
-        llProgressbar.setVisibility(View.GONE);
+        if (llData != null) {
+            llData.setVisibility(View.VISIBLE);
+        }
+        if (llProgressbar != null) {
+            llProgressbar.setVisibility(View.GONE);
+        }
+    }
+
+    private void showData(InitialVideosListResponse videosListResponse) {
+        videosAdapter = new VideosAdapter(videosListResponse);
+        lvData.setAdapter(videosAdapter);
+        if (currentlySelectedPosition >= 0) {
+            lvData.setSelection(currentlySelectedPosition);
+            if (ytPlayer != null) {
+                ytPlayer.cueVideo(data.getData().getItems().get(currentlySelectedPosition).getId());
+            }
+        }
+        lvData.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
+                currentlySelectedPosition = position;
+                VideoResponse videoResponse = (VideoResponse) adapterView.getAdapter().getItem(position);
+                if (videoResponse != null && videoResponse.getId() != null && ytPlayer != null && !TextUtils.isEmpty(videoResponse.getId())) {
+                    ytPlayer.cueVideo(videoResponse.getId());
+                }
+            }
+        });
     }
 
 }

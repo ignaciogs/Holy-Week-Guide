@@ -45,7 +45,7 @@
 
     <string name="select_city">Seleccionar Ciudad</string>
 
-    <string name="resureccion">de Resurrección</string>
+    <string name="resureccion">Resurrección</string>
     <string name="ramos">de Ramos</string>
 
     <string name="holyWeekGuide">Guía de Semana Santa</string>
@@ -55,5 +55,6 @@
     <string name="videos">Videos</string>
     <string name="youTubeNoConnected">Error al acceder a YouTube</string>
     <string name="loadingVideos">Cargando videos...</string>
+    <string name="pasion">Pasión</string>
     
 </resources>

@@ -35,18 +35,27 @@ import com.ignaciogs.semanasanta.Cofradia;
 import com.ignaciogs.semanasanta.DataManager;
 import com.ignaciogs.semanasanta.R;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
 import java.util.List;
 
 public class ItinerarioListAdapter extends BaseAdapter {
 	
 	private Context context;
 	private List<Cofradia> listCofradias;
+    private SimpleDateFormat sdf;
+    private Calendar calendar;
 
-    private Boolean isPrimerDomingo = true;
+    private boolean puestoPrimerDomingo = false;
+    private boolean isPrimerDomingo = true;
 	
 	public ItinerarioListAdapter(Context context, List<Cofradia> list) {
 		this.context = context;
 		this.listCofradias = list;
+        sdf = new SimpleDateFormat("yyyyMMdd");
+        calendar =  GregorianCalendar.getInstance();
 	}
 
 	@Override
@@ -66,24 +75,22 @@ public class ItinerarioListAdapter extends BaseAdapter {
 
 	@Override
 	public View getView(int position, View convertView, ViewGroup parent) {
-        Cofradia cofradia;
-        cofradia = listCofradias.get(position);
+        Cofradia cofradia = listCofradias.get(position);
 
-        /*if (isPrimerDomingo) {
-            try{
-                GregorianCalendar gc = (GregorianCalendar) GregorianCalendar.getInstance();
-                SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
-                gc.setTime(sdf.parse(cofradia.getFecha_salida()));
-                int dayOfWeek = gc.get(Calendar.DAY_OF_WEEK);
-                if (dayOfWeek == 1) {
-                    isPrimerDomingo = false;
-                }
-            } catch (Exception e) {
-
+        try {
+            calendar.setTime(sdf.parse(cofradia.getFecha_salida()));
+            int dayOfWeek = calendar.get(Calendar.DAY_OF_WEEK);
+            if (dayOfWeek == 1 && !puestoPrimerDomingo) {
+                puestoPrimerDomingo = true;
+            } else if (dayOfWeek != 1 && puestoPrimerDomingo) {
+                isPrimerDomingo = false;
             }
-        }   */
+        } catch (ParseException e) {
 
-		if (convertView == null) {
+        }
+
+
+        if (convertView == null) {
 			convertView = View.inflate(context, R.layout.item_list_itinerario, null);
 		}
 		

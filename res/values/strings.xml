@@ -79,4 +79,5 @@
     <string name="videos">Videos</string>
     <string name="youTubeNoConnected">No connection to YouTube</string>
     <string name="loadingVideos">Loading videos...</string>
+    <string name="pasion">Passion</string>
 </resources>

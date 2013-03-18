@@ -48,6 +48,7 @@ public class DataManager {
 	private List<String> daysOfWeeksList = new ArrayList<String>();
 	private int horaFinMadrugada = 7;
 	private String fileDataCofradias = "data/cadiz.xml";
+    private boolean isFirstSunday = true;
 
     public static DataManager getInstance() {
         if (INSTANCE == null) {
@@ -72,7 +73,7 @@ public class DataManager {
 		}
 	}
 	
-	public String getNameDayFromDate(String fecha, String horaSalida, Context context, boolean isFirstSundey) {
+	public String getNameDayFromDate(String fecha, String horaSalida, Context context, boolean isFirstSunday) {
 		String dia = "";
 		GregorianCalendar gc = (GregorianCalendar) GregorianCalendar.getInstance();
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
@@ -82,12 +83,19 @@ public class DataManager {
 			int dayOfWeek = gc.get(Calendar.DAY_OF_WEEK);
 			if (dayOfWeek == 1) { //Domingo de ramos o resureccion
                 desc = "";
-                if (isFirstSundey)  { // Domingo de ramos
-				    //desc = context.getString(R.string.ramos);
-                } else { //Domingo de resurreccion
-                    //desc = context.getString(R.string.resureccion);
-                }
-			}
+//                if (isFirstSunday)  { // Domingo de ramos
+//				    desc = context.getString(R.string.ramos);
+//                } else { //Domingo de resurreccion
+//                    desc = context.getString(R.string.resureccion);
+//                }
+			} else if (dayOfWeek == 7) { //Sabado
+                desc = "";
+//                if (isFirstSunday)  {
+//                    desc = context.getString(R.string.pasion);
+//                } else {
+//                    desc = context.getString(R.string.text_santo);
+//                }
+            }
 			if ( Integer.valueOf(horaSalida.substring(0, 2)) > horaFinMadrugada ) {
 				SimpleDateFormat sdfDia = new SimpleDateFormat("EEEE '" + desc + ", ' dd ' de ' MMMM ");
 				dia = sdfDia.format(gc.getTime());

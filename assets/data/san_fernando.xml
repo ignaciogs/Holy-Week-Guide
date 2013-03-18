@@ -44,7 +44,7 @@
         <horaRecogida>01:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_humildad</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="18:00"></punto>
@@ -74,7 +74,7 @@
         <horaRecogida>00:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido>humildadypaciencia</ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_columna</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="18:30"></punto>
@@ -104,7 +104,7 @@
         <horaRecogida>23:30</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido>borriquita</ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_medinaceli</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="18:45"></punto>
@@ -135,7 +135,7 @@
         <horaRecogida>22:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_afligidos</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="17:30"></punto>
@@ -165,7 +165,7 @@
         <horaRecogida>00:30</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_eccehomo</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="19:00"></punto>
@@ -197,7 +197,7 @@
         <horaRecogida>23:30</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_huerto</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="18:15"></punto>
@@ -227,7 +227,7 @@
         <horaRecogida>01:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_caridad</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="19:00"></punto>
@@ -289,7 +289,7 @@
         <horaRecogida>23:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_servitas</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="19:00"></punto>
@@ -318,7 +318,7 @@
         <horaRecogida>22:40</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_vera_cruz</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="17:30"></punto>
@@ -347,7 +347,7 @@
         <horaRecogida>02:30</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_gran_poder</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="16:45"></punto>
@@ -378,7 +378,7 @@
         <horaRecogida>00:20</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_perdon</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="16:00"></punto>
@@ -406,7 +406,7 @@
         <horaRecogida>23:30</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_misericordia</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="18:15"></punto>
@@ -435,7 +435,7 @@
         <horaRecogida>07:30</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_tres_caidas</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="20:30"></punto>
@@ -464,7 +464,7 @@
         <horaRecogida>02:15</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_silencio</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="21:30"></punto>
@@ -494,7 +494,7 @@
         <horaRecogida>09:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_nazareno</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="02:00"></punto>
@@ -526,7 +526,7 @@
         <horaRecogida>00:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_soledad</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="19:30"></punto>
@@ -556,7 +556,7 @@
         <horaRecogida>22:00</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_desamparados</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="17:30"></punto>
@@ -585,7 +585,7 @@
         <horaRecogida>23:55</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_santo_entierro</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="19:00"></punto>
@@ -615,7 +615,7 @@
         <horaRecogida>14:15</horaRecogida>
         <latitudRegreso></latitudRegreso>
         <longitudRegreso></longitudRegreso>
-        <ficheroRecorrido></ficheroRecorrido>
+        <ficheroRecorrido>san_fernando_resurreccion</ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="09:30"></punto>

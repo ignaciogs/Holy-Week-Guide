@@ -26,11 +26,11 @@
 
 <resources>
 
-    <string name="KEY_GOOGLE_MAPS">0B8Rsd6rLL0n3BmfwM95oh8joV49fiR3OOmqY0Q</string>
-    <!--<string name="KEY_GOOGLE_MAPS">0EVJD0cnsmODNkBv_RRNbJlRr8g7kyTvdv3lHHw</string> //Market-->
+    <!--<string name="KEY_GOOGLE_MAPS">0B8Rsd6rLL0n3BmfwM95oh8joV49fiR3OOmqY0Q</string>-->
+    <string name="KEY_GOOGLE_MAPS">0EVJD0cnsmODNkBv_RRNbJlRr8g7kyTvdv3lHHw</string>
 
     <string name="directoryRoutes">rutas/</string>
 
-    <string name="developerKey">You key</string>
+    <string name="developerKey">YOU KEY</string>
 
 </resources>
