@@ -56,5 +56,6 @@
     <string name="youTubeNoConnected">Error al acceder a YouTube</string>
     <string name="loadingVideos">Cargando videos...</string>
     <string name="pasion">Pasión</string>
+    <string name="msgErroLoadingVideosList">Error cargando la lista de videos</string>
     
 </resources>

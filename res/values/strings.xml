@@ -80,4 +80,5 @@
     <string name="youTubeNoConnected">No connection to YouTube</string>
     <string name="loadingVideos">Loading videos...</string>
     <string name="pasion">Passion</string>
+    <string name="msgErroLoadingVideosList">Error loading videos list</string>
 </resources>

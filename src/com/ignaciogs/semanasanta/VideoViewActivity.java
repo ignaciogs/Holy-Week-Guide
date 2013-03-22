@@ -181,9 +181,9 @@ public class VideoViewActivity extends SherlockYouTubeBaseActivity {
                     result = gson.fromJson(json.toString(), InitialVideosListResponse.class);
                 }
             } catch (ClientProtocolException e) {
-                hideProgressbar();
+                result = null;
             } catch (IOException e) {
-                hideProgressbar();
+                result = null;
             }
             return result;
         }
@@ -191,8 +191,12 @@ public class VideoViewActivity extends SherlockYouTubeBaseActivity {
         @Override
         protected void onPostExecute(InitialVideosListResponse videosListResponse) {
             hideProgressbar();
-            data = videosListResponse;
-            showData(videosListResponse);
+            if (videosListResponse != null) {
+                data = videosListResponse;
+                showData(videosListResponse);
+            } else {
+                Toast.makeText(VideoViewActivity.this, getString(R.string.msgErroLoadingVideosList), Toast.LENGTH_LONG).show();
+            }
             super.onPostExecute(videosListResponse);
         }
     }

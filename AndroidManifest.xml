@@ -26,7 +26,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.ignaciogs.semanasanta"
-      android:versionName="2.0" android:versionCode="9">
+      android:versionName="2.1" android:versionCode="12">
 
     <uses-sdk
             android:minSdkVersion="8"

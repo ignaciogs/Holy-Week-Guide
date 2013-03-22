@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--
   ~ /*
   ~  * Copyright (C) 2012  Ignacio Gonzalez Sainz
@@ -91,6 +91,17 @@
             <poi description="Cárcel Baja" comment="" lat="37.103784" long="-3.355601" interes="NO"></poi>
             <poi description="San Jerónimo" comment="" lat="37.104181" long="-3.360572" interes="NO"></poi>
         </pois>
+        <descripcion>Esta Hermandad fue fundada en 1917, aunque no se aprobaron sus primeras Reglas hasta 1947. Aunque tiene su Sede Canónica en la Iglesia de San Andrés de la Calle de Elvira, en la actualidad y debido a unas obras de acondicionamiento, efectúa su salida desde la Parroquia del Perpetuo Socorro.La Hermandad cuenta con dos pasos, el primero es un misterio, creado originalmente en 1917 por Eduardo Espinosa Cuadros, pero que se ha enriquecido con innovaciones entre el año 2004 y 2006 de manos de Ángel Asenjo Fenoy, y que representa la Entrada de Jesucristo a la ciudad de Jerusalén a lomos de una borriquilla. La iconografía del paso la completan las imágenes del Apóstol San Juan quien lleva las riendas del borriquillo, una mujer junto a una niña así como San Andrés y Santiago. De modo curioso aparece un niño subido al tronco de la palmera que presenta el paso.El segundo de los pasos, el de Palio se realizó a finales de los años 70 por Rafael Moreno.Esta Hermandad suele aglutinar gran cantidad de niños participando en su estación de penitencia, casi trescientos niños de entre 1 y 12 años. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;En el misterio, agrupación musical Nuestro Padre Jesús de la Salud, de Churriana y en el palio, la banda de música Ciudad de Atarfe</masdatos>
+ 
+       <videos>
+              <video>vysg-I2-OPU</video>
+              <video>4ln2-j0amf8</video>
+              <video>ZGuorFmJA6I</video>
+              <video>TQhhcdGNDCQ</video>
+       </videos>
+            
     </cofradia>
     <cofradia>
         <nombre_corto>Santa Cena</nombre_corto>
@@ -108,40 +119,40 @@
         <horarios>
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="18:30"></punto>
-                <punto descripcion="Plaza de los Girones" hora="19:10"></punto>
-                <punto descripcion="Cuesta del Progreso" hora="19:45"></punto>
+                <punto descripcion="Pavaneras" hora="19:10"></punto>
+                <punto descripcion="San Matías" hora="19:40"></punto>
                 <punto descripcion="Ángel Ganivet" hora="19:55"></punto>
                 <punto descripcion="Salida de Tribuna" hora="20:30"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="20:40"></punto>
                 <punto descripcion="Cárcel Baja" hora="21:10"></punto>
-                <punto descripcion="Gran Vía" hora="21:25"></punto>
-                <punto descripcion="Plz. Isabel la Católica" hora="22:00"></punto>
+                <punto descripcion="Elvira" hora="21:25"></punto>
+                <punto descripcion="Colcha " hora="22:00"></punto>
                 <punto descripcion="Jesús y María" hora="22:45"></punto>
                 <punto descripcion="Recogida" hora="23:30"></punto>
             </horario>
             <horario descripcion="Paso Misterio">
                 <punto descripcion="Salida" hora="18:50"></punto>
-                <punto descripcion="Plaza de los Girones" hora="19:30"></punto>
-                <punto descripcion="Cuesta del Progreso" hora="20:05"></punto>
+                <punto descripcion="Pavaneras" hora="19:30"></punto>
+                <punto descripcion="San Matías" hora="20:00"></punto>
                 <punto descripcion="Ángel Ganivet" hora="20:15"></punto>
                 <punto descripcion="Salida de Tribuna" hora="20:50"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:00"></punto>
                 <punto descripcion="Cárcel Baja" hora="21:30"></punto>
-                <punto descripcion="Gran Vía" hora="21:45"></punto>
-                <punto descripcion="Plz. Isabel la Católica" hora="22:20"></punto>
+                <punto descripcion="Elvira" hora="21:45"></punto>
+                <punto descripcion="Colcha" hora="22:20"></punto>
                 <punto descripcion="Jesús y María" hora="23:05"></punto>
                 <punto descripcion="Recogida" hora="23:50"></punto>
             </horario>
             <horario descripcion="Paso Palio">
                 <punto descripcion="Salida" hora="19:10"></punto>
-                <punto descripcion="Plaza de los Girones" hora="19:50"></punto>
-                <punto descripcion="Cuesta del Progreso" hora="20:25"></punto>
+                <punto descripcion="Pavaneras" hora="19:50"></punto>
+                <punto descripcion="San Matías" hora="20:20"></punto>
                 <punto descripcion="Ángel Ganivet" hora="20:35"></punto>
                 <punto descripcion="Salida de Tribuna" hora="21:10"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:20"></punto>
                 <punto descripcion="Cárcel Baja" hora="21:50"></punto>
-                <punto descripcion="Gran Vía" hora="22:05"></punto>
-                <punto descripcion="Plz. Isabel la Católica" hora="22:40"></punto>
+                <punto descripcion="Elvira" hora="22:05"></punto>
+                <punto descripcion="Colcha" hora="22:40"></punto>
                 <punto descripcion="Jesús y María" hora="23:25"></punto>
                 <punto descripcion="Recogida" hora="00:05"></punto>
             </horario>
@@ -153,16 +164,27 @@
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="37.102288" long="-3.354234" interes="NO"></poi>
-            <poi description="Plaza de los Girones" comment="" lat="37.102749" long="-3.354200" interes="NO"></poi>
-            <poi description="Cuesta del Progreso" comment="" lat="37.102087" long="-3.354780" interes="NO"></poi>
+            <poi description="Pavaneras" comment="" lat="37.10311" long="-3.354620" interes="NO"></poi>
+            <poi description="San Matías" comment="" lat="37.102551" long="-3.354859" interes="NO"></poi>
             <poi description="Ángel Ganivet" comment="" lat="37.102355" long="-3.355541" interes="NO"></poi>
             <poi description="Salida de Tribuna" comment="" lat="37.102924" long="-3.360203" interes="NO"></poi>
             <poi description="Plz. de las Pasiegas" comment="" lat="37.103400" long="-3.355921" interes="NO"></poi>
             <poi description="Cárcel Baja" comment="" lat="37.103784" long="-3.355601" interes="NO"></poi>
-            <poi description="Gran Vía" comment="" lat="37.103550" long="-3.355283" interes="NO"></poi>
-            <poi description="Plz. Isabel la Católica" comment="" lat="37.103241" long="-3.355119" interes="NO"></poi>
+            <poi description="Elvira" comment="" lat="37.104451" long="-3.355492" interes="NO"></poi>
+            <poi description="Colcha" comment="" lat="37.103358" long="-3.354783" interes="NO"></poi>
             <poi description="Jesús y María" comment="" lat="37.102642" long="-3.354605" interes="NO"></poi>
         </pois>
+        <descripcion>Esta es sin lugar a duda una de la obras mas cumbres de Eduardo Espinosa Cuadros, que junto a su taller realizaron la obra de mayor envergadura de nuestra Semana Santa. Trece son las figuras, todas ellas talladas y policromadas en su totalidad, y que recientemente están siendo sometidas a un proceso de restauración que esta llevando a cabo Francisco Marín Cruces. Del mismo maestro, la Dolorosa que acompaña el misterio, en la cual se aprecia solo un deje de tristeza en su profunda mirada.El paso sobre el que procesiona el imponente misterio de la Santa Cena es de estilo renacentista, destacando sus líneas rectas y talla en caoba con apliques dorados. En las esquinas aparecen cuatro faroles también de madera tallada dorada que se apoyan en bases talladas con formas barrocas. Este paso, dado su gran peso, fue llevado sobre ruedas hasta el año 1991 que incorpora costaleros; al año siguiente se modifico la disposición de la figuras que componen el paso y que hasta entonces aparecían situadas todas en un mismo costero, mostrando una disposición similar a como aparece en su capilla.El paso de palio de la hermandad de la Santa Cena esta actualmente en renovación. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;En el misterio, banda de cornetas y tambores de Nuestro Padre Jesús del Gran Poder (Granada) y en el palio, banda de música municipal de Torredonjimeno (Jaén).</masdatos>
+ 
+       <videos>
+              <video>NLPb3XbR5S8</video>
+              <video>F6vJ54kIxKQ</video>
+              <video>XDpOJD-2Scw</video>
+              <video>y3h4icCiYEU</video>
+       </videos>
+            
     </cofradia>
     <cofradia>
         <nombre_corto>Sentencia</nombre_corto>
@@ -233,6 +255,18 @@
             <poi description="Plaza Nueva" comment="" lat="37.103599" long="-3.354594" interes="NO"></poi>
             <poi description="Carrera del Darro" comment="" lat="37.104181" long="-3.353458" interes="NO"></poi>
         </pois>
+        <descripcion>Fundada en 1944, tiene sede esta Hermandad en la Iglesia parroquial de los Santos Apóstoles Pedro y Pablo.Sus hermanos, que lucen en estación de penitencia hábitos blancos con capillo y cíngulo burdeos, tienen como titulares de esta cofradía a una imagen en el Paso Cristo, tallada en 1685 por José de Mora, que representa la lectura de la Sentencia de Muerte a Jesucristo. Por ello, acompañan en la canastilla a la talla del Cristo, las imágenes de Poncio Pilato, Claudia Prócula, una sanedrita, un lector, un niño esclavo negro y dos romanos, todos ellos obra de Benito Barbero (1961).El paso de la Virgen cuenta con una imagen atribuida a Pedro de Mena.En 2010 estrenó un nuevo manto de salida, bordado en oro fino en el taller malagueño de Mª Felicitación Gaviero, bajo diseño de Antonio Rodríguez, siendo esta una de las obras de arte más esperadas por la Granada Cofrade. Asimismo estrenó saya en tisú de plata con bordados en oro fino del mismo taller y diseñador.</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;En el cristo, banda de cornetas y tambores de Jesús de las Tres Caídas y en el palio, la Asociación musical "San Isidro" de Armilla.</masdatos>
+ 
+       <videos>
+             <video>Kx-QH_MyV6w</video>
+             <video>he7g4NrumDg</video>
+             <video>lxmIBq-BHNY</video>
+             <video>JZyo_vHJGYg</video>
+             <video>FznN-YURuys</video>
+       </videos>
+  
     </cofradia>
     <cofradia>
         <nombre_corto>Despojado</nombre_corto>
@@ -249,9 +283,9 @@
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
-                <punto descripcion="Salida" hora="18:45"></punto>
-                <punto descripcion="San Antón" hora="19:35"></punto>
-                <punto descripcion="Embovedado" hora="20:15"></punto>
+                <punto descripcion="Salida" hora="19:00"></punto>
+                <punto descripcion="San Antón" hora="19:50"></punto>
+                <punto descripcion="Embovedado" hora="20:30"></punto>
                 <punto descripcion="Ángel Ganivet" hora="21:05"></punto>
                 <punto descripcion="Salida de Tribuna" hora="21:35"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:45"></punto>
@@ -262,9 +296,9 @@
                 <punto descripcion="Recogida" hora="00:20"></punto>
             </horario>
             <horario descripcion="Paso Misterio">
-                <punto descripcion="Salida" hora="19:10"></punto>
-                <punto descripcion="San Antón" hora="20:00"></punto>
-                <punto descripcion="Embovedado" hora="20:40"></punto>
+                <punto descripcion="Salida" hora="19:20"></punto>
+                <punto descripcion="San Antón" hora="20:10"></punto>
+                <punto descripcion="Embovedado" hora="20:50"></punto>
                 <punto descripcion="Ángel Ganivet" hora="21:30"></punto>
                 <punto descripcion="Salida de Tribuna" hora="22:00"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="22:10"></punto>
@@ -290,6 +324,16 @@
             <poi description="San José Baja" comment="" lat="37.101539" long="-3.360432" interes="NO"></poi>
             <poi description="Agustina de Aragón" comment="" lat="37.100287" long="-3.360671" interes="NO"></poi>
         </pois>
+        <descripcion>Su sede es la Parroquia de San Emilio, pero sale desde su casa hermandad, en la calle Músico Ayala Cantó. Fue fundad el 13 de mayo de 1986, pero sus primeras reglas fueron aprobadas el 5 de junio de 1990. La hermandad posee banda propia, siendo ésta la Banda de Cornetas y Tambores Nuestro Padre Jesús Despojado de sus Vestiduras.En el mismo paso de misterio se ubican Simón de Cirene (Cirineo) depositando la cruz en donde padecerá Nuestro Señor y que fue obligado a portar en el camino al Calvario, María Magdalena que intenta acercarse a Jesús y otro soldado romano que le corta el paso a esta última. Todas las imágenes que componen el misterio son obra de Manuel Ramos Corona. La corporación participó en el Vía Crucis que tuvo lugar en Madrid el día 19 de agosto de 2011 con motivo de las JMJ.</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Banda de Jesús Despojado de sus Vestiduras</masdatos>
+ 
+       <videos>
+             <video>lXUMZhUU0-A</video>
+             <video>a1Eg0qdiVUQ</video>
+             <video>nzzjvuzyi9E</video>
+       </videos>
+  
     </cofradia>
     <cofradia>
         <nombre_corto>Cautivo</nombre_corto>
@@ -356,6 +400,18 @@
             <poi description="Plz. de las Pasiegas" comment="" lat="37.103400" long="-3.355921" interes="NO"></poi>
             <poi description="Cárcel Baja" comment="" lat="37.103784" long="-3.355601" interes="NO"></poi>
         </pois>
+        <descripcion>Posee dos titulares, Jesús Cautivo, cuya postura es singular en Granada, ya que sólo la posee éste, Jesús del Rescate y el Cristo de las Eras, el cual no procesiona. La titular es María Santísima de la Encarnación. El título de real cofradía es concedido al hacer hermanas honoríficas tanto a la infanta Elena como la infanta Cristina. Ambos titulares son obra de Antonio Joaquín Dubé de Luque. La cofradía nace en diciembre de 1981, por iniciativa de un grupo de hermanos de otra hermandad, entre ellos Ángel Perea el cual ejerció como hermano mayor durante 4 mandatos y José Manuel Cabrera Pérez el cual fue el primer secretario del que esta hermandad dispuso. La hermandad procesiona por primera vez en 1982 con la titular mariana "María santísima de la Encarnación" desde la Iglesia del Perpetuo Socorro, un año después se incorporó a la estación de penitencia "Nuestro Padre Jesús Cautivo". Posteriormente la cofradía pasó a realizar su estación de penitencia desde el Sagrario de la Catedral de Granada; la Virgen procesiona con un manto bordado en oro que fue donado por las monjas de la Encarnación, este es del siglo XVIII y posee un gran valor. En conclusión, una cofradía de gente cercana que ha sabido evolucionar hasta ganarse el nombre y la admiración que hoy en día posee.</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;En el primer paso, la Agrupación Musical Nuestro Padre Jesús Cautivo (propia de la hermandad) y en el palio, la Banda de Santa María de los Ángeles.</masdatos>
+ 
+       <videos>
+             <video>q3xThleKmNE</video>
+             <video>Jtf6aqTKTzk</video>
+             <video>yKzorDtT3H0</video>
+             <video>K50D57QM_gQ</video>
+             <video>kUsuHb8-arE</video>
+       </videos>
+  
     </cofradia>
     <cofradia>
         <nombre_corto>Trabajo</nombre_corto>
@@ -425,6 +481,17 @@
             <poi description="Puente de San Antón" comment="" lat="37.100204" long="-3.355496" interes="NO"></poi>
             <poi description="Avenida de Dílar" comment="" lat="37.092063" long="-3.360177" interes="NO"></poi>
         </pois>
+        <descripcion>Fue fundada en el mes de abril de 1985, en la Parroquia del Stmo Corpus Christi del populoso barrio del Zaidín.Su primera salida fue el 29 de marzo de 1986 ( Sábado Santo) con la imagen de Nuestra Señora de los Dolores, ya bajo la advocación de Nuestra Señora de la Luz. Esta bellísima imagen que conserva la parroquia es del siglo XVIII fue procesionada por esta Hermandad hasta 1991.En 1992 la Hermandad es federada y realiza su primera estación de penitencia a la Santa Iglesia Catedral Metropolitana de Granada. La imagen del Santísimo Cristo del Trabajo fue realizada por el escultor granadino Eduardo Espinosa Alfambra, uno de los últimos escultores de la escuela granadina de imaginería. Fue bendecida el 20 de marzo de 1988 procesionando ese año. Representa a Jesús cargado con la cruz apoyándose en un tocón en el supremo esfuerzo de levantarse tras una de sus caídas. La imagen es de talla completa y escalfada en oro. Acompañan al Sagrado Titular un total de 6 imágenes: la Santa Mujer Verónica que ha limpiado el rostro de Cristo, Una Dolorosa que, siguiendo a su Hijo, es consolada por San Juan y la Magdalena. Y por último un sayón y un romano que fuerzan a Cristo a seguir su camino. Estas imágenes son obra de Elías Rodríguez Picón.Nuestra Señora de la Luz también es obra de Eduardo Espinosa Alfambra del año 1992. Dolorosa de vestir inspirada en la antigua de los Dolores.Sus imágenes son muy queridas por los zaidineros y muestra de ello es como el barrio se vuelca cada Lunes Santo cuando sale.  </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Con el primer paso, la banda de tambores y cornetas Tres Caídas, de Granada y con el palio, la Banda de Música de Otura.</masdatos>
+ 
+       <videos>
+             <video>IB3HDO3zktg</video>
+             <video>C1yyckzBIZM</video>
+             <video>RLHHjKIK8uM</video>
+             <video>aLH446nH9rg</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
         <nombre_corto>Dolores</nombre_corto>
@@ -486,6 +553,16 @@
             <poi description="Plaza Nueva" comment="" lat="37.103602" long="-3.354594" interes="NO"></poi>
             <poi description="Carrera del Darro" comment="" lat="37.104182" long="-3.353457" interes="NO"></poi>
         </pois>
+        <descripcion>Esta cofradía consta de un solo paso, el de Nuestra Señora de Los Dolores. Fue fundada por un tercio de carlistas granadinos, aunque pasó a manos de requetes. El estandarte requeté de la Virgen es siempre muy comentado por su extravagante altura. En él se lee una oda a la Reina Isabel La Católica. Al principio, esta hermandad constaba de un segundo paso el de Nuestro Padre Jesús del Rescate. En el seno de la cofradía siempre se ha debatido si añadirle un paso de Cristo a la Virgen o mantenerla a ella sola, este debate cobró mayor fuerza en los años 1999-2000, donde por sólo 4 votos los hermanos de esta cofradía se quedaron sin Cristo de la Fuerza, como se llamaría dicho paso. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Banda de Música de Nuestra Señora de los Dolores de Granada</masdatos>
+ 
+       <videos>
+             <video>WGFLDv9w4II</video>
+             <video>qTsP6MH3it0</video>
+             <video>uY8QQI5oxxI</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
         <nombre_corto>Rescate</nombre_corto>
@@ -549,6 +626,15 @@
             <poi description="Verónica de la Magdalena" comment="" lat="37.102588" long="-3.361105" interes="NO"></poi>
             <poi description="Gracia" comment="" lat="37.102590" long="-3.361104" interes="NO"></poi>
         </pois>
+        <descripcion>Su sede canónica es la Iglesia de La Magdalena, en el centro mismo de la ciudad de Granada. Al ir por las calles estrechas a su vuelta, se vive gran emoción entre éstas por las saetas que le cantan a su paso. En el año 2007, se vivió una gran expectación, ya que se dijo que no salía, pero, recortando su recorrido, consiguieron salir. Durante algunos años, acompañó a esta cofradía el Paso de Nuestra Señora de Los Dolores, perteneciente a la Cofradía de Nuestra Señora de Los Dolores, que estableció temporalmente su sede canónica en la misma Iglesia. Nunca se ha planteado añadirle un paso de palio. La imagen de Nuestro Padre Jesús del Rescate es de origen trinitario, como da fe el escapulario que luce el cristo en su capilla de la magdalena, se cuenta de la imagen que una monja, al verlo, dijo "Dios me prometió que no moriría sin haber visto la cara de nuestro Señor Jesucristo. Ahora ya puedo morir, porque he visto el rostro de Dios". </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Agrupación Musical María Santísima de la Estrella.</masdatos>
+ 
+       <videos>
+             <video>z7n_oUZnKkE</video>
+             <video>n-jteyUn36I</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
         <nombre_corto>Huerto</nombre_corto>
@@ -626,6 +712,17 @@
             <poi description="Pavaneras" comment="" lat="37.103061" long="-3.354574" interes="NO"></poi>
             <poi description="Plaza del Realejo" comment="" lat="37.102488" long="-3.353740" interes="NO"></poi>
         </pois>
+        <descripcion>Esta cofradía representa el momento de oración de Jesús, y cuando los apóstoles duermen, momentos antes del Prendimiento. Cabe destacar que es uno de los tronos más pesados, no sólo por la cantidad de imágenes, sino por el Olivo que éste lleva encima. La talla del paso es obra del tallista hispalense Antonio Martín. Las cartelas y capillas que lo adornan son obra del sevillano Navarro Arteaga. María Santísima de la Amargura es muy seguida, curiosamente también en Vigo, ya que las Comendadoras de Santiago le dieron la Cruz de Vigo como representación, de ahí que sea el escudo de la Cofradía. Actualmente se ha dado fecha para la Coronación Canónica de María Santísima de la Amargura, que será en mayo de 2015. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;En el misterio, la banda de tambores y cornetas de Jesús Despojado de sus Vestiduras. En el palio, la banda de Nuestra Señora de la Soledad, de Cantillana (Sevilla).</masdatos>
+ 
+       <videos>
+             <video>F01_wZDw1h4</video>
+             <video>-S8cT109w_w</video>
+             <video>PP5GinMZd4A</video>
+             <video>e8L_3PTzh3I</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
         <nombre_corto>San Agustín</nombre_corto>
@@ -703,6 +800,19 @@
             <poi description="Alhóndiga" comment="" lat="37.102820" long="-3.360395" interes="NO"></poi>
             <poi description="San Antón" comment="" lat="37.101299" long="-3.355872" interes="NO"></poi>
         </pois>
+        <descripcion>Esta Hermandad, fundada el 6 de agosto de 1680, adquiere en el año 1989 mediante orden arzobispal la categoría penitencial tras una reorganización por parte de un grupo de hermanos, actualizando el Libro de Reglas y adaptándolo a las nuevas necesidades como Hermandad de Penitencia. Así pues, hace esto que podamos considerarla una de las más noveles cofradías granadinas a la vez que una de las más antiguas.Como sagrados titulares, aparte del Santísimo Sacramento, tiene al Santo Cristo de San Agustín, bajo la advocación civil de Sagrado Protector de la Muy Noble, Muy Leal, nombrada Grande, Celebérrima y Heroica Ciudad de Granada.Como Mariana titular, la Hermandad del Santísimo Cristo de San Agustín, cuenta con la advocación de Nuestra Madre y Señora de la Consolación, obra de Antonio Joaquín Dubé de Luque en los años 90.Como Mariana titular, la Hermandad del Santísimo Cristo de San Agustín, cuenta con la advocación de Nuestra Madre y Señora de la Consolación, obra de Antonio Joaquín Dubé de Luque en los años 90.Procesionó por vez primera, de manera brillante y solemne, el Lunes Santo de 2008, 17 de marzo, acompañada bajo palio de María Magdalena y San Juan Evangelista. Santa María Magdalena es obra de Elías Rodríguez Picón (Huelva), bendecida en marzo de 2008 y San Juan Evantelista, de Antonio Joaquín Dubé de Luque. Siguiendo las Reglas de esta cofradía, anda en silencio por las calles granadinas haciendo así el uno de los dos Palios Silentes de la ciudad de la Alhambra. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Capilla de música en la cruz de guía. Capilla de Jesús Nazareno de las Penas en el primer paso y capilla "Virgen de la Consolación" y cuarteto vocal, en el palio.</masdatos>
+ 
+       <videos>
+             <video>pYCnwzSKc-Q</video>
+             <video>jWf1D7PiPRs</video>
+             <video>VB42IUgA9Zs</video>
+             <video>YIihTicwzVA</video>
+             <video>FE2YvmTDIwg</video>
+             <video>fvj9v4bOkss</video>
+       </videos>
+
     </cofradia>
     <cofradia>
         <nombre_corto>Lanzada</nombre_corto>
@@ -721,46 +831,46 @@
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
-                <punto descripcion="Salida" hora="16:20"></punto>
+                <punto descripcion="Salida" hora="16:30"></punto>
                 <punto descripcion="Avenida de Barcelona" hora="16:55"></punto>
-                <punto descripcion="P. Manuel de Góngora" hora="18:05"></punto>
-                <punto descripcion="Carrera de la Virgen" hora="18:50"></punto>
-                <punto descripcion="Ángel Ganivet" hora="19:15"></punto>
-                <punto descripcion="Salida de Tribuna" hora="19:50"></punto>
-                <punto descripcion="Plz. de las Pasiegas" hora="20:00"></punto>
-                <punto descripcion="Cárcel Baja" hora="20:50"></punto>
+                <punto descripcion="P. Manuel de Góngora" hora="18:10"></punto>
+                <punto descripcion="Carrera de la Virgen" hora="19:00"></punto>
+                <punto descripcion="Ángel Ganivet" hora="19:20"></punto>
+                <punto descripcion="Salida de Tribuna" hora="19:55"></punto>
+                <punto descripcion="Plz. de las Pasiegas" hora="20:05"></punto>
+                <punto descripcion="Cárcel Baja" hora="20:55"></punto>
                 <punto descripcion="San Antón" hora="21:25"></punto>
                 <punto descripcion="Profesor Tierno Galván" hora="22:20"></punto>
                 <punto descripcion="Motril" hora="23:20"></punto>
-                <punto descripcion="Recogida" hora="00:10"></punto>
+                <punto descripcion="Recogida" hora="00:25"></punto>
             </horario>
             <horario descripcion="Paso Misterio">
-                <punto descripcion="Salida" hora="16:45"></punto>
+                <punto descripcion="Salida" hora="16:55"></punto>
                 <punto descripcion="Avenida de Barcelona" hora="17:20"></punto>
-                <punto descripcion="P. Manuel de Góngora" hora="18:30"></punto>
-                <punto descripcion="Carrera de la Virgen" hora="19:15"></punto>
-                <punto descripcion="Ángel Ganivet" hora="19:40"></punto>
-                <punto descripcion="Salida de Tribuna" hora="20:15"></punto>
-                <punto descripcion="Plz. de las Pasiegas" hora="20:25"></punto>
-                <punto descripcion="Cárcel Baja" hora="21:15"></punto>
+                <punto descripcion="P. Manuel de Góngora" hora="18:35"></punto>
+                <punto descripcion="Carrera de la Virgen" hora="19:25"></punto>
+                <punto descripcion="Ángel Ganivet" hora="19:45"></punto>
+                <punto descripcion="Salida de Tribuna" hora="20:20"></punto>
+                <punto descripcion="Plz. de las Pasiegas" hora="20:30"></punto>
+                <punto descripcion="Cárcel Baja" hora="21:20"></punto>
                 <punto descripcion="San Antón" hora="21:50"></punto>
                 <punto descripcion="Profesor Tierno Galván" hora="22:45"></punto>
                 <punto descripcion="Motril" hora="23:45"></punto>
-                <punto descripcion="Recogida" hora="00:35"></punto>
+                <punto descripcion="Recogida" hora="00:40"></punto>
             </horario>
             <horario descripcion="Paso Palio">
-                <punto descripcion="Salida" hora="17:10"></punto>
+                <punto descripcion="Salida" hora="17:20"></punto>
                 <punto descripcion="Avenida de Barcelona" hora="17:45"></punto>
-                <punto descripcion="P. Manuel de Góngora" hora="18:55"></punto>
-                <punto descripcion="Carrera de la Virgen" hora="19:40"></punto>
-                <punto descripcion="Ángel Ganivet" hora="20:05"></punto>
-                <punto descripcion="Salida de Tribuna" hora="20:40"></punto>
-                <punto descripcion="Plz. de las Pasiegas" hora="20:50"></punto>
-                <punto descripcion="Cárcel Baja" hora="21:40"></punto>
+                <punto descripcion="P. Manuel de Góngora" hora="19:00"></punto>
+                <punto descripcion="Carrera de la Virgen" hora="19:50"></punto>
+                <punto descripcion="Ángel Ganivet" hora="20:10"></punto>
+                <punto descripcion="Salida de Tribuna" hora="20:45"></punto>
+                <punto descripcion="Plz. de las Pasiegas" hora="20:55"></punto>
+                <punto descripcion="Cárcel Baja" hora="21:45"></punto>
                 <punto descripcion="San Antón" hora="22:15"></punto>
                 <punto descripcion="Profesor Tierno Galván" hora="23:10"></punto>
                 <punto descripcion="Motril" hora="00:10"></punto>
-                <punto descripcion="Recogida" hora="00:55"></punto>
+                <punto descripcion="Recogida" hora="01:00"></punto>
             </horario>
         </horarios>
         <images>
@@ -782,6 +892,20 @@
             <poi description="Motril" comment="" lat="37.093871" long="-3.360581" interes="NO"></poi>
             <poi description="Recogida" comment="" lat="37.094520" long="-3.354141" interes="NO"></poi>
         </pois>
+        <descripcion>Cofradía fundada el 20 de noviembre de 1983 siendo aprobados sus estatutos el 25 de mayo de 1984 por decreto del arzobispo de Granada Don. José Méndez Asensio. La iniciativa la organizaron un grupo de vecinos del barrio del zaidin, de donde sale la cofradía el martes santo de cada año, de la Parroquia de Nuestra Señora de los Dolores.En un principio salió de la Santa Iglesia Catedral Metropolitana y más adelante de la Iglesia del Sagrario trasladándose después a su sede canónica de Zaidin. Esta cofradía organizó el primer cuerpo de hermanas costaleras de la Semana Santa granadina que sacaron por primara vez el paso de María Santísima de la Caridad en 1988.La imagen del Santísimo Cristo de la Lanzada es obra de Antonio Barbero Gor fue bendecida en 1985.Desde su primera salida sale en su paso Longinos en el momento que retira la lanza del costado de Cristo.En un principio el proyecto de este paso era de una escena mucho más grande, que al final no se llegó a realizar.María Santísima de la Caridad fue bendecida en 1986, sale bajo palio de terciopelo negro entero y esta recién terminado su paso de palio.Esta imagen fue del agrado de la corporación desde el primer momento que esta visitó el taller del autor. En 2012, la virgen cambió el color negro de su manto por el rojo, que es el color de la Caridad. Debido a las pequeñas dimensiones de la puerta de su sede, tienen que montar una carpa a las puertas de la iglesia para salir de allí. Está en construcción una nueva Casa Hermandad y una capilla para la cofradía en la calle Venezuela. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;En el misterio banda de cornetas y tambores de las Tres Caídas, y en el palio la banda de la Consolación de Huelva.</masdatos>
+ 
+       <videos>
+             <video>aaXZD5c8-Ww</video>
+             <video>QB_IE7603ns</video>
+             <video>1oQ2gjipLVY</video>
+             <video>g8Cfevr5rk8</video>
+             <video>95qXUTpNZdw</video>
+             <video>RAkCx8vTJDE</video>
+             <video>0xhld_swywA</video>
+       </videos>
+
     </cofradia>
     <cofradia>
         <nombre_corto>Esperanza</nombre_corto>
@@ -859,7 +983,20 @@
             <poi description="Elvira" comment="" lat="37.104480" long="-3.355503" interes="NO"></poi>
             <poi description="Plaza de Santa Ana" comment="" lat="37.103716" long="-3.354380" interes="NO"></poi>
         </pois>
-    </cofradia>
+        <descripcion>Hermandad fundada el 27 de abril de 1927 por empleados de banca y cajas de ahorro de la Ciudad de Granada. Procesiona dos Imágenes de vestir, un magnífico nazareno del imaginero contemporáneo Manuel Ramos Corona, bendecido en 1996, y una dolorosa de vestir realizada en 1718 por el insigne escultor barroco José Risueño. Goza de gran vida cofrade durante todo el año, así como de un espectacular patrimonio artístico e histórico. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;La banda de tambores y cornetas Jesús del Gran Poder acompaña a la imagen de Cristo. En el palio, la banda de música Santa María del Viso del Alcor (Sevilla). </masdatos>
+ 
+       <videos>
+             <video>Z1rQW5YS200</video>
+             <video>HGZgb0nJpwg</video>
+             <video>xKZ4tq3eStM</video>
+             <video>mhKlkzX6kwE</video>
+             <video>uG6CUgsJc98</video>
+             <video>egImzJEtyT4</video>
+       </videos>
+
+    </cofradia> 
     <cofradia>
         <nombre_corto>Vía-Crucis</nombre_corto>
         <nombre_largo>REAL HERMANDAD DEL SANTO VÍA-CRUCIS, COFRADÍA DE NAZARENOS DE NUESTRO PADRE JESÚS DE LA AMARGURA, MARÍA SANTÍSIMA DE LAS LÁGRIMAS Y NUESTRA SEÑORA DE LOS REYES</nombre_largo>
@@ -934,6 +1071,17 @@
             <poi description="Carrera del Darro (Inicio Via-Crucis Penitencial)" comment="" lat="37.104183"
                  long="-3.353458" interes="NO"></poi>
         </pois>
+        <descripcion>Fue fundada en 1917 en la Parroquia albaycinera del Salvador e hizo su primer desfile procesional en la madrugada del viernes santo de ese mismo año.En los primeros años de su fundación realizaba un vía crucis oficial desde la parroquia del Salvador, subiendo por el cerro del aceituno asta llegar a la ermita de San Miguel Alto. Tras la guerra civil y asta 1989 realizó su estación de penitencia desde la Santa Iglesia Catedral Metropolitana. A partir de 1990 se establece en la Iglesia de San Juan de los Reyes, en el Albaicín bajo, que estaba prácticamente derruida al hacerse cargo de ella la cofradía, actualmente está restaurada. Las pequeñas dimensiones de la puerta impedían salir a la Virgen de los Reyes de la iglesia, por lo que tuvieron que construir una capilla adosada a la iglesia, de donde sale actualmente la procesión.Nuestro Padre Jesús de la Amargura es un nazareno atribuido a José de Mora. Es la novena imagen que procesiona la hermandad hasta nuestras fechas, tuvo originalmente pelo natural y ahora una cabellera rizada por el escultor contemporáneo Aurelio López Azaustre.De gran maestría son sus manos y sus pies. La imagen fue restaurada por Francisco Martínez en 1992.Nuestra Señora de los Reyes es una Dolorosa de vestir del siglo XVIII, que según una reciente atribución fue realizada por Antonio Asensio de la Cerda, miembro de una familia de imagineros malagueños de origen murciano de 1760 a 1775. La policromía es pálida, lo que resalta aún más por las mejillas sonrosadas. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Capilla Musical Nuestro Padre Jesús de la Amargura para el Cristo y Banda de Música Ángeles de Granada en el Palio. Este año se recupera la música tras el palio.</masdatos>
+ 
+       <videos>
+             <video>uoA1NsJmO9w</video>
+             <video>BK_we_uQ5Do</video>
+             <video>eA9XV9Q8u2I</video>
+             <video>btWMP_UVjAA</video>
+       </videos>
+
     </cofradia>
     <cofradia>
         <nombre_corto>Cañilla</nombre_corto>
@@ -1002,6 +1150,19 @@
             <poi description="Plz. Isabel la Católica" comment="" lat="37.103201" long="-3.355050" interes="NO"></poi>
             <poi description="Jesús y María" comment="" lat="37.102642" long="-3.354604" interes="NO"></poi>
         </pois>
+        <descripcion>Hermandad penitencial fundada en 1926, bajo atención espiritual de los hermanos dominicos, y cuya sede parroquial está sita en la Iglesia de Santo Domingo. El pasaje bíblico corresponde al siguiente fragmento extraído del Santo Evangelio según San Marcos: "Enseguida los soldados le introdujeron en el palacio, o sea en el pretorio, y convocaron a todos los de su cohorte. Y tras revestir a Jesús de púrpura, le colocaron en la cabeza una corona tejida de espinas. Y se ponen a saludarlo: "¡Salve, rey de los judíos!" Y le golpeaban la cabeza con una caña, le escupían y le hacían reverencias poniéndose de rodillas" (Mc 15, 16-19).En el paso mariano vemos a una Virgen bajo la advocación de Soledad datada aproximadamente de 1800 y tallada por Manuel González Santos. Artísticamente podemos analizarla como una obra de talla completa y polícroma, con rictus serenos en armonía con la mezcla de colores fríos, cálidos y neutros. La imagen porta una diadema de plata dorada a modo de exorno cincelada por los hijos de Juan Fernández en 1989. La Cruz situada tras la titular mariana es de tipología arbórea y con formas cilíndricas con remates de platería. Como figuras secundarias va acompañada por un ángel pasionario, labrado por el mismo autor, situado a la izquierda de la Virgen con las tenazas de la Pasión. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Con el misterio, la agrupación musical Dulce Nombre de Jesús y la Banda de Música Nuestra Señora de los Dolores tras el paso.</masdatos>
+ 
+       <videos>
+             <video>6h9aSEtYidk</video>
+             <video>Fikz42tySns</video>
+             <video>oOgaVxxUpFQ</video>
+             <video>hiWslN__r6k</video>
+             <video>JTIBJNHxU0s</video>
+             <video>s5vYWtulnog</video>
+       </videos>
+
     </cofradia>
     <cofradia>
         <nombre_corto>Gitanos</nombre_corto>
@@ -1091,6 +1252,19 @@
             <poi description="Peso de la Harina" comment="" lat="37.105237" long="-3.351879" interes="NO"></poi>
             <poi description="Recogida" comment="" lat="37.105973" long="-3.344163" interes="NO"></poi>
         </pois>
+        <descripcion>Hermandad fundada el 14 de mayo de 1939.Finalmente en 1989 es la Iglesia del Sagrado Corazón de Jesús la que acoge la salida de esta hermandad. Desde su fundación ha sido arropada por su barrio que ha cantado y ha bailado a su Cristo y a su Virgen. Además de esta unión con el Sacromonte, la hermandad se ha vinculado con numerosas personas e instituciones. Ha sido una hermandad pródiga concediendo títulos honorarios. El Cristo del Consuelo es obra de José Risueño del Siglo XVII; representa la muerte de Jesús. La imagen de María Santísma del Sacromonte era un busto obra de los imagineros granadinos hermanos González del S.XVIII. En 1982 Miguel Zuñiga realizó manos y candelero para convertirla así en una Dolorosa de vestir. La hermandad tiene el recorrido más largo de la Semana Santa granadina (más de 6 kilómetros) saliendo a las 16:45 horas y entrando a las 03:00 de la madrugada, aunque la hora de entrada siempre es mas tarde de lo que pone en los programas ya que ha llegado a entrar a mas de las 07:00. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;En el primer paso Banda de Cornetas y Tambores Nuestro Padre Jesús del Gran Poder y con la Virgen, Banda de la Asociación Juvenil de la Cabeza de Churriana de la Vega.</masdatos>
+ 
+       <videos>
+             <video>yqzG9FBtZgc</video>
+             <video>KGzeOsMDGBQ</video>
+             <video>KiVWdOd8abU</video>
+             <video>NHinb0bz2uI</video>
+             <video>r74uUE_Z6qA</video>
+             <video>isz1zvDOzbg</video>
+       </videos>
+  
     </cofradia>
     <cofradia>
         <nombre_corto>Universitaria</nombre_corto>
@@ -1148,6 +1322,16 @@
             <poi description="Cárcel Baja" comment="" lat="37.103784" long="-3.355601" interes="NO"></poi>
             <poi description="Málaga" comment="" lat="37.103813" long="-3.360821" interes="NO"></poi>
         </pois>
+        <descripcion>Hermandad fundada en 1979, aunque desde hace tres años se puede decir que la que sale a la calle es casi una refundación forzada por la crisis provocada por su anterior hermano mayor y la sanción impuesta por la Iglesia diocesana granadina. Hoy día es una corporación que persigue vincularse a la Universidad de Granada y ser la referencia cofrade de los estudiantes universitarios granadinos. Nuestro Señor de la Meditación: Se trata de una imagen sedente de Jesús, instantes antes de la crucifixión. La talla del Cristo es anónima del s. XVII, cercana al círculo de Mora. Su cabeza, ligeramente inclinada a la derecha, descansa sobre esa misma mano. Se presenta con torso desnudo y revestido sólo por un sudario. María Santísima de los Remedios: es la Imagen Titular de los cofrades universitarios. Realizada por Israel Cornejo Sánchez en 2005, en ella ha querido reflejar la estética del barroco granadino. Bendecida el 6 de diciembre de 2005 en nuestra Sede Templo de los Mártires San Justo y Pastor. Donada por el Colegio de Administradores de Fincas de Granada, haciéndola también su Patrona. Esta imagen todavia no procesiona aunque se espera que la hermandad empiece con los proyectos del paso de palio muy pronto.</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;La agrupación musical "Dulce Nombre de Jesús" acompaña al paso de Jesús de la Meditación. Estrenos: Una de las grandes novedades de la Semana Santa Granadina de este año es la presentación de cuatro nuevas figuras de Israel Cornejo que convierte en un misterio el paso del Señor de la Meditación.</masdatos>
+ 
+       <videos>
+            <video>BErx46xflME</video>
+            <video>D56AhUcE9tc</video>
+            <video>XcJ6ov2zz8Y</video>
+       </videos>
+  
     </cofradia>
     <cofradia>
         <nombre_corto>Penas</nombre_corto>
@@ -1171,8 +1355,8 @@
                 <punto descripcion="Ángel Ganivet" hora="20:05"></punto>
                 <punto descripcion="Salida de Tribuna" hora="20:40"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="20:50"></punto>
-                <punto descripcion="Cárcel Baja" hora="21:40"></punto>
-                <punto descripcion="Gran Vía" hora="21:50"></punto>
+                <punto descripcion="Cárcel Baja" hora="21:10"></punto>
+                <punto descripcion="Gran Vía" hora="21:20"></punto>
                 <punto descripcion="Pavaneras" hora="22:00"></punto>
                 <punto descripcion="Varela" hora="22:35"></punto>
                 <punto descripcion="Recogida" hora="23:25"></punto>
@@ -1184,8 +1368,8 @@
                 <punto descripcion="Ángel Ganivet" hora="20:30"></punto>
                 <punto descripcion="Salida de Tribuna" hora="21:05"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:15"></punto>
-                <punto descripcion="Cárcel Baja" hora="22:05"></punto>
-                <punto descripcion="Gran Vía" hora="22:15"></punto>
+                <punto descripcion="Cárcel Baja" hora="21:35"></punto>
+                <punto descripcion="Gran Vía" hora="21:45"></punto>
                 <punto descripcion="Pavaneras" hora="22:25"></punto>
                 <punto descripcion="Varela" hora="23:00"></punto>
                 <punto descripcion="Recogida" hora="23:45"></punto>
@@ -1197,8 +1381,8 @@
                 <punto descripcion="Ángel Ganivet" hora="20:55"></punto>
                 <punto descripcion="Salida de Tribuna" hora="21:30"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:40"></punto>
-                <punto descripcion="Cárcel Baja" hora="22:30"></punto>
-                <punto descripcion="Gran Vía" hora="22:40"></punto>
+                <punto descripcion="Cárcel Baja" hora="22:00"></punto>
+                <punto descripcion="Gran Vía" hora="22:10"></punto>
                 <punto descripcion="Pavaneras" hora="22:50"></punto>
                 <punto descripcion="Varela" hora="23:25"></punto>
                 <punto descripcion="Recogida" hora="00:05"></punto>
@@ -1222,6 +1406,19 @@
             <poi description="Pavaneras" comment="" lat="37.103061" long="-3.354575" interes="NO"></poi>
             <poi description="Varela" comment="" lat="37.102320" long="-3.354660" interes="NO"></poi>
         </pois>
+        <descripcion>La hermandad penitencial de Jesús de la Paciencia y María Santísima de las Penas se erigió en la Iglesia Imperial de San Matías el 14 de septiembre de 1959 gracias a la ilusión de un grupo de cofrades granadinos y al párroco de la misma, Julio Aneas Madre. Sus estatutos fueron aprobados por el arzobispo Rafael García y García de Castro, teniendo lugar la primera salida procesional el día 13 de Abril de 1960, Miércoles Santo. Desde entonces ha mostrado una fidelidad absoluta al día inicialmente establecido. El gran amor de la Hermandad por la Virgen se hizo patente cuando en el año 1988 la cofradía decidió no salir a las calles de Granada como protesta por la suspensión de la festividad de la Inmaculada. Nuestro Padre Jesús de la Paciencia es una imagen de Pablo de Rojas del s. XVI. que representa la Flagelación y los Azotes de Cristo. Las manos aparecen amarradas a una columna. María Santísima de las Penas es tallada por Jiménez Mesa en 1959. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Agrupación Virgen de la Estrella en el cristo, y en el palio, la banda de la Escuela Municipal "Felipe Moreno" de Cúllar Vega.</masdatos>
+ 
+       <videos>
+            <video>zTMqdyXmYRo</video>
+            <video>4ZVqpqx1lpY</video>
+            <video>LTHo2IZ0QpA</video>
+            <video>NK8sdbszvH8</video>
+            <video>UdLZv2rXglw</video>
+            <video>INmUlvwUHdI</video>
+       </videos>
+  
     </cofradia>
     <cofradia>
         <nombre_corto>Rosario</nombre_corto>
@@ -1245,9 +1442,9 @@
                 <punto descripcion="Ángel Ganivet" hora="20:45"></punto>
                 <punto descripcion="Salida de Tribuna" hora="21:20"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:30"></punto>
-                <punto descripcion="Cárcel Baja" hora="22:20"></punto>
-                <punto descripcion="Gran Vía" hora="22:40"></punto>
-                <punto descripcion="Pavaneras" hora="22:50"></punto>
+                <punto descripcion="Cárcel Baja" hora="22:00"></punto>
+                <punto descripcion="Gran Vía" hora="22:10"></punto>
+                <punto descripcion="Pavaneras" hora="22:30"></punto>
                 <punto descripcion="Recogida" hora="23:30"></punto>
             </horario>
             <horario descripcion="Paso Misterio">
@@ -1258,9 +1455,9 @@
                 <punto descripcion="Ángel Ganivet" hora="21:10"></punto>
                 <punto descripcion="Salida de Tribuna" hora="21:45"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:55"></punto>
-                <punto descripcion="Cárcel Baja" hora="22:45"></punto>
-                <punto descripcion="Gran Vía" hora="23:05"></punto>
-                <punto descripcion="Pavaneras" hora="23:15"></punto>
+                <punto descripcion="Cárcel Baja" hora="22:25"></punto>
+                <punto descripcion="Gran Vía" hora="22:35"></punto>
+                <punto descripcion="Pavaneras" hora="23:00"></punto>
                 <punto descripcion="Recogida" hora="00:05"></punto>
             </horario>
             <horario descripcion="Paso Palio">
@@ -1271,9 +1468,9 @@
                 <punto descripcion="Ángel Ganivet" hora="21:35"></punto>
                 <punto descripcion="Salida de Tribuna" hora="22:10"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="22:20"></punto>
-                <punto descripcion="Cárcel Baja" hora="23:10"></punto>
-                <punto descripcion="Gran Vía" hora="23:30"></punto>
-                <punto descripcion="Pavaneras" hora="23:40"></punto>
+                <punto descripcion="Cárcel Baja" hora="22:50"></punto>
+                <punto descripcion="Gran Vía" hora="23:00"></punto>
+                <punto descripcion="Pavaneras" hora="23:20"></punto>
                 <punto descripcion="Recogida" hora="00:40"></punto>
             </horario>
         </horarios>
@@ -1294,6 +1491,19 @@
             <poi description="Gran Vía" comment="" lat="37.104640" long="-3.355854" interes="NO"></poi>
             <poi description="Pavaneras" comment="" lat="37.103062" long="-3.354574" interes="NO"></poi>
         </pois>
+        <descripcion>Nació en la Iglesia de Santo Domingo el 21 de diciembre 1927 para procesionar a la Virgen del Rosario en Semana Santa. Cumplió sus primeras Estaciones de Penitencia en la jornada del Sábado Santo tras el Dulce Nombre de Jesús. Posteriormente, esta Corporación se tornó en penitencial, tomando como titular Cristífero al Señor de las Tres Caídas allá por 1961 y acogiendo como titular mariana a una dolorosa de vestir de Aurelio López Azaustre, que en 1985 fue nuevamente sustituida por otra dolorosa de vestir de Miguel Zúñiga Navarro.De autor anónimo y melena natural, el Cristo caído fue titular de la antigua cofradía de los cocheros, también llamada de Jesús Nazareno el Pobre, erigida a fines del siglo XVII en el antiguo convento de San Francisco Casa Grande (Ex-Capitanía General). La imagen, datable en esta época, pasó al de Santa Isabel la Real tras la desamortización. Simón de Cirene realza la humanidad de un tema de gran popularidad devocional.</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Banda de Cornetas y Tambores Nuestro Padre Jesús de las Tres Caídas en el primer paso. En el de palio la Banda de la Soledad, de Cantillana (Sevilla).</masdatos>
+ 
+       <videos>
+            <video>f3XSMpfnDi4</video>
+            <video>aH0RiMqM-Zo</video>
+            <video>QnAUzwy3OQ8</video>
+            <video>xyDyhtRVptc</video>
+            <video>Ye37Ow_CUBc</video>
+            <video>a6DogSETzf4</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
         <nombre_corto>Nazareno</nombre_corto>
@@ -1310,47 +1520,47 @@
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
-                <punto descripcion="Salida" hora="20:00"></punto>
-                <punto descripcion="Pavaneras" hora="20:15"></punto>
-                <punto descripcion="Varela" hora="20:55"></punto>
+                <punto descripcion="Salida" hora="20:15"></punto>
+                <punto descripcion="Pavaneras" hora="20:30"></punto>
+                <punto descripcion="Varela" hora="21:10"></punto>
                 <punto descripcion="Plz. Mariana Pineda" hora="21:20"></punto>
                 <punto descripcion="Ángel Ganivet" hora="21:25"></punto>
                 <punto descripcion="Salida de Tribuna" hora="22:00"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="22:10"></punto>
-                <punto descripcion="Cárcel Baja" hora="23:00"></punto>
-                <punto descripcion="Pasaje Diego de Siloé" hora="23:05"></punto>
-                <punto descripcion="Reyes Católicos" hora="23:10"></punto>
-                <punto descripcion="Plz. Isabel la Católica" hora="23:20"></punto>
+                <punto descripcion="Cárcel Baja" hora="22:40"></punto>
+                <punto descripcion="Pasaje Diego de Siloé" hora="22:45"></punto>
+                <punto descripcion="Reyes Católicos" hora="23:05"></punto>
+                <punto descripcion="Plz. Isabel la Católica" hora="23:10"></punto>
                 <punto descripcion="Plz. S. Juan de la Cruz" hora="23:25"></punto>
                 <punto descripcion="Recogida" hora="23:35"></punto>
             </horario>
             <horario descripcion="Paso Misterio">
-                <punto descripcion="Salida" hora="20:25"></punto>
-                <punto descripcion="Pavaneras" hora="20:40"></punto>
-                <punto descripcion="Varela" hora="21:20"></punto>
+                <punto descripcion="Salida" hora="20:40"></punto>
+                <punto descripcion="Pavaneras" hora="20:55"></punto>
+                <punto descripcion="Varela" hora="21:35"></punto>
                 <punto descripcion="Plz. Mariana Pineda" hora="21:45"></punto>
                 <punto descripcion="Ángel Ganivet" hora="21:50"></punto>
                 <punto descripcion="Salida de Tribuna" hora="22:25"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="22:35"></punto>
-                <punto descripcion="Cárcel Baja" hora="23:25"></punto>
-                <punto descripcion="Pasaje Diego de Siloé" hora="23:30"></punto>
-                <punto descripcion="Reyes Católicos" hora="23:35"></punto>
-                <punto descripcion="Plz. Isabel la Católica" hora="23:45"></punto>
+                <punto descripcion="Cárcel Baja" hora="23:05"></punto>
+                <punto descripcion="Pasaje Diego de Siloé" hora="23:10"></punto>
+                <punto descripcion="Reyes Católicos" hora="23:30"></punto>
+                <punto descripcion="Plz. Isabel la Católica" hora="23:35"></punto>
                 <punto descripcion="Plz. S. Juan de la Cruz" hora="23:50"></punto>
                 <punto descripcion="Recogida" hora="00:00"></punto>
             </horario>
             <horario descripcion="Paso Palio">
-                <punto descripcion="Salida" hora="20:50"></punto>
-                <punto descripcion="Pavaneras" hora="21:05"></punto>
-                <punto descripcion="Varela" hora="21:45"></punto>
+                <punto descripcion="Salida" hora="21:00"></punto>
+                <punto descripcion="Pavaneras" hora="21:20"></punto>
+                <punto descripcion="Varela" hora="22:00"></punto>
                 <punto descripcion="Plz. Mariana Pineda" hora="22:10"></punto>
                 <punto descripcion="Ángel Ganivet" hora="22:15"></punto>
                 <punto descripcion="Salida de Tribuna" hora="22:50"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="23:00"></punto>
-                <punto descripcion="Cárcel Baja" hora="23:50"></punto>
-                <punto descripcion="Pasaje Diego de Siloé" hora="23:55"></punto>
-                <punto descripcion="Reyes Católicos" hora="00:00"></punto>
-                <punto descripcion="Plz. Isabel la Católica" hora="00:10"></punto>
+                <punto descripcion="Cárcel Baja" hora="23:30"></punto>
+                <punto descripcion="Pasaje Diego de Siloé" hora="23:35"></punto>
+                <punto descripcion="Reyes Católicos" hora="23:55"></punto>
+                <punto descripcion="Plz. Isabel la Católica" hora="00:00"></punto>
                 <punto descripcion="Plz. S. Juan de la Cruz" hora="00:15"></punto>
                 <punto descripcion="Recogida" hora="00:25"></punto>
             </horario>
@@ -1375,6 +1585,19 @@
             <poi description="Plz. Isabel la Católica" comment="" lat="37.103221" long="-3.355006" interes="NO"></poi>
             <poi description="Plz. S. Juan de la Cruz" comment="" lat="37.103067" long="-3.354858" interes="NO"></poi>
         </pois>
+        <descripcion>La plástica fuertemente expresiva y virtuosa del Nazareno de Barbero Gor (1982) interpela directamente al fiel en la invitación que ofrece su poderosa zancada: ``Si alguno quiere venir en pos de mí, niéguese a sí mismo, cargue con su cruz y sígame´´ (Mc 8, 34). En soberbio paso de madera tallada y dorada, con Evangelistas primorosos en sus esquinas del propio Barbero, el Nazareno de las Descalzas revive hoy el espíritu ascético de la Cofradía de Jesús Nazareno y Santa Elena del extinguido convento de los Mártires. Íntima y devota, la Virgen de la Merced le sigue bajo palio, siendo obra de escuela granadina, quizás del siglo XVII. Tras muchos esfuerzos y trámites que tuvo que pasar la hermandad para su fundación y con todo listo y con una imagen muy por encima de lo que había sido habitual en las primeras salidas de Cofradías por aquellos entonces, el día 7 de Abril de 1982 a las 20:30 se ponía por primera vez en la calle la Hermandad del Nazareno. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;El primer paso lleva música de capilla y en el palio la Banda Sinfónica Municipal de Ogíjares acompaña a María Santísima de la Merced.</masdatos>
+ 
+       <videos>
+            <video>ABBiRb1_yKM</video>
+            <video>qn_Jdc70YiM</video>
+            <video>tSA__FoxZj4</video>
+            <video>LUyMdPdkmyQ</video>
+            <video>2jTtPxOJdJM</video>
+            <video>UWrDmFFAZdM</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
         <nombre_corto>Redención</nombre_corto>
@@ -1452,14 +1675,25 @@
             <poi description="San Antón" comment="" lat="37.101299" long="-3.355872" interes="NO"></poi>
             <poi description="Puente de San Antón" comment="" lat="37.100204" long="-3.355489" interes="NO"></poi>
         </pois>
+        <descripcion>El crucificado de la Redención, de Antonio Díaz Fernández (1986) parece inspirarse en el Cristo de la Noche Oscura de Úbeda. Su muerte serena se expresa en una plástica sobria, con el paño de pureza que cae por detrás hasta ser atravesado por el clavo de los pies, fijándose a la cruz plana. Su propia adveración compendia la magnitud del misterio, al que sigue la Virgen de la Salud, Dolorosa del mismo autor (1986) que fue retallada por  el joven imaginero malagueño Israel Cornejo en 2007. La hermandad tiene su sede canónica desde su fundación en la Iglesia de María Auxiliadora en el Colegio Salesiano 'San Juan Bosco', ubicado en el populoso barrio del Zaidín. La iglesia es de construcción moderna, de finales de los años setenta del pasado siglo, aunque ha sufrido diversas modificaciones desde su estado original. Dentro de la iglesia, en el lateral derecho, sobre un pedestal se sitúa la talla de Nuestra Señora de la Salud y en el altar, presidiéndolo, se encuentra la imagen del Cristo de la Redención sobre terciopelo granate. En el lado derecho del altar se encuentra la imagen que da nombre a la iglesia, María Auxiliadora, y en sus laterales se encuentran tallas de Santo Domingo Savio y del fundador de la orden salesiana, San Juan Bosco. En el exterior del templo, a ambos lados de la puerta principal se sitúan sendas capillas, que la hermandad construyó en el año 2006 para realizar su salida penitencial del Jueves Santo. En cada una de ellas se sitúan los pasos del Cristo de la Redención y Nuestra Señora de la Salud, respectivamente. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Banda de Cornetas y Tambores de Nuestro Padre Jesús de las Tres Caídas en el primer paso y la Banda Ángeles de Granada, tras el palio. </masdatos>
+ 
+       <videos>
+            <video>19D0qXQX4Pg</video>
+            <video>gsllRYYM61E</video>
+            <video>WHacPHOxvxk</video>
+            <video>JvvU_Dd5O7o</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
         <nombre_corto>Aurora</nombre_corto>
         <nombre_largo>REAL, VENERABLE E ILUSTRE COFRADÍA DE NUESTRO PADRE JESÚS DEL PERDÓN Y MARÍA SANTÍSIMA DE LA AURORA CORONADA</nombre_largo>
-        <fecha_salida>20120405</fecha_salida>
-        <nombre_iglesia>Iglesia de San Miguel Bajo (Albaicín)</nombre_iglesia>
+        <fecha_salida>20130328</fecha_salida>
+        <nombre_iglesia>Iglesia de la Aurora y San Miguel (Albaicín)</nombre_iglesia>
         <numero_pasos>2</numero_pasos>
-        <itinerario>Salida, Plaza de San Miguel Bajo, Plaza de Cauchiles, San José Alta, Grifos de San José, Cuesta de San Gregorio, Plaza de San Gregorio, San Juan de los Reyes, Cárcel Alta, Plaza Nueva, Reyes Católicos (lateral izquierdo), Colcha, Pavaneras, Plaza de San Juan de la Cruz, San Matías, Plaza de Mariana Pineda, Ángel Ganivet (Tribuna Oficial), Puerta Real, Mesones, Marqués de Gerona, Plaza de las Pasiegas, Santa Iglesia Catedral, Cárcel Baja, Plaza Diego de Siloé, Pasaje Diego de Siloé, Gran Vía, Almireceros, Joaquín Costa, Reyes Católicos, Plaza Nueva, Cárcel Alta, San Juan de los Reyes, Plaza de San Gregorio, Cuesta de San Gregorio, Grifos de San José, San José Alta, Plaza de Cauchiles, Plaza de San Miguel Bajo, regreso a su Templo de San Miguel Bajo. </itinerario>
+        <itinerario>Salida, Plaza de San Miguel Bajo, Plaza de Cauchiles, San José Alta, Grifos de San José, Cuesta de San Gregorio, Plaza de San Gregorio, San Juan de los Reyes, Cárcel Alta, Plaza Nueva, Reyes Católicos (lateral izquierdo), Colcha, Pavaneras, Plaza de San Juan de la Cruz, San Matías, Plaza de Mariana Pineda, Ángel Ganivet (Tribuna Oficial), Puerta Real, Mesones, Marqués de Gerona, Plaza de las Pasiegas, Santa Iglesia Catedral, Cárcel Baja, Plaza Diego de Siloé, Pasaje Diego de Siloé, Gran Vía, Almireceros, Joaquín Costa, Reyes Católicos, Plaza Nueva, Cárcel Alta, San Juan de los Reyes, Plaza de San Gregorio, Cuesta de San Gregorio, Grifos de San José, San José Alta, Plaza de Cauchiles, Plaza de San Miguel Bajo, regreso a su Templo de la Aurora y San Miguel. </itinerario>
         <imagenEscudo>granada_escudo_aurora</imagenEscudo>
         <horaSalida>18:15</horaSalida>
         <horaRecogida>01:25</horaRecogida>
@@ -1530,6 +1764,18 @@
             <poi description="Plaza Nueva" comment="" lat="37.103598" long="-3.354594" interes="NO"></poi>
             <poi description="Cuesta de San Gregorio" comment="" lat="37.104401" long="-3.354211" interes="NO"></poi>
         </pois>
+        <descripcion>El hallazgo de una imagen  de Nuestra Señora la Virgen oculta ex profeso tras un tabique para preservarla de los destrozos de la guerra fue del todo crucial en los primeros compases de la fundación, puesto que la imagen tan celosamente escondida se identificó entonces como la de María Santísima de la Aurora, titular de una asociación rosariana de San Gregorio Bético que gozó de un notable auge en tiempos pasados. El deseo de la hermandad fue siempre salir desde el Albaycin hecho que ocurrió en la salida que desde san Nicolás se realizó en 1948 ya como hermandad autónoma (que no independiente, ya que lo fue desde su fundación) incorporando como titular cristífero a Jesús de los Azotes, procedente del antiguo convento de Belén, atribuido a Pablo de Rojas, imagen que adquiriría desde ese momento la advocación de Ntro Padre Jesús del Perdón. El nombre de la hermandad volvió a cambiar pasando a ser "Cofradía de Ntro. Padre Jesús del Perdón y María santísima de la Aurora". Cuando la hermandad comenzó a realizar su salida procesional desde San Miguel bajo, el templo se encontraba totalmente devastado. Sus capillas, paredes y suelos estaban destrozados, sucios o quemados; se había convertido con el devenir de los años en un lugar más propio de animales que de culto, al cual por cierto se encontraba cerrado desde hacía bastante tiempo. Los hermanos se volcaron entusiásticamente, realizando un titánico esfuerzo humano y económico en la restauración, reforma y acondicionamiento del tan largamente deseado templo de San Miguel Bajo, del que hoy se puede decir que ha sido feliz y definitivamente rescatado para Granada y con culto continuado desde septiembre de 1987, coincidiendo con la festividad de María Stma. de la Aurora. María Santísima de la Aurora, el 8 de mayo del año 2011 fue coronada canónicamente en la S. I. Catedral Metropolitana de Granada por el arzobispo de Granada, Monseñor Francisco Martínez Fernández. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;En el primer paso la banda de Cornetas y Tambores de Nuestro Padre Jesús Despojado y en el segundo, la Asociación Musical San Isidro, de Armilla (Granada). Estrenos: La hermandad ha acometido en solitario la restauración integra de su sede canónica que pasará a llamarse Iglesia de Santa María de la Aurora y San Miguel. </masdatos>
+ 
+       <videos>
+            <video>TTE4CgRPTtQ</video>
+            <video>r3siqUCTt2k</video>
+            <video>EY-si4NZTiA</video>
+            <video>otMGZtM2RXA</video>
+            <video>uSsg1WXbsVA</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
         <nombre_corto>Estrella</nombre_corto>
@@ -1605,6 +1851,17 @@
             <poi description="Plaza del Triunfo" comment="" lat="37.105656" long="-3.360015" interes="NO"></poi>
             <poi description="Plaza Larga" comment="" lat="37.105787" long="-3.353594" interes="NO"></poi>
         </pois>
+        <descripcion>El Nazareno de Dubé de Luque (1985), que desciende desde San Cristóbal con andar valiente y decidido, bebe en las fuentes de la escuela sevillana, inspirándose en el Jesús de la Pasión de Martínez Montañés de la iglesia hispalense del Salvador, uno de los grandes hitos de la escultura procesional andaluza con el que comparte algo más que la advocación. Con ella, la Cofradía consiguió una imagen propia, dejando de procesionar el Jesús Nazareno de las Penas del convento del Ángel. El mismo Dubé esculpió en 1980 la Virgen de la Estrella Dolorosa de vestir bajo palio azul, de suave y expresivo modelado. Es una de las cofradías que tiene más complicada la salida.  </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Agrupación Musical de la Estrella para el Cristo y Banda de Música Ribera del Genil para el Palio. </masdatos>
+ 
+       <videos>
+            <video>LzZU4z1kfRw</video>
+            <video>v3AdaioPQcs</video>
+            <video>E0-k9PP0jUs</video>
+            <video>rG-i_ZAayhw</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
         <nombre_corto>Concepción</nombre_corto>
@@ -1621,7 +1878,7 @@
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
-                <punto descripcion="Salida" hora="20:00"></punto>
+                <punto descripcion="Salida" hora="20:10"></punto>
                 <punto descripcion="Carrera del Darro" hora="21:00"></punto>
                 <punto descripcion="Plaza Nueva" hora="21:40"></punto>
                 <punto descripcion="San Matías" hora="22:10"></punto>
@@ -1635,7 +1892,7 @@
                 <punto descripcion="Recogida" hora="02:45"></punto>
             </horario>
             <horario descripcion="Paso Misterio">
-                <punto descripcion="Salida" hora="20:30"></punto>
+                <punto descripcion="Salida" hora="20:40"></punto>
                 <punto descripcion="Carrera del Darro" hora="21:30"></punto>
                 <punto descripcion="Plaza Nueva" hora="22:10"></punto>
                 <punto descripcion="San Matías" hora="22:40"></punto>
@@ -1649,7 +1906,7 @@
                 <punto descripcion="Recogida" hora="03:05"></punto>
             </horario>
             <horario descripcion="Paso Palio">
-                <punto descripcion="Salida" hora="21:00"></punto>
+                <punto descripcion="Salida" hora="21:10"></punto>
                 <punto descripcion="Carrera del Darro" hora="22:00"></punto>
                 <punto descripcion="Plaza Nueva" hora="22:40"></punto>
                 <punto descripcion="San Matías" hora="23:10"></punto>
@@ -1682,6 +1939,20 @@
             <poi description="Plaza de Santa Ana" comment="" lat="37.103715" long="-3.354380" interes="NO"></poi>
             <poi description="Carrera del Darro" comment="" lat="37.104183" long="-3.353458" interes="NO"></poi>
         </pois>
+        <descripcion>Era el Domingo de Ramos de la Semana Santa de 1977, cuando tras presenciar el encierro de Virgen de la Victoria y dadas las dificultades que en los últimos año habían tenido las Cofradías para salir a la calle deciden formar un grupo de personas, con vistas a fundar una hermandad. Fue el 4 de octubre de 1977 cuando finalmente quedaba encargada la imagen cuyo boceto fue elaborado a partir de arcillas del río Darro, como muestra de que la Virgen iba a ser granadina. Afortunadamente consiguió una de las dolorosas más bellas y de más personalidad de Granada, en actitud de la Madre angustiada que va a recibir a su Hijo. A las 20:00 de la tarde del día 2 de marzo de 1978 se procedió a bendecir en acto solemne, la imagen de María Santísima de la Concepción, cantando la liturgia el coro de la comunidad de religiosas, Don Francisco Andrés, y Don Ángel Rodríguez, acompañados a la guitarra por Don Francisco Manuel Díaz. En 1983 se bendijo en el Monasterio de la Concepción, la nueva imagen de Nuestro Padre Jesús del Amor y la Entrega, obra del granadino Miguel Zúñiga Navarro, sustituyendo al Cristo de las Eras. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;El primer paso va acompañado de la Banda de la Salud de Churriana y el segundo con la Asociación Musical San Sebastián, de Padul (Granada)</masdatos>
+ 
+       <videos>
+            <video>SgbntMrcvRM</video>
+            <video>OHH-mviO9yU</video>
+            <video>5R7sCnW34zk</video>
+            <video>yrhjqJodyH8</video>
+            <video>lPyXxhx6Ngc</video>
+            <video>kMEwWr1Cxww</video>
+            <video>jpFOMNk1RcI</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
         <nombre_corto>Silencio</nombre_corto>
@@ -1736,9 +2007,20 @@
             <poi description="Cárcel Baja" comment="" lat="37.103784" long="-3.355601" interes="NO"></poi>
             <poi description="Carrera del Darro" comment="" lat="37.104182" long="-3.353457" interes="NO"></poi>
         </pois>
+        <descripcion>La fundación de la Hermandad tuvo lugar el día 6 de mayo de 1924, en una Junta General celebrada en el Círculo Católico de Obreros de la Gran Vía, como curiosidad se puede reseñar que en el Libro de Actas de la Hermandad, que se conserva, está sin firmar. La fusión con la Hermandad Sacramental se realiza en marzo de 1987 por Decreto del Arzobispo Don José Méndez Asensio. Peculiaridades de la estación de penitencia: En primer lugar hay que destacar que ésta se realiza desde una iglesia (San Pedro) distinta de la que es su sede. Por tal motivo, el Miércoles Santo se realiza el traslado de la Imagen a dicha Iglesia desde la sede canónica, siendo precedido por una celebración comunitaria del Sacramento de la Reconciliación. En segundo lugar el recorrido se realiza con el alumbrado público y privado apagado, por lo que en la calle no se ven otras luces que las de los cirios de los nazarenos y la del Paso. Es tradicional asimismo el silencio que mantienen quienes presencian la Estación de Penitencia, silencio roto por el tambor que ininterrumpidamente suena durante todo el recorrido, que es de una belleza y dificultad excepcional, pues no en vano se inicia en la Carrera del Darro, a los pies de la Alhambra. Igualmente impresionante es la Estación que se realiza en la Catedral. La imagen del Santísimo Cristo de la Misericordia es obra de José de Mora, quien la realizó en los años centrales de su producción artística (se cree que en 1695), y fue concebida ex profeso para recibir culto en la iglesia conventual de San Gregorio Bético, que en aquellos años se sometía a un proceso de ampliación y se dotó de una capilla para el culto de la referida imagen conocida como Cristo de la Salvación. La desamortización de Mendizábal (1836) hizo trasladarla a la iglesia de S. José, en una de cuyas capillas se mantuvo al culto llamándosele Cristo de la Expiración. Desde comienzos del s. XX, renace una especial devoción hacia la imagen y se refunda su cofradía, tomando el nombre de Santísimo Cristo de la Misericordia. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Tambor ronco en la cruz de guía del cortejo.</masdatos>
+ 
+       <videos>
+            <video>H-awxQFSdVQ</video>
+            <video>_cEQH6Lt5J8</video>
+            <video>hdasYHe5erQ</video>
+            <video>DEt346c_b6o</video>
+       </videos>
+ 
     </cofradia>
     <cofradia>
-        <nombre_corto>Soledad</nombre_corto>
+        <nombre_corto>La Soledad</nombre_corto>
         <nombre_largo>COFRADÍA DEL SEÑOR DE LA HUMILDAD, SOLEDAD DE NUESTRA SEÑORA Y DULCE NOMBRE DE JESÚS (TRES DE LA TARDE, EN EL CAMPO DEL PRÍNCIPE)</nombre_largo>
         <fecha_salida>20130329</fecha_salida>
         <nombre_iglesia>Iglesia de Santo Domingo. Parroquia de Santa Escolástica</nombre_iglesia>
@@ -1752,18 +2034,18 @@
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
-                <punto descripcion="Salida" hora="13:30"></punto>
-                <punto descripcion="Santiago" hora="13:55"></punto>
-                <punto descripcion="Campo del Príncipe" hora="14:45"></punto>
+                <punto descripcion="Salida" hora="13:45"></punto>
+                <punto descripcion="Santiago" hora="14:05"></punto>
+                <punto descripcion="Campo del Príncipe" hora="14:50"></punto>
                 <punto descripcion="Molinos" hora="15:30"></punto>
                 <punto descripcion="Recogida" hora="16:00"></punto>
             </horario>
             <horario descripcion="Paso Soledad">
                 <punto descripcion="Salida" hora="14:00"></punto>
                 <punto descripcion="Santiago" hora="14:25"></punto>
-                <punto descripcion="Campo del Príncipe" hora="15:15"></punto>
-                <punto descripcion="Molinos" hora="16:00"></punto>
-                <punto descripcion="Recogida" hora="16:30"></punto>
+                <punto descripcion="Campo del Príncipe" hora="15:58"></punto>
+                <punto descripcion="Molinos" hora="15:45"></punto>
+                <punto descripcion="Recogida" hora="16:15"></punto>
             </horario>
         </horarios>
         <images>
@@ -1778,6 +2060,15 @@
             <poi description="Campo del Príncipe" comment="" lat="37.102303" long="-3.353088" interes="NO"></poi>
             <poi description="Molinos" comment="" lat="37.101821" long="-3.352949" interes="NO"></poi>
         </pois>
+        <descripcion>Una multitud se concentra ante el Cristo de los Favores en el Campo del Príncipe para rezar la oración de las 5 llagas. A este acto acude la Soledad de Nuestra Señora, titular mariana de la cofradía del Señor de la Humildad, Soledad de Nuestra Señora y Dulce Nombre de Jesús. Este acto se celebra a las 3 de la tarde, momento en el que se recuerda la muerte de Jesús. A las tres en punto, suena una corneta para recordar ese solemne momento.</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Capilla musical.</masdatos>
+ 
+       <videos>
+            <video>mN3BRFCSgXA</video>
+            <video>7TPJ55jPFq4</video>
+       </videos>
+
     </cofradia>
     <cofradia>
         <nombre_corto>Ferroviarios</nombre_corto>
@@ -1855,6 +2146,17 @@
             <poi description="San Juan de Dios" comment="" lat="37.105162" long="-3.360940" interes="NO"></poi>
             <poi description="Av. de la Constitución" comment="" lat="37.110645" long="-3.362391" interes="NO"></poi>
         </pois>
+        <descripcion>Esta cofradía,del barrio de la plaza de toros,fue fundada por los trabajadores de la estación de tren,de donde se realizaron las primeras salidas hasta que se tuvieron que trasladar a la iglesia de San Juan de Letrán. Por las pequeñas dimensiones de su puerta tuvieron que construir un patio anexo a la iglesia, para que la cofradía pudiera realizar estación de Pentencia.Esta cofradía de barrio tiene como titulares al Santísimo Cristo de la Buena Muerte y a María Santísima del Amor y el Trabajo. La talla de Cristo fue esculpida por Antonio Díaz en 1989 y la virgen es de autor desconocido,cercano al círculo de Mora del S.XVIII. Es la primera hermandad que se pone en las calles de Granada en el Viernes Santo, y tiene un recorrido largo.Representa a Cristo muerto,justo después de la última expiración y ya esperando la resurrección.La virgen está dolorosa,angustiada por su hijo. Los hermanos llevan túnica negra,capa del mismo color, y antifaz y cíngulo rojos en el Cristo y verdes en la Virgen. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Agrupación Musical Dulce Nombre de Jesús para el Cristo y Banda de Música de Nuestra Señora del Carmen (Dúrcal) para la Virgen. </masdatos>
+ 
+       <videos>
+            <video>vKVj99Ybsu0</video>
+            <video>TPNBr7buO0I</video>
+            <video>rRYWZTkHFSQ</video>
+            <video>QRgGy3rSNRc</video>
+       </videos>
+
     </cofradia>
     <cofradia>
         <nombre_corto>Escolapios</nombre_corto>
@@ -1871,40 +2173,40 @@
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
-                <punto descripcion="Salida" hora="18:30"></punto>
-                <punto descripcion="P. Romano del Genil" hora="18:50"></punto>
-                <punto descripcion="Carrera de la Virgen" hora="19:20"></punto>
+                <punto descripcion="Salida" hora="18:50"></punto>
+                <punto descripcion="P. Romano del Genil" hora="19:10"></punto>
+                <punto descripcion="Carrera de la Virgen" hora="19:40"></punto>
                 <punto descripcion="Ángel Ganivet" hora="20:20"></punto>
                 <punto descripcion="Salida de Tribuna" hora="20:55"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:05"></punto>
-                <punto descripcion="Cárcel Baja" hora="21:55"></punto>
-                <punto descripcion="Plaza de la Trinidad" hora="22:00"></punto>
-                <punto descripcion="Puente de Castañeda" hora="23:35"></punto>
-                <punto descripcion="Recogida" hora="01:00"></punto>
+                <punto descripcion="Cárcel Baja" hora="21:35"></punto>
+                <punto descripcion="Plaza de la Trinidad" hora="21:50"></punto>
+                <punto descripcion="Puente de Castañeda" hora="23:00"></punto>
+                <punto descripcion="Recogida" hora="00:30"></punto>
             </horario>
             <horario descripcion="Paso Misterio">
-                <punto descripcion="Salida" hora="18:45"></punto>
-                <punto descripcion="P. Romano del Genil" hora="19:05"></punto>
-                <punto descripcion="Carrera de la Virgen" hora="19:35"></punto>
+                <punto descripcion="Salida" hora="19:05"></punto>
+                <punto descripcion="P. Romano del Genil" hora="19:25"></punto>
+                <punto descripcion="Carrera de la Virgen" hora="19:45"></punto>
                 <punto descripcion="Ángel Ganivet" hora="20:35"></punto>
                 <punto descripcion="Salida de Tribuna" hora="21:10"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:20"></punto>
-                <punto descripcion="Cárcel Baja" hora="22:10"></punto>
-                <punto descripcion="Plaza de la Trinidad" hora="22:15"></punto>
-                <punto descripcion="Puente de Castañeda" hora="23:50"></punto>
-                <punto descripcion="Recogida" hora="01:15"></punto>
+                <punto descripcion="Cárcel Baja" hora="21:50"></punto>
+                <punto descripcion="Plaza de la Trinidad" hora="22:05"></punto>
+                <punto descripcion="Puente de Castañeda" hora="23:15"></punto>
+                <punto descripcion="Recogida" hora="00:45"></punto>
             </horario>
             <horario descripcion="Paso Palio">
-                <punto descripcion="Salida" hora="19:00"></punto>
-                <punto descripcion="P. Romano del Genil" hora="19:20"></punto>
-                <punto descripcion="Carrera de la Virgen" hora="19:50"></punto>
+                <punto descripcion="Salida" hora="19:20"></punto>
+                <punto descripcion="P. Romano del Genil" hora="19:40"></punto>
+                <punto descripcion="Carrera de la Virgen" hora="20:00"></punto>
                 <punto descripcion="Ángel Ganivet" hora="20:50"></punto>
                 <punto descripcion="Salida de Tribuna" hora="21:25"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:35"></punto>
-                <punto descripcion="Cárcel Baja" hora="22:25"></punto>
-                <punto descripcion="Plaza de la Trinidad" hora="22:30"></punto>
-                <punto descripcion="Puente de Castañeda" hora="00:05"></punto>
-                <punto descripcion="Recogida" hora="01:30"></punto>
+                <punto descripcion="Cárcel Baja" hora="22:05"></punto>
+                <punto descripcion="Plaza de la Trinidad" hora="22:20"></punto>
+                <punto descripcion="Puente de Castañeda" hora="23:30"></punto>
+                <punto descripcion="Recogida" hora="01:00"></punto>
             </horario>
         </horarios>
         <images>
@@ -1924,6 +2226,18 @@
             <poi description="Plaza de la Trinidad" comment="" lat="37.103332" long="-3.360526" interes="NO"></poi>
             <poi description="Puente de Castañeda" comment="" lat="37.101689" long="-3.355737" interes="NO"></poi>
         </pois>
+        <descripcion>El imponente crucificado de Sánchez Mesa (1944) de colosales dimensiones, es el único aun vivo de la Semana Santa granadina. Su correctisima anatomía de armonioso modelado, la hermosa y noble cabeza, la inspiradisima interpretación, en fin, de la muerte de Cristo, lo convierten en obra clave de la imaginería granadina contemporánea y quizás en la imagen mas plena de su autor. Le acompaña, bajo palio morado, la Dolorosa del Mayor Dolor, obra reciente de Luis Alvarez Duarte (2000). Viste riquisimo manto de terciopelo de seda morado en hilo de oro por las MM. Adoratrices de Granada (1959). La cofradía es la única de Andalucía que ha llevado un paso de palio al Vaticano, donde hizo peregrinación en el año 2000 con motivo del jubileo. El entonces Papa, Juan Pablo II, se paró ante el paso de la conocida en Granada como ‘Madonna’, uno de los momentos más especiales de la historia de la corporación. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Banda de Cornetas y Tambores de Nuestro Padre Jesús de las Tres Caídas para el Cristo y Banda de Música de San Isidro (Armilla) para la Virgen.  </masdatos>
+ 
+       <videos>
+            <video>9OTHH1q6Cko</video>
+            <video>JefcI5LiFjY</video>
+            <video>bbG_9Vn0fvA</video>
+            <video>Hrt_PKJX6GM</video>
+            <video>8tNWoelkuUE</video>
+            <video>IHZn7hzYZJw</video>
+       </videos>
     </cofradia>
     <cofradia>
         <nombre_corto>Favores</nombre_corto>
@@ -1993,6 +2307,20 @@
             <poi description="Santa Escolástica" comment="" lat="37.102750" long="-3.354200" interes="NO"></poi>
             <poi description="Campo del Príncipe" comment="" lat="37.102352" long="-3.353032" interes="NO"></poi>
         </pois>
+        <descripcion>La Hermandad celebraba cultos principales en la festividad del 3 de mayo, día de la Santa Cruz. Al día siguiente de la Navidad elegían al Mayordomo que se ocuparía de organizar y costear las fiestas de cada año. Durante dicho día del 3 de mayo se celebraba en el Campo del Príncipe, el día anterior y el mismo 3 de mayo unas fiestas populares. En 1928 un grupo de vecinos, que formaban parte de la Cofradía de Santa María de la Alhambra, son expulsados de la misma, al querer revelarse contra su Hermano Mayor, y estos dotan de carácter penitencial a la Antigua Hermandad del Cristo de los Favores. Así presentan sus primeras Reglas el 29 de noviembre de 1928, que le son aprobadas en diciembre del mismo año. La junta elige como primer Hermano Mayor a William Davenhill, cónsul inglés en Granada, quien renuncia al cargor por cuestiones personales. Tras diversas gestiones para completar su primera Junta de Gobierno esta es aprobada en febrero de 1929, cuando ya estaba en marcha los preparativos para su primera salida el Martes Santo de 1929. Sale por primera vez el palio de María Santísima de la Misericordia con su flamante imagen el Miércoles Santo de 1945. En 1955 se fusiona con la Sacramental de la Parroquia de San Cecilio que veneraba una imagen letífica bajo la advocación de la Paz. Quedando definitivamente constituida como en la actualidad se le conoce. El 20 de mayo de 2007 fue coronada canónicamente en la S. I. Catedral de Granada ante 4.000 personas. Ntra Sra de la Misericordia fue coronada canónicamente el 20 de Mayo de 2007 debido al gran fervor popular que suscita en toda Granada y en concreto en su barrio del Realejo del que es declarada Reina y Madre. Adquirido al antiguo convento de Santa María la Egipciaca de la calle Recogidas en 1948, se ha revisado últimamente la tradicional atribución del Cristo de los Favores al poco conocido escultor Baltasar de Arce, para vincularlo con mayor fundamento al modelo de Crucificado que practico Pablo de Rojas, que tan amplia repercusión tuvo en Granada. Su dinámica composición y su cuidada y potente anatomía definen las sugerencias del maestro alcalaíno en este Crucificado.</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;En el primer paso, la Agrupación Musical "La Pasión", de Linares (Jaén) y en el palio, la Banda de Música de Nuestra Señora de los Dolores.</masdatos>
+ 
+       <videos>
+            <video>HeHRrhjbQgY</video>
+            <video>mHCUcxVPDh0</video>
+            <video>zXQ6iXek-fQ</video>
+            <video>Pa81kQ__794</video>
+            <video>VXj2wM5tQTI</video>
+            <video>Cic3oBeMTTA</video>
+            <video>csjTs4krEfw</video>
+            <video>f9uYefkNdJQ</video>
+       </videos>
     </cofradia>
     <cofradia>
         <nombre_corto>Santo Entierro</nombre_corto>
@@ -2012,40 +2340,40 @@
                 <punto descripcion="Salida" hora="20:15"></punto>
                 <punto descripcion="Plz. Isabel la Católica" hora="20:45"></punto>
                 <punto descripcion="Plz. S. Juan de la Cruz" hora="21:00"></punto>
-                <punto descripcion="San Matías" hora="21:10"></punto>
+                <punto descripcion="San Matías" hora="21:00"></punto>
                 <punto descripcion="Ángel Ganivet" hora="21:30"></punto>
                 <punto descripcion="Salida de Tribuna" hora="22:05"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="22:15"></punto>
-                <punto descripcion="Cárcel Baja" hora="23:55"></punto>
-                <punto descripcion="Gran Vía" hora="00:05"></punto>
-                <punto descripcion="Plaza Nueva" hora="00:30"></punto>
-                <punto descripcion="Recogida" hora="00:35"></punto>
+                <punto descripcion="Cárcel Baja" hora="22:45"></punto>
+                <punto descripcion="Gran Vía" hora="23:00"></punto>
+                <punto descripcion="Plaza Nueva" hora="23:30"></punto>
+                <punto descripcion="Recogida" hora="23:45"></punto>
             </horario>
             <horario descripcion="Paso Misterio">
                 <punto descripcion="Salida" hora="20:30"></punto>
                 <punto descripcion="Plz. Isabel la Católica" hora="21:00"></punto>
                 <punto descripcion="Plz. S. Juan de la Cruz" hora="21:15"></punto>
-                <punto descripcion="San Matías" hora="21:25"></punto>
+                <punto descripcion="San Matías" hora="21:15"></punto>
                 <punto descripcion="Ángel Ganivet" hora="21:45"></punto>
                 <punto descripcion="Salida de Tribuna" hora="22:20"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="22:30"></punto>
-                <punto descripcion="Cárcel Baja" hora="00:10"></punto>
-                <punto descripcion="Gran Vía" hora="00:15"></punto>
-                <punto descripcion="Plaza Nueva" hora="00:45"></punto>
-                <punto descripcion="Recogida" hora="00:50"></punto>
+                <punto descripcion="Cárcel Baja" hora="23:00"></punto>
+                <punto descripcion="Gran Vía" hora="23:15"></punto>
+                <punto descripcion="Plaza Nueva" hora="23:45"></punto>
+                <punto descripcion="Recogida" hora="00:00"></punto>
             </horario>
             <horario descripcion="Paso Soledad">
                 <punto descripcion="Salida" hora="20:45"></punto>
                 <punto descripcion="Plz. Isabel la Católica" hora="21:15"></punto>
                 <punto descripcion="Plz. S. Juan de la Cruz" hora="21:30"></punto>
-                <punto descripcion="San Matías" hora="21:40"></punto>
+                <punto descripcion="San Matías" hora="21:30"></punto>
                 <punto descripcion="Ángel Ganivet" hora="22:00"></punto>
                 <punto descripcion="Salida de Tribuna" hora="22:35"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="22:45"></punto>
-                <punto descripcion="Cárcel Baja" hora="00:25"></punto>
-                <punto descripcion="Gran Vía" hora="00:30"></punto>
-                <punto descripcion="Plaza Nueva" hora="01:00"></punto>
-                <punto descripcion="Recogida" hora="01:05"></punto>
+                <punto descripcion="Cárcel Baja" hora="23:15"></punto>
+                <punto descripcion="Gran Vía" hora="23:30"></punto>
+                <punto descripcion="Plaza Nueva" hora="00:00"></punto>
+                <punto descripcion="Recogida" hora="00:10"></punto>
             </horario>
         </horarios>
         <images>
@@ -2066,6 +2394,18 @@
             <poi description="Gran Vía" comment="" lat="37.104638" long="-3.355854" interes="NO"></poi>
             <poi description="Plaza Nueva" comment="" lat="37.103599" long="-3.354594" interes="NO"></poi>
         </pois>
+        <descripcion>Fundada en el año 1924, es la actual Cofradía Oficial de la Semana Santa Granadina, ya que es, la que más años lleva procesionando por las calles granadinas, siendo sólo superada por el Cristo de San Agustín, el cual no salió a procesionar hasta la segunda mitad del siglo XX. Procesionan dos pasos, el paso del Santo Sepulcro, o más conocida como "la urna", la cual fue realizada en caoba y plata por el artista granadino Navas Parejo en el año 1929. Este mismo autor realizó también, en plata, los faroles portados por ángeles que figuran en las cuatro esquinas del paso. Pero sin lugar a dudas, es la urna realizada en choca con remates de plata una de las joyas más importantes que posee la hermandad. Porta el cuerpo de Cristo muerto, realizado por Manuel Valdés entre los años 1675 y 1691. Las esquinas son achaflanadas con ángeles corpóreos policromados. éste fue el último paso de la Semana Santa granadina que salía a las calles sobre ruedas, hasta 1999, cuando fueron incorporados costaleros bajo trabajaderas. La Virgen, la Soledad en el Calvario, acabada en el siglo XVII por el autor José de Mora, es una de las mayores joyas de la Semana Santa de Granada. La imagen realizada por José de Mora fue llevada al Vaticano, a petición de Juan Pablo II, el cual la tuvo en el Vaticano hasta 2001, durante este período, fue una copia la que estuvo procesionando en lugar de la de José de Mora. De ahí el título Pontificia. También cabe destacar que SM el Rey Don Juan Carlos I es Hermano Mayor Honorario, de ahí el título Real. La Camarera Mayor Honoraria es también SM la Reina Sofía. No muchas cofradías tienen como Hermano y Camarera Mayores Honorarios a los Reyes de España.</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;El Santo Entierro con capilla musical de las Tres Caidas y en la Virgen, la Banda Municipal de Granada.</masdatos>
+ 
+       <videos>
+            <video>cpOQj0Yusvw</video>
+            <video>Q9d_GQWGsU8</video>
+            <video>8Y-H1WgvzRI</video>
+            <video>EoooamrCGm4</video>
+            <video>f8bmMYCGy_4</video>
+            <video>gMF85MkubC0</video>
+       </videos>
     </cofradia>
     <cofradia>
         <nombre_corto>Soledad</nombre_corto>
@@ -2122,7 +2462,6 @@
             </horario>
         </horarios>
         <images>
-
         </images>
         <pois>
             <poi description="Salida y Recogida" comment="" lat="37.104577" long="-3.361604" interes="NO"></poi>
@@ -2136,6 +2475,16 @@
             <poi description="Plz. de la Universidad" comment="" lat="37.104299" long="-3.360560" interes="NO"></poi>
             <poi description="Rector López Argüeta" comment="" lat="37.104955" long="-3.361516" interes="NO"></poi>
         </pois>
+        <descripcion>Se funda en 1561 como la tercera de las cofradías de sangre de Granada (junto con la Vera Cruz y las Angustias), titulada Cofradía de Nuestra Señora de la Soledad y Entierro de Cristo, con sede en el Convento de Carmelitas Calzados de Nuestra Señora de la Cabeza. Pese a no tratarse de la primera hermandad de Granada en antigüedad si no de la tercera por haber sido refundada tras la apertura de la calle Gran Vía y la división del convento de Santa Paula sede de la inquisición del que proceden sus populares Chías, le cabe el honor de ser la primera en procesionar por la ciudad de Granada con sus titulares, en aquellos cortejos del Magno entierro con los que abria y cerraba la semana santa Granadina, es por ello que goza del honor de ser la última en procesionar cada cien años en la passio. Esta hermandad es la que también inicia esa costumbre tan granadina de ir acompañada por filas de señoras vestidas de mantillas. Ya lo hacía desde la Semana Santa de 1923, estas secciones de señoras ataviadas con la clásica mantilla formarán los cuerpos de camareras de dichas titulares. Debido a la tradición, no se olvidan algunos elementos que venían de la procesión barroca que formaban esta hermandad y el Santo Entierro, elementos tales como las figuras vivientes, las chías, los soldados romanos, han perdurado hasta nuestros días. La primera titular de la cofradía, Nuestra Señora de la Soledad, es una bellísima dolorosa de vestir atribuida a Pedro de Mena. El segundo titular es el Cristo del Descendimiento, Cristo yacente, de gran realismo, atribuido a Diego de Aranda. La cofradía se le conoce popularmente como "las Chías" por figurar en el cortejo cuatro de estas, que no eran sino personajes de la Inquisición que precedian a los sentenciados antes de su ajusticiamiento y recogían las limosnas destinadas al entierro de los mismos. Esta hermandad libera cada año a un preso. El preso es liberado al pasar por la Puerta del Perdón de la Catedral de Granada. </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Capilla musical con el Cristo y banda de música de la Agrupación Musical Felipe Moreno (Cúllar Vega) con la Virgen. </masdatos>
+ 
+       <videos>
+            <video>880U_S37BjY</video>
+            <video>cudIWYK5UBA</video>
+            <video>-zPo6YdtfYA</video>
+            <video>rZssXeCfGpINR</video>
+       </videos>
     </cofradia>
     <cofradia>
         <nombre_corto>Alhambra</nombre_corto>
@@ -2153,32 +2502,32 @@
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
-                <punto descripcion="Salida" hora="18:15"></punto>
-                <punto descripcion="Puerta del Vino" hora="18:30"></punto>
-                <punto descripcion="Puerta de la Justicia" hora="18:45"></punto>
+                <punto descripcion="Salida" hora="18:00"></punto>
+                <punto descripcion="Puerta del Vino" hora="18:15"></punto>
+                <punto descripcion="Puerta de la Justicia" hora="18:35"></punto>
                 <punto descripcion="Plaza Nueva" hora="19:45"></punto>
                 <punto descripcion="Ángel Ganivet" hora="20:30"></punto>
                 <punto descripcion="Salida de Tribuna" hora="21:00"></punto>
                 <punto descripcion="Plz. de las Pasiegas" hora="21:10"></punto>
-                <punto descripcion="Cárcel Baja" hora="21:50"></punto>
-                <punto descripcion="Gran Vía de Colón" hora="22:00"></punto>
-                <punto descripcion="Plaza Nueva" hora="23:00"></punto>
-                <punto descripcion="Puerta de la Justicia" hora="23:15"></punto>
-                <punto descripcion="Recogida" hora="23:30"></punto>
+                <punto descripcion="Cárcel Baja" hora="21:40"></punto>
+                <punto descripcion="Gran Vía de Colón" hora="21:50"></punto>
+                <punto descripcion="Campo del Príncipe" hora="23:45"></punto>
+                <punto descripcion="Puerta de la Justicia" hora="00:50"></punto>
+                <punto descripcion="Recogida" hora="01:30"></punto>
             </horario>
             <horario descripcion="Paso Virgen">
-                <punto descripcion="Salida" hora="18:45"></punto>
-                <punto descripcion="Puerta del Vino" hora="19:00"></punto>
-                <punto descripcion="Puerta de la Justicia" hora="19:15"></punto>
-                <punto descripcion="Plaza Nueva" hora="20:15"></punto>
-                <punto descripcion="Ángel Ganivet" hora="21:00"></punto>
-                <punto descripcion="Salida de Tribuna" hora="21:30"></punto>
-                <punto descripcion="Plz. de las Pasiegas" hora="21:40"></punto>
-                <punto descripcion="Cárcel Baja" hora="22:20"></punto>
-                <punto descripcion="Gran Vía de Colón" hora="22:30"></punto>
-                <punto descripcion="Plaza Nueva" hora="23:30"></punto>
-                <punto descripcion="Puerta de la Justicia" hora="23:45"></punto>
-                <punto descripcion="Recogida" hora="00:00"></punto>
+                <punto descripcion="Salida" hora="18:20"></punto>
+                <punto descripcion="Puerta del Vino" hora="18:35"></punto>
+                <punto descripcion="Puerta de la Justicia" hora="19:55"></punto>
+                <punto descripcion="Plaza Nueva" hora="20:05"></punto>
+                <punto descripcion="Ángel Ganivet" hora="20:50"></punto>
+                <punto descripcion="Salida de Tribuna" hora="21:20"></punto>
+                <punto descripcion="Plz. de las Pasiegas" hora="21:30"></punto>
+                <punto descripcion="Cárcel Baja" hora="22:00"></punto>
+                <punto descripcion="Gran Vía de Colón" hora="22:10"></punto>
+                <punto descripcion="Campo del Príncipe" hora="00:05"></punto>
+                <punto descripcion="Puerta de la Justicia" hora="01:10"></punto>
+                <punto descripcion="Recogida" hora="01:50"></punto>
             </horario>
         </horarios>
         <images>
@@ -2196,9 +2545,19 @@
             <poi description="Plz. de las Pasiegas" comment="" lat="37.103400" long="-3.355921" interes="NO"></poi>
             <poi description="Cárcel Baja" comment="" lat="37.103784" long="-3.355601" interes="NO"></poi>
             <poi description="Gran Vía de Colón" comment="" lat="37.104639" long="-3.355854" interes="NO"></poi>
-            <poi description="Plaza Nueva" comment="" lat="37.103599" long="-3.354594" interes="NO"></poi>
+            <poi description="Campo del Príncipe" comment="" lat="37.102352" long="-3.353032" interes="NO"></poi>
             <poi description="Puerta de la Justicia" comment="" lat="37.103472" long="-3.352462" interes="NO"></poi>
         </pois>
+        <descripcion>Esta hermandad del Sábado Santo realiza su estación de penitencia desde la iglesia parroquial de Santa María de la Alhambra, situada en el corazón de este conjunto monumental. La cofradía, que se fundó en 1928, posee un único titular que procesiona por las calles granadinas; es una obra del barroco granadino, tallada alrededor de 1750 por el maestro Torcuato Ruiz del Peral en madera de encina polícroma. La imagen representa a la Virgen sosteniendo en sus rodillas el cadáver de su hijo muerto. La magistral piedad, una de las mejores piezas escultóricas sobre el tema en España, inclina la cabeza hacia la derecha y dirige su mirada hacia el rostro de Cristo. La joya característica de la hermandad es el trono procesional, realizado en plata, representando a escala el famoso patio de los Leones de la Alhambra. En el año 2.000 la imagen de Santa María de las Angustias de la Alhambra fue coronada canónicamente por el Arzobispo, hoy Cardenal Primado, D. Antonio Cañizares Llovera. Esta Hermandad pasa por lugares tan característicos de la Alhambra como la Puerta de la Justicia o la Puerta del Vino.</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;En la cruz de guía la Banda de Cornetas y Tambores Nuestro Padre Jesús de las Tres Caídas, y tras el paso, la Banda de Música la Virgen del Castillo de Lebrija (Sevilla).</masdatos>
+ 
+       <videos>
+            <video>0mPc6lSn14A</video>
+            <video>Iadq1ivPPS4</video>
+            <video>Osr4gWblApI</video>
+            <video>X8K4jo0oSSE</video>
+       </videos>
     </cofradia>
     <cofradia>
         <nombre_corto>Resurreción</nombre_corto>
@@ -2215,43 +2574,43 @@
         <ficheroRecorrido></ficheroRecorrido>
         <horarios>
             <horario descripcion="Cruz de Guía">
-                <punto descripcion="Salida" hora="16:30"></punto>
-                <punto descripcion="P. Romano del Genil" hora="17:45"></punto>
-                <punto descripcion="Plz. Mariana Pineda" hora="18:35"></punto>
-                <punto descripcion="Ángel Ganivet" hora="18:45"></punto>
-                <punto descripcion="Salida de Tribuna" hora="19:20"></punto>
-                <punto descripcion="Plz. de las Pasiegas" hora="19:30"></punto>
-                <punto descripcion="Cárcel Baja" hora="20:20"></punto>
-                <punto descripcion="Mesones" hora="20:35"></punto>
-                <punto descripcion="P. Romano del Genil" hora="21:15"></punto>
-                <punto descripcion="Bruselas" hora="22:15"></punto>
-                <punto descripcion="Recogida" hora="22:45"></punto>
+                <punto descripcion="Salida" hora="09:00"></punto>
+                <punto descripcion="P. Romano del Genil" hora="10:00"></punto>
+                <punto descripcion="Plz. Mariana Pineda" hora="11:00"></punto>
+                <punto descripcion="Ángel Ganivet" hora="11:10"></punto>
+                <punto descripcion="Salida de Tribuna" hora="11:45"></punto>
+                <punto descripcion="Plz. de las Pasiegas" hora="11:55"></punto>
+                <punto descripcion="Cárcel Baja" hora="12:25"></punto>
+                <punto descripcion="San Antón" hora="13:10"></punto>
+                <punto descripcion="P. Romano del Genil" hora="14:15"></punto>
+                <punto descripcion="Bruselas" hora="14:50"></punto>
+                <punto descripcion="Recogida" hora="15:30"></punto>
             </horario>
             <horario descripcion="Paso Misterio">
-                <punto descripcion="Salida" hora="16:50"></punto>
-                <punto descripcion="P. Romano del Genil" hora="18:05"></punto>
-                <punto descripcion="Plz. Mariana Pineda" hora="18:55"></punto>
-                <punto descripcion="Ángel Ganivet" hora="19:05"></punto>
-                <punto descripcion="Salida de Tribuna" hora="19:45"></punto>
-                <punto descripcion="Plz. de las Pasiegas" hora="19:55"></punto>
-                <punto descripcion="Cárcel Baja" hora="20:45"></punto>
-                <punto descripcion="Mesones" hora="21:00"></punto>
-                <punto descripcion="P. Romano del Genil" hora="21:35"></punto>
-                <punto descripcion="Bruselas" hora="22:35"></punto>
-                <punto descripcion="Recogida" hora="23:05"></punto>
+                <punto descripcion="Salida" hora="09:20"></punto>
+                <punto descripcion="P. Romano del Genil" hora="10:20"></punto>
+                <punto descripcion="Plz. Mariana Pineda" hora="11:20"></punto>
+                <punto descripcion="Ángel Ganivet" hora="11:30"></punto>
+                <punto descripcion="Salida de Tribuna" hora="12:05"></punto>
+                <punto descripcion="Plz. de las Pasiegas" hora="12:15"></punto>
+                <punto descripcion="Cárcel Baja" hora="12:45"></punto>
+                <punto descripcion="San Antón" hora="13:30"></punto>
+                <punto descripcion="P. Romano del Genil" hora="14:35"></punto>
+                <punto descripcion="Bruselas" hora="15:10"></punto>
+                <punto descripcion="Recogida" hora="15:50"></punto>
             </horario>
             <horario descripcion="Paso Palio">
-                <punto descripcion="Salida" hora="17:15"></punto>
-                <punto descripcion="P. Romano del Genil" hora="18:30"></punto>
-                <punto descripcion="Plz. Mariana Pineda" hora="19:20"></punto>
-                <punto descripcion="Ángel Ganivet" hora="19:30"></punto>
-                <punto descripcion="Salida de Tribuna" hora="20:10"></punto>
-                <punto descripcion="Plz. de las Pasiegas" hora="20:20"></punto>
-                <punto descripcion="Cárcel Baja" hora="21:10"></punto>
-                <punto descripcion="Mesones" hora="21:25"></punto>
-                <punto descripcion="P. Romano del Genil" hora="22:00"></punto>
-                <punto descripcion="Bruselas" hora="23:00"></punto>
-                <punto descripcion="Recogida" hora="23:30"></punto>
+                <punto descripcion="Salida" hora="09:40"></punto>
+                <punto descripcion="P. Romano del Genil" hora="10:40"></punto>
+                <punto descripcion="Plz. Mariana Pineda" hora="11:40"></punto>
+                <punto descripcion="Ángel Ganivet" hora="11:50"></punto>
+                <punto descripcion="Salida de Tribuna" hora="12:25"></punto>
+                <punto descripcion="Plz. de las Pasiegas" hora="12:35"></punto>
+                <punto descripcion="Cárcel Baja" hora="13:05"></punto>
+                <punto descripcion="San Antón" hora="13:50"></punto>
+                <punto descripcion="P. Romano del Genil" hora="14:55"></punto>
+                <punto descripcion="Bruselas" hora="15:30"></punto>
+                <punto descripcion="Recogida" hora="16:15"></punto>
             </horario>
         </horarios>
         <images>
@@ -2268,10 +2627,20 @@
             <poi description="Salida de Tribuna" comment="" lat="37.102924" long="-3.360203" interes="NO"></poi>
             <poi description="Plz. de las Pasiegas" comment="" lat="37.103400" long="-3.355921" interes="NO"></poi>
             <poi description="Cárcel Baja" comment="" lat="37.103784" long="-3.355601" interes="NO"></poi>
-            <poi description="Mesones" comment="" lat="37.102661" long="-3.360049" interes="NO"></poi>
+            <poi description="San Antón" comment="" lat="37.101249" long="-3.355871" interes="NO"></poi>
             <poi description="P. Romano del Genil" comment="" lat="37.100562" long="-3.354711" interes="NO"></poi>
             <poi description="Bruselas" comment="" lat="37.094385" long="-3.353339" interes="NO"></poi>
         </pois>
+        <descripcion>"No está aquí, resucitó" (Lc 24, 6). Sobre el sepulcro abierto, Cristo vence a la muerte, surgiendo envuelto aún en el sudario, sosteniendo un banderín con el cordero en la izquierda y bendiciendo con la derecha. Esta imagen de Miguel Zúñiga (1986), acompañada por el ángel anunciador de la gozosa noticia y de soldados romanos caídos en tierra, parece deternerse un instante para mostrarnos la sublime gloria de su Resurrección. María participa de este Triunfo, acompañándolo bajo palio de malla bordado en plata, entronizada en su paso como en los antiguos monumentos o "triunfos" marianos. Es imagen de vestir, ya gozosa, obra igualmente de Zúñiga (1988).</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Agrupación Musical Nuestro Padre Jesús de la Salud (Churriana de la Vega) para el Cristo y Banda de Música de Nuestra Señora de la Cabeza (Churriana de la Vega) para la Virgen. Estrenos: Por primera vez la Hermandad realizará su estación a la Santa Iglesia Catedral en la mañana del Domingo de Resurrección.</masdatos>
+ 
+       <videos>
+            <video>b6oj0_eRl0Y</video>
+            <video>y2W5Wv0pJJc</video>
+            <video>jURbDLtl19k</video>
+            <video>Seht7wltD08</video>
+       </videos>
     </cofradia>
     <cofradia>
         <nombre_corto>Facundillo</nombre_corto>
@@ -2290,6 +2659,7 @@
             <horario descripcion="Cruz de Guía">
                 <punto descripcion="Salida" hora="11:30"></punto>
                 <punto descripcion="Carrera de la Virgen" hora="12:00"></punto>
+                <punto descripcion="Ángel Ganivet" hora="12:15"></punto>
                 <punto descripcion="Santa Iglesia Catedral" hora="12:45"></punto>
                 <punto descripcion="Puerta del Perdon" hora="14:00"></punto>
                 <punto descripcion="Recogida" hora="14:45"></punto>
@@ -2297,6 +2667,7 @@
             <horario descripcion="Paso Facundillo">
                 <punto descripcion="Salida" hora="11:40"></punto>
                 <punto descripcion="Carrera de la Virgen" hora="12:10"></punto>
+                <punto descripcion="Ángel Ganivet" hora="12:25"></punto>
                 <punto descripcion="Santa Iglesia Catedral" hora="12:55"></punto>
                 <punto descripcion="Puerta del Perdon" hora="14:10"></punto>
                 <punto descripcion="Recogida" hora="14:55"></punto>
@@ -2309,9 +2680,18 @@
         <pois>
             <poi description="Salida y Recogida" comment="" lat="37.102322" long="-3.354121" interes="NO"></poi>
             <poi description="Carrera de la Virgen" comment="" lat="37.101450" long="-3.355027" interes="NO"></poi>
+            <poi description="Ángel Ganivet" comment="" lat="37.102355" long="-3.355541" interes="NO"></poi>
             <poi description="Santa Iglesia Catedral" comment="" lat="37.103404" long="-3.355874" interes="NO"></poi>
             <poi description="Puerta del Perdon" comment="" lat="37.103593" long="-3.355859" interes="NO"></poi>
         </pois>
+        <descripcion>El Facundillo es una obra realizada por Torcuato Ruiz del Peral en el siglo XVIII, que se venera en el templo de Santo Domingo. Es titular de la cofradia del Señor de la Humildad, Soledad de Nuestra Señora y Dulce Nombre de Jesús. Es una procesión en la que la juventud y los niños están muy presentes.</descripcion>
+
+        <masdatos>Música:&#xA;&#xA;Acompaña al Facundillo la Agrupación Musical "Dulce Nombre de Jesús".</masdatos>
+ 
+       <videos>
+            <video>5IBEzYUFA_o</video>
+            <video>03X5_twAPuo</video>
+       </videos>
     </cofradia>
     <cofradia>
         <nombre_corto>Resucitado</nombre_corto>
@@ -2366,5 +2746,14 @@
             <poi description="Cárcel Baja" comment="" lat="37.103784" long="-3.355601" interes="NO"></poi>
             <poi description="Pie de la Torre" comment="" lat="37.103527" long="-3.360016" interes="NO"></poi>
         </pois>
+        <descripcion>Cofradía fundada en la segunda parte de la década de los ochenta, más concretamente en el año 1986. Existía inquietud entre los feligreses de la Parroquia de Regina Mundi de la calle Arabial y entre los jóvenes que formaban las Juventades Marianas Vicencianas, por fundar una cofradía y como quiera que pensaron que la Semana Mayor esta falta de la Resurrección materializada en las calles de Granada, comenzó la tarea de erigir esta corporación. El Cristo es de Antonio Barbero Gor y la imagen de la Virgen también. El Cristo imagen de un Resucitado en posición hercúlea y con la pierna izquierda avanzada. el Cristo se sitúa sobre una nube tallada. Se ejecutó en 1987. Tiene un completísimo estudio anatómico como es habitual a la hora de realizar imagenas en su autor. La imagen de la Virgen no es de palio. Es una talla completa, valentísima y de extraordinaria originalidad. Antonio Barbero Gor se basó para realizarla en 1992, en la célebre Victoria de Samotracia. La imagen aparece en actitud triunfante y de iniciar una veloz marcha para anunciar la Resurrección de su hijo. Son muy interesantes los estofados de su vestimenta. Aunque tradicionalmente esta cofradía procesionaba con dos pasos diferenciados, el primero de ellos presidido por la imagen del Santísimo Cristo Resucitado y el segundo presidido por la imagen de Nuestra Señora de la Alegría, desde 2009 lo hace con un único paso de misterio. Dicho paso de misterio incluye las imágenes del Santísimo Cristo Resucitado, Nuestra Señora de la Alegría, y como novedad la de San Juan Evangelista y Santa María Magdalena realizadas por el escultor de Utrera, Pablo Román. El paso de misterio se remata desde 2010 con un almendro en flor, que simboliza el triunfo de la vida sobre la muerte. Debido a las obras del Metro alrededor de la Iglesia de Regina Mundi, están haciendo su Estación de Gloria desde la Iglesia del Sagrario. Siendo intención de la hermandad, retomar cuanto antes la salida desde su sede canónica. Desde 2010, además, procesionan por la mañana, que era una antigua aspiración de esta Hermandad hace bastantes años.   </descripcion>
+
+        <masdatos>Música:&#xA;&#xA;El único paso de esta cofradía, de misterio, irá acompañado por la Agrupación Musical de la Estrella.</masdatos>
+ 
+       <videos>
+            <video>_nb5oM9-GWY</video>
+            <video>5-KNJIaKTBk</video>
+            <video>FsdppCTEhVQ</video>
+       </videos>
     </cofradia>
 </cofradias>

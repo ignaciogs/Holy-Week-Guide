@@ -41,6 +41,7 @@
                 android:layout_height="fill_parent"
                 android:layout_weight="1"
                 android:focusableInTouchMode="true"
+                android:minWidth="80dp"
                 />
 
         <com.google.android.youtube.player.YouTubePlayerView

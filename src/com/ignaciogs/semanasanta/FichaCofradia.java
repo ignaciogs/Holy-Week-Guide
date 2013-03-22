@@ -87,6 +87,8 @@ public class FichaCofradia extends SherlockActivity {
         nomCorto = nomCorto.replaceAll("Í", "i");
         nomCorto = nomCorto.replaceAll("Ó", "o");
         nomCorto = nomCorto.replaceAll("Ú", "u");
+        nomCorto = nomCorto.replaceAll("\\(", "");
+        nomCorto = nomCorto.replaceAll("\\)", "");
         String nomImg = app.getNameActiveCity() + "_tunica_" + nomCorto;
         nomImg = nomImg.toLowerCase();
         if (!currentCofradia.getImagenEscudo().equals("")) {

@@ -64,7 +64,13 @@
 			<image>http://imageshack.us/a/img834/4055/imagenuniversitaria3.jpg</image>
 			<image>http://imageshack.us/a/img191/3865/imagenuniversitaria4.jpg</image>
 		</images>
-
+		<masdatos>Fundación: 1989&#xA;&#xA;Dirección Casa Hermandad: C/ Samuel de los Santos Gener&#xA;&#xA;Imágenes: Santo Cristo de la Universidad tallado por Juan Manuel Miñarro, inspirado en los estudios de la Sábana Santa. Nuestra Señora de la Presentación es una talla de Dolorosa con puñal en la mano tallada por Miguel Ángel González Jurado.&#xA;&#xA;Música: No lleva&#xA;&#xA;Estrenos: Sale por primera vez de su nueva sede del Juramento de San Rafael. En el paso de la Virgen, dos tulipas de orfebrería que representan a los nuevos doctores de la Iglesia, San Juan de Ávila y Santa Hildegarda de Bingen.&#xA;&#xA;Internet: http://www.hermandaduniversitaria.com</masdatos>
+        <videos>
+            <video>efjPORCYpPw</video>
+            <video>XmCoaSdbBLo</video>
+            <video>pIeUIhJiV8c</video>
+            <video>SpTmHm-uw-k</video>
+        </videos>
 	</cofradia>
 
     <!-- Domingo de Ramos -->
@@ -78,7 +84,7 @@
 		<itinerario>Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Victoriano Rivera, Plaza Mármol de Bañuelos, Alfonso XIII, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo.</itinerario>
 		<imagenEscudo>escudo_entrada_triunfal</imagenEscudo>
 		<horaSalida>10:30</horaSalida>
-		<horaRecogida>14:20</horaRecogida>
+		<horaRecogida>14:30</horaRecogida>
 		<latitudRegreso>37.88437854875415</latitudRegreso>
 		<longitudRegreso>-4.779943981583045</longitudRegreso>
 		<ficheroRecorrido>entrada_triunfal</ficheroRecorrido>
@@ -88,11 +94,11 @@
 				<punto descripcion="Santa María de Gracia" hora="11:00"></punto>
 				<punto descripcion="San Pablo" hora="11:30"></punto>
 				<punto descripcion="Entrada C.O." hora="12:00"></punto>
-				<punto descripcion="Salida C.O." hora="12:35"></punto>
+				<punto descripcion="Salida C.O." hora="12:30"></punto>
 				<punto descripcion="Alfonso XIII" hora="13:00"></punto>
 				<punto descripcion="San Andrés" hora="13:30"></punto>
 				<punto descripcion="Santa María de Gracia" hora="14:00"></punto>
-				<punto descripcion="Entrada" hora="14:20"></punto>
+				<punto descripcion="Entrada" hora="14:30"></punto>
 			</horario>
 		</horarios>
 		<images>
@@ -102,7 +108,13 @@
 			<image>http://imageshack.us/a/img189/517/entradatriunfal20121.jpg</image>
 			<image>http://imageshack.us/a/img252/3879/entradatriunfal2012.jpg</image>
 		</images>
-
+		<masdatos>Fundación: 1963&#xA;&#xA;Dirección Casa Hermandad: C/Prolongación Escañuela, 1&#xA;&#xA;Hábito nazareno: De color hueso, con turbante hebreo y fajín rojo en el Cristo. Túnica y cubrerrostro de color hueso y fajín rojo en la Virgen.&#xA;&#xA;Imágenes: El Señor fue tallado en 1963 por Juan Martínez Cerrillo y restaurado en 1992 por Miguel A. González Jurado, el resto de imágenes del Misterio, son obras de Sebastián Montes. La Virgen de la Palma es una talla de Francisco Romero Zafra, de 1991, restaurada por el autor en 2004.&#xA;&#xA;Música: Banda de Cornetas y Tambores "Caído Fuensanta", de Córdoba, en el Misterio. Sociedad Filarmónica "María Inmaculada", de Linares (Jaén), en la Virgen.&#xA;&#xA;Estrenos: Celebra con diversos actos el cincuenta aniversario de la bendición de la imagen del Señor.&#xA;&#xA;Internet: http://www.entradatriunfal.com</masdatos>
+        <videos>
+            <video>gD8lNumBJyw</video>
+            <video>avJ5yJEryNk</video>
+            <video>qRDz-abYAHA</video>
+            <video>mJu7XpvDs10</video>
+        </videos>
 	</cofradia>
 	
 	<cofradia>
@@ -123,13 +135,14 @@
 				<punto descripcion="Salida" hora="16:45"></punto>
 				<punto descripcion="Agustín Moreno" hora="17:00"></punto>
 				<punto descripcion="Plaza de la Almagra" hora="17:30"></punto>
+				<punto descripcion="Rodríguez y Marín" hora="18:00"></punto>
 				<punto descripcion="Entrada C.O." hora="18:15"></punto>
 				<punto descripcion="Salida C.O." hora="18:50"></punto>
-				<punto descripcion="Plaza Agrupación de Cofradías" hora="19:30"></punto>
+				<punto descripcion="Blanco Belmonte" hora="19:30"></punto>
 				<punto descripcion="Cardenal Herrero" hora="20:00"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="20:30"></punto>
 				<punto descripcion="Magistral González Francés" hora="21:00"></punto>
-				<punto descripcion="Lucano" hora="21:30"></punto>
+				<punto descripcion="Cruz del Rastro" hora="21:30"></punto>
 				<punto descripcion="Don Rodrigo" hora="22:00"></punto>
 				<punto descripcion="Agustín Moreno" hora="22:30"></punto>
 				<punto descripcion="Entrada" hora="22:45"></punto>
@@ -144,7 +157,13 @@
 			<image>http://imageshack.us/a/img233/2981/penasdesantiago20122.jpg</image>
 			<image>http://imageshack.us/a/img171/7384/penasdesantiago20123.jpg</image>
 		</images>
-
+		<masdatos>Fundación: 1955&#xA;&#xA;Dirección Casa Hermandad: C/. Agustín Moreno, 26&#xA;&#xA;Hábito nazareno: Túnica rojo sangre, cubrerrostro, capa y cíngulo negro.&#xA;&#xA;Imágenes: El Cristo es una talla anónima del gótico tardío de los siglos XIV ó XV, restaurada en 1984. La Virgen de los Desamparados es de 1973 y la imagen de San Juan, de 1978, ambas de Antonio Eslava, que fueron restauradas en 1980 por Juan Ventura, quien realizó la imagen de María Stma. de la Concepción en 1986.&#xA;&#xA;Música: Agrupación Musical "María Inmaculada", de Castilleja de la Cuesta (Sevilla), en el Misterio. Banda de Música "María Inmaculada", de Linares (Jaén), en la Virgen.&#xA;&#xA;Estrenos: Tallado completo de la fase de restauración y ampliación del paso del Cristo, a cargo de José Manuel Rodríguez Melo.&#xA;&#xA;Internet: http://www.penasdesantiago.org</masdatos>
+        <videos>
+            <video>g9mpesK_Lv0</video>
+            <video>z8CkM1iJYS8</video>
+            <video>J8p9Tuis0ic</video>
+            <video>mr2iSG9UH3Y</video>
+        </videos>
 	</cofradia>
 
     <cofradia>
@@ -156,7 +175,7 @@
 		<itinerario>Compás de San Francisco, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Magistral González Francés, Cardenal González, San Fernando, Compás de San Francisco.</itinerario>
 		<imagenEscudo>escudo_huerto</imagenEscudo>
 		<horaSalida>18:00</horaSalida>
-		<horaRecogida>23:40</horaRecogida>
+		<horaRecogida>23:30</horaRecogida>
 		<latitudRegreso>37.8843591</latitudRegreso>
 		<longitudRegreso>-4.7799432</longitudRegreso>
 		<ficheroRecorrido>huerto</ficheroRecorrido>
@@ -169,11 +188,11 @@
 				<punto descripcion="Ángel de Saavedra" hora="20:00"></punto>
 				<punto descripcion="Conde y Luque" hora="20:30"></punto>
 				<punto descripcion="Judería" hora="21:00"></punto>
-				<punto descripcion="Magistral González Francés" hora="21:30"></punto>
+				<punto descripcion="Cardenal Herrero" hora="21:30"></punto>
 				<punto descripcion="Magistral González Francés" hora="22:00"></punto>
 				<punto descripcion="Cardenal González" hora="22:30"></punto>
 				<punto descripcion="San Fernando" hora="23:00"></punto>
-				<punto descripcion="Entrada" hora="23:40"></punto>
+				<punto descripcion="Entrada" hora="23:30"></punto>
 			</horario>
 		</horarios>
 		<images>
@@ -182,7 +201,13 @@
 			<image>http://imageshack.us/a/img254/3533/imagenhuerto2.jpg</image>
 			<image>http://imageshack.us/a/img29/3008/imagenhuerto3.jpg</image>
 		</images>
-
+		<masdatos>Fundación: Reorganización en 1974&#xA;&#xA;Esta Hermandad se estableció en el barrio de la Ajerquía a principios del siglo XVII y se extinguió en 1961.&#xA;&#xA;Dirección Casa Hermandad: C/. Tierra Andaluza, 3&#xA;&#xA;Hábito nazareno: Túnica verde, cíngulo franciscano y cubrerrostro blanco&#xA;&#xA;Imágenes: La del Señor en el Huerto es de mediados del s. XVII, y se atribuye a Pedro de Mena restaurada en 1941, 1975 y 1983.El ángel es de Navarro Arteaga. La del Señor Amarrado a la Columna es anónima. La de la Virgen es de Antonio Rubio, 1974&#xA;&#xA;Música: Agrupación Musical "Nuestro Padre Jesús de la Redención", de Córdoba, en el Misterio. Banda de Música de la Estrella, en el Amarrao. Agrupación Musical Ecijana "Amueci", de Écija (Sevilla), en la Virgen&#xA;&#xA;Estrenos: Bordado en oro fino del exterior de las bambalinas laterales del palio de la Virgen, realizado por el taller del ecijano Jesús Rosado, a juego con las caídas frontales y traseras, bordadas por Francisco Pérez Artés, según diseño de Rafael de Rueda, Álvaro Doctor y Fran Mellado&#xA;&#xA;Internet: http://www.hermandadelhuerto.es</masdatos>
+        <videos>
+            <video>G9gWx-d4uAY</video>
+            <video>uYPUCbSd1V4</video>
+            <video>WUNzhC49NH0</video>
+            <video>dZS0xw0eqvA</video>
+        </videos>
 	</cofradia>
 		
 	<cofradia>
@@ -225,7 +250,11 @@
 			<image>http://imageshack.us/a/img6/3702/esperanza20122.jpg</image>
 			<image>http://imageshack.us/a/img213/8463/imagenesperanza3.jpg</image>
 		</images>
-
+        <videos>
+            <video>aLRSQPedPhI</video>
+            <video>UkeKKz39RoA</video>
+            <video>J_c0uyEKr_Q</video>
+        </videos>
 	</cofradia>
 
 	<cofradia>
@@ -246,14 +275,14 @@
 				<punto descripcion="Salida" hora="15:00"></punto>
 				<punto descripcion="Beato Henares" hora="15:30"></punto>
 				<punto descripcion="Beato Henares" hora="16:00"></punto>
-				<punto descripcion="Plaza de Santa Teresa" hora="16:30"></punto>
+				<punto descripcion="Rosario" hora="16:30"></punto>
 				<punto descripcion="Puente Romano" hora="17:00"></punto>
-				<punto descripcion="Torrijos" hora="17:30"></punto>
-				<punto descripcion="Santa Iglesia Catedral" hora="18:00"></punto>
+				<punto descripcion="Triunfo" hora="17:30"></punto>
+				<punto descripcion="Puerta del Pérdon" hora="18:00"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="18:30"></punto>
-				<punto descripcion="Magistral González Francés" hora="19:00"></punto>
-				<punto descripcion="Cardenal González" hora="19:30"></punto>
-				<punto descripcion="San Fernando" hora="20:00"></punto>
+				<punto descripcion="Puerta Sta. Catalina" hora="19:00"></punto>
+				<punto descripcion="San Fernando" hora="19:30"></punto>
+				<punto descripcion="Diario de Córdoba" hora="20:00"></punto>
 				<punto descripcion="Entrada C.O." hora="20:36"></punto>
 				<punto descripcion="Salida C.O." hora="21:11"></punto>
 				<punto descripcion="Ángel de Saavedra" hora="21:30"></punto>
@@ -263,6 +292,7 @@
 				<punto descripcion="Puente Romano" hora="23:30"></punto>
 				<punto descripcion="Plaza de Santa Teresa" hora="00:00"></punto>
 				<punto descripcion="Beato Henares" hora="00:30"></punto>
+				<punto descripcion="Plaza Cristo del Amor" hora="01:00"></punto>
 				<punto descripcion="Entrada" hora="01:15"></punto>
 			</horario>
 		</horarios>
@@ -272,7 +302,10 @@
 			<image>http://imageshack.us/a/img716/2486/cordobaimagenamor2.jpg</image>
 			<image>http://imageshack.us/a/img837/8056/cordobaimagenamor3.jpg</image>
 		</images>
-
+        <videos>
+            <video>rVeFlNWEf50</video>
+            <video>uAiFqbxbtik</video>
+        </videos>
 	</cofradia>
 
     <cofradia>
@@ -300,7 +333,7 @@
 				<punto descripcion="Alfaros" hora="21:00"></punto>
 				<punto descripcion="Entrada C.O." hora="21:29"></punto>
 				<punto descripcion="Salida C.O." hora="22:04"></punto>
-				<punto descripcion="San Pablo" hora="22:30"></punto>
+				<punto descripcion="Alfonso XIII" hora="22:30"></punto>
 				<punto descripcion="Plaza de San Andrés" hora="23:00"></punto>
 				<punto descripcion="Santa Maria de Gracia" hora="23:30"></punto>
 				<punto descripcion="María Auxiliadora" hora="00:00"></punto>
@@ -312,10 +345,12 @@
 			<image>http://imageshack.us/a/img843/549/imagenrescatado2.jpg</image>
 			<image>http://imageshack.us/a/img836/9448/rescatado2010.jpg</image>
 			<image>http://imageshack.us/a/img823/7898/rescatado2012.jpg</image>
-
-
 		</images>
-
+        <videos>
+            <video>MXd1UnwzUIY</video>
+            <video>HDcZoXzCu_Y</video>
+            <video>_LijPkbXcAE</video>
+        </videos>
 	</cofradia>
 
     <!-- Lunes Santo -->
@@ -346,8 +381,8 @@
 				<punto descripcion="San Zoilo" hora="20:30"></punto>
 				<punto descripcion="Conde de Torres Cabrera" hora="21:00"></punto>
 				<punto descripcion="Plaza de las Doblas" hora="21:30"></punto>
-				<punto descripcion="Conde de Priego" hora="22:00"></punto>
-				<punto descripcion="Puerta del Colodro" hora="22:30"></punto>
+				<punto descripcion="Isabel Losa" hora="22:00"></punto>
+				<punto descripcion="Mayor de Santa Marina" hora="22:30"></punto>
 				<punto descripcion="Avenida de Ollerías" hora="23:00"></punto>
 				<punto descripcion="San Juan de la Cruz" hora="23:30"></punto>
 				<punto descripcion="Virgen de Linares" hora="00:00"></punto>
@@ -361,7 +396,11 @@
 			<image>http://imageshack.us/a/img832/1461/merced20121.jpg</image>
 			<image>http://imageshack.us/a/img132/6434/merced20122.jpg</image>
 		</images>
-		
+		<videos>
+            <video>ts4BlRovgGk</video>
+            <video>8fz1qYQNSNs</video>
+            <video>-h3CvjjHsbM</video>
+		</videos>
 	</cofradia>
 
     <cofradia>
@@ -402,10 +441,13 @@
 			<image>http://imageshack.us/a/img90/695/granadaimagenestrella2.jpg</image>
 			<image>http://imageshack.us/a/img849/7311/estrella20121.jpg</image>
 			<image>http://imageshack.us/a/img844/2055/estrella20122.jpg</image>
-
-
 		</images>
-
+        <videos>
+            <video>9NmhfgNCazY</video>
+            <video>jpsnPf2SkAU</video>
+            <video>VRdzebcBDo4</video>
+            <video>VRdzebcBDo4</video>
+        </videos>
 	</cofradia>
 
     <cofradia>
@@ -431,12 +473,13 @@
 				<punto descripcion="Magistral González Francés" hora="19:30"></punto>
 				<punto descripcion="Cardenal González" hora="20:00"></punto>
 				<punto descripcion="San Fernando" hora="20:30"></punto>
-				<punto descripcion="Entrada C.O." hora="20:56"></punto>
-				<punto descripcion="Salida C.O." hora="21:31"></punto>
-				<punto descripcion="Ángel de Saavedra" hora="22:00"></punto>
+				<punto descripcion="Entrada C.O." hora="20:57"></punto>
+				<punto descripcion="Salida C.O." hora="21:32"></punto>
+				<punto descripcion="Blanco Belmonte" hora="22:00"></punto>
 				<punto descripcion="Deanes" hora="22:30"></punto>
 				<punto descripcion="Torrijos" hora="23:00"></punto>
 				<punto descripcion="Puente Romano" hora="23:30"></punto>
+				<punto descripcion="Av. de la Diputación" hora="00:00"></punto>
 				<punto descripcion="Entrada" hora="00:20"></punto>
 			</horario>
 		</horarios>
@@ -448,12 +491,12 @@
 			<image>http://imageshack.us/a/img843/3126/veracruz20122.jpg</image>
 			<image>http://imageshack.us/a/img43/2249/veracruz20125.jpg</image>
 			<image>http://imageshack.us/a/img203/6821/veracruz20121.jpg</image>
-
-
-
-
 		</images>
-
+        <videos>
+            <video>qXiS6bDcGWs</video>
+            <video>k_ptbxxfols</video>
+            <video>bObFEI2YVTY</video>
+        </videos>
 	</cofradia>
 
     <cofradia>
@@ -474,7 +517,7 @@
 				<punto descripcion="Salida" hora="17:00"></punto>
 				<punto descripcion="Gondomar" hora="17:30"></punto>
 				<punto descripcion="Jesús María" hora="18:00"></punto>
-				<punto descripcion="Deanes" hora="18:30"></punto>
+				<punto descripcion="Conde y Luque" hora="18:30"></punto>
 				<punto descripcion="Cardenal Herrero" hora="19:00"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="19:30"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="20:00"></punto>
@@ -495,7 +538,12 @@
 			<image>http://imageshack.us/a/img688/7370/sentencia20123.jpg</image>
 			<image>http://imageshack.us/a/img10/3074/sentencia20124.jpg</image>
 		</images>
-
+        <videos>
+            <video>uU7a17UdTcQ</video>
+            <video>pXT1jwLMuec</video>
+            <video>gtw6FhR-CgI</video>
+            <video>NBO5_-x96IE</video>
+        </videos>
 	</cofradia>
 
     <cofradia>
@@ -506,30 +554,33 @@
 		<numero_pasos>0</numero_pasos>
 		<itinerario>Plaza de la Trinidad (Altar 1ª Estación), Plaza d Pinerda, Plaza de San Juan (Altar 2ª Estación), Blanco Belmonte (Altar 3ª Estación), Plaza Agrupación de Cofradías, Céspedes, Cardenal Herrero (Altar 4ª Estación), Encarnación (Altar 5ª Estación), Rey Heredia (Altar 6ª Estación), Cabezas, Arco del Portillo (Altar 7ª Estación), San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús María, Rodríguez Sánchez, Sevilla, Plaza de San Juan, General Argote, Plaza de Ramón y Cajal, Pérez de Castro (Altar 8ª Estación), González López, Tejón y Marín (Altar 9ª Estación), Puerta de Almodóvar (Altar 10ª Estación), Judíos, Plaza de Maimónides (Altar 11ª Estación - Coro Ziryab), Albucasis, Plaza de Juda Leví (Altar 12ª Estación), Los Manríquez, Buen Pastor (Altar 13ª Estación), Ángel Torres, Sánchez de Feria, Plaza de la Trinidad (Altar 14ª Estación).</itinerario>
 		<imagenEscudo>escudo_via_crucis</imagenEscudo>
-		<horaSalida>20:00</horaSalida>
+		<horaSalida>20:15</horaSalida>
 		<horaRecogida>01:00</horaRecogida>
 		<latitudRegreso>37.88438945157346</latitudRegreso>
 		<longitudRegreso>-4.779973708984775</longitudRegreso>
 		<ficheroRecorrido>via_crucis</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
-				<punto descripcion="Salida" hora="20:00"></punto>
-				<punto descripcion="Cardenal Herrero" hora="20:30"></punto>
-				<punto descripcion="Cabezas" hora="21:00"></punto>
-				<punto descripcion="San Fernando" hora="21:30"></punto>
-				<punto descripcion="Entrada C.O." hora="22:15"></punto>
-				<punto descripcion="Salida C.O." hora="22:50"></punto>
-				<punto descripcion="Rodríguez Sánchez" hora="23:00"></punto>
-				<punto descripcion="González López" hora="23:30"></punto>
-				<punto descripcion="Judíos" hora="00:00"></punto>
-				<punto descripcion="Manriquez" hora="00:30"></punto>
+				<punto descripcion="Salida" hora="20:15"></punto>
+				<punto descripcion="Plaza de Pineda" hora="20:30"></punto>
+				<punto descripcion="Céspedes" hora="21:00"></punto>
+				<punto descripcion="Cardenal Herrero" hora="21:30"></punto>
+				<punto descripcion="San Fernando" hora="22:00"></punto>
+				<punto descripcion="Entrada C.O." hora="22:24"></punto>
+				<punto descripcion="Salida C.O." hora="22:44"></punto>
+				<punto descripcion="Eduardo Dato" hora="23:30"></punto>
+				<punto descripcion="Plaza de Maimónides" hora="00:00"></punto>
+				<punto descripcion="Deanes" hora="00:30"></punto>
 				<punto descripcion="Entrada" hora="01:00"></punto>
 			</horario>
 		</horarios>
 		<images>
 			<image>http://imageshack.us/a/img546/7130/imagenviacrucis1.jpg</image>
 		</images>
-
+        <videos>
+            <video>wa0G6DsmcOQ</video>
+            <video>GbAkrtFoIO8</video>
+        </videos>
 	</cofradia>
 
     <cofradia>
@@ -541,7 +592,7 @@
 		<itinerario>Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Jesus María, Juan Varela, Santa Victoria, Plaza de la Compañía, Conde de Cárdenas, María Cristina, Alfonso XIII, Capitulares, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo.</itinerario>
 		<imagenEscudo>escudo_animas</imagenEscudo>
 		<horaSalida>21:00</horaSalida>
-		<horaRecogida>01:30</horaRecogida>
+		<horaRecogida>01:10</horaRecogida>
 		<latitudRegreso>37.8843845</latitudRegreso>
 		<longitudRegreso>-4.7799486</longitudRegreso>
 		<ficheroRecorrido>animas</ficheroRecorrido>
@@ -550,19 +601,25 @@
 				<punto descripcion="Salida" hora="21:00"></punto>
 				<punto descripcion="Santa María de Gracia" hora="21:30"></punto>
 				<punto descripcion="San Pablo" hora="22:00"></punto>
-				<punto descripcion="Entrada C.O." hora="22:37"></punto>
-				<punto descripcion="Salida C.O." hora="23:12"></punto>
-				<punto descripcion="Juan Varela" hora="23:30"></punto>
-				<punto descripcion="Plaza de la Compañia" hora="00:00"></punto>
-				<punto descripcion="María Cristina" hora="00:30"></punto>
-				<punto descripcion="San Ándres" hora="01:00"></punto>
-				<punto descripcion="Entrada" hora="01:30"></punto>
+				<punto descripcion="Entrada C.O." hora="22:30"></punto>
+				<punto descripcion="Salida C.O." hora="23:00"></punto>
+				<punto descripcion="Alfonso XIII" hora="23:30"></punto>
+				<punto descripcion="Juan Rufo" hora="00:00"></punto>
+				<punto descripcion="Arroyo de San Andrés" hora="00:30"></punto>
+				<punto descripcion="Arroyo de San Rafael" hora="01:00"></punto>
+				<punto descripcion="Entrada" hora="01:10"></punto>
 			</horario>
 		</horarios>
 		<images>
 			<image>http://imageshack.us/a/img17/9917/imagenanimas1.jpg</image>
 			<image>http://imageshack.us/a/img191/7251/imagenanimas2.jpg</image>
 		</images>
+        <videos>
+            <video>w9MPuxi_NCk</video>
+            <video>AYsZXxV4Dl8</video>
+            <video>vd5rfAchHLU</video>
+            <video>7ilGmIAHUgY</video>
+        </videos>
 	</cofradia>
 	
 	<!-- Martes Santo -->
@@ -582,7 +639,7 @@
 		<ficheroRecorrido>agonia</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
-				<punto descripcion="Salida" hora="17:15"></punto>
+				<punto descripcion="Salida" hora="17:00"></punto>
 				<punto descripcion="Patio de los Naranjos" hora="17:30"></punto>
 				<punto descripcion="Magistral González Francés" hora="18:00"></punto>
 				<punto descripcion="Cardenal González" hora="18:30"></punto>
@@ -605,7 +662,11 @@
 		<images>
 			<image>http://imageshack.us/a/img41/493/cordobaimagenagonia2.jpg</image>
 		</images>
-
+        <videos>
+            <video>DUlDLjXC4Sc</video>
+            <video>T6l_GCcCtS4</video>
+            <video>qHGOo-e_Cm0</video>
+        </videos>
 	</cofradia>
 	
 	<cofradia>
@@ -644,7 +705,12 @@
 			<image>http://imageshack.us/a/img19/6835/sangre20121.jpg</image>
 			<image>http://imageshack.us/a/img546/2862/sangre20120.jpg</image>
 		</images>
-
+        <videos>
+            <video>UfIWSmsuJTY</video>
+            <video>5BXdFbc3dLs</video>
+            <video>8ctCPdwgAek</video>
+            <video>qVLqKn6Oeow</video>
+        </videos>
 	</cofradia>	
 	
 	<cofradia>
@@ -664,15 +730,15 @@
 			<horario descripcion="Cruz de Guía">
 				<punto descripcion="Salida" hora="19:40"></punto>
 				<punto descripcion="San Pablo" hora="20:00"></punto>
-				<punto descripcion="Entrada C.O." hora="200:26"></punto>
+				<punto descripcion="Entrada C.O." hora="20:26"></punto>
 				<punto descripcion="Salida C.O." hora="21:01"></punto>
 				<punto descripcion="Plaza Agrupación de Cofradías" hora="21:30"></punto>
 				<punto descripcion="Deanes" hora="22:00"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="22:30"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="23:00"></punto>
-				<punto descripcion="Magistral González Francés" hora="23:30"></punto>
-				<punto descripcion="San Fernando" hora="00:00"></punto>
-				<punto descripcion="Capitulares" hora="00:30"></punto>
+				<punto descripcion="Cardenal González" hora="23:30"></punto>
+				<punto descripcion="Diario Cordoba" hora="00:00"></punto>
+				<punto descripcion="San Pablo" hora="00:30"></punto>
 				<punto descripcion="Entrada" hora="01:00"></punto>
 			</horario>
 		</horarios>
@@ -680,7 +746,12 @@
 			<image>http://imageshack.us/a/img189/7281/imagenbuensuceso1.jpg</image>
 			<image>http://imageshack.us/a/img191/8365/imagenbuensuceso2.jpg</image>
 		</images>
-
+        <videos>
+            <video>nhbzvRuOneg</video>
+            <video>zjIm65PRNg0</video>
+            <video>1Cq8AEhW8EE</video>
+            <video>gA0arWfxqQw</video>
+        </videos>
 	</cofradia>
 	
 	<cofradia>
@@ -691,7 +762,7 @@
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Lope de Hoces, Tesoro, Valladares, Leopoldo de Austria, Plaza de San Juan, Barroso, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Conde de Gondomar, San Felipe, Tesoro, Plaza de la Trinidad, Lope de Hoces.</itinerario>
 		<imagenEscudo>escudo_santa_faz</imagenEscudo>
-		<horaSalida>16:15</horaSalida>
+		<horaSalida>16:10</horaSalida>
 		<horaRecogida>23:00</horaRecogida>
 		<latitudRegreso>37.88438198149468</latitudRegreso>
 		<longitudRegreso>-4.779945478316892</longitudRegreso>
@@ -704,13 +775,13 @@
 				<punto descripcion="Blanco Belmonte" hora="17:30"></punto>
 				<punto descripcion="Deanes" hora="18:00"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="18:00"></punto>
-				<punto descripcion="Santa Iglesia Catedral" hora="19:00"></punto>				
+				<punto descripcion="Puerta de las Palmas" hora="19:00"></punto>				
 				<punto descripcion="Magistral González Francés" hora="19:30"></punto>
 				<punto descripcion="Cardenal González" hora="20:00"></punto>
-				<punto descripcion="San Fernando" hora="20:30"></punto>				
+				<punto descripcion="Compás de San Francisco" hora="20:30"></punto>				
 				<punto descripcion="Entrada C.O." hora="20:55"></punto>
 				<punto descripcion="Salida C.O." hora="21:30"></punto>
-				<punto descripcion="San Felipe" hora="22:00"></punto>	
+				<punto descripcion="Gran Capitán" hora="22:00"></punto>	
 				<punto descripcion="Tesoro" hora="22:30"></punto>
 				<punto descripcion="Entrada" hora="23:00"></punto>			
 			</horario>
@@ -719,7 +790,12 @@
 			<image>http://imageshack.us/a/img407/2034/imagensantafaz1.jpg</image>
 			<image>http://imageshack.us/a/img5/1431/imagensantafaz2.jpg</image>
 		</images>
-
+        <videos>
+            <video>kKDbLpu3YK4</video>
+            <video>OCgBDGOZi0Y</video>
+            <video>LnWBtu299GM</video>
+            <video>gDxMLSmLWhA</video>
+        </videos>
 	</cofradia>
 	
 	<cofradia>
@@ -750,6 +826,7 @@
 				<punto descripcion="Diario de Córdoba" hora="21:30"></punto>
 				<punto descripcion="Entrada C.O." hora="21:42"></punto>
 				<punto descripcion="Salida C.O." hora="22:17"></punto>
+				<punto descripcion="Victoriano Ribera" hora="22:30"></punto>
 				<punto descripcion="Alfonso XIII" hora="23:00"></punto>	
 				<punto descripcion="San Pablo" hora="23:30"></punto>
 				<punto descripcion="Santa María de Gracia" hora="00:00"></punto>	
@@ -763,7 +840,11 @@
 			<image>http://imageshack.us/a/img822/1633/cordobaimagenprendimien.jpg</image>
 			<image>http://imageshack.us/a/img405/1633/cordobaimagenprendimien.jpg</image>
 		</images>
-
+        <videos>
+            <video>uzzjr5bF0gw</video>
+            <video>TCokoilyPBU</video>
+            <video>mbYn58Er0BE</video>
+        </videos>
 	</cofradia>
 	
 	<!-- Miércoles Santo -->
@@ -792,8 +873,8 @@
 				<punto descripcion="Periodista Quesada Chacón" hora="17:00"></punto>
 				<punto descripcion="Plaza Costal Sol" hora="17:30"></punto>
 				<punto descripcion="Lope de Hoces" hora="18:00"></punto>
-				<punto descripcion="Tesoro" hora="18:30"></punto>
-				<punto descripcion="Plaza de las Tendillas" hora="19:00"></punto>
+				<punto descripcion="Plaza de la Trinidad" hora="18:30"></punto>
+				<punto descripcion="Cruz Conde" hora="19:00"></punto>
 				<punto descripcion="Entrada C.O." hora="19:30"></punto>
 				<punto descripcion="Salida C.O." hora="20:05"></punto>
 				<punto descripcion="Concepción" hora="20:30"></punto>	
@@ -813,7 +894,10 @@
 			<image>http://imageshack.us/a/img194/3027/cordobaimagenpiedad1.jpg</image>
 			<image>http://imageshack.us/a/img24/9402/cordobaimagenpiedad2.jpg</image>
 		</images>
-
+        <videos>
+            <video>vDgmSlh8EmE</video>
+            <video>eS1Sd7BsHZQ</video>
+        </videos>
 	</cofradia>
 
 	<cofradia>
@@ -832,7 +916,9 @@
 		<horarios>
 			<horario descripcion="Cruz de Guía">
 				<punto descripcion="Salida" hora="17:15"></punto>
+				
 				<punto descripcion="Amador de los Ríos" hora="18:00"></punto>
+				<punto descripcion="Arco Caballerizas" hora="17:30"></punto>
 				<punto descripcion="Corregidor Luis de la Cerda" hora="18:30"></punto>
 				<punto descripcion="San Fernando" hora="19:00"></punto>
 				<punto descripcion="Diario de Córdoba" hora="19:30"></punto>
@@ -853,7 +939,11 @@
 			<image>http://imageshack.us/a/img803/5430/imagenpasion3.jpg</image>
 			<image>http://imageshack.us/a/img854/3747/imagenpasion4.jpg</image>
 		</images>
-		
+		<videos>
+            <video>nR38cLK5INE</video>
+            <video>sumdwAT-tc0</video>
+            <video>-4rferKd9_4</video>
+		</videos>
 	</cofradia>
 		
 	<cofradia>
@@ -865,7 +955,7 @@
 		<itinerario>Buen Pastor, Valladares, Plaza Pineda, Leopoldo de Austria, Plaza de San Juan, Barroso, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cerdenal Herrero, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Gondomar, Sevilla, Plaza Doctor Emilio Luque, Plaza de San Juan, Leopoldo de Austria, Plaza Pineda, Valladares, Buen Pastor.</itinerario>
 		<imagenEscudo>cordoba_escudo_perdon</imagenEscudo>
 		<horaSalida>16:30</horaSalida>
-		<horaRecogida>22:25</horaRecogida>
+		<horaRecogida>22:30</horaRecogida>
 		<latitudRegreso>37.8843866</latitudRegreso>
 		<longitudRegreso>-4.7799888</longitudRegreso>
 		<ficheroRecorrido>cordoba_perdon</ficheroRecorrido>
@@ -883,7 +973,7 @@
 				<punto descripcion="Salida C.O." hora="21:04"></punto>
 				<punto descripcion="Leopoldo de Austria" hora="21:30"></punto>	
 				<punto descripcion="Valladares" hora="22:00"></punto>
-				<punto descripcion="Entrada" hora="22:25"></punto>			
+				<punto descripcion="Entrada" hora="22:30"></punto>			
 			</horario>
 		</horarios>
 		<images>
@@ -892,7 +982,9 @@
 			<image>http://imageshack.us/a/img29/2011/cordobaimagenperdon3.jpg</image>
 			<image>http://imageshack.us/a/img541/4508/cordobaimagenperdon4.jpg</image>
 		</images>
-		
+		<videos>
+            <video>JjI9EjJfBXc</video>
+		</videos>
 	</cofradia>
 	
 	<cofradia>
@@ -903,35 +995,40 @@
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Lorenzo, Santa María de Gracia, Realejo, Plaza de San Andrés, San Pablo, Capitulares, CARRERA OFICIAL, Jesús y María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, Capitulares, San Pablo, Plaza de San Andrés, Realejo, Santa María de Gracia, Plaza de San Lorenzo.</itinerario>
 		<imagenEscudo>escudo_calvario</imagenEscudo>
-		<horaSalida>19:20</horaSalida>
-		<horaRecogida>02:15</horaRecogida>
-		<latitudRegreso>37.8843887</latitudRegreso>
-		<longitudRegreso>-4.7799540</longitudRegreso>
+		<horaSalida>16:10</horaSalida>
+		<horaRecogida>23:30</horaRecogida>
+		<latitudRegreso>37.88439327458814</latitudRegreso>
+		<longitudRegreso>-4.779996224154004</longitudRegreso>
 		<ficheroRecorrido>calvario</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
-				<punto descripcion="Salida" hora="19:20"></punto>
-				<punto descripcion="Santa María de Gracia" hora="19:30"></punto>
-				<punto descripcion="Realejo" hora="20:00"></punto>
-				<punto descripcion="San Pablo" hora="20:30"></punto>
-				<punto descripcion="Entrada C.O." hora="20:54"></punto>
+				<punto descripcion="Salida" hora="16:10"></punto>
+				<punto descripcion="Santa María de Gracia" hora="16:30"></punto>
+				<punto descripcion="San Pablo" hora="17:00"></punto>
+				<punto descripcion="María Cristina" hora="17:30"></punto>
+				<punto descripcion="Santa Victoria" hora="18:00"></punto>
+				<punto descripcion="Conde y Luque" hora="18:30"></punto>
+				<punto descripcion="Santa Iglesia Catedral" hora="19:00"></punto>	
+				<punto descripcion="Santa Iglesia Catedral" hora="19:30"></punto>
+				<punto descripcion="Cardenal González" hora="20:00"></punto>
+				<punto descripcion="San Fernando" hora="20:30"></punto>	
+				<punto descripcion="Entrada C.O." hora="20:54"></punto>					
 				<punto descripcion="Salida C.O." hora="21:29"></punto>
-				<punto descripcion="Ángel de Saavedra" hora="22:00"></punto>	
-				<punto descripcion="Conde y Luque" hora="22:30"></punto>
-				<punto descripcion="Judería" hora="23:00"></punto>
-				<punto descripcion="Santa Iglesia Catedral" hora="23:30"></punto>	
-				<punto descripcion="Santa Iglesia Catedral" hora="00:00"></punto>					
-				<punto descripcion="Cardenal González" hora="00:30"></punto>
-				<punto descripcion="San Fernando" hora="01:00"></punto>
-				<punto descripcion="San Pablo" hora="01:30"></punto>	
-				<punto descripcion="Entrada" hora="02:15"></punto>			
+				<punto descripcion="Alfonso XIII" hora="22:00"></punto>
+				<punto descripcion="San Pablo" hora="22:30"></punto>
+				<punto descripcion="Santa María de Gracia" hora="23:00"></punto>	
+				<punto descripcion="Entrada" hora="23:30"></punto>			
 			</horario>
 		</horarios>
 		<images>
 			<image>http://imageshack.us/a/img24/3326/imagencalvario1.jpg</image>
 			<image>http://imageshack.us/a/img844/6964/imagencalvario2.jpg</image>
 		</images>
-		
+		<videos>
+            <video>rlNJs1Eg01U</video>
+            <video>Aho3XCMXiwg</video>
+            <video>NZmGK7Uxg9I</video>
+		</videos>
 	</cofradia>
 	
 	<cofradia>
@@ -950,9 +1047,9 @@
 		<horarios>
 			<horario descripcion="Cruz de Guía">
 				<punto descripcion="Salida" hora="18:30"></punto>
-				<punto descripcion="Plaza de Colón" hora="19:00"></punto>
-				<punto descripcion="Plaza Conde de Priego" hora="19:30"></punto>
-				<punto descripcion="Enrique Redel" hora="20:00"></punto>
+				<punto descripcion="Puerta del Rincón" hora="19:00"></punto>
+				<punto descripcion="Plaza de Sta. Marina" hora="19:30"></punto>
+				<punto descripcion="Palacio de Viana" hora="20:00"></punto>
 				<punto descripcion="Plaza de San Andrés" hora="20:30"></punto>
 				<punto descripcion="San Pablo" hora="21:00"></punto>	
 				<punto descripcion="Entrada C.O." hora="21:23"></punto>
@@ -969,9 +1066,11 @@
 			<image>http://imageshack.us/a/img832/3157/imagenpaz2.jpg</image>
 			<image>http://imageshack.us/a/img17/9936/paz20122.jpg</image>
 			<image>http://imageshack.us/a/img191/49/paz20121.jpg</image>
-
 		</images>
-		
+		<videos>
+            <video>Zcy3cDuRQr4</video>
+            <video>drVJk9Iti8c</video>
+		</videos>
 	</cofradia>
 	
 	<cofradia>
@@ -982,14 +1081,14 @@
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Plaza de San Pedro, Don Rodrigo, Lineros, Plaza del Potro, Romero Barros, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús y María, Juan Varela, Santa Victoria, Plaza de la Compañia, Conde de Cárdenas, María Cristina, Claudio Marcelo, Rodríguez Marín, Plaza de la Corredera, Plaza del Socorro, Plaza de la Almagra, Escultor Juan de Mesa, Plaza de San Pedro.</itinerario>
 		<imagenEscudo>escudo_misericordia</imagenEscudo>
-		<horaSalida>20:40</horaSalida>
+		<horaSalida>20:45</horaSalida>
 		<horaRecogida>00:45</horaRecogida>
 		<latitudRegreso>37.8843802</latitudRegreso>
 		<longitudRegreso>-4.7799647</longitudRegreso>
 		<ficheroRecorrido>misericordia</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
-				<punto descripcion="Salida" hora="20:40"></punto>
+				<punto descripcion="Salida" hora="20:45"></punto>
 				<punto descripcion="Don Rodrigo" hora="21:00"></punto>
 				<punto descripcion="Plaza del Potro" hora="21:30"></punto>
 				<punto descripcion="San Fernando" hora="22:00"></punto>
@@ -1005,7 +1104,10 @@
 			<image>http://imageshack.us/a/img13/8003/imagenmisericordia1.jpg</image>
 			<image>http://imageshack.us/a/img843/5198/imagenmisericordia2.jpg</image>
 		</images>
-		
+		<videos>
+            <video>EKFwKqCNw3k</video>
+            <video>tayL3Fn5FbI</video>
+		</videos>
 	</cofradia>
 	
 	<!-- Jueves Santo -->
@@ -1033,7 +1135,7 @@
 				<punto descripcion="Ramírez de las Casas Deza" hora="20:30"></punto>
 				<punto descripcion="Alfonso XIII" hora="21:00"></punto>
 				<punto descripcion="Plaza de San Andrés" hora="21:30"></punto>
-				<punto descripcion="Muñoz Capilla" hora="22:00"></punto>
+				<punto descripcion="Hnos. López Diéguez" hora="22:00"></punto>
 				<punto descripcion="Compás de San Agustín" hora="22:30"></punto>
 				<punto descripcion="Entrada" hora="22:45"></punto>			
 			</horario>
@@ -1042,7 +1144,12 @@
 			<image>http://imageshack.us/a/img543/7779/cordobaimagennazareno1.jpg</image>
 			<image>http://imageshack.us/a/img843/494/cordobaimagennazareno2.jpg</image>
 		</images>
-		
+		<videos>
+            <video>d71NbDD96bk</video>
+            <video>A5__JHPXrbw</video>
+            <video>MP8SgdkrJ-k</video>
+            <video>liq82jv-7NY</video>
+		</videos>
 	</cofradia>
 	
 	<cofradia>
@@ -1062,20 +1169,20 @@
 			<horario descripcion="Cruz de Guía">
 				<punto descripcion="Salida" hora="16:00"></punto>
 				<punto descripcion="Avd. de Guerrita" hora="16:30"></punto>
-				<punto descripcion="Gran Vía Parque" hora="17:00"></punto>
-				<punto descripcion="Maestro Priego López" hora="17:30"></punto>
-				<punto descripcion="Camino de los Sastres" hora="18:00"></punto>
-				<punto descripcion="Jardines de la Victoria" hora="18:30"></punto>
-				<punto descripcion="Gondomar" hora="19:00"></punto>
+				<punto descripcion="Maestro Priego López" hora="17:00"></punto>
+				<punto descripcion="Camino de los Sastres" hora="17:30"></punto>
+				<punto descripcion="Jardines de la Victoria" hora="18:00"></punto>
+				<punto descripcion="San Felipe" hora="18:30"></punto>
+				<punto descripcion="Plaza de las Tendillas" hora="19:00"></punto>
 				<punto descripcion="Alfonso XIII" hora="19:30"></punto>
 				<punto descripcion="Entrada C.O." hora="19:52"></punto>
 				<punto descripcion="Salida C.O." hora="20:27"></punto>
-				<punto descripcion="Gondomar" hora="21:00"></punto>	
-				<punto descripcion="Plaza de Ramón y Cajal" hora="21:30"></punto>
+				<punto descripcion="San Felipe" hora="21:00"></punto>	
+				<punto descripcion="Plaza de la Trinidad" hora="21:30"></punto>
 				<punto descripcion="Jardines de la Victoria" hora="22:00"></punto>	
 				<punto descripcion="Antonio Maura" hora="22:30"></punto>
-				<punto descripcion="Avd. de Manolete" hora="23:00"></punto>
-				<punto descripcion="Plaza de Matías Prats" hora="23:30"></punto>
+				<punto descripcion="Gran Vía Parque" hora="23:00"></punto>
+				<punto descripcion="Av. de Manolete" hora="23:30"></punto>
 				<punto descripcion="Avd. de Guerrita" hora="00:00"></punto>
 				<punto descripcion="Entrada" hora="00:30"></punto>
 			</horario>
@@ -1088,7 +1195,11 @@
 			<image>http://imageshack.us/a/img12/8315/cena20123.jpg</image>
 			<image>http://imageshack.us/a/img689/3309/imagensagradacena2.jpg</image>
 		</images>
-
+        <videos>
+            <video>xVfGZ_gbjWA</video>
+            <video>IhTv4HKd7r4</video>
+            <video>o61XdD5wCfY</video>
+        </videos>
 	</cofradia>
 	
 	<cofradia>
@@ -1125,7 +1236,11 @@
 			<image>http://imageshack.us/a/img404/3839/cordobaimagencaido1.jpg</image>
 			<image>http://imageshack.us/a/img845/3408/cordobaimagencaido2.jpg</image>
 		</images>
-		
+		<videos>
+            <video>W6RAO1MhM_4</video>
+            <video>CH77VL7fd1w</video>
+            <video>IVyvWTftTDk</video>
+		</videos>
 	</cofradia>
 	
 	<cofradia>
@@ -1160,7 +1275,11 @@
 		<images>
 			<image>http://imageshack.us/a/img832/6086/imagencaridad1.jpg</image>
 		</images>
-		
+		<videos>
+            <video>daBvTgtSOFA</video>
+            <video>i6beX8vWF-w</video>
+            <video>uC86Uguv4Xc</video>
+		</videos>
 	</cofradia>
 	
 	<cofradia>
@@ -1173,8 +1292,8 @@
 		<imagenEscudo>escudo_cristo_de_gracia</imagenEscudo>
 		<horaSalida>19:00</horaSalida>
 		<horaRecogida>02:00</horaRecogida>
-		<latitudRegreso>37.8843972</latitudRegreso>
-		<longitudRegreso>-4.7799700</longitudRegreso>
+		<latitudRegreso>37.88441504425644</latitudRegreso>
+		<longitudRegreso>-4.77998531678018</longitudRegreso>
 		<ficheroRecorrido>cristo_de_gracia</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
@@ -1191,7 +1310,7 @@
 				<punto descripcion="Plaza de San Andrés" hora="00:00"></punto>
 				<punto descripcion="Santa María de Gracia" hora="00:30"></punto>
 				<punto descripcion="Plaza de San Lorenzo" hora="01:00"></punto>
-				<punto descripcion="María Auxiliadora" hora="01:30"></punto>
+				<punto descripcion="Frailes" hora="01:30"></punto>
 				<punto descripcion="Entrada" hora="02:00"></punto>			
 			</horario>
 		</horarios>
@@ -1199,9 +1318,13 @@
 			<image>http://imageshack.us/a/img713/7479/imagencristodegracia1.jpg</image>
 			<image>http://imageshack.us/a/img853/7749/cristodegracia20121.jpg</image>
 			<image>http://imageshack.us/a/img801/4653/cristodegracia2012.jpg</image>
-
 		</images>
-		
+		<videos>
+            <video>A9AaDeJeeCc</video>
+            <video>EkBXJuPADhQ</video>
+            <video>M6t58ymTMXI</video>
+            <video>tDaHV5vL-tU</video>
+		</videos>
 	</cofradia>
 	
 	<cofradia>
@@ -1212,14 +1335,14 @@
 		<numero_pasos>1</numero_pasos>
 		<itinerario>Capitulares, CARRERA OFICIAL, Plaza de las Tendillas, Diego de León, Alfonso XIII, Alfaros, Juan Rufo, Rejas de Don Gome, Compás de San Agustín, Plaza de San Agustín, Jesus Nazareno, Yerbabuena, Buen Suceso, Arroyo de San Andrés, Hermanos López Diéguez, Plaza de San Andrés, San Pablo, Capitulares.</itinerario>
 		<imagenEscudo>cordoba_escudo_angustias</imagenEscudo>
-		<horaSalida>22:30</horaSalida>
+		<horaSalida>22:35</horaSalida>
 		<horaRecogida>02:17</horaRecogida>
 		<latitudRegreso>37.8843760</latitudRegreso>
 		<longitudRegreso>-4.7799808</longitudRegreso>
 		<ficheroRecorrido>cordoba_angustias</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
-				<punto descripcion="Salida" hora="22:30"></punto>
+				<punto descripcion="Salida" hora="22:35"></punto>
 				<punto descripcion="Entrada en C.O." hora="22:44"></punto>
 				<punto descripcion="Salida C.O." hora="23:19"></punto>
 				<punto descripcion="Alfonso XIII" hora="00:00"></punto>
@@ -1234,7 +1357,11 @@
 			<image>http://imageshack.us/a/img801/3135/cordobaimagenangustias1.jpg</image>
 			<image>http://imageshack.us/a/img21/7585/cordobaimagenangustias2.jpg</image>
 		</images>
-		
+		<videos>
+            <video>F7QGz_0cNe4</video>
+            <video>2ZdrobGcBMY</video>
+            <video>9T_s6S1z1xg</video>
+		</videos>
 	</cofradia>
 	
 	<!-- Viernes Santo -->
@@ -1259,9 +1386,9 @@
 				<punto descripcion="Entrada C.O." hora="01:00"></punto>
 				<punto descripcion="Salida C.O." hora="01:35"></punto>
 				<punto descripcion="San Fernando" hora="02:00"></punto>
-				<punto descripcion="Cardenal González" hora="02:30"></punto>
+				<punto descripcion="Corregidor Luis de la Cerda" hora="02:30"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="03:00"></punto>
-				<punto descripcion="Patio de los Naranjos" hora="03:30"></punto>
+				<punto descripcion="Puerta de las Palmas" hora="03:30"></punto>
 				<punto descripcion="Deanes" hora="04:00"></punto>
 				<punto descripcion="Ángel de Saavedra" hora="04:30"></punto>
 				<punto descripcion="Gondomar" hora="05:00"></punto>
@@ -1272,7 +1399,11 @@
 			<image>http://imageshack.us/a/img822/6504/imagencordobabuenamuert.jpg</image>
 			<image>http://imageshack.us/a/img90/6504/imagencordobabuenamuert.jpg</image>
 		</images>
-		
+		<videos>
+            <video>SKZRXxkgQrs</video>
+            <video>FWpAIGDNfWc</video>
+            <video>0YCM9Gjmlto</video>
+		</videos>
 	</cofradia>
 	
 	<cofradia>
@@ -1292,7 +1423,7 @@
 			<horario descripcion="Cruz de Guía">
 				<punto descripcion="Salida" hora="18:15"></punto>
 				<punto descripcion="Agustín Moreno" hora="18:30"></punto>
-				<punto descripcion="Plaza del Potro" hora="19:00"></punto>
+				<punto descripcion="Romero Barros" hora="19:00"></punto>
 				<punto descripcion="Entrada C.O." hora="19:30"></punto>
 				<punto descripcion="Salida C.O." hora="20:05"></punto>
 				<punto descripcion="Blanco Belmonte" hora="20:30"></punto>
@@ -1306,7 +1437,10 @@
 		<images>
 			<image>http://imageshack.us/a/img824/2360/imagencordobasoledad1.jpg</image>
 		</images>
-		
+		<videos>
+            <video>1jbiZDCwsDM</video>
+            <video>J4QS3xFmOuk</video>
+		</videos>
 	</cofradia>
 	
 	<cofradia>
@@ -1317,14 +1451,14 @@
 		<numero_pasos>2</numero_pasos>
 		<itinerario>Capitulares, CARRERA OFICIAL, Jesús María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Cardenal González, San Fernando, Diario de Córdoba, Capitulares.</itinerario>
 		<imagenEscudo>escudo_cordoba_expiracion</imagenEscudo>
-		<horaSalida>19:30</horaSalida>
-		<horaRecogida>00:20</horaRecogida>
+		<horaSalida>19:35</horaSalida>
+		<horaRecogida>00:10</horaRecogida>
 		<latitudRegreso>37.8843845</latitudRegreso>
 		<longitudRegreso>-4.7799540</longitudRegreso>
 		<ficheroRecorrido>cordoba_expiracion</ficheroRecorrido>
 		<horarios>
 			<horario descripcion="Cruz de Guía">
-				<punto descripcion="Salida" hora="19:30"></punto>
+				<punto descripcion="Salida" hora="19:35"></punto>
 				<punto descripcion="Entrada C.O." hora="19:46"></punto>
 				<punto descripcion="Salida C.O." hora="20:21"></punto>
 				<punto descripcion="Conde y Luque" hora="21:00"></punto>
@@ -1332,16 +1466,18 @@
 				<punto descripcion="Santa Iglesia Catedral" hora="22:00"></punto>
 				<punto descripcion="Patio de los Naranjos" hora="22:30"></punto>
 				<punto descripcion="Cardenal González" hora="23:00"></punto>
-				<punto descripcion="San Fernando" hora="23:30"></punto>
-				<punto descripcion="Diario de Córdoba" hora="23:30"></punto>
-				<punto descripcion="Entrada" hora="00:20"></punto>		
+				<punto descripcion="Compás de San Francisco" hora="23:30"></punto>
+				<punto descripcion="Entrada" hora="00:10"></punto>		
 			</horario>
 		</horarios>
 		<images>
 			<image>http://imageshack.us/a/img542/6533/imagencordobaexpiracion.jpg</image>
 			<image>http://imageshack.us/a/img32/6533/imagencordobaexpiracion.jpg</image>
 		</images>
-		
+		<videos>
+            <video>RdQJcyZBlzs</video>
+            <video>i1DXvuYAqeQ</video>
+		</videos>
 	</cofradia>
 	
     <cofradia>
@@ -1353,7 +1489,7 @@
 		<itinerario>Paseo Cristo del Descendimiento, Avenida de la Diputación, Plaza de la Iglesia, Plaza de Santa Teresa, Santo Cristo, Paseo de Miraflores, Jardines de Miraflores, Puente de Miraflores, Cruz del Rastro, San Fernando, Diario de Córdoba, CARRERA OFICIAL, Jesús y María, Ángel de Saavedra, Blanco Belmonte, Plaza Agrupación de Cofradías, Conde y Luque, Deanes, Judería, Cardenal Herrero, Santa Iglesia Catedral, Magistral González Francés, Corregidor Luis de la Cerda, Triunfo, Puente Romano, Bajada del Puente, Acera Arrecife, Plaza de Santa Teresa, Plaza de la Iglesia, Avd. de la Diputación, Paseo Cristo del Descendimiento.</itinerario>
 		<imagenEscudo>escudo_cordoba_descendimiento</imagenEscudo>
 		<horaSalida>18:00</horaSalida>
-		<horaRecogida>01:40</horaRecogida>
+		<horaRecogida>01:30</horaRecogida>
 		<latitudRegreso>37.8843929</latitudRegreso>
 		<longitudRegreso>-4.7799754</longitudRegreso>
 		<ficheroRecorrido>cordoba_descendimiento</ficheroRecorrido>
@@ -1361,16 +1497,16 @@
 			<horario descripcion="Cruz de Guía">
 				<punto descripcion="Salida" hora="18:00"></punto>
 				<punto descripcion="Santo Cristo" hora="18:30"></punto>
-				<punto descripcion="J.L. Villegas" hora="19:00"></punto>
+				<punto descripcion="Puente de Miraflores" hora="19:00"></punto>
 				<punto descripcion="Cruz del Rastro" hora="19:30"></punto>
-				<punto descripcion="San Fernando" hora="20:00"></punto>
+				<punto descripcion="Diario Córdoba" hora="20:00"></punto>
 				<punto descripcion="Entrada C.O." hora="20:18"></punto>
 				<punto descripcion="Salida C.O." hora="20:53"></punto>
-				<punto descripcion="Conde y Luque" hora="21:30"></punto>
+				<punto descripcion="Plaza Agrupación de Cofradías" hora="21:30"></punto>
 				<punto descripcion="Deanes" hora="22:00"></punto>
-				<punto descripcion="Patio de los Naranjos" hora="22:30"></punto>
+				<punto descripcion="Cardenal Herrero" hora="22:30"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="23:00"></punto>
-				<punto descripcion="Puerta de Santa Catalina" hora="23:30"></punto>
+				<punto descripcion="Magistral González Francés" hora="23:30"></punto>
 				<punto descripcion="Triunfo" hora="00:00"></punto>
 				<punto descripcion="Puente Romano" hora="00:30"></punto>
 				<punto descripcion="Acera Arrecife" hora="01:00"></punto>
@@ -1381,7 +1517,11 @@
 			<image>http://imageshack.us/a/img51/1558/imagencordobadescendimi.jpg</image>
 			<image>http://imageshack.us/a/img856/1558/imagencordobadescendimi.jpg</image>
 		</images>
-
+        <videos>
+            <video>muwOzz8ZhfY</video>
+            <video>WTUq9sVXVq0</video>
+            <video>cA5_r561nC0</video>
+        </videos>
 	</cofradia>
 	
 	<cofradia>
@@ -1408,10 +1548,11 @@
 				<punto descripcion="Patio de los Naranjos" hora="19:30"></punto>
 				<punto descripcion="Cardenal González" hora="20:00"></punto>
 				<punto descripcion="San Fernando" hora="20:30"></punto>
-				<punto descripcion="Entrada C.O." hora="21:00"></punto>
-				<punto descripcion="Salida C.O." hora="21:35"></punto>
+				<punto descripcion="Entrada C.O." hora="20:58"></punto>
+				<punto descripcion="Salida C.O." hora="21:33"></punto>
 				<punto descripcion="Plaza de San Miguel" hora="22:00"></punto>
 				<punto descripcion="Conde de Torres Cabrera" hora="22:30"></punto>
+				<punto descripcion="Bailío" hora="23:00"></punto>
 				<punto descripcion="Entrada" hora="23:15"></punto>
 			</horario>
 		</horarios>
@@ -1419,7 +1560,11 @@
 			<image>http://imageshack.us/a/img833/97/imagencordobadolores1.jpg</image>
 			<image>http://imageshack.us/a/img266/5858/imagencordobadolores2.jpg</image>
 		</images>
-
+        <videos>
+            <video>N6iovyPXN1o</video>
+            <video>AG1G0Cw3jwM</video>
+            <video>_DZ0v8eULgI</video>
+        </videos>
 	</cofradia>
 	
 	<cofradia>
@@ -1438,14 +1583,14 @@
 		<horarios>
 			<horario descripcion="Cruz de Guía">
 				<punto descripcion="Salida" hora="19:00"></punto>
-				<punto descripcion="Plaza Agrupación de Cofradías" hora="19:30"></punto>
+				<punto descripcion="Blanco Belmonte" hora="19:30"></punto>
 				<punto descripcion="Cardenal Herrero" hora="20:00"></punto>
 				<punto descripcion="Santa Iglesia Catedral" hora="20:30"></punto>
 				<punto descripcion="Magistral González Francés" hora="21:00"></punto>
 				<punto descripcion="San Fernando" hora="21:30"></punto>
-				<punto descripcion="Entrada C.O." hora="22:07"></punto>
-				<punto descripcion="Salida C.O." hora="22:42"></punto>
-				<punto descripcion="Santa Victoria" hora="23:00"></punto>
+				<punto descripcion="Entrada C.O." hora="22:03"></punto>
+				<punto descripcion="Salida C.O." hora="22:38"></punto>
+				<punto descripcion="Ángel de Saavedra" hora="23:00"></punto>
 				<punto descripcion="Entrada" hora="23:20"></punto>		
 			</horario>
 		</horarios>
@@ -1453,7 +1598,11 @@
 			<image>http://imageshack.us/a/img4/6647/imagencordobasepulcro1.jpg</image>
 			<image>http://imageshack.us/a/img16/8611/imagencordobasepulcro2.jpg</image>
 		</images>
-		
+		<videos>
+            <video>4JJnsuAO4Cs</video>
+            <video>BzMckFvE3no</video>
+            <video>BVQTbttt3fU</video>
+		</videos>
 	</cofradia>
 	
 	<!-- Domingo de Resurrección -->
@@ -1479,7 +1628,7 @@
 				<punto descripcion="Rejas de Don Gome" hora="11:30"></punto>
 				<punto descripcion="Alfaros" hora="12:00"></punto>
 				<punto descripcion="Entrada C.O." hora="12:30"></punto>
-				<punto descripcion="Salida C.O." hora="13:05"></punto>
+				<punto descripcion="Salida C.O." hora="13:00"></punto>
 				<punto descripcion="San Zoilo" hora="13:30"></punto>
 				<punto descripcion="Conde de Torres Cabrera" hora="14:00"></punto>
 				<punto descripcion="Plaza del Conde de Priego" hora="14:30"></punto>
@@ -1491,7 +1640,11 @@
 			<image>http://imageshack.us/a/img202/3581/imagencordobaresucitado.jpg</image>
 			<image>http://imageshack.us/a/img46/5192/resucitado20120.jpg</image>
 		</images>
-		
+		<videos>
+            <video>K_iqOCAyoe4</video>
+            <video>q9VvAF_GvMs</video>
+            <video>39WhWw_4Y_Q</video>
+		</videos>
 	</cofradia>
 	
 		
