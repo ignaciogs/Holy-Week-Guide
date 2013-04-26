@@ -29,6 +29,7 @@
 
     <!-- Pantalla Principal Main -->
     <string name="main_itinerario">Itineraries</string>
+    <string name="main_onLive">On Live!!</string>
     <string name="main_mapa">On the map</string>
     <string name="main_buscar">Where to go</string>
     <string name="main_acercade">About</string>

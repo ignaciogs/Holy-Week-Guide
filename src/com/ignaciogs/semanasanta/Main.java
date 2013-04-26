@@ -46,6 +46,7 @@ public class Main extends SherlockActivity {
     private final String SHARED_PREFERENCES_CITY = "PREFERENCE_CITY";
 
     private ImageView imgFondo;
+    private TextView tvOnLive;
 
     /**
      * Called when the activity is first created.
@@ -54,9 +55,8 @@ public class Main extends SherlockActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-
         imgFondo = (ImageView) findViewById(R.id.main_imageFondo);
-
+        tvOnLive = (TextView) findViewById(R.id.main_tv_onlive);
         getSupportActionBar().setTitle(getString(R.string.holyWeekGuide));
         
         /* Cargamos los datos desde el xml */
@@ -85,6 +85,22 @@ public class Main extends SherlockActivity {
             public void onClick(View v) {
                 Intent i = new Intent(Main.this, ItinerarioListActivity.class);
                 startActivity(i);
+            }
+        });
+
+        //Click in onLive mode
+        tvOnLive.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(Main.this, UrlView.class);
+
+                ApplicationSemanaSanta app = (ApplicationSemanaSanta) getApplication();
+                final String activeCity = app.getNameActiveCity();
+                if (activeCity.equals("jerez")) {
+                    intent.putExtra(UrlView.KEY_URL, getString(R.string.urlJerezOnLive));
+                }
+
+                startActivity(intent);
             }
         });
         
@@ -181,5 +197,14 @@ public class Main extends SherlockActivity {
         if (idImg > 0) {
             img.setImageResource(idImg);
         }
+
+        //Icon to on live mode
+        if (name.indexOf("jerez") >= 0) {
+            tvOnLive.setVisibility(View.VISIBLE);
+        } else {
+            tvOnLive.setVisibility(View.GONE);
+        }
+
     }
+
 }

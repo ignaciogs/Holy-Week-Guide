@@ -4,6 +4,7 @@
     
     <!-- Pantalla Principal Main -->
     <string name="main_itinerario">Itinerarios</string>
+    <string name="main_onLive">Ruta en Tiempo Real</string>
     <string name="main_mapa">Sobre el mapa</string>
     <string name="main_buscar">A donde ir</string>
     <string name="main_acercade">Acerca de</string>

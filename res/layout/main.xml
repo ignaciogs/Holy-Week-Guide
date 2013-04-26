@@ -61,6 +61,24 @@
             />
 
     <TextView
+            android:id="@+id/main_tv_onlive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/main_onLive"
+            android:drawableTop="@drawable/selector_icon_on_live"
+            android:drawablePadding="5dp"
+            android:gravity="center_horizontal"
+            android:textSize="16sp"
+            android:textColor="#FFFFFFFF"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"
+            android:maxWidth="80dp"
+            android:minWidth="80dp"
+            android:layout_below="@id/main_Itinerario"
+            android:visibility="gone"
+            />
+
+    <TextView
             android:id="@+id/main_AcercaDe"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

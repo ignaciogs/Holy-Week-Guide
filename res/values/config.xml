@@ -33,4 +33,6 @@
 
     <string name="developerKey">YOU KEY</string>
 
+    <string name="urlJerezOnLive">http://semanasanta.jerez.es/</string>
+
 </resources>

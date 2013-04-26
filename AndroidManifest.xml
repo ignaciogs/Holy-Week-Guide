@@ -26,7 +26,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.ignaciogs.semanasanta"
-      android:versionName="2.1" android:versionCode="12">
+      android:versionName="2.1" android:versionCode="13">
 
     <uses-sdk
             android:minSdkVersion="8"
@@ -51,6 +51,7 @@
         <activity android:name=".ReleasesActivity" />
         <activity android:name=".ImageGalleryActivity" />
         <activity android:name=".VideoViewActivity" />
+        <activity android:name=".UrlView" />
         
     </application>
 
